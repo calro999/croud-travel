@@ -260,7 +260,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>11台有、1,500円 / 1泊（15：00～翌11：00）※連泊の場合24時間　※予約不可先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場で疲労回復、混雑以外は満足はじめてアパホテルに泊まりました。疲労回復のため大浴場付きのホテルにしましたが、正解でした。大浴場を利用した時間帯、脱衣所が混雑していたものの、それ以外は満…　2026-08-21 11:39:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場で疲労回復、混雑以外は満足はじめてアパホテルに泊まりました。疲労回復のため大浴場付きのホテルにしましたが、正解でした。大浴場を利用した時間帯、脱衣所が混雑していたものの、それ以外は満…」
                   </blockquote>
                 </div>
               </div>
@@ -282,7 +282,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルには専用駐車場のご用意がなく、また提携駐車場もございません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「テレビは大きくて観やすい希望していた通りテレビ画面は大きくてベッドから観やすい位置でした。浴室やトイレは新しくて綺麗でしたが、部屋の壁や床が傷あり汚れありでした。クチコミの詳細はこちらから…　2026-08-20 16:40:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「テレビは大きくて観やすい希望していた通りテレビ画面は大きくてベッドから観やすい位置でした。浴室やトイレは新しくて綺麗でしたが、部屋の壁や床が傷あり汚れありでした。」
                   </blockquote>
                 </div>
               </div>
@@ -304,7 +304,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ございません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅近くの便利なホテル博多駅から近くて、コンビニも隣にあるので便利です。部屋は少し狭い感じですが、リファのシャワーやナノケアのドライヤーやスチーマーなどがあり、良かったです。(全部屋なの…　2026-03-23 16:01:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅近くの便利なホテル博多駅から近くて、コンビニも隣にあるので便利です。部屋は少し狭い感じですが、リファのシャワーやナノケアのドライヤーやスチーマーなどがあり、良かったです。(全部屋なの…」
                   </blockquote>
                 </div>
               </div>
@@ -326,7 +326,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「空港近くで便利、部屋のテーブルは狭め福岡空港からの朝早い便を利用する為に子供と前泊。急遽、予約したので不安でしたが良いホテルでした。部屋によるのでしょうが、テーブルとして使えるスペースが狭…　2026-08-05 23:14:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「空港近くで便利、部屋のテーブルは狭め福岡空港からの朝早い便を利用する為に子供と前泊。急遽、予約したので不安でしたが良いホテルでした。部屋によるのでしょうが、テーブルとして使えるスペースが狭…」
                   </blockquote>
                 </div>
               </div>
@@ -348,7 +348,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.94 ／ 立地 ★3.95 ／ 部屋 ★3.91 ／ 設備 ★3.85 ／ 風呂 ★3.83 ／ 食事 ★3.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの排水が詰まり不潔で残念ホテル、お部屋自体は綺麗で何の不便もなかったのですが、ユニットバスの排水が詰まっており汚れや髪の毛が流れきれずすごく不潔な感じがして落ち着いてシャワーを浴びれま…　2026-10-08 15:32:25投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=166968&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの排水が詰まり不潔で残念ホテル、お部屋自体は綺麗で何の不便もなかったのですが、ユニットバスの排水が詰まっており汚れや髪の毛が流れきれずすごく不潔な感じがして落ち着いてシャワーを浴びれま…」
                   </blockquote>
                 </div>
               </div>
@@ -370,7 +370,7 @@ export default function FukuokaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり貸出備品も充実、快適な滞在清潔感あるホテルでした。観光で食事なしの利用をしました。チェックイン前にホテルに寄り、荷物を預けてから出かけました。セブンイレブンが近くにあります。充電器やヘ…　2026-08-12 16:46:46投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=177846&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり貸出備品も充実、快適な滞在清潔感あるホテルでした。観光で食事なしの利用をしました。チェックイン前にホテルに寄り、荷物を預けてから出かけました。セブンイレブンが近くにあります。充電器やヘ…」
                   </blockquote>
                 </div>
               </div>

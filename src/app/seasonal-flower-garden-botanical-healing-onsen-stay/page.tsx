@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【四季折々の花畑と名園美に包まれる】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★2.77 ／ 立地 ★3.12 ／ 部屋 ★3 ／ 設備 ★2.48 ／ 風呂 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が素晴らしくて大満足温泉が素晴らしいクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/68475?reviewId…　2026-10-04 15:32:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が素晴らしくて大満足温泉が素晴らしい」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【四季折々の花畑と名園美に包まれる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…　2026-09-12 11:02:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台の無料駐車場　予約不要です</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.29 ／ 部屋 ★4.31 ／ 設備 ★4.23 ／ 風呂 ★4.33 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が想像以上に豪華で大満足!朝食が想定していたものの5倍くらい豪華だったのでうれしかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-10-10 14:14:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が想像以上に豪華で大満足!朝食が想定していたものの5倍くらい豪華だったのでうれしかったです」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.71 ／ 部屋 ★4.64 ／ 設備 ★4.6 ／ 風呂 ★4.73 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。温かく出してほ…　2026-10-10 11:41:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。温かく出してほ…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　15台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.2 ／ 部屋 ★4.55 ／ 設備 ★4.4 ／ 風呂 ★4.65 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事もサービスも良く、バス停が近くて便利朝食夕食付きはいいと思います。部屋サービスも丁寧で優しいです。箱根湯本駅から遠くはないし、すぐそこにバス停があるので、便利ですね。クチコミの詳細…　2026-10-02 14:45:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事もサービスも良く、バス停が近くて便利朝食夕食付きはいいと思います。部屋サービスも丁寧で優しいです。箱根湯本駅から遠くはないし、すぐそこにバス停があるので、便利ですね。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>

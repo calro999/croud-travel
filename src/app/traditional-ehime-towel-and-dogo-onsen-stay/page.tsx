@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1台1,000円／1日当たり・税込（トラック・キャンピングカー不可）全50台（バレーサービス式）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.11 ／ 部屋 ★4.09 ／ 設備 ★3.97 ／ 風呂 ★4.18 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの時間よりも2時間近く前に車で到着してしまったのですが、停めさせて頂くことが出来、お陰様で道後温泉周辺をゆっくり観光出来ました。夕食のお刺身の種類も多く、とにかくボリュームが凄かったです。…　2026-10-09 20:21:03投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=6001&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの時間よりも2時間近く前に車で到着してしまったのですが、停めさせて頂くことが出来、お陰様で道後温泉周辺をゆっくり観光出来ました。夕食のお刺身の種類も多く、とにかくボリュームが凄かったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料・予約不要（乗用車＠880円/1日）★二輪車（＠440円/1日）屋根付きガレージも完備。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.69 ／ 部屋 ★4.7 ／ 設備 ★4.62 ／ 風呂 ★4.66 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉も晩ご飯も部屋もすべて大満足温泉も晩ご飯も部屋にも大満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1…　2026-10-04 17:56:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉も晩ご飯も部屋もすべて大満足温泉も晩ご飯も部屋にも大満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　有料：1泊につき1,000円/1台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く、夕食と朝食も最高!立地もよく、夕食と朝食は最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1…　2026-08-22 15:26:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く、夕食と朝食も最高!立地もよく、夕食と朝食は最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　有料（１台880円）となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.75 ／ 立地 ★4.56 ／ 部屋 ★4.61 ／ 設備 ★4.58 ／ 風呂 ★4.62 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂が最高、また予約したい!お風呂が最高でした!また予約したいと思います!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/vo…　2026-10-08 12:30:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂が最高、また予約したい!お風呂が最高でした!また予約したいと思います!」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約必要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.76 ／ 部屋 ★4.47 ／ 設備 ★4.35 ／ 風呂 ★4.65 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし…　2026-05-26 16:06:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし…」
                   </blockquote>
                 </div>
               </div>

@@ -359,7 +359,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルより徒歩4分TOiGOパーキング入庫より24時間出し入れなし800円（高さ制限2.1M）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が最高で大満足朝食が最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/5208?reviewId=331…　2026-08-27 17:09:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が最高で大満足朝食が最高でした」
                   </blockquote>
                 </div>
               </div>

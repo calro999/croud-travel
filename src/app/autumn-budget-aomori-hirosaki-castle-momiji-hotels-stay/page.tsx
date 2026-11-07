@@ -454,7 +454,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　ホテル駐車場・提携先駐車場は普通車1泊700円、満車の際は近隣有料駐車場をご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、清潔で最高!駅近で観光拠点として宿泊しました。便利良くて清潔で最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-09-06 13:39:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、清潔で最高!駅近で観光拠点として宿泊しました。便利良くて清潔で最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　徒歩３分　５２台　１区画５００円／先着順(１５時〜翌朝１０時）。満車の場合は周辺駐車場をご案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4 ／ 部屋 ★4.09 ／ 設備 ★4.09 ／ 風呂 ★3.97 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コストパフォーマンスは最高コスパは最高かと思います。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/50632?re…　2026-10-09 17:34:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コストパフォーマンスは最高コスパは最高かと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★4.05 ／ 風呂 ★4.02 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トラブル時の丁寧な対応と朝食の改善に満足システムの不都合が起きたにも関わらず、丁寧に接客していただいた。前回泊まった際、朝食に対し相当な不満があったが、改善されていた点が非常に良かったです。…　2026-10-09 19:57:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トラブル時の丁寧な対応と朝食の改善に満足システムの不都合が起きたにも関わらず、丁寧に接客していただいた。前回泊まった際、朝食に対し相当な不満があったが、改善されていた点が非常に良かったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料先着順 普通車700円（1泊）満車時は近隣駐車場へ別途料金にてご案内。大型車は要問合せ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.29 ／ 部屋 ★4.32 ／ 設備 ★4.31 ／ 風呂 ★4.42 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしすぎて言葉にできない心地よさすごく丁寧とか、何が素晴らしいとか、どこか特化したところがあるかと言われたら多すぎて言い切れませんので、体感するべきかと思います。心地よく面白かったです。ク…　2026-10-10 06:26:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしすぎて言葉にできない心地よさすごく丁寧とか、何が素晴らしいとか、どこか特化したところがあるかと言われたら多すぎて言い切れませんので、体感するべきかと思います。心地よく面白かったです。ク…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function HirosakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>約２０台の無料駐車場有り（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.09 ／ 部屋 ★4.1 ／ 設備 ★3.95 ／ 風呂 ★4 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また泊まりたいお部屋が広くてきれいで快適に過ごせました。朝食も地元の食材をふんだんに使っていておいしかったです。従業員の方々の接客も丁寧で、また泊まりたいお宿でした。バス停がすぐそばにあるので車が…　2026-09-20 21:31:57投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=161017&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また泊まりたいお部屋が広くてきれいで快適に過ごせました。朝食も地元の食材をふんだんに使っていておいしかったです。従業員の方々の接客も丁寧で、また泊まりたいお宿でした。バス停がすぐそばにあるので車が…」
                   </blockquote>
                 </div>
               </div>

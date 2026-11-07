@@ -421,7 +421,7 @@ export default function AutumnBudgetNiigataHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内駐車場（先着順・予約不可）1,600円/泊（15時〜翌10時）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.17 ／ 部屋 ★4.13 ／ 設備 ★4.09 ／ 風呂 ★3.99 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食とは思えない美味しさ朝食はサービスでしたが、美味しいです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-10-10 20:54:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食とは思えない美味しさ朝食はサービスでしたが、美味しいです。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetNiigataHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料提携駐車場：１泊1400円〜1600円／別途追加料金発生有／詳細はフロントへお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.36 ／ 部屋 ★4.25 ／ 設備 ★4.16 ／ 風呂 ★4.09 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新潟駅直結で便利、朝食も美味しく快適な部屋朝食が美味しいうえにお部屋が綺麗で、かつ新潟駅直結で便利なため、新潟に来た際は毎回利用します。今回初めてツインのお部屋を利用しましたが広くて快適でした!ま…　2026-10-09 22:43:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新潟駅直結で便利、朝食も美味しく快適な部屋朝食が美味しいうえにお部屋が綺麗で、かつ新潟駅直結で便利なため、新潟に来た際は毎回利用します。今回初めてツインのお部屋を利用しましたが広くて快適でした!ま…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetNiigataHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■敷地内機械式50台■1泊1,500円□提携駐車場3箇所□15時から翌11時 割引処理後1,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新潟に行くたびに利用、全てが最高新潟に行くたびに使用させて頂いています。いう事無く全てが最高です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-08-28 22:42:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新潟に行くたびに利用、全てが最高新潟に行くたびに使用させて頂いています。いう事無く全てが最高です。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetNiigataHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　58台　（普通乗用車のみ）　１泊600円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.2 ／ 部屋 ★4.29 ／ 設備 ★4.21 ／ 風呂 ★4.17 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗だが階段の荷物移動が大変リノベーションされた部屋は綺麗で快適でした。ただ構造上、ロビーから客室エレベーターに向かう途中に10段ほどの階段があり、スーツケースを持って上がる必要があります。…　2026-09-26 10:43:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗だが階段の荷物移動が大変リノベーションされた部屋は綺麗で快適でした。ただ構造上、ロビーから客室エレベーターに向かう途中に10段ほどの階段があり、スーツケースを持って上がる必要があります。…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetNiigataHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場・外部提携駐車場あり◆普通車1泊1,200円・バイク1泊1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.33 ／ 部屋 ★4.27 ／ 設備 ★4.23 ／ 風呂 ★4.24 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食がすばらしい!出張で全国のビジネスホテルを利用してますが、今回初めてこちらのホテルに宿泊。朝食のパフォーマンスの高さに驚きました。新潟市に泊まる事があれば、絶対にリピしたいと思います!お世話に…　2026-10-10 20:26:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食がすばらしい!出張で全国のビジネスホテルを利用してますが、今回初めてこちらのホテルに宿泊。朝食のパフォーマンスの高さに驚きました。新潟市に泊まる事があれば、絶対にリピしたいと思います!お世話に…」
                   </blockquote>
                 </div>
               </div>

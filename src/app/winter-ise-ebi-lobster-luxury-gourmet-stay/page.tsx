@@ -516,7 +516,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>すべて無料です。 ただし隣接してません。 またご移動はご本人様にお願いしております</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.19 ／ 部屋 ★4.34 ／ 設備 ★4.29 ／ 風呂 ★4.51 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜中の騒音への対応がなく眠れず不満最悪でした!隣に泊まってるの外国の方が夜中の1時から4時まで内風呂で大きい声で話しまくって全く寝れませんでした。フロントに言ってもなんの対応もしてもらえず、チ…　2026-10-10 08:54:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜中の騒音への対応がなく眠れず不満最悪でした!隣に泊まってるの外国の方が夜中の1時から4時まで内風呂で大きい声で話しまくって全く寝れませんでした。フロントに言ってもなんの対応もしてもらえず、チ…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有４０台無料　係員が駐車場までご案内します　Google map「寿亭専用駐車場」と検索してください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.44 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.51 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と美味しい食事でゆったりと旅館自体は古いですが趣のある感じで寛げました。お食事も美味しかったですし器も素敵でした貸切風呂は綺麗でのんびり過ごせました。クチコミの詳細はこちら…　2026-10-09 19:48:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と美味しい食事でゆったりと旅館自体は古いですが趣のある感じで寛げました。お食事も美味しかったですし器も素敵でした貸切風呂は綺麗でのんびり過ごせました。クチコミの詳細はこちら…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【ぷりぷり甘い極上伊勢海老】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.48 ／ 部屋 ★4.71 ／ 設備 ★4.66 ／ 風呂 ★4.63 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。昨年は時期が少し早くてお目にかかれず残念な思いをしたので、今年は是非にと思い松…　2026-10-07 19:42:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。昨年は時期が少し早くてお目にかかれず残念な思いをしたので、今年は是非にと思い松…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【ぷりぷり甘い極上伊勢海老】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質が最高、食事も景色も大満足歴史がある宿、温泉の泉質が最高でした!!食事も高齢者には丁度良い量で美味しくいただきました。お部屋は角部屋で自然の景色で癒されました。また紅葉の季節にう…　2026-09-16 14:25:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質が最高、食事も景色も大満足歴史がある宿、温泉の泉質が最高でした!!食事も高齢者には丁度良い量で美味しくいただきました。お部屋は角部屋で自然の景色で癒されました。また紅葉の季節にう…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【ぷりぷり甘い極上伊勢海老】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素敵な宿、おもてなしに感動!花火を観たくてホテルを探していたところ、素泊まりのラスト一部屋がお手頃価格でしたので予約しました。ごめんなさい正直何も期待せずに寝るだけと思い伺いました。が!…　2026-08-11 16:50:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素敵な宿、おもてなしに感動!花火を観たくてホテルを探していたところ、素泊まりのラスト一部屋がお手頃価格でしたので予約しました。ごめんなさい正直何も期待せずに寝るだけと思い伺いました。が!…」
                   </blockquote>
                 </div>
               </div>

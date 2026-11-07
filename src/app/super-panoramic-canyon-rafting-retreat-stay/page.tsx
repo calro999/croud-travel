@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                   <p>【激流の爽快アクティビティ】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/16280?reviewId=331…　2026-10-03 22:25:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!」
                   </blockquote>
                 </div>
               </div>
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…　2026-10-09 12:59:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
                   </blockquote>
                 </div>
               </div>
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　７００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「11時頃に仮チェックインを済ませました。その際、「チェックインの説明はすでに終わっているので、15時以降に仮チェックインの列に並び、鍵を受け取ってください」と案内されたため、15時以降にその列に並…　2026-08-28 14:39:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「11時頃に仮チェックインを済ませました。その際、「チェックインの説明はすでに終わっているので、15時以降に仮チェックインの列に並び、鍵を受け取ってください」と案内されたため、15時以降にその列に並…」
                   </blockquote>
                 </div>
               </div>
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.08 ／ 部屋 ★4.2 ／ 設備 ★4.07 ／ 風呂 ★4.3 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の虫や設備の古さが気になり金庫もなし山の中なので仕方がありませんが館内にはクモや虫がいます4人部屋でしたが古さを感じます部屋に金庫はありません温泉はまあまあですが寝湯ではエアーが出…　2026-10-10 09:14:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の虫や設備の古さが気になり金庫もなし山の中なので仕方がありませんが館内にはクモや虫がいます4人部屋でしたが古さを感じます部屋に金庫はありません温泉はまあまあですが寝湯ではエアーが出…」
                   </blockquote>
                 </div>
               </div>

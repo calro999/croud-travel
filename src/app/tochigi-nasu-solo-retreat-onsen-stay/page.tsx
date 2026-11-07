@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p>【那須温泉ひとり旅・御用邸高原おこもり：茶臼岳絶景露天】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆったりとした食事会場と果てまで続く高原の眺望は得難いもの那須の同種の某リゾートより部屋数が多いしと期待値を下げていったのですが、広い分、ゆったり感は優っており、特に朝夕食会場のテーブルが余裕を持…　2026-09-09 16:26:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆったりとした食事会場と果てまで続く高原の眺望は得難いもの那須の同種の某リゾートより部屋数が多いしと期待値を下げていったのですが、広い分、ゆったり感は優っており、特に朝夕食会場のテーブルが余裕を持…」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事に大満足、親切な対応でリピート確定宿泊代金からすると、食事の内容に大満足で、従業員も親切丁寧、また昨年も泊まったことを覚えていたようで驚きました。那須に行くときはまた泊まりたいです。クチコ…　2026-08-19 18:52:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事に大満足、親切な対応でリピート確定宿泊代金からすると、食事の内容に大満足で、従業員も親切丁寧、また昨年も泊まったことを覚えていたようで驚きました。那須に行くときはまた泊まりたいです。…」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.35 ／ 部屋 ★4.2 ／ 設備 ★4.22 ／ 風呂 ★4.16 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「犬連れへの配慮が素晴らしく大満足飼っている犬が吠えてしまう為、バイキング朝食をキャンセルしました。ですが部屋まで朝食を持ってきてくださり、大変満足いたしました。とても良いお宿だと思います。また行き…　2026-10-10 23:16:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「犬連れへの配慮が素晴らしく大満足飼っている犬が吠えてしまう為、バイキング朝食をキャンセルしました。ですが部屋まで朝食を持ってきてくださり、大変満足いたしました。とても良いお宿だと思います。また行き…」
                   </blockquote>
                 </div>
               </div>

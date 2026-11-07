@@ -496,7 +496,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊600円（翌11時迄）先着順で予約不可　満車時はコインパーキングをご利用ください（お客様ご負担）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.91 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.02 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な周辺案内と綺麗な館内に大満足付近の食事のお店の情報をたくさん調べてとても丁寧にご対応していただきました。すごく気持ちの良いサービスで大満足でした。館内もとても綺麗にされていて、また宿泊し…　2026-10-09 12:07:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な周辺案内と綺麗な館内に大満足付近の食事のお店の情報をたくさん調べてとても丁寧にご対応していただきました。すごく気持ちの良いサービスで大満足でした。館内もとても綺麗にされていて、また宿泊し…」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場3か所合計600台以上！（①PNP盛岡駅前　②ペリカンパークひめかみ　③タイムズフェザン）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.36 ／ 部屋 ★4.34 ／ 設備 ★4.3 ／ 風呂 ★4.14 ／ 食事 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「仕事がしやすく便利、また利用したい2度目の利用です。仕事もし易く、とても便利です。また利用したいと思います。もう少し安い朝食があれば最高ですが...クチコミの詳細はこちらから　ht…　2026-10-08 20:52:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「仕事がしやすく便利、また利用したい2度目の利用です。仕事もし易く、とても便利です。また利用したいと思います。もう少し安い朝食があれば最高ですが...」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の有料駐車場をご案内。15：00〜翌朝10：00まで900円。時間外1時間300円〜</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.54 ／ 立地 ★4.57 ／ 部屋 ★4.57 ／ 設備 ★4.51 ／ 風呂 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食ビュッフェが美味しく駅前の景色も最高朝食ビュッフェが大変美味しかった。そして朝食会場は駅前の景色が見渡せて楽しかった。クチコミの詳細はこちらから　https://review.travel…　2026-10-10 08:20:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食ビュッフェが美味しく駅前の景色も最高朝食ビュッフェが大変美味しかった。そして朝食会場は駅前の景色が見渡せて楽しかった。」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>機械式立体駐車場60台。先着順。1泊1,100円（税込）でご用意。満車時は提携駐車場をご案内します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.5 ／ 部屋 ★4.55 ／ 設備 ★4.51 ／ 風呂 ★4.48 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、スタッフの親切な対応に感謝駅も近くて、ホテル下にコンビニもあって便利です。長旅で大きなスーツケースだったのですが、盛岡駅は、駅に行くのに地下道に入らなくちゃ、行けなくて、無理だった…　2026-10-10 10:23:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、スタッフの親切な対応に感謝駅も近くて、ホテル下にコンビニもあって便利です。長旅で大きなスーツケースだったのですが、盛岡駅は、駅に行くのに地下道に入らなくちゃ、行けなくて、無理だった…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function AutumnBudgetMoriokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台　800円（税込み／泊）　予約不可　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.13 ／ 部屋 ★4.05 ／ 設備 ★4.03 ／ 風呂 ★3.98 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で駅近、フロントの対応も丁寧で便利部屋はコンパクトだが、清潔でフロントの方も丁寧に案内してくれた。駅から近いので、買物するのもバスやレンタカーを使うのも大変便利。おすすめですクチコミの詳細…　2026-10-07 06:42:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で駅近、フロントの対応も丁寧で便利部屋はコンパクトだが、清潔でフロントの方も丁寧に案内してくれた。駅から近いので、買物するのもバスやレンタカーを使うのも大変便利。おすすめですクチコミの詳細…」
                   </blockquote>
                 </div>
               </div>

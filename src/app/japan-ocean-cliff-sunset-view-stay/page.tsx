@@ -333,7 +333,7 @@ export default function ScenicViewHubPage() {
                   <p>【絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.86 ／ 風呂 ★4.11 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「姉妹での古希祝い旅姉妹で古希祝いの旅行をしました。料理も美味しく思い出深いおもいでとなりました。お世話になりました。クチコミの詳細はこちらから　https://review.trave…　2026-10-10 14:04:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「姉妹での古希祝い旅姉妹で古希祝いの旅行をしました。料理も美味しく思い出深いおもいでとなりました。お世話になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>フロント棟・レストラン棟・各客室棟には無料駐車場を完備いたしております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋、接客、清潔さなどは良かった。お部屋、接客、清潔さなどは良かったのですが、案内された駐車場が、解体作業中の建物の真横で車が砂埃まみれになっていてすごく残念でした。クチコミの詳細はこちらか…　2026-08-14 01:20:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋、接客、清潔さなどは良かった。お部屋、接客、清潔さなどは良かったのですが、案内された駐車場が、解体作業中の建物の真横で車が砂埃まみれになっていてすごく残念でした。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有）８０台/無料（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と部屋は満足、お風呂の清掃時間に注意部屋と朝夕バイキング大変満足でした。お風呂もよかったのですが、女性従業員が何回か入ってこられた。気にする人もいるかも。クチコミの詳細はこちらから　h…　2026-08-28 08:02:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と部屋は満足、お風呂の清掃時間に注意部屋と朝夕バイキング大変満足でした。お風呂もよかったのですが、女性従業員が何回か入ってこられた。気にする人もいるかも。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function ScenicViewHubPage() {
                   <p>【絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プライベートビーチと豪華な食事に大満足震災で行けるか心配でしたが天草の方は被害が少なかったようで安心しました。予算は心配ではあったものの、楽しみに伺わせていただきました。裏手はプライベート…　2026-08-21 11:32:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プライベートビーチと豪華な食事に大満足震災で行けるか心配でしたが天草の方は被害が少なかったようで安心しました。予算は心配ではあったものの、楽しみに伺わせていただきました。裏手はプライベート…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function ScenicViewHubPage() {
                   <p>【絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が親切で助かりました子連れでの部屋を配慮して親切にしていただきましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-08-26 20:56:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が親切で助かりました子連れでの部屋を配慮して親切にしていただきました」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function ScenicViewHubPage() {
                   <p>【絶景断崖オーシャン＆夕陽パノラマ宿：三陸・男鹿・越前】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「予約と異なる部屋や備品の不足が残念ダブルベッドの部屋を予約したのにツインの部屋になっていた。2名で予約してるのにバスタオルやフェイスタオル、歯ブラシや湯飲みなどが1名分しか用意されていなかった。部…　2026-08-19 22:27:41投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=160683&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「予約と異なる部屋や備品の不足が残念ダブルベッドの部屋を予約したのにツインの部屋になっていた。2名で予約してるのにバスタオルやフェイスタオル、歯ブラシや湯飲みなどが1名分しか用意されていなかった。部…」
                   </blockquote>
                 </div>
               </div>

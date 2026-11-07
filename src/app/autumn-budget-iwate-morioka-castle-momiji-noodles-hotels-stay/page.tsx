@@ -421,7 +421,7 @@ export default function AutumnBudgetMoriokaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順40台迄　1泊880円（税込）14時〜翌11時  満車の際は契約駐車場へご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.06 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.02 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が狭く、スタッフの運転も気になる駐車場が狭すぎてそこだけ嫌でした。車をホテルの人に運転されるのも嫌です。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-10-06 12:42:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が狭く、スタッフの運転も気になる駐車場が狭すぎてそこだけ嫌でした。車をホテルの人に運転されるのも嫌です。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetMoriokaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊600円（翌11時迄）先着順で予約不可　満車時はコインパーキングをご利用ください（お客様ご負担）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.91 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.02 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な周辺案内と綺麗な館内に大満足付近の食事のお店の情報をたくさん調べてとても丁寧にご対応していただきました。すごく気持ちの良いサービスで大満足でした。館内もとても綺麗にされていて、また宿泊し…　2026-10-09 12:07:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な周辺案内と綺麗な館内に大満足付近の食事のお店の情報をたくさん調べてとても丁寧にご対応していただきました。すごく気持ちの良いサービスで大満足でした。館内もとても綺麗にされていて、また宿泊し…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetMoriokaHotelsPage() {
                   <p>【盛岡：盛岡城跡公園の紅葉絵巻と三大麺巡り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街がすぐ近くで移動に便利繁華街が近くで便利でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/80512?r…　2026-09-05 23:20:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街がすぐ近くで移動に便利繁華街が近くで便利でした。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetMoriokaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場3か所合計600台以上！（①PNP盛岡駅前　②ペリカンパークひめかみ　③タイムズフェザン）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.36 ／ 部屋 ★4.34 ／ 設備 ★4.3 ／ 風呂 ★4.14 ／ 食事 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「仕事がしやすく便利、また利用したい2度目の利用です。仕事もし易く、とても便利です。また利用したいと思います。もう少し安い朝食があれば最高ですが...クチコミの詳細はこちらから　ht…　2026-10-08 20:52:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「仕事がしやすく便利、また利用したい2度目の利用です。仕事もし易く、とても便利です。また利用したいと思います。もう少し安い朝食があれば最高ですが...」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetMoriokaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の有料駐車場をご案内。15：00〜翌朝10：00まで900円。時間外1時間300円〜</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.54 ／ 立地 ★4.57 ／ 部屋 ★4.57 ／ 設備 ★4.51 ／ 風呂 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食ビュッフェが美味しく駅前の景色も最高朝食ビュッフェが大変美味しかった。そして朝食会場は駅前の景色が見渡せて楽しかった。クチコミの詳細はこちらから　https://review.travel…　2026-10-10 08:20:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食ビュッフェが美味しく駅前の景色も最高朝食ビュッフェが大変美味しかった。そして朝食会場は駅前の景色が見渡せて楽しかった。」
                   </blockquote>
                 </div>
               </div>

@@ -614,7 +614,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.46 ／ 部屋 ★4.6 ／ 設備 ★4.61 ／ 風呂 ★4.65 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から見る景色が非常によかった。また、大浴場も広々としており、他のドーミーインにはない設備が多くあった。また是非リピートしたいです。他の画像やクチコミの詳細はこちらから　https://…　2026-10-05 14:03:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から見る景色が非常によかった。また、大浴場も広々としており、他のドーミーインにはない設備が多くあった。また是非リピートしたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function Page() {
                   <p>【日本三大観音＆諸願成就の霊場・下町風情と湖畔の祈り宿】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アメニティ充実とシモンズのベッドで満足久しぶりのリピート宿泊。以前からの懸案事項の風呂の化粧水がなかった件は解消されていた。フロント前で自分でアメニティを選ぶ場所に化粧水、乳液、クレンジング、洗顔…　2026-08-30 20:26:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アメニティ充実とシモンズのベッドで満足久しぶりのリピート宿泊。以前からの懸案事項の風呂の化粧水がなかった件は解消されていた。フロント前で自分でアメニティを選ぶ場所に化粧水、乳液、クレンジング、洗顔…」
                   </blockquote>
                 </div>
               </div>

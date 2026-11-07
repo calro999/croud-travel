@@ -413,7 +413,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３７台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.77 ／ 部屋 ★4.67 ／ 設備 ★4.51 ／ 風呂 ★4.73 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「階段を上り下りしてでも入りたい露天風呂山に包まれた、秘境感溢れる立地に、そして、谷底にある川のせせらぎを聞きながら浸かる風情溢れる露天風呂、本当に非日常を思う存分楽しめ、至福の時が過ごせました。…　2026-09-04 21:51:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「階段を上り下りしてでも入りたい露天風呂山に包まれた、秘境感溢れる立地に、そして、谷底にある川のせせらぎを聞きながら浸かる風情溢れる露天風呂、本当に非日常を思う存分楽しめ、至福の時が過ごせました。…」
                   </blockquote>
                 </div>
               </div>
@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨で観光は断念したが、快適に過ごせた雨がすごく高千穂渓谷には行けませんでしたが、お宿は快適でした。また、秋に伺います。クチコミの詳細はこちらから　https://review.trav…　2026-07-24 18:24:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨で観光は断念したが、快適に過ごせた雨がすごく高千穂渓谷には行けませんでしたが、お宿は快適でした。また、秋に伺います。」
                   </blockquote>
                 </div>
               </div>

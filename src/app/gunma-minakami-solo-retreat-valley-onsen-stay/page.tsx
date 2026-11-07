@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-25 17:00:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でした」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p>【水上温泉郷ひとり旅・谷川岳大自然おこもり：利根川源流】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.3 ／ 部屋 ★4.49 ／ 設備 ★4.37 ／ 風呂 ★4.37 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事が最高、常宿にしたいスタッフの方々が皆さん明るく親切でした。夕食も個室でゆっくりお料理を堪能できました。部屋も清潔感がありコンセントもたくさんあったので使い勝手が良く過ごしやす…　2026-10-07 17:59:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事が最高、常宿にしたいスタッフの方々が皆さん明るく親切でした。夕食も個室でゆっくりお料理を堪能できました。部屋も清潔感がありコンセントもたくさんあったので使い勝手が良く過ごしやす…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…　2026-10-09 12:59:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
                   </blockquote>
                 </div>
               </div>

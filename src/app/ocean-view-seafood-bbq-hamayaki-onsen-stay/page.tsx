@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉を満喫、砂浜での花火も最高の思い出料理も美味しく、温泉もたくさんあって良かった色んな旅館が協力して、砂浜で家族で花火も出来たのも思い出になったクチコミの詳細はこちらから　http…　2026-09-04 21:57:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉を満喫、砂浜での花火も最高の思い出料理も美味しく、温泉もたくさんあって良かった色んな旅館が協力して、砂浜で家族で花火も出来たのも思い出になった」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋から眺める海に大満足部屋が広くオーシャンビューなのがよかったです!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-08-14 08:25:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋から眺める海に大満足部屋が広くオーシャンビューなのがよかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフ全員の接客が素晴らしく大満足初めて利用させていただきました。宿泊先を検討している段階で他にも候補があり、悩みながらも、少し予算オーバーでしたが、口コミも良かったので、こちらに決めましたが、…　2026-08-22 11:37:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフ全員の接客が素晴らしく大満足初めて利用させていただきました。宿泊先を検討している段階で他にも候補があり、悩みながらも、少し予算オーバーでしたが、口コミも良かったので、こちらに決めましたが、…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>４０台あり■□赤ちゃん歓迎、記念日、宴会など多彩なプラン■□コンビニ・スーパー徒歩５分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いと食事が良く、子連れに最適小学生の子どもと一緒に海水浴でお世話になりました。宿は築年数なりに古さはあるものの、スタッフさんのお気遣いなどもあり快適に過ごす事ができました。ご飯も…　2026-08-16 02:38:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いと食事が良く、子連れに最適小学生の子どもと一緒に海水浴でお世話になりました。宿は築年数なりに古さはあるものの、スタッフさんのお気遣いなどもあり快適に過ごす事ができました。ご飯も…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【海を望む絶景オーシャンビュー＆獲れたて海鮮浜焼き・磯】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の…　2026-08-15 22:55:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の…」
                   </blockquote>
                 </div>
               </div>

@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【昭和ノスタルジーと古き良き湯治文化】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが清潔、温泉と食事に大満足 宿泊された皆さんが言われる様に建物はねんきが入っていますが、清潔で管理されていました 今回2階でしたが畳新しく水廻り新しい感じです移動に階段の上り下りが結…　2026-09-19 23:28:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが清潔、温泉と食事に大満足 宿泊された皆さんが言われる様に建物はねんきが入っていますが、清潔で管理されていました 今回2階でしたが畳新しく水廻り新しい感じです移動に階段の上り下りが結…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.43 ／ 部屋 ★4.09 ／ 設備 ★4.14 ／ 風呂 ★4.65 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ピカイチの泉質と濃厚な硫黄泉に大満足湯治館で湯治食のプランで滞在。洗面、トイレ共同のめちゃくちゃ昭和スタイルなお部屋(笑)。しかしこちらの醍醐味は温泉で、ピカイチの泉質にヒノキ作りの浴槽。天下…　2026-10-05 20:19:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ピカイチの泉質と濃厚な硫黄泉に大満足湯治館で湯治食のプランで滞在。洗面、トイレ共同のめちゃくちゃ昭和スタイルなお部屋(笑)。しかしこちらの醍醐味は温泉で、ピカイチの泉質にヒノキ作りの浴槽。天下…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.9 ／ 立地 ★4.64 ／ 部屋 ★4.76 ／ 設備 ★4.59 ／ 風呂 ★4.86 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レトロな空間と絶品料理、心温まるおもてなし夏の信州ひとり旅で、伺いました。建物自体には歴史があり昭和レトロな雰囲気ですが、どこも清潔に保たれており、かえってとても落ち着く空間でした。食事は…　2026-10-08 17:15:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レトロな空間と絶品料理、心温まるおもてなし夏の信州ひとり旅で、伺いました。建物自体には歴史があり昭和レトロな雰囲気ですが、どこも清潔に保たれており、かえってとても落ち着く空間でした。食事は…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【昭和ノスタルジーと古き良き湯治文化】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…　2026-09-05 22:04:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…」
                   </blockquote>
                 </div>
               </div>

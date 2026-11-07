@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行今回6名の家族旅行で利用しました。丁寧な接客で気持ち良く過ごすことが出来ました。料理は美味しく朝食のプリンに子供たちは大喜び。洞窟風呂と貸切り風呂に妻も大喜びでした。フロント近…　2026-08-21 19:45:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行今回6名の家族旅行で利用しました。丁寧な接客で気持ち良く過ごすことが出来ました。料理は美味しく朝食のプリンに子供たちは大喜び。洞窟風呂と貸切り風呂に妻も大喜びでした。フロント近…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、食事も満足。皆さんのクチコミ通り、温泉の泉質が良いのが最大のメリットです。貸切風呂も全般的に良いですが、温泉成分のせいか洞窟風呂だけは底がヌルヌルで大変滑りますので注意が必要…　2026-06-14 17:53:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、食事も満足。皆さんのクチコミ通り、温泉の泉質が良いのが最大のメリットです。貸切風呂も全般的に良いですが、温泉成分のせいか洞窟風呂だけは底がヌルヌルで大変滑りますので注意が必要…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p>【神秘の地底空間へ。天然洞窟風呂＆鍾乳洞インフィニティ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高、脱衣所の清潔感だけが残念食事が最高に美味しかった!家族風呂で、ゆっくりできますが脱衣所があまり清潔感のない感じでそこだけが残念な印象。温泉自体は雰囲気最高!スタッフの方も温かい雰…　2026-09-07 23:07:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高、脱衣所の清潔感だけが残念食事が最高に美味しかった!家族風呂で、ゆっくりできますが脱衣所があまり清潔感のない感じでそこだけが残念な印象。温泉自体は雰囲気最高!スタッフの方も温かい雰…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-25 17:00:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でした」
                   </blockquote>
                 </div>
               </div>

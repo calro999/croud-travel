@@ -342,7 +342,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは豪華だが大浴場が暑すぎる朝夕のバイキングの食事がとても豪華でした!種類もとても多く、大満足です。大浴場の洗い場が、大浴場で今までに経験したことのないくらいの暑さで、大浴場自体がサウ…　2026-08-21 06:34:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは豪華だが大浴場が暑すぎる朝夕のバイキングの食事がとても豪華でした!種類もとても多く、大満足です。大浴場の洗い場が、大浴場で今までに経験したことのないくらいの暑さで、大浴場自体がサウ…」
                   </blockquote>
                 </div>
               </div>
@@ -364,7 +364,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場0分：無料（チェックイン前とアウト後も駐車ＯＫです）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ペットと快適に過ごせ、料理も美味しいミニチュアシュナウザー一匹と宿泊させていただきました ペットにもおおらかに対応してくださり お料理も 美味しく ボリュームもありました 一日目 別注で鯛のアクア…　2026-08-15 08:53:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ペットと快適に過ごせ、料理も美味しいミニチュアシュナウザー一匹と宿泊させていただきました ペットにもおおらかに対応してくださり お料理も 美味しく ボリュームもありました 一日目 別注で鯛のアクア…」
                   </blockquote>
                 </div>
               </div>
@@ -386,7 +386,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…　2026-10-08 14:22:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…」
                   </blockquote>
                 </div>
               </div>
@@ -408,7 +408,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊でした。夕食も朝食もシンプルながらも素材の味が生かせれていて、とても美味しくいただきました。お風呂も熱々で気持ち良く、またリピートします!クチコミの詳細はこちらから　https…　2026-08-15 20:18:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊でした。夕食も朝食もシンプルながらも素材の味が生かせれていて、とても美味しくいただきました。お風呂も熱々で気持ち良く、またリピートします!」
                   </blockquote>
                 </div>
               </div>
@@ -430,7 +430,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場：70台有り／ 無料／すべて野外駐車場／予約は不要です</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.36 ／ 部屋 ★4.57 ／ 設備 ★4.42 ／ 風呂 ★4.5 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客が素晴らしく、また行きたいまた行きたいです。ホテルの従業員の接客よかったです。他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-08 15:23:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客が素晴らしく、また行きたいまた行きたいです。ホテルの従業員の接客よかったです。」
                   </blockquote>
                 </div>
               </div>

@@ -421,7 +421,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場およそ100台☆無料☆ （※準中型車以上は有料　2000円/1泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.1 ／ 部屋 ★4.32 ／ 設備 ★4.17 ／ 風呂 ★4.03 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントも部屋も綺麗で快適な空間フロント前、部屋も綺麗で悪臭などなく気持ちよかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-10-05 09:06:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントも部屋も綺麗で快適な空間フロント前、部屋も綺麗で悪臭などなく気持ちよかった。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　６０台有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食に大満足フロントスタッフ、食事会場のスタッフ、とても対応が素晴らしく、老舗ホテルそのものでした。お部屋も清掃が行き届いており、居心地よく過ごせました。朝食も1つ1つがとても…　2026-08-22 19:54:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食に大満足フロントスタッフ、食事会場のスタッフ、とても対応が素晴らしく、老舗ホテルそのものでした。お部屋も清掃が行き届いており、居心地よく過ごせました。朝食も1つ1つがとても…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅チカでサウナ、大浴場付きのお風呂は最高でした。部屋も広くよく眠ることができました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-07-23 12:52:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅チカでサウナ、大浴場付きのお風呂は最高でした。部屋も広くよく眠ることができました。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルより徒歩4分TOiGOパーキング入庫より24時間出し入れなし800円（高さ制限2.1M）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が最高で大満足朝食が最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/5208?reviewId=331…　2026-08-27 17:09:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が最高で大満足朝食が最高でした」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetNaganoCityHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>隣接駐車場は先着順（45台収容可　税込1,000円/泊） ※満車の場合は契約駐車場をご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めて利用しました。長野は、3回目ですが今回は、1人旅でした。こちらのホテルには、初めて泊まりましたが、眺望は、期待通りで良かったです。善光寺、長野県立美術館、軽井沢にも電車で行きました。無料のド…　2026-08-21 21:38:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めて利用しました。長野は、3回目ですが今回は、1人旅でした。こちらのホテルには、初めて泊まりましたが、眺望は、期待通りで良かったです。善光寺、長野県立美術館、軽井沢にも電車で行きました。無料のド…」
                   </blockquote>
                 </div>
               </div>

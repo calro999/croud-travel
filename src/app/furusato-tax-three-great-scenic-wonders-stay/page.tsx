@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂は良かったが衛生面と臭いが気になるすみませんが衛生面がなんともいいがたし、部屋はかび臭いのできになりました。風呂は貸し切りで良かったですねクチコミの詳細はこちらから　https://r…　2026-07-25 06:04:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂は良かったが衛生面と臭いが気になるすみませんが衛生面がなんともいいがたし、部屋はかび臭いのできになりました。風呂は貸し切りで良かったですね」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車６０台・バス１２台　無料（宿泊者以外の利用はお断りいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エンジェルロードを望む絶景と美味しいご飯エンジェルロード真横で部屋から状況が見れるのがとても良かったです!晩御飯のお魚もとっても美味しくて、醤油の名産地ということもあり3種類準備されていて色ん…　2026-09-02 19:35:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エンジェルロードを望む絶景と美味しいご飯エンジェルロード真横で部屋から状況が見れるのがとても良かったです!晩御飯のお魚もとっても美味しくて、醤油の名産地ということもあり3種類準備されていて色ん…」
                   </blockquote>
                 </div>
               </div>

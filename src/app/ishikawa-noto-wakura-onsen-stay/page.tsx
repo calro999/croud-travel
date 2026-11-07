@@ -306,7 +306,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.85 ／ 部屋 ★3.76 ／ 設備 ★3.66 ／ 風呂 ★3.85 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗な室内と美味しい食事、接客も最高綺麗な室内。美味しい食事。そして何より、働いている方の接しやすい雰囲気が良かったです。また和倉温泉に行く際は、是非利用したいと思いました。クチコミの…　2026-10-07 16:34:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗な室内と美味しい食事、接客も最高綺麗な室内。美味しい食事。そして何より、働いている方の接しやすい雰囲気が良かったです。また和倉温泉に行く際は、是非利用したいと思いました。クチコミの…」
                   </blockquote>
                 </div>
               </div>
@@ -328,7 +328,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.72 ／ 部屋 ★4.48 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。クチコミの詳細はこち…　2026-10-10 18:01:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -350,7 +350,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.33 ／ 部屋 ★4.26 ／ 設備 ★4.15 ／ 風呂 ★4.43 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドの下にホコリとゴミが散乱していたベットの下がホコリとゴミまみれ。ハウスダストアレルギーの方は泊まらない事をおすすめします。クチコミの詳細はこちらから　https://review.tra…　2026-10-08 07:25:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドの下にホコリとゴミが散乱していたベットの下がホコリとゴミまみれ。ハウスダストアレルギーの方は泊まらない事をおすすめします。」
                   </blockquote>
                 </div>
               </div>

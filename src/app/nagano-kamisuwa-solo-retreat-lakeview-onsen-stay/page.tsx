@@ -511,7 +511,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：６０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から花火を鑑賞できすごく良いロケーションでした諏訪湖の目の前の部屋で、20:30からの花火を部屋から見ることが出来大変満足なロケーションでした。晩御飯、朝御飯とも、中規模の宴会場で少数(当日は…　2026-08-25 13:22:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から花火を鑑賞できすごく良いロケーションでした諏訪湖の目の前の部屋で、20:30からの花火を部屋から見ることが出来大変満足なロケーションでした。晩御飯、朝御飯とも、中規模の宴会場で少数(当日は…」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p>【信州・上諏訪温泉ひとり旅・諏訪湖パノラマおこもり：自】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食がサラダ、ご飯のお供、ドリンクのみ、セルフでとれるサービスがあり、すごくよいシステムだなと思いました。夕食は部屋食にして、こちらは出来立てとは行きませんでしたが、ゆっくり食べることができました。…　2026-08-26 01:45:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食がサラダ、ご飯のお供、ドリンクのみ、セルフでとれるサービスがあり、すごくよいシステムだなと思いました。夕食は部屋食にして、こちらは出来立てとは行きませんでしたが、ゆっくり食べることができました。…」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り15台　無料　先着順　※係がお車の鍵をお預かりする場合があります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「諏訪湖に行くなら、この旅館(^^)実際に宿泊して大満足でした!自慢の源泉かけ流しは湯量が豊富でお肌もしっとり、身体の芯から温まります。お部屋や館内も落ち着いた雰囲気で、スタッフの皆様の温かいおもて…　2026-09-14 20:04:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「諏訪湖に行くなら、この旅館(^^)実際に宿泊して大満足でした!自慢の源泉かけ流しは湯量が豊富でお肌もしっとり、身体の芯から温まります。お部屋や館内も落ち着いた雰囲気で、スタッフの皆様の温かいおもて…」
                   </blockquote>
                 </div>
               </div>

@@ -333,7 +333,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>57台(屋内46台、屋外11台) 1000円/泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応と夜景に家族全員大満足妻と1歳5ヶ月になる娘の家族3人で宿泊させてもらいました。良く歩き回る娘に対してもスタッフの皆様は温かく対応してくださり、おかげさまで終始笑顔な娘でした。…　2026-08-27 02:10:22投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=104705&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応と夜景に家族全員大満足妻と1歳5ヶ月になる娘の家族3人で宿泊させてもらいました。良く歩き回る娘に対してもスタッフの皆様は温かく対応してくださり、おかげさまで終始笑顔な娘でした。…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行今回6名の家族旅行で利用しました。丁寧な接客で気持ち良く過ごすことが出来ました。料理は美味しく朝食のプリンに子供たちは大喜び。洞窟風呂と貸切り風呂に妻も大喜びでした。フロント近…　2026-08-21 19:45:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行今回6名の家族旅行で利用しました。丁寧な接客で気持ち良く過ごすことが出来ました。料理は美味しく朝食のプリンに子供たちは大喜び。洞窟風呂と貸切り風呂に妻も大喜びでした。フロント近…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function TargetAudienceHubPage() {
                   <p>【大人の女子旅・ご褒美温泉：極上スパエステ・アフタヌー】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく、何度もリピート中!お料理、お風呂、お部屋、接客、すべて素晴らしくてリピートしてます!他の画像やクチコミの詳細はこちらから　https://review.travel.rak…　2026-08-22 21:14:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく、何度もリピート中!お料理、お風呂、お部屋、接客、すべて素晴らしくてリピートしてます!」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function TargetAudienceHubPage() {
                   <p>【大人の女子旅・ご褒美温泉：極上スパエステ・アフタヌー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…　2026-09-17 08:09:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　屋外駐車場　39台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で快適な空間、また伺いたい清潔てま快適に過ごせます。また伺いたいです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-08-15 11:40:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で快適な空間、また伺いたい清潔てま快適に過ごせます。また伺いたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>110台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.5 ／ 部屋 ★4.42 ／ 設備 ★4.31 ／ 風呂 ★4.46 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イルミネーションと眺望が最高、子供も安心イルミネーションされていてとても綺麗でした部屋からの眺めも辺り見渡せて最高でした子供も安心して遊べるお部屋でしたクチコミの詳細はこちらから　ht…　2026-10-10 16:56:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イルミネーションと眺望が最高、子供も安心イルミネーションされていてとても綺麗でした部屋からの眺めも辺り見渡せて最高でした子供も安心して遊べるお部屋でした」
                   </blockquote>
                 </div>
               </div>

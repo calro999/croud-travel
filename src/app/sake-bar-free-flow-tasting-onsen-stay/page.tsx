@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　※旅館手前の県営大丸駐車場になります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.74 ／ 部屋 ★4.64 ／ 設備 ★4.62 ／ 風呂 ★4.73 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と料理に満足、昔ながらの温泉宿露天風呂が気持ち良かった。料理は美味しかったが、食べきれなかった。昔ながらの温泉宿という感じが良かった。クチコミの詳細はこちらから　https://rev…　2026-10-05 06:49:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と料理に満足、昔ながらの温泉宿露天風呂が気持ち良かった。料理は美味しかったが、食べきれなかった。昔ながらの温泉宿という感じが良かった。」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p>【全国の銘酒・純米大吟醸を利き酒】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.24 ／ 部屋 ★4.67 ／ 設備 ★4.33 ／ 風呂 ★4.4 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は美味しく、フロントの案内も親切夕食は、質が良く高価で美味しくいただきました。フロントの方には帰り道で景色の良いところや寒天製造所など案内していただき感謝です。黒部ダムで260の階段と…　2026-10-09 08:38:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は美味しく、フロントの案内も親切夕食は、質が良く高価で美味しくいただきました。フロントの方には帰り道で景色の良いところや寒天製造所など案内していただき感謝です。黒部ダムで260の階段と…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.59 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.83 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が最高で貸切風呂も充実、大人の隠れ家とにかく料理が最高でした。地の食材を使って見た目もきれいな一品ばかり。4か所あるお風呂はすべて貸し切りでゆっくり入れます。ただ、自分が入りたいタイミング…　2026-10-05 09:50:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が最高で貸切風呂も充実、大人の隠れ家とにかく料理が最高でした。地の食材を使って見た目もきれいな一品ばかり。4か所あるお風呂はすべて貸し切りでゆっくり入れます。ただ、自分が入りたいタイミング…」
                   </blockquote>
                 </div>
               </div>

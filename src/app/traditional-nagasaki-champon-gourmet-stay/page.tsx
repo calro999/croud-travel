@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、お肌もツルツルに温泉の泉質が良いですお肌ツルツル若返りました。夕食のお刺身は新鮮でお肉も美味しかったですボリュームたっぷりで大満足地酒も堪能しました。朝食後…　2026-08-22 23:58:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、お肌もツルツルに温泉の泉質が良いですお肌ツルツル若返りました。夕食のお刺身は新鮮でお肉も美味しかったですボリュームたっぷりで大満足地酒も堪能しました。朝食後…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>８０台収容の自社無料駐車場がございます。（予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良いお湯でした両親と2部屋でスタンダード和室に宿泊しました。古さは所々にみられましたが清掃が行き届いて快適に過ごせました。お部屋から大浴場まで少し距離があり、高齢の両親には負担かなと少し気…　2026-08-21 17:01:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良いお湯でした両親と2部屋でスタンダード和室に宿泊しました。古さは所々にみられましたが清掃が行き届いて快適に過ごせました。お部屋から大浴場まで少し距離があり、高齢の両親には負担かなと少し気…」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いておらず残念掃除が行き届いていない。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/31933?rev…　2026-08-22 10:39:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いておらず残念掃除が行き届いていない。」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>５０台まで、無料でご利用いただけます。　※先着順でご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく清潔な館内と心温まる接客に大満足建物全体が新しく掃除も行き届いていて気持ちよかったです。全体的に和風モダンでくつろげました。大浴場のお風呂はよく温まりすぎて汗がなかなか引かないのが快感、と夫…　2026-08-22 11:52:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく清潔な館内と心温まる接客に大満足建物全体が新しく掃除も行き届いていて気持ちよかったです。全体的に和風モダンでくつろげました。大浴場のお風呂はよく温まりすぎて汗がなかなか引かないのが快感、と夫…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３９台　有料1台1泊500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お庭の眺めに癒やされる、創作料理は凝りすぎ部屋から素敵なお庭が見れて癒されました。夕食の創作料理は美味しいけど少し凝り過ぎた感じがします。クチコミの詳細はこちらから　https://revie…　2026-08-16 15:53:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お庭の眺めに癒やされる、創作料理は凝りすぎ部屋から素敵なお庭が見れて癒されました。夕食の創作料理は美味しいけど少し凝り過ぎた感じがします。」
                   </blockquote>
                 </div>
               </div>

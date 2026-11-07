@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り100台・無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.63 ／ 部屋 ★4.66 ／ 設備 ★4.62 ／ 風呂 ★4.61 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いた部屋と美味しい西洋コースいつも5階に宿泊。掃除が綺麗に行き届いて 気持ち良く過ごせました。今回は朝食有り 夕食なしなのでダイニングMAIWAIで 天ぷら、寿司、西洋コースを頼み…　2026-10-10 19:29:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いた部屋と美味しい西洋コースいつも5階に宿泊。掃除が綺麗に行き届いて 気持ち良く過ごせました。今回は朝食有り 夕食なしなのでダイニングMAIWAIで 天ぷら、寿司、西洋コースを頼み…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.6 ／ 部屋 ★3.93 ／ 設備 ★3.79 ／ 風呂 ★3.82 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、接客が素晴らしく感動!建物は古いけど、とても綺麗にしていただいており、清潔感はとてもあります。子供達は「落ち着く〜」と言ってました!とにかく従業員さん達の接客が素晴らしい!!…　2026-10-10 20:27:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、接客が素晴らしく感動!建物は古いけど、とても綺麗にしていただいており、清潔感はとてもあります。子供達は「落ち着く〜」と言ってました!とにかく従業員さん達の接客が素晴らしい!!…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　21台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上に満足できる内容とても良かったです他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/16522?re…　2026-09-04 19:40:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上に満足できる内容とても良かったです」
                   </blockquote>
                 </div>
               </div>

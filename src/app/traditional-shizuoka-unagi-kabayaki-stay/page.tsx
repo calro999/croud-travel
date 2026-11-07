@@ -697,7 +697,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車　80台　大型　4台，無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飾らない雰囲気と親切な対応で何度も利用何度も利用させて頂いてます。いつも、昼前に車を置かせてもらい、近くの鰻屋さんで昼呑みしながら、美味しい鰻を食べてます。飾らない雰囲気が良いし、係の方も皆、親切…　2026-08-27 15:04:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飾らない雰囲気と親切な対応で何度も利用何度も利用させて頂いてます。いつも、昼前に車を置かせてもらい、近くの鰻屋さんで昼呑みしながら、美味しい鰻を食べてます。飾らない雰囲気が良いし、係の方も皆、親切…」
                   </blockquote>
                 </div>
               </div>
@@ -763,7 +763,7 @@ export default function FeatureDetailPage() {
                   <p>【香ばしい秘伝のタレとふっくら極上肉厚】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊勢湾フェリーの利用に便利、魚料理も絶品翌日に伊勢湾フェリーを利用するために、宿泊しました。一階部分の食堂で夕飯を頂きました。直距離の運転だったので、ビールが最高に旨かったです。魚料理は、お刺身が…　2026-08-26 14:21:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊勢湾フェリーの利用に便利、魚料理も絶品翌日に伊勢湾フェリーを利用するために、宿泊しました。一階部分の食堂で夕飯を頂きました。直距離の運転だったので、ビールが最高に旨かったです。魚料理は、お刺身が…」
                   </blockquote>
                 </div>
               </div>

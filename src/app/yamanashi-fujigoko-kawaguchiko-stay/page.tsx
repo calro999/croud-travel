@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.29 ／ 風呂 ★4.31 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富…　2026-10-06 19:19:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　13台　無料　予約不要　※満車時は隣接町営無料駐車場をご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入浴時間が長く、古き良き雰囲気に癒やされたお風呂の入浴可能時間が朝夕長いのでくつろげました。施設自体は古いですが、イイ雰囲気でした。また行きます。ありがとうございました。クチコミの詳細はこちら…　2026-08-18 02:00:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入浴時間が長く、古き良き雰囲気に癒やされたお風呂の入浴可能時間が朝夕長いのでくつろげました。施設自体は古いですが、イイ雰囲気でした。また行きます。ありがとうございました。クチコミの詳細はこちら…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内平面駐車場普通車80台先着順予約不可　普通車以外は提携駐車場１泊1,100円電話にて要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく会場のデザインも最高朝食のメニューは、さすが豊富に加えてどれも美味しいので、取り過ぎに注意ですね。朝食会場は、一流ホテル顔負けのデザインで、リゾートに来ている感が満載です。海外の皆さ…　2026-08-20 17:14:16投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182686&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく会場のデザインも最高朝食のメニューは、さすが豊富に加えてどれも美味しいので、取り過ぎに注意ですね。朝食会場は、一流ホテル顔負けのデザインで、リゾートに来ている感が満載です。海外の皆さ…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【山梨・富士五湖＆河口湖：逆さ富士・富士急ハイランド＆】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.19 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.35 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観は少し古く感じますが、館内はとても清潔に整えられていて、お部屋もキレイで快適に過ごす事ができました。電車での旅でしたので、駅から送迎バスがあって助かりました。クチコミの詳細はこちらから…　2026-10-06 18:12:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観は少し古く感じますが、館内はとても清潔に整えられていて、お部屋もキレイで快適に過ごす事ができました。電車での旅でしたので、駅から送迎バスがあって助かりました。」
                   </blockquote>
                 </div>
               </div>

@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り５０台無料★バイク利用の方地下駐車場あり（要予約）★女性の願い事が叶う【石神さん】徒歩１０分！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく海も近くて最高の夏の思い出海水浴メインで宿泊しましたが、料理も朝、夕共にたいへん美味しくたくさんおかわりしました。海へのアクセスも非常に近くスタッフの方も親切ですごく良い夏の思い…　2026-08-18 12:02:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく海も近くて最高の夏の思い出海水浴メインで宿泊しましたが、料理も朝、夕共にたいへん美味しくたくさんおかわりしました。海へのアクセスも非常に近くスタッフの方も親切ですごく良い夏の思い…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約20台　無料です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高、アワビに大満足高齢の母が「美味しいアワビが食べたい」と言うので料理の美味しい宿を探して伺いましたが、部屋のお風呂に髪の毛が数本落ちていて掃除されていない感じでした。部屋からの…　2026-07-27 14:13:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高、アワビに大満足高齢の母が「美味しいアワビが食べたい」と言うので料理の美味しい宿を探して伺いましたが、部屋のお風呂に髪の毛が数本落ちていて掃除されていない感じでした。部屋からの…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p>【三重・鳥羽温泉郷：鳥羽水族館・ミキモト真珠島＆伊勢海】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望と食事と温泉は最高、館内は暑めお部屋から見える眺望が素晴らしくて、夜には花火がよく見えました。鮑と松阪牛つきの夕食は高齢の私には少し多いかなと思っていましたが、とても美味しくてペロリといただき…　2026-08-20 18:58:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望と食事と温泉は最高、館内は暑めお部屋から見える眺望が素晴らしくて、夜には花火がよく見えました。鮑と松阪牛つきの夕食は高齢の私には少し多いかなと思っていましたが、とても美味しくてペロリといただき…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.84 ／ 部屋 ★4.47 ／ 設備 ★4.16 ／ 風呂 ★4.26 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鯛しゃぶと女将さんの心遣いに大満足コメントにあった鯛しゃぶがとても美味しかったのと、女将さん達の応対が本当に素晴らしかったです。高齢者と一緒に行きましたが、部屋に案内されるとすぐに座椅子を運んでい…　2026-09-22 22:10:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鯛しゃぶと女将さんの心遣いに大満足コメントにあった鯛しゃぶがとても美味しかったのと、女将さん達の応対が本当に素晴らしかったです。高齢者と一緒に行きましたが、部屋に案内されるとすぐに座椅子を運んでい…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：２０台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様増えるからあんまり行かんといて日本海側の温泉に伺う事が多かったのですが今回太平洋側を選び伊勢志摩にしました。この活鮮旅館志摩半島さんを選び本当に良かったです。60過ぎの夫婦でしたが今度は子供…　2026-08-10 17:42:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様増えるからあんまり行かんといて日本海側の温泉に伺う事が多かったのですが今回太平洋側を選び伊勢志摩にしました。この活鮮旅館志摩半島さんを選び本当に良かったです。60過ぎの夫婦でしたが今度は子供…」
                   </blockquote>
                 </div>
               </div>

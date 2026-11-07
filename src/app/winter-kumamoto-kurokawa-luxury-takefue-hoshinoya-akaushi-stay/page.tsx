@@ -251,7 +251,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「温泉、接客、お食事、どれも満足家族旅行でお世話になりましたが、とても気持ち良いお宿です。山あいの中に離れの部屋が点在しており、とても静かに過ごせます。客室に露天風呂がついた部屋で存分に温泉楽しめま…　2026-09-27 16:34:11投稿 つづきはこちら」
+                「温泉、接客、お食事、どれも満足家族旅行でお世話になりましたが、とても気持ち良いお宿です。山あいの中に離れの部屋が点在しており、とても静かに過ごせます。客室に露天風呂がついた部屋で存分に温泉楽しめま… つづきはこちら」
               </div>
 
               <div className="pt-2">
@@ -320,7 +320,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「還暦祝いの湯巡りと食事に大満足!友人の還暦祝で宿泊。旅館内で湯巡りができて楽しめました。初の立湯もよかった。丁寧な接客、美味しい食事どれをとっても大満足です。大雨でしたが、旅館滞在を楽しめました。…　2026-10-02 19:07:48投稿 つづきはこちら」
+                「還暦祝いの湯巡りと食事に大満足!友人の還暦祝で宿泊。旅館内で湯巡りができて楽しめました。初の立湯もよかった。丁寧な接客、美味しい食事どれをとっても大満足です。大雨でしたが、旅館滞在を楽しめました。… つづきはこちら」
               </div>
 
               <div className="pt-2">
@@ -389,7 +389,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「憧れの宿で過ごす、期待以上の素晴らしい家族旅行80歳前後の両親と姉、私の4人で伺いました。以前から「一度泊まってみたい」とずっと思っていた宿だったので、今回念願が叶い、とても楽しみにしていまし…　2026-09-25 11:09:12投稿 つづきはこちら」
+                「憧れの宿で過ごす、期待以上の素晴らしい家族旅行80歳前後の両親と姉、私の4人で伺いました。以前から「一度泊まってみたい」とずっと思っていた宿だったので、今回念願が叶い、とても楽しみにしていまし… つづきはこちら」
               </div>
 
               <div className="pt-2">
@@ -458,7 +458,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「時代に対応した歴史のある宿2度目の利用でした。今回もアレルギーでもなく偏食なだけの私に完璧に対応していただいて感謝感激です。何より味も大変美味しいので間違い無しです。こういう食事をしていたら健康的…　2026-09-29 22:01:59投稿 つづきはこちら」
+                「時代に対応した歴史のある宿2度目の利用でした。今回もアレルギーでもなく偏食なだけの私に完璧に対応していただいて感謝感激です。何より味も大変美味しいので間違い無しです。こういう食事をしていたら健康的… つづきはこちら」
               </div>
 
               <div className="pt-2">
@@ -527,7 +527,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「スタッフの対応が良く、魚料理が絶品バイキングスタッフの対応が良いあか牛ステーキは無かった普段刺身は嫌いで食べないが臭みもなく旨い魚だったハンバーグはあってもなくてもいいかな客室…　2026-10-03 07:17:46投稿 つづきはこちら」
+                「スタッフの対応が良く、魚料理が絶品バイキングスタッフの対応が良いあか牛ステーキは無かった普段刺身は嫌いで食べないが臭みもなく旨い魚だったハンバーグはあってもなくてもいいかな客室… つづきはこちら」
               </div>
 
               <div className="pt-2">

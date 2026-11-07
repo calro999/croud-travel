@@ -400,31 +400,31 @@ export default function FurusatoUpgradedPage() {
               <h4 className="text-sm font-bold text-stone-900">1. 定山渓温泉　定山渓第一寶亭留　翠山亭（北海道・★4.48）</h4>
               <p><strong>【特徴】</strong>全室温泉付客室／貸切サウナ誕生／ラウンジ＆ロビーリニューアル</p>
               <p><strong>【交通・駐車場】</strong>札幌より無料送迎バス運行（要予約）／ＪＲ札幌駅より車で60分／新千歳空港より車で約2時間 ／ 駐車場：有り　１00台　無料</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「誕生日のお祝いに丁寧な対応で大満足恋人のお誕生日祝いで泊まりました。事前に誕生日ケーキをお願いしており、受け取りが夜中だったにも関わらず丁寧に対応していただきました。当初の受け取り時間よりも遅…　2026-10-07 17:57:52投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=875&quot;」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「誕生日のお祝いに丁寧な対応で大満足恋人のお誕生日祝いで泊まりました。事前に誕生日ケーキをお願いしており、受け取りが夜中だったにも関わらず丁寧に対応していただきました。当初の受け取り時間よりも遅…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">2. 海のサウナ＆スパ　オールインクルーシブ　島原温泉ホテル南風楼（・★4.67）</h4>
               <p><strong>【特徴】</strong></p>
               <p><strong>【交通・駐車場】</strong>霊丘公園体育館駅約３Ｈ⇒徒歩約5分／長崎空港⇒約２Ｈ／熊本港～フェリーで島原港約３０分⇒車約５分　霊丘神社２分 ／ 駐車場：有り</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「食事もお風呂も満足、アメニティも充実お食事もお風呂も、たいへんよかったです。アメニティも十分用意されており、ありがたいです。チェックアウトの時間がもう1時間遅ければなおよいですが、がんばっておられ…　2026-09-16 13:44:49投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=87」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「食事もお風呂も満足、アメニティも充実お食事もお風呂も、たいへんよかったです。アメニティも十分用意されており、ありがたいです。チェックアウトの時間がもう1時間遅ければなおよいですが、がんばっておられ…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. 甲斐のホテル（山梨県・★4.42）</h4>
               <p><strong>【特徴】</strong>甲府昭和ＩＣから車で1分♪　無料駐車場100台♪　男女別大浴場は入替なしでワイン風呂が好評！</p>
               <p><strong>【交通・駐車場】</strong>【楽天トラベルアワード2025受賞記念プラン販売中】普通車駐車無料。甲府昭和ＩＣより車で3分。甲府駅より車で15分。 ／ 駐車場：有り　無料 （大型車は２日前までに要連絡）車いすや杖等対応の駐車は必ず事前にご相談ください。</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「コスパ最強クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/991?reviewId=33123479683120　2026-10-10 16:19:00投稿」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「コスパ最強」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">4. 城のホテル甲府（山梨県・★4.49）</h4>
               <p><strong>【特徴】</strong>最上階に展望露天風呂と温泉。やまなしグリーンゾーン認定で安心安全なご宿泊を。</p>
               <p><strong>【交通・駐車場】</strong>ＪＲ中央本線甲府駅から徒歩で1分。 ／ 駐車場：お車は提携駐車場にご案内致します。玄関前は駐車不可。詳細は公式HPのアクセスページをご確認ください。</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「部屋は綺麗で朝食も満足、夜のお風呂はぬるめお部屋は綺麗で使いやすかったです。朝食も楽しみました。お風呂は夜と朝の2回入ったのですが、夜のお湯の温度が少し低かったのが残念でした。(体温を上げるた…　2026-10-10 16:53:36投稿」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「部屋は綺麗で朝食も満足、夜のお風呂はぬるめお部屋は綺麗で使いやすかったです。朝食も楽しみました。お風呂は夜と朝の2回入ったのですが、夜のお湯の温度が少し低かったのが残念でした。(体温を上げるた…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">5. ホテルニューオータニ博多（福岡県・★4.41）</h4>
               <p><strong>【特徴】</strong>地下鉄「渡辺通駅」より徒歩1分！地下鉄七隈線延伸で空港・博多駅からのアクセスがますます便利に！</p>
               <p><strong>【交通・駐車場】</strong>地下鉄七隈線「渡辺通駅」2番出口より徒歩約1分。ＪＲ博多駅より車で約5分。福岡空港より車で約20分。 ／ 駐車場：有り／370台／１泊(入庫時間より24時間）／1500円（税込み）</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「建物が少し古め少し古さはありますが、重厚感ありゆっくりと快適に過ごせました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/vo…　2026-08-18 13:38:07投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1017」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「建物が少し古め少し古さはありますが、重厚感ありゆっくりと快適に過ごせました。」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

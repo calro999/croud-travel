@@ -387,7 +387,7 @@ export default function Page() {
                   <p>【数万冊の本に囲まれて贅沢な夜更かし】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.36 ／ 設備 ★4.17 ／ 風呂 ★4.37 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく、スタッフの対応も丁寧で大満足食事は美味しく、すべての従業員さんの対応はにこやかに丁寧でした。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-10-10 11:21:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく、スタッフの対応も丁寧で大満足食事は美味しく、すべての従業員さんの対応はにこやかに丁寧でした。」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有28台(15:00〜翌12:00）1泊1400円/台(途中出庫は有料）バイクは詳細確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.49 ／ 部屋 ★4.62 ／ 設備 ★4.61 ／ 風呂 ★4.61 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望が期待外れで少し残念な気分禁煙ダブルルームで予約しました。眺望なしではないプランなのに目の前はスーパーホテルが丸見えでした。ほんの少しですが、眺望なしより値段が高いのでだまされた気分で…　2026-10-09 18:19:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望が期待外れで少し残念な気分禁煙ダブルルームで予約しました。眺望なしではないプランなのに目の前はスーパーホテルが丸見えでした。ほんの少しですが、眺望なしより値段が高いのでだまされた気分で…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.12 ／ 部屋 ★3.87 ／ 設備 ★3.7 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。和室でベッ…　2026-10-08 14:40:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。和室でベッ…」
                   </blockquote>
                 </div>
               </div>

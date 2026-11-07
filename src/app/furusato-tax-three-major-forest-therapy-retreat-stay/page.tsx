@@ -637,7 +637,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オナ親切オナが明るく楽しい方で、近くの美味しいお店や観光ポイント等、いろいろ気軽に教えて頂けて助かりました。朝食も簡素ですがとても美味しかったです。野菜がもっとあるともっと嬉しいなと思います。…　2026-05-13 08:29:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オナ親切オナが明るく楽しい方で、近くの美味しいお店や観光ポイント等、いろいろ気軽に教えて頂けて助かりました。朝食も簡素ですがとても美味しかったです。野菜がもっとあるともっと嬉しいなと思います。…」
                   </blockquote>
                 </div>
               </div>
@@ -659,7 +659,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉、食事、接客の全てが最高級の体験温泉、食事、ロケーション、接客の全てが最高級。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-08-13 17:53:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉、食事、接客の全てが最高級の体験温泉、食事、ロケーション、接客の全てが最高級。」
                   </blockquote>
                 </div>
               </div>
@@ -681,7 +681,7 @@ export default function FurusatoFeaturePage() {
                   <p>【日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.45 ／ 立地 ★3.91 ／ 部屋 ★3.3 ／ 設備 ★3.18 ／ 風呂 ★3.22 ／ 食事 ★3.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また泊まりに来たいと思える場所ここに泊まれて良かったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/62680?…　2026-09-05 22:03:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また泊まりに来たいと思える場所ここに泊まれて良かったです」
                   </blockquote>
                 </div>
               </div>
@@ -703,7 +703,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：４０台（無料）ホテルの前と後にご用意がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。スタッフさんはみなさんとても温かく、すれ違う方みなさん笑顔で挨拶をして…　2026-09-10 15:22:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。スタッフさんはみなさんとても温かく、すれ違う方みなさん笑顔で挨拶をして…」
                   </blockquote>
                 </div>
               </div>
@@ -725,7 +725,7 @@ export default function FurusatoFeaturePage() {
                   <p>【日本三大美林＆巨樹・森林セラピー癒やしの宿×ふるさと】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。クマ騒動がありましたが、自然のなかでとても満足しています特に食事は本当に素晴らしかったですクチコミの詳細はこち…　2026-08-16 22:13:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。クマ騒動がありましたが、自然のなかでとても満足しています特に食事は本当に素晴らしかったですクチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -747,7 +747,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.35 ／ 部屋 ★4.05 ／ 設備 ★3.93 ／ 風呂 ★4.13 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「還暦祝いの眺望と食事、三味線に満足還暦祝いの旅行で利用しました。部屋からの眺めも良く食事も美味しかったです。津軽三味線の生演奏も良かった。露天風呂の床が滑りやすかったのが残念です。クチコミの詳…　2026-10-05 14:57:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「還暦祝いの眺望と食事、三味線に満足還暦祝いの旅行で利用しました。部屋からの眺めも良く食事も美味しかったです。津軽三味線の生演奏も良かった。露天風呂の床が滑りやすかったのが残念です。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>

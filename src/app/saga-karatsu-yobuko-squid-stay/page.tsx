@@ -324,7 +324,7 @@ export default function MicroTouristHubPage() {
                   <p>【佐賀・唐津＆呼子：唐津城・虹の松原＆呼子活イカ姿造り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しいお宿です名物の呼子イカ佐賀牛の大満足会席プランを利用させていただきました。大満足のお食事で唐津城を見ながら食事をすることができ気持ちよく食事をいただきました。お宿は歴史のある…　2026-09-07 15:21:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しいお宿です名物の呼子イカ佐賀牛の大満足会席プランを利用させていただきました。大満足のお食事で唐津城を見ながら食事をすることができ気持ちよく食事をいただきました。お宿は歴史のある…」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　8台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮料理が絶品、景色も最高で大満足素晴らしい宿でした!まず、部屋は3階の海が見える広い部屋を用意してくれて、綺麗な景色と快適な空間であった。次に食事であるが、夕食は呼子のイカ姿造りや地魚の…　2026-08-20 08:06:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮料理が絶品、景色も最高で大満足素晴らしい宿でした!まず、部屋は3階の海が見える広い部屋を用意してくれて、綺麗な景色と快適な空間であった。次に食事であるが、夕食は呼子のイカ姿造りや地魚の…」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　第1駐車場：6台、第2駐車場：23台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イカが食べられず露天風呂も丸見えで残念イカの刺し身付きのプランにしましたが「台風の影響で手にはいらなかった」とのことで、食べられませんでした。予約時のプラン説明にも「烏賊の活き造りは時化の際は入手…　2026-08-29 20:12:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イカが食べられず露天風呂も丸見えで残念イカの刺し身付きのプランにしましたが「台風の影響で手にはいらなかった」とのことで、食べられませんでした。予約時のプラン説明にも「烏賊の活き造りは時化の際は入手…」
                   </blockquote>
                 </div>
               </div>

@@ -333,7 +333,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.22 ／ 部屋 ★3.9 ／ 設備 ★3.96 ／ 風呂 ★4.38 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野菜たっぷりの鍋と肌がすべすべになる温泉お鍋が野菜たっぷりで美味しかったです。しめにご飯を入れて溶き卵で雑炊にして食べました。出汁の旨味が絡んて美味しかったです。温泉もどろ湯がとても肌…　2026-09-25 13:52:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野菜たっぷりの鍋と肌がすべすべになる温泉お鍋が野菜たっぷりで美味しかったです。しめにご飯を入れて溶き卵で雑炊にして食べました。出汁の旨味が絡んて美味しかったです。温泉もどろ湯がとても肌…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　110台収容　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.41 ／ 風呂 ★4.38 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見えるプールと星空観賞で大満足部屋も綺麗で、天気良く景色も綺麗でした。リゾートホテルで前に海が見えて屋内、屋外プ一ルもあり孫も大喜びでした。タオルも浮き輪も無料で貸し出してもらえま…　2026-10-09 21:34:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見えるプールと星空観賞で大満足部屋も綺麗で、天気良く景色も綺麗でした。リゾートホテルで前に海が見えて屋内、屋外プ一ルもあり孫も大喜びでした。タオルも浮き輪も無料で貸し出してもらえま…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　456台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスも食事も大満足の素晴らしい内容サービス、ご飯も大満足でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-09-05 21:07:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスも食事も大満足の素晴らしい内容サービス、ご飯も大満足でした!」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの案内が最高、朝食も充実で大満足チェックインの時から最高です!何が食べたいかで周辺の食事処を案内してくれたり、滞在中のスケジュールからオススメのスポットなども併せて教えてくれます。朝食…　2026-09-01 09:07:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの案内が最高、朝食も充実で大満足チェックインの時から最高です!何が食べたいかで周辺の食事処を案内してくれたり、滞在中のスケジュールからオススメのスポットなども併せて教えてくれます。朝食…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「非常に満足度の高い素晴らしい体験非常に良いホテルでした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/188998…　2026-08-14 06:26:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「非常に満足度の高い素晴らしい体験非常に良いホテルでした。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function WellnessRetreatHubPage() {
                   <p>【温泉泥パック＆タラソテラピー宿：天然クレイ泥湯・海洋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何十年ぶりかに訪れましたが、相変わらず温泉は最高です。今回の旅館は、初めてでしたが長い歴史を感じさせる雰囲気のある旅館でした。テレビの調子が悪くてほとんど見れませんでしたが、それがまた良かった…　2026-09-14 18:41:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何十年ぶりかに訪れましたが、相変わらず温泉は最高です。今回の旅館は、初めてでしたが長い歴史を感じさせる雰囲気のある旅館でした。テレビの調子が悪くてほとんど見れませんでしたが、それがまた良かった…」
                   </blockquote>
                 </div>
               </div>

@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「もう20年近く毎年夏にロッジを利用しているが、室内は清潔で手入れが行き届いており、係りの皆さんのホスピタリティにも満足している。温泉、食事とも素晴らしく私はイチオシにしたい宿だと思っている。…　2026-08-31 15:33:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「もう20年近く毎年夏にロッジを利用しているが、室内は清潔で手入れが行き届いており、係りの皆さんのホスピタリティにも満足している。温泉、食事とも素晴らしく私はイチオシにしたい宿だと思っている。…」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。夕食のボタン鍋はしっ地元のお野菜たくさんで、しっかり味噌味でしたが胃にももたれずと…　2026-06-12 21:25:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。夕食のボタン鍋はしっ地元のお野菜たくさんで、しっかり味噌味でしたが胃にももたれずと…」
                   </blockquote>
                 </div>
               </div>

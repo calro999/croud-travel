@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。夕食のボタン鍋はしっ地元のお野菜たくさんで、しっかり味噌味でしたが胃にももたれずと…　2026-06-12 21:25:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「篠山の由緒ある旅館400年の老舗旅館。篠山城に近く一番にぎやかな通りに位置しており、歴史ある街歩きを楽しめました。夕食のボタン鍋はしっ地元のお野菜たくさんで、しっかり味噌味でしたが胃にももたれずと…」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.84 ／ 部屋 ★4.03 ／ 設備 ★3.86 ／ 風呂 ★3.79 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルでオシャレな温泉宿に変身!10年ぶりに利用しました。リニューアルされて綺麗、快適田舎の温泉宿(失礼)が、、オシャレなSPAに変身(^O^)温泉が24時間利用できるの…　2026-09-30 11:51:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルでオシャレな温泉宿に変身!10年ぶりに利用しました。リニューアルされて綺麗、快適田舎の温泉宿(失礼)が、、オシャレなSPAに変身(^O^)温泉が24時間利用できるの…」
                   </blockquote>
                 </div>
               </div>

@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　駐車は正午12時〜翌正午12時まで　駐車料金：1律1泊1台あたり500円　バレーパーキング</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.69 ／ 部屋 ★4.41 ／ 設備 ★4.39 ／ 風呂 ★4.69 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理がとてもおいしくて大満足料理がおいしかったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/39705?revie…　2026-10-10 09:41:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理がとてもおいしくて大満足料理がおいしかった」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：120台（無料・先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.48 ／ 部屋 ★4.49 ／ 設備 ★4.44 ／ 風呂 ★4.72 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「両親と有馬温泉、食事と温泉に大満足「有馬温泉に行きたい」という高齢の両親を連れて利用しました。有馬温泉でも有名なお宿ということで選びましたが、どのスタッフの方もとても丁寧にご対応くださり、落ち着い…　2026-10-09 15:39:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「両親と有馬温泉、食事と温泉に大満足「有馬温泉に行きたい」という高齢の両親を連れて利用しました。有馬温泉でも有名なお宿ということで選びましたが、どのスタッフの方もとても丁寧にご対応くださり、落ち着い…」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場を完備してございます。雨風の当らない場所でお預かりします。（１７台を超えると屋外の場合有）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり過ごせる最高の宿夜ご飯、朝ご飯共に最高でした。お風呂もとても気持ちよかったです。 松之山温泉自体落ち着いた温泉街でとてもゆっくりできました。オススメの宿です。クチコミの詳細…　2026-09-04 20:39:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり過ごせる最高の宿夜ご飯、朝ご飯共に最高でした。お風呂もとても気持ちよかったです。 松之山温泉自体落ち着いた温泉街でとてもゆっくりできました。オススメの宿です。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>

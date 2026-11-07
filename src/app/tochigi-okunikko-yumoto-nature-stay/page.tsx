@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.83 ／ 立地 ★4.67 ／ 部屋 ★4.61 ／ 設備 ★4.67 ／ 風呂 ★4.83 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足度は高いがベッドの高級感が惜しい充分に満足でしたが、ベッドに高級感が無かったのは残念でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-09-17 16:41:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足度は高いがベッドの高級感が惜しい充分に満足でしたが、ベッドに高級感が無かったのは残念でした」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.88 ／ 設備 ★3.81 ／ 風呂 ★4.17 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。残念な事がは綺麗な畳に横になっている時…　2026-10-05 15:35:45投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=149268&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。残念な事がは綺麗な畳に横になっている時…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>18台の無料駐車場有り／ご予約不要／他臨時駐車場有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.98 ／ 立地 ★4.83 ／ 部屋 ★4.93 ／ 設備 ★4.76 ／ 風呂 ★4.62 ／ 食事 ★4.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に幸せな時間を過ごせました本当に幸せでした。それに尽きます。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/18…　2026-10-08 21:03:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に幸せな時間を過ごせました本当に幸せでした。それに尽きます。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１１台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東照宮徒歩圏内、車も駐車できゆっくり観光東照宮まで徒歩圏内、チェックアウトも昼過ぎまで車を駐車させていただき、ゆっくりと日光を観光できました。宿もちょっと古いところはありますがコスト的には満足…　2026-05-09 15:44:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東照宮徒歩圏内、車も駐車できゆっくり観光東照宮まで徒歩圏内、チェックアウトも昼過ぎまで車を駐車させていただき、ゆっくりと日光を観光できました。宿もちょっと古いところはありますがコスト的には満足…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り８０台　無料　予約不要（女夫渕駐車場・当館まで無料送迎あり※要予約）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.66 ／ 部屋 ★4.26 ／ 設備 ★4.39 ／ 風呂 ★4.68 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と風呂は最高だが接客と虫が残念料理と風呂は大変素晴らしいものでした。しかし接客する従業員がほとんど外国人で日本語の細かいニュアンスが伝わらなかったり山奥だから仕方がないが部…　2026-10-01 11:03:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と風呂は最高だが接客と虫が残念料理と風呂は大変素晴らしいものでした。しかし接客する従業員がほとんど外国人で日本語の細かいニュアンスが伝わらなかったり山奥だから仕方がないが部…」
                   </blockquote>
                 </div>
               </div>

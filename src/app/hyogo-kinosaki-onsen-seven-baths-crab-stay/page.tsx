@@ -383,7 +383,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　専用駐車場あり※徒歩５分かかり各自移動。遠くて狭くて見つけにくい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.8 ／ 部屋 ★4.8 ／ 設備 ★4.8 ／ 風呂 ★4.82 ／ 食事 ★5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯がおいしかったです。巨大なぬいぐるみが、お出迎え、お見送りしてくれます。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-14 13:10:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯がおいしかったです。巨大なぬいぐるみが、お出迎え、お見送りしてくれます。」
                   </blockquote>
                 </div>
               </div>
@@ -427,7 +427,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有　（10台予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教えたくないほどお気に入りの場所いろんなところに旅行に行っていますが今のところ自分の1番気に入っている宿などで今回は結婚が決まり最初の旅行で旅行に行くならここに行きたいと思っていてやはり今…　2026-08-18 17:34:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教えたくないほどお気に入りの場所いろんなところに旅行に行っていますが今のところ自分の1番気に入っている宿などで今回は結婚が決まり最初の旅行で旅行に行くならここに行きたいと思っていてやはり今…」
                   </blockquote>
                 </div>
               </div>
@@ -449,7 +449,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（15台、無料）到着時、旅館門前にお車をお寄せください。スタッフが移動させます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宿から城崎温泉街へ送迎もしてくれてとても助かりました。川のほとりでロケーションも最高です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-08-19 07:55:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宿から城崎温泉街へ送迎もしてくれてとても助かりました。川のほとりでロケーションも最高です。」
                   </blockquote>
                 </div>
               </div>

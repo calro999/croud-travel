@@ -496,7 +496,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り・先着順(1500円) ファミリーカータイプ収納／立体18台、平面3台（障碍者用含む）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で移動が楽、ベッドも広くて快適8月12日から14日まで利用しました。チェックインもチェックアウトもとてもスムーズでしたとてもキレイなホテルでベッドも広くとても寝やすかったです。鹿児…　2026-08-18 20:52:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で移動が楽、ベッドも広くて快適8月12日から14日まで利用しました。チェックインもチェックアウトもとてもスムーズでしたとてもキレイなホテルでベッドも広くとても寝やすかったです。鹿児…」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.19 ／ 部屋 ★4.43 ／ 設備 ★4.36 ／ 風呂 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入館パスワードが届かず連絡も取れず困惑建物内の中に入るためのパスワードが送られて来ず、記載されている電話番号やメールアドレスにも返事がなく、かなり詰みでした。たまたま外出する方がいらっしゃったので…　2026-09-23 23:06:59投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=172024&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入館パスワードが届かず連絡も取れず困惑建物内の中に入るためのパスワードが送られて来ず、記載されている電話番号やメールアドレスにも返事がなく、かなり詰みでした。たまたま外出する方がいらっしゃったので…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　48台　800円（税込み／泊）　要予約　事前のご予約をお願い致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★3.96 ／ 風呂 ★3.92 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しかったが風呂の設備が残念全体的に歴史を感じさせるため造り古いのは仕方無いにしても風呂がシャワーしか使えず、湯圧も低く最悪でした但し、朝食のバイキングはおかずの種類が多く味も…　2026-10-10 13:08:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しかったが風呂の設備が残念全体的に歴史を感じさせるため造り古いのは仕方無いにしても風呂がシャワーしか使えず、湯圧も低く最悪でした但し、朝食のバイキングはおかずの種類が多く味も…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　800円/泊　立体60台先着順 (車高2.0ｍまで）　 身体障害者用１台のみ要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料とは思えない朝食のクオリティに大満足無料朝食とは思えないクオリティでした。おかずは品数がそこそこあり、それだけでも十分だったんですが、木箱に入ったパンが美味しくおかわりしました。たくさ…　2026-08-20 21:13:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料とは思えない朝食のクオリティに大満足無料朝食とは思えないクオリティでした。おかずは品数がそこそこあり、それだけでも十分だったんですが、木箱に入ったパンが美味しくおかわりしました。たくさ…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function AutumnBudgetKagoshimaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　48台　料金：800円（税込み／泊）PM3:00～AM11:00</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と温泉に満足、また泊まりたい朝食バイキングは流石と思いました!天然温泉も良い湯でした!チェックアウト時に栄養ドリンクを頂きました!少し残念だったのは脱衣所の床に埃がありましたが、…　2026-08-28 22:02:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と温泉に満足、また泊まりたい朝食バイキングは流石と思いました!天然温泉も良い湯でした!チェックアウト時に栄養ドリンクを頂きました!少し残念だったのは脱衣所の床に埃がありましたが、…」
                   </blockquote>
                 </div>
               </div>

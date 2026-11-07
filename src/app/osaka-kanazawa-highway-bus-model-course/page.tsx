@@ -450,7 +450,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料　1,000円/泊(１５：００～１０：００)　ホテル隣接の『名鉄協商パーキング』　※出し入別料金</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でアクセス抜群、駐車場も近く快適駅の目の前でアクセス良好。駐車場を利用しましたが、提携しているところとほぼ直結していました。リーズナブルで快適でした。クチコミの詳細はこちらから　https…　2026-08-27 06:34:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でアクセス抜群、駐車場も近く快適駅の目の前でアクセス良好。駐車場を利用しましたが、提携しているところとほぼ直結していました。リーズナブルで快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -472,7 +472,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルに専用駐車場はございません。提携駐車場はホテル公式HP「館内利用案内」の駐車場をご覧ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事なしのプランでも大満足!食事は付けませんでしたが、とても満足でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-08-28 17:45:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事なしのプランでも大満足!食事は付けませんでしたが、とても満足でした!」
                   </blockquote>
                 </div>
               </div>
@@ -494,7 +494,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルには駐車場がございません。周辺コインパーキング（ホテルから徒歩5～10分程）をご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食やサービスが充実、部屋も快適で最高朝食バイキングの種類が豊富でこの価格でウェルカムドリンクやお茶漬けサービスなど有りで更に大浴場は夜は混んでいそうだったので部屋のお風呂に入ったが洗い場…　2026-08-29 20:35:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食やサービスが充実、部屋も快適で最高朝食バイキングの種類が豊富でこの価格でウェルカムドリンクやお茶漬けサービスなど有りで更に大浴場は夜は混んでいそうだったので部屋のお風呂に入ったが洗い場…」
                   </blockquote>
                 </div>
               </div>
@@ -516,7 +516,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１６６台　１，０００円（税込み／泊）　先着順・高さ制限２．１M迄</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、安定のクオリティルートインさん、間違いないです。価格対比、すべてレベル以上です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-08-19 08:04:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、安定のクオリティルートインさん、間違いないです。価格対比、すべてレベル以上です。」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携のセントラルパーキングを、一泊１０００円(１５：００－翌１０：００)にて利用可能。出し入れ不可。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「壁のカビと換気扇の不備、大浴場の管理に不安部屋のカーテンの裏の壁がカビだらけなのと、部屋の浴室の換気扇が動いておらず、トイレのにおいが充満していました。大浴場も男女入れ替え制で、入り口に鍵もな…　2026-08-29 11:53:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「壁のカビと換気扇の不備、大浴場の管理に不安部屋のカーテンの裏の壁がカビだらけなのと、部屋の浴室の換気扇が動いておらず、トイレのにおいが充満していました。大浴場も男女入れ替え制で、入り口に鍵もな…」
                   </blockquote>
                 </div>
               </div>

@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荒天でもスタッフの明るい接客にほっこりあいにくの荒天でしたが、スタッフのお姉さま方の明るい接客にほっこりして快適に過ごす事が出来ましたまたご縁がございましたらよろしくお願いいたしますクチコ…　2026-07-17 22:52:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荒天でもスタッフの明るい接客にほっこりあいにくの荒天でしたが、スタッフのお姉さま方の明るい接客にほっこりして快適に過ごす事が出来ましたまたご縁がございましたらよろしくお願いいたします…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また機会があればぜひ利用したいまた機会があればよろしくお願いしますクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/3…　2026-08-16 10:52:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また機会があればぜひ利用したいまた機会があればよろしくお願いします」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【15台・無料】世界遺産の崎津集落まで車20分、イルカウォッチングまで車30分界｜天草観光に便利</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉露天風呂と教会風食堂、最高の思い出に下田温泉から引いているという源泉露天風呂は、沸かさず、そのまま掛け流しとのことで大変素晴らしい。やや熱めですが、自分にとっては適温で最高でした。5回も入りま…　2026-06-21 19:45:23投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=188033&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉露天風呂と教会風食堂、最高の思い出に下田温泉から引いているという源泉露天風呂は、沸かさず、そのまま掛け流しとのことで大変素晴らしい。やや熱めですが、自分にとっては適温で最高でした。5回も入りま…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と自転車が便利、アメニティ補充は残念朝食食べれるところが少ないので朝食付きにすれば良かったです。レンタル自転車も置いてあるので便利です。お風呂は大きめの貸切風呂が2つあり空いていれば誰…　2026-07-31 02:07:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と自転車が便利、アメニティ補充は残念朝食食べれるところが少ないので朝食付きにすれば良かったです。レンタル自転車も置いてあるので便利です。お風呂は大きめの貸切風呂が2つあり空いていれば誰…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を眺めながら愛犬と楽しむ絶品ディナーウェルカムスウィーツで冷たいシャーベットを頂いたり目の前に綺麗な海が広がっていたりと、リゾート気分になれるホテルでした。ディナーは愛犬も一緒に座る事ができ…　2026-08-13 14:41:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を眺めながら愛犬と楽しむ絶品ディナーウェルカムスウィーツで冷たいシャーベットを頂いたり目の前に綺麗な海が広がっていたりと、リゾート気分になれるホテルでした。ディナーは愛犬も一緒に座る事ができ…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【熊本・天草諸島＆三角：世界遺産﨑津集落・イルカウォッ】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プライベートビーチと豪華な食事に大満足震災で行けるか心配でしたが天草の方は被害が少なかったようで安心しました。予算は心配ではあったものの、楽しみに伺わせていただきました。裏手はプライベート…　2026-08-21 11:32:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プライベートビーチと豪華な食事に大満足震災で行けるか心配でしたが天草の方は被害が少なかったようで安心しました。予算は心配ではあったものの、楽しみに伺わせていただきました。裏手はプライベート…」
                   </blockquote>
                 </div>
               </div>

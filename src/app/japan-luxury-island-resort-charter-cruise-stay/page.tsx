@@ -324,7 +324,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>220台あり（無料・予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食ビュッフェが美味しくプールも満喫親族8人2部屋で利用しました。朝食のビュッフェも美味しいプールもあったので次回は水着を忘れないようにしようと思います!クチコミの詳細はこちらから　https…　2026-09-06 01:08:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食ビュッフェが美味しくプールも満喫親族8人2部屋で利用しました。朝食のビュッフェも美味しいプールもあったので次回は水着を忘れないようにしようと思います!」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　110台収容　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.41 ／ 風呂 ★4.38 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見えるプールと星空観賞で大満足部屋も綺麗で、天気良く景色も綺麗でした。リゾートホテルで前に海が見えて屋内、屋外プ一ルもあり孫も大喜びでした。タオルも浮き輪も無料で貸し出してもらえま…　2026-10-09 21:34:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見えるプールと星空観賞で大満足部屋も綺麗で、天気良く景色も綺麗でした。リゾートホテルで前に海が見えて屋内、屋外プ一ルもあり孫も大喜びでした。タオルも浮き輪も無料で貸し出してもらえま…」
                   </blockquote>
                 </div>
               </div>

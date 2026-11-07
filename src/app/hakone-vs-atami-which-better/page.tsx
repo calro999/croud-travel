@@ -414,7 +414,7 @@ export default function HakoneVsAtamiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４台　要予約(1000円／泊)　※空車状況に関しては施設に直接ご連絡ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かに過ごしたい目的には合わず残念数年前:内観を深めるにはとても素敵な宿2026年:フリーエリア外国人9割の宿目的がゆっくり静かに過ごすことだっので外人さんの賑やかな雰囲気、今回は…　2026-07-24 11:19:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かに過ごしたい目的には合わず残念数年前:内観を深めるにはとても素敵な宿2026年:フリーエリア外国人9割の宿目的がゆっくり静かに過ごすことだっので外人さんの賑やかな雰囲気、今回は…」
                   </blockquote>
                 </div>
               </div>
@@ -458,7 +458,7 @@ export default function HakoneVsAtamiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６５台　無料　予約不要　※屋根付駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。今回は当日に決めたので素泊まりでしたが次回はご飯付きで泊まりたいと思…　2026-08-21 12:30:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。今回は当日に決めたので素泊まりでしたが次回はご飯付きで泊まりたいと思…」
                   </blockquote>
                 </div>
               </div>
@@ -480,7 +480,7 @@ export default function HakoneVsAtamiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…　2026-08-26 00:07:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…」
                   </blockquote>
                 </div>
               </div>
@@ -502,7 +502,7 @@ export default function HakoneVsAtamiPage() {
                   <p>【箱根 vs 熱海 どっちに行く？：日帰り・1泊2日そ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.74 ／ 立地 ★3.9 ／ 部屋 ★3.66 ／ 設備 ★3.52 ／ 風呂 ★3.82 ／ 食事 ★3.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は良いが、臭いと料理の少なさが残念部屋と風呂は、最高に良かったです。但し、部屋に入るときは、臭いにおいが酷かった。臭いをなくして欲しい。バイキングの料理が少なかった。また…　2026-10-08 19:19:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は良いが、臭いと料理の少なさが残念部屋と風呂は、最高に良かったです。但し、部屋に入るときは、臭いにおいが酷かった。臭いをなくして欲しい。バイキングの料理が少なかった。また…」
                   </blockquote>
                 </div>
               </div>
@@ -524,7 +524,7 @@ export default function HakoneVsAtamiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は一律1000円予約不可・先着順限定7台でのご案内となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しくスタッフも親切で大満足ご飯がとても美味しかったです!スタッフの方もみなさん親切です。また泊まりたいです(^^)クチコミの詳細はこちらから　https://review.tra…　2026-08-27 19:21:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しくスタッフも親切で大満足ご飯がとても美味しかったです!スタッフの方もみなさん親切です。また泊まりたいです(^^)」
                   </blockquote>
                 </div>
               </div>

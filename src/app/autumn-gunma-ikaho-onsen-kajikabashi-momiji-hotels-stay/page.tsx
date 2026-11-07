@@ -454,7 +454,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p>【秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レト】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.89 ／ 立地 ★4.65 ／ 部屋 ★4.78 ／ 設備 ★4.7 ／ 風呂 ★4.76 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とサービスが素晴らしい接客とサービスが素晴らしかったです。評価が高い理由を実感しました。本館のスタッフも丁寧な接客で、おもてなしが感じられました。夕食は全体的に優しいお味で、どれも美味しく…　2026-10-10 21:28:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とサービスが素晴らしい接客とサービスが素晴らしかったです。評価が高い理由を実感しました。本館のスタッフも丁寧な接客で、おもてなしが感じられました。夕食は全体的に優しいお味で、どれも美味しく…」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.43 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.49 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「屋上露天風呂の眺望と清潔な館内に大満足屋上露天風呂が眺望も綺麗で最高でした特に岩風呂の方は趣があって良かったお部屋、館内全てが清潔・綺麗で過ごしやすかったですお勧めの宿ですクチコミ…　2026-09-27 16:38:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「屋上露天風呂の眺望と清潔な館内に大満足屋上露天風呂が眺望も綺麗で最高でした特に岩風呂の方は趣があって良かったお部屋、館内全てが清潔・綺麗で過ごしやすかったですお勧めの宿です…」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　余裕有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.33 ／ 部屋 ★4.5 ／ 設備 ★4.47 ／ 風呂 ★4.59 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーター特典がなく残念、食事と接客は満足リピーターです。前回までは毎回リピーター特典があり、特別感を感じられて嬉しかったのですが、今回はなく少しがっかりしました。でも、相変わらずご飯…　2026-10-10 19:42:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーター特典がなく残念、食事と接客は満足リピーターです。前回までは毎回リピーター特典があり、特別感を感じられて嬉しかったのですが、今回はなく少しがっかりしました。でも、相変わらずご飯…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function IkahoOnsenAutumnPage() {
                   <p>【秋の伊香保温泉：河鹿橋の紅葉ライトアップと石段街レト】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで料理も温泉も大満足!家族4人で宿泊(子供は4歳と2歳)しました。お盆終盤の8/15(土)、宿泊当日の朝に予約しました。一泊2食付きでとてもリーズナブルな価格設定にびっくり。料理も…　2026-08-17 20:53:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで料理も温泉も大満足!家族4人で宿泊(子供は4歳と2歳)しました。お盆終盤の8/15(土)、宿泊当日の朝に予約しました。一泊2食付きでとてもリーズナブルな価格設定にびっくり。料理も…」
                   </blockquote>
                 </div>
               </div>

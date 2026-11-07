@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.25 ／ 部屋 ★4.06 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが子供向けサービスが充実子供連れでの利用でした。施設は古いですが、子供向けの寝間着やお菓子などサービスは色々と充実していて、満足でした。宿泊客に対して、大浴場があまり大きくないの…　2026-09-23 13:41:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが子供向けサービスが充実子供連れでの利用でした。施設は古いですが、子供向けの寝間着やお菓子などサービスは色々と充実していて、満足でした。宿泊客に対して、大浴場があまり大きくないの…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し　　近隣にコインパーキングあり（徒歩1分：24ｈ660円等）※出入り毎に料金がかかります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が近く便利で、部屋も清潔で快適ホテルから1番近い駐車場を教えてくれて、マップからは、徒歩2分と書いていたが、駐車場から見えていたので、あまり歩かず着きました。お部屋は清潔だし、ベッドも寝…　2026-08-20 09:49:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が近く便利で、部屋も清潔で快適ホテルから1番近い駐車場を教えてくれて、マップからは、徒歩2分と書いていたが、駐車場から見えていたので、あまり歩かず着きました。お部屋は清潔だし、ベッドも寝…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場24台分（無料）。先着順となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古い施設と高い価格に残念な滞在施設は古く、床のシミ、壁紙の剥がれなど多数。補修もしていません。駐車場も暗くて保全に心配でした。価格も高い割に残念、朝食付でしたが遠慮して引き上げました。リピはないで…　2026-05-18 17:42:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古い施設と高い価格に残念な滞在施設は古く、床のシミ、壁紙の剥がれなど多数。補修もしていません。駐車場も暗くて保全に心配でした。価格も高い割に残念、朝食付でしたが遠慮して引き上げました。リピはないで…」
                   </blockquote>
                 </div>
               </div>

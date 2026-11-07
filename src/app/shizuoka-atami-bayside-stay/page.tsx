@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り２５台　料金：1,000円（税込／泊）お車でご来館の際は一度玄関前にお越しください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性陣、みんな平気なの?熱海到着が遅くなるため食事は無理と素泊まり。素泊まりならビジネスホテルでも良かったけどせっかく熱海に来たんだから温泉に入りたくて宿泊しました。夜大浴場?に入り翌朝露…　2026-08-07 13:10:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性陣、みんな平気なの?熱海到着が遅くなるため食事は無理と素泊まり。素泊まりならビジネスホテルでも良かったけどせっかく熱海に来たんだから温泉に入りたくて宿泊しました。夜大浴場?に入り翌朝露…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…　2026-08-26 00:07:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。商店街からも近く、立地も最…　2026-08-22 20:09:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。商店街からも近く、立地も最…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　7台　駐車場利用は1100円税込　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大きなキンメダイの煮付けに大満足キンメダイの煮付けがとても大きくて美味しかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-08-25 22:36:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大きなキンメダイの煮付けに大満足キンメダイの煮付けがとても大きくて美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【静岡・熱海温泉：海上花火＆サンビーチ・相模湾オーシャ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の清掃不足と危険な温度設定に不満建物の老朽は致し方のないことですが、館内室内の清潔さは努力できると思います。ロビーに置かれた椅子は長年お客様に愛用されてきた暁なのでしょうか、背もたれの首の…　2026-09-05 18:36:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の清掃不足と危険な温度設定に不満建物の老朽は致し方のないことですが、館内室内の清潔さは努力できると思います。ロビーに置かれた椅子は長年お客様に愛用されてきた暁なのでしょうか、背もたれの首の…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　マイクロバス不可　ご利用可能時間：チェックイン日１３時～チェックアウト日１1時まで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別館の吹抜けとトレインビューに大満足家族で別館に宿泊しました。チェックイン前(13時)に車を停めさせていただけたので熱海の商店街を探索できました。15時にチェックインしましたが、別館のロビ…　2026-08-21 23:38:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別館の吹抜けとトレインビューに大満足家族で別館に宿泊しました。チェックイン前(13時)に車を停めさせていただけたので熱海の商店街を探索できました。15時にチェックインしましたが、別館のロビ…」
                   </blockquote>
                 </div>
               </div>

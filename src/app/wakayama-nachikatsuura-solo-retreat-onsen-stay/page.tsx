@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p>【南紀勝浦温泉ひとり旅・世界遺産熊野古道おこもり：太平】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.42 ／ 部屋 ★4.29 ／ 設備 ★4.21 ／ 風呂 ★4.45 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの味に感動、温泉と景色も最高バイキングすごく美味しかったです。海鮮もカレーも、ただ者ではない味でした。温泉も清潔で露天風呂も心地よく、へやからの景観も良かったです。クチコミの…　2026-10-04 08:39:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの味に感動、温泉と景色も最高バイキングすごく美味しかったです。海鮮もカレーも、ただ者ではない味でした。温泉も清潔で露天風呂も心地よく、へやからの景観も良かったです。クチコミの…」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.14 ／ 部屋 ★3.71 ／ 設備 ★3.59 ／ 風呂 ★4.05 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂への移動が怖く食事も不便潮見の湯という露天風呂は、大浴場から また衣服を着て移動します。その経路が夜間は1人では怖い気がします。また、露天風呂からの海の眺めは期待したほどではなかっ…　2026-10-09 16:33:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂への移動が怖く食事も不便潮見の湯という露天風呂は、大浴場から また衣服を着て移動します。その経路が夜間は1人では怖い気がします。また、露天風呂からの海の眺めは期待したほどではなかっ…」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有・無料＞カーナビTEL番号の場合、0735-52-1110（客船待合処）をご入力下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.84 ／ 部屋 ★4.77 ／ 設備 ★4.75 ／ 風呂 ★4.82 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気配りが素晴らしくまた来たい9月29日より2泊でお世話になりました。到着日台風26号の影響で雨天、だいぶ早いが濡れながら連絡船乗り場に向かう。かなり早いがお部屋に案内して頂き本当に助かり…　2026-10-07 17:28:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気配りが素晴らしくまた来たい9月29日より2泊でお世話になりました。到着日台風26号の影響で雨天、だいぶ早いが濡れながら連絡船乗り場に向かう。かなり早いがお部屋に案内して頂き本当に助かり…」
                   </blockquote>
                 </div>
               </div>

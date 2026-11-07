@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天橋立で宿泊するならオススメ出来ます。天橋立近くの好立地の宿で全てにおいて満足のいく宿でした。特に部屋は今まで多くの宿を訪れた中でトップクラスに良かったです。またスタッフの方々も親切丁寧で心ゆくま…　2026-08-22 22:37:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天橋立で宿泊するならオススメ出来ます。天橋立近くの好立地の宿で全てにおいて満足のいく宿でした。特に部屋は今まで多くの宿を訪れた中でトップクラスに良かったです。またスタッフの方々も親切丁寧で心ゆくま…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室露天風呂と食事に満足、良い思い出に個室露天風呂付き特別室を利用しました。宿泊費はかかりましましたが、お部屋、部屋付きの露天風呂、食事などは概ね満足でした。天橋立の松林を散策がてら対岸ま…　2026-09-12 22:07:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室露天風呂と食事に満足、良い思い出に個室露天風呂付き特別室を利用しました。宿泊費はかかりましましたが、お部屋、部屋付きの露天風呂、食事などは概ね満足でした。天橋立の松林を散策がてら対岸ま…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p>【京都・日本三景 天橋立の松並木紅葉＆丹後】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。お部屋の洗面スペースだけ空調が無かっ…　2026-09-06 08:45:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。お部屋の洗面スペースだけ空調が無かっ…」
                   </blockquote>
                 </div>
               </div>

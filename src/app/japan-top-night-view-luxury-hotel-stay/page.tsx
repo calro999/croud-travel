@@ -333,7 +333,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.12 ／ 部屋 ★3.87 ／ 設備 ★3.7 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。和室でベッ…　2026-10-08 14:40:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。和室でベッ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有 ６０台（1泊1台1,000円）※電気自動車急速充電設備あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.44 ／ 部屋 ★4.37 ／ 設備 ★4.18 ／ 風呂 ★4.11 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と朝食が最高、また長崎で泊まりたい全体的に素敵なホテルでした。仕事で利用させてもらったのですが温泉の作りが良かったし、泉質もすごく良くて長湯したくなる感じの温泉でした。(2個ありました)…　2026-10-09 17:09:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と朝食が最高、また長崎で泊まりたい全体的に素敵なホテルでした。仕事で利用させてもらったのですが温泉の作りが良かったし、泉質もすごく良くて長湯したくなる感じの温泉でした。(2個ありました)…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　約80台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎の夜景が最高、食事も接客も満足とにかく夜景が最高でした!部屋からもラウンジからも展望温泉からも長崎の夜景が美しかったです。食事も美味しく、接客も丁寧でした。設備はリニューアルし…　2026-08-21 15:17:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎の夜景が最高、食事も接客も満足とにかく夜景が最高でした!部屋からもラウンジからも展望温泉からも長崎の夜景が美しかったです。食事も美味しく、接客も丁寧でした。設備はリニューアルし…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>アミュプラザ長崎立体駐車場をご利用いただけます。(宿泊者料金：当日13時～翌日13時　3,000円)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆとりある空間と長崎らしさを感じる装丁外資系のホテルだけあってハード面のゆとり感に満足しました。波打ち際をイメージするラグやクッションカバー、歯ブラシの長崎のハタの装丁など、ご当地長崎を大切に思う…　2026-08-18 16:09:17投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=188465&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆとりある空間と長崎らしさを感じる装丁外資系のホテルだけあってハード面のゆとり感に満足しました。波打ち際をイメージするラグやクッションカバー、歯ブラシの長崎のハタの装丁など、ご当地長崎を大切に思う…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>57台(屋内46台、屋外11台) 1000円/泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応と夜景に家族全員大満足妻と1歳5ヶ月になる娘の家族3人で宿泊させてもらいました。良く歩き回る娘に対してもスタッフの皆様は温かく対応してくださり、おかげさまで終始笑顔な娘でした。…　2026-08-27 02:10:22投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=104705&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応と夜景に家族全員大満足妻と1歳5ヶ月になる娘の家族3人で宿泊させてもらいました。良く歩き回る娘に対してもスタッフの皆様は温かく対応してくださり、おかげさまで終始笑顔な娘でした。…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1500円 ※予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「LIVE後の利用に最適、清潔で親切な対応LIVE終わりの宿泊に利便性を考慮して選んだホテルですが最高のホテルでした三宮や元町方面にも徒歩可能ですが...暑い夏には少し距離感ありましたホテル…　2026-08-21 17:47:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「LIVE後の利用に最適、清潔で親切な対応LIVE終わりの宿泊に利便性を考慮して選んだホテルですが最高のホテルでした三宮や元町方面にも徒歩可能ですが...暑い夏には少し距離感ありましたホテル…」
                   </blockquote>
                 </div>
               </div>

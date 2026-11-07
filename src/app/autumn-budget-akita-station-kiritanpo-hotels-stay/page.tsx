@@ -478,7 +478,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　64台　1泊あたり1,000円(税込)　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.21 ／ 部屋 ★4.28 ／ 設備 ★4.18 ／ 風呂 ★4.13 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングは、それなりに美味しかったですが、居室のエアコンが冷房から暖房に切り替える事が出来ず寒かったです。内線をすれば良かったが...。クチコミの詳細はこちらから　https://revie…　2026-10-09 12:45:19投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=196574&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングは、それなりに美味しかったですが、居室のエアコンが冷房から暖房に切り替える事が出来ず寒かったです。内線をすれば良かったが...。」
                   </blockquote>
                 </div>
               </div>
@@ -500,7 +500,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順４６台　１泊１，０００円（税込）　満車時は近隣駐車場で現地精算をお願いします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.33 ／ 部屋 ★4.44 ／ 設備 ★4.36 ／ 風呂 ★4.27 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秋田らしい雰囲気と充実のアメニティに満足お部屋も広く、とても寛げました。ロビーも秋田らしいしつらえで、なまはげや竿燈の飾りも気に入りました。アメニティか充実していて嬉しかったです。禁煙のお部屋が増…　2026-10-10 23:24:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秋田らしい雰囲気と充実のアメニティに満足お部屋も広く、とても寛げました。ロビーも秋田らしいしつらえで、なまはげや竿燈の飾りも気に入りました。アメニティか充実していて嬉しかったです。禁煙のお部屋が増…」
                   </blockquote>
                 </div>
               </div>
@@ -522,7 +522,7 @@ export default function AutumnBudgetAkitaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　夕方3時から明朝１０時迄、５２０円（税込み／泊）　出し入れ不可 高さ制限2.3M</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.04 ／ 部屋 ★4.03 ／ 設備 ★3.98 ／ 風呂 ★3.85 ／ 食事 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「なまはげバッヂが可愛い2泊しましたなまはげデザインの元気バッヂが可愛かったです秋田県の東横インは秋田駅東口の1店舗のみバッヂが買えてよかったです(しばらく品切れだったのが再販していた)…　2026-10-04 22:23:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「なまはげバッヂが可愛い2泊しましたなまはげデザインの元気バッヂが可愛かったです秋田県の東横インは秋田駅東口の1店舗のみバッヂが買えてよかったです(しばらく品切れだったのが再販していた)…」
                   </blockquote>
                 </div>
               </div>

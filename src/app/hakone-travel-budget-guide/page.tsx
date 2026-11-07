@@ -312,7 +312,7 @@ export default function HakoneBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４台　要予約(1000円／泊)　※空車状況に関しては施設に直接ご連絡ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かに過ごしたい目的には合わず残念数年前:内観を深めるにはとても素敵な宿2026年:フリーエリア外国人9割の宿目的がゆっくり静かに過ごすことだっので外人さんの賑やかな雰囲気、今回は…　2026-07-24 11:19:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かに過ごしたい目的には合わず残念数年前:内観を深めるにはとても素敵な宿2026年:フリーエリア外国人9割の宿目的がゆっくり静かに過ごすことだっので外人さんの賑やかな雰囲気、今回は…」
                   </blockquote>
                 </div>
               </div>
@@ -356,7 +356,7 @@ export default function HakoneBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６５台　無料　予約不要　※屋根付駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。今回は当日に決めたので素泊まりでしたが次回はご飯付きで泊まりたいと思…　2026-08-21 12:30:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。今回は当日に決めたので素泊まりでしたが次回はご飯付きで泊まりたいと思…」
                   </blockquote>
                 </div>
               </div>
@@ -378,7 +378,7 @@ export default function HakoneBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋根付きあり　収容台数36台　1部屋あたり1台までとさせていただいております</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★3.78 ／ 部屋 ★3.98 ／ 設備 ★3.84 ／ 風呂 ★4.11 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「学生に優しい価格で、また利用したい箱根湯本駅から少し遠いですが、学生に優しい価格で宿泊することができてよかったです。また次回も宿泊したいと思います。他の画像やクチコミの詳細はこちらから　h…　2026-10-06 11:20:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「学生に優しい価格で、また利用したい箱根湯本駅から少し遠いですが、学生に優しい価格で宿泊することができてよかったです。また次回も宿泊したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -400,7 +400,7 @@ export default function HakoneBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　40台　無料　※但し満車の場合は近隣の有料駐車場へのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.4 ／ 部屋 ★4.42 ／ 設備 ★4.14 ／ 風呂 ★4.45 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかくお風呂が広くて最高でした従業員の対応食事も申し分有りませんでしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/vo…　2026-10-05 12:14:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかくお風呂が広くて最高でした従業員の対応食事も申し分有りませんでした」
                   </blockquote>
                 </div>
               </div>
@@ -422,7 +422,7 @@ export default function HakoneBudgetGuidePage() {
                   <p>【箱根旅行 費用：日帰り・1泊2日それぞれいくら？フリ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…　2026-09-19 21:11:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…」
                   </blockquote>
                 </div>
               </div>

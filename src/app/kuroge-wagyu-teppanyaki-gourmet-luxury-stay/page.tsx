@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.91 ／ 立地 ★4.49 ／ 部屋 ★4.88 ／ 設備 ★4.81 ／ 風呂 ★4.85 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…　2026-09-27 18:08:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p>【目の前でジュワッと焼き上げる最高峰の霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水槽の魚掬いが制限されており残念三度目の利用でした。以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし…　2026-08-31 11:10:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水槽の魚掬いが制限されており残念三度目の利用でした。以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。食事もおいしいし、連…　2026-09-09 15:54:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。食事もおいしいし、連…」
                   </blockquote>
                 </div>
               </div>

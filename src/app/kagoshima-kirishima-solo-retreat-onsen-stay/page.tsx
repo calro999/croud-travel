@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　3０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と料理に癒やされ、心温まるひととき温泉が露天風呂と内湯4ヶ所のうち3つに入らせていただきました。どれも、最高でした。料理も、繊細で心のこもった豪華な料理で、とっても美味しいでした。部屋も、きれ…　2026-09-13 21:04:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と料理に癒やされ、心温まるひととき温泉が露天風呂と内湯4ヶ所のうち3つに入らせていただきました。どれも、最高でした。料理も、繊細で心のこもった豪華な料理で、とっても美味しいでした。部屋も、きれ…」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.33 ／ 部屋 ★4.33 ／ 設備 ★4.25 ／ 風呂 ★4.35 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最新のタッチパネルに驚き、食事も大満足お部屋に施設の状況が分かるタッチパネルが壁に設置してあり最新!って驚きました。どこもしっかり綺麗で食事もすごく美味しく頂きました。他の画像やクチコ…　2026-10-10 23:47:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最新のタッチパネルに驚き、食事も大満足お部屋に施設の状況が分かるタッチパネルが壁に設置してあり最新!って驚きました。どこもしっかり綺麗で食事もすごく美味しく頂きました。他の画像や…」
                   </blockquote>
                 </div>
               </div>

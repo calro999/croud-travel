@@ -694,7 +694,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.94 ／ 立地 ★4.21 ／ 部屋 ★3.94 ／ 設備 ★3.89 ／ 風呂 ★4.01 ／ 食事 ★3.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「この金額であれば十分な値段クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/178912?reviewId=3312347…　2026-10-08 18:07:52投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=178912&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「この金額であれば十分な値段」
                   </blockquote>
                 </div>
               </div>
@@ -716,7 +716,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）／予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.38 ／ 部屋 ★4.19 ／ 設備 ★4.04 ／ 風呂 ★4.14 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「孫も大喜びのコンセプトルームと綺麗な夕日コンセプトルームは入室するなり孫のテンション高く、遊び心あって良かった。設備も清潔感あり満足。きれいな夕日を存分に楽しみながら夕食をいただいた。売店の充実を…　2026-10-10 19:38:36投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=147160&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「孫も大喜びのコンセプトルームと綺麗な夕日コンセプトルームは入室するなり孫のテンション高く、遊び心あって良かった。設備も清潔感あり満足。きれいな夕日を存分に楽しみながら夕食をいただいた。売店の充実を…」
                   </blockquote>
                 </div>
               </div>
@@ -738,7 +738,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.09 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋は広く、海岸も近くて便利建物は古めですが部屋も広く清掃はしっかりされていました韓国系のオーナーなのか関連したグッズが廊下や部屋に置いてありました部屋は広くてゆったり使えます…　2026-09-19 06:26:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋は広く、海岸も近くて便利建物は古めですが部屋も広く清掃はしっかりされていました韓国系のオーナーなのか関連したグッズが廊下や部屋に置いてありました部屋は広くてゆったり使えます…」
                   </blockquote>
                 </div>
               </div>
@@ -760,7 +760,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.33 ／ 立地 ★3.55 ／ 部屋 ★3 ／ 設備 ★2.92 ／ 風呂 ★3.25 ／ 食事 ★3.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とってもがっかりな滞在となりましたここ3年ほど定期的に利用していましたが、今回の滞在は以前と比べてとても残念なものでした。【気になった点】・風呂:露天風呂にお湯がはられていない日が…　2026-09-26 11:53:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とってもがっかりな滞在となりましたここ3年ほど定期的に利用していましたが、今回の滞在は以前と比べてとても残念なものでした。【気になった点】・風呂:露天風呂にお湯がはられていない日が…」
                   </blockquote>
                 </div>
               </div>

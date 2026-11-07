@@ -346,7 +346,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.48 ／ 部屋 ★4.25 ／ 設備 ★4.11 ／ 風呂 ★4.28 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。お風呂の廊下が塩素臭かったのですが、お風呂ではあまり匂いは感じませ…　2026-10-06 21:58:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。お風呂の廊下が塩素臭かったのですが、お風呂ではあまり匂いは感じませ…」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function MicroTouristHubPage() {
                   <p>【香川・小豆島：エンジェルロード・寒霞渓＆オリーブ牛・】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色が最高、無料のパンやアイスも充実部屋からの景色がよく、またいつでも無料のパンとドリンクやアイスキャンデーがロビー横にあり、とてもよかった。クチコミの詳細はこちらから　https://rev…　2026-08-22 21:36:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色が最高、無料のパンやアイスも充実部屋からの景色がよく、またいつでも無料のパンとドリンクやアイスキャンデーがロビー横にあり、とてもよかった。」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２１７台　無料　予約不要。マイクロバス、中型、大型バス、トラック等は有料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.23 ／ 部屋 ★4.47 ／ 設備 ★4.38 ／ 風呂 ★4.38 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが料金が2年前の1.5倍に驚きリピーターです。今回も夕朝食付プランで宿泊しました。夕食も朝食もともに美味しく満足しました。ただ、料金が2年前に比べて1.5倍にアップしていて驚きまし…　2026-10-09 16:25:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが料金が2年前の1.5倍に驚きリピーターです。今回も夕朝食付プランで宿泊しました。夕食も朝食もともに美味しく満足しました。ただ、料金が2年前に比べて1.5倍にアップしていて驚きまし…」
                   </blockquote>
                 </div>
               </div>

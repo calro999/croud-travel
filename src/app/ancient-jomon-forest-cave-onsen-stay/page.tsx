@@ -470,7 +470,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.31 ／ 部屋 ★4.34 ／ 設備 ★3.96 ／ 風呂 ★4.3 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。大…　2026-10-10 23:17:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。大…」
                   </blockquote>
                 </div>
               </div>
@@ -492,7 +492,7 @@ export default function Page() {
                   <p>【太古の地球エネルギーを体感】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの景色と洞窟風呂が面白い部屋もきれいで景色もよかったです。また、洞窟風呂は、なかなか面白かったです。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-09-17 19:48:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの景色と洞窟風呂が面白い部屋もきれいで景色もよかったです。また、洞窟風呂は、なかなか面白かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -514,7 +514,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★3.79 ／ 部屋 ★4.18 ／ 設備 ★4.08 ／ 風呂 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても食事がおいしかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/39306?reviewId=3312347…　2026-09-30 17:03:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても食事がおいしかったです」
                   </blockquote>
                 </div>
               </div>

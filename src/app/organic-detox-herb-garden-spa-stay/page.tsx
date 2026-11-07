@@ -787,7 +787,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　敷地内各駐車場合計　450台　無料　（先着順予約無し）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.21 ／ 部屋 ★4.13 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「郡山からでていたシャトルバスが懐かしい リステル猪苗代とご縁があってから15年が過ぎました。以前はレストラン「ファムネット」で夕食をとる機会が多く、当時のレストランの顔ともいうべき高感度抜群の背の…　2026-10-09 11:01:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「郡山からでていたシャトルバスが懐かしい リステル猪苗代とご縁があってから15年が過ぎました。以前はレストラン「ファムネット」で夕食をとる機会が多く、当時のレストランの顔ともいうべき高感度抜群の背の…」
                   </blockquote>
                 </div>
               </div>
@@ -809,7 +809,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.2 ／ 部屋 ★4.22 ／ 設備 ★4.1 ／ 風呂 ★4.21 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な室内と食堂の利用しやすさが魅力場所や清潔な室内は良いと思いますし、立ち寄り湯の方や食事を頼んで居ない方でも食堂を利用出来る点は良いです。クチコミの詳細はこちらから　https://rev…　2026-10-01 11:31:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な室内と食堂の利用しやすさが魅力場所や清潔な室内は良いと思いますし、立ち寄り湯の方や食事を頼んで居ない方でも食堂を利用出来る点は良いです。」
                   </blockquote>
                 </div>
               </div>
@@ -831,7 +831,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「可もなく不可もなく、平均的な印象全体的に可もなく不可もなくって感じです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-08-29 02:03:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「可もなく不可もなく、平均的な印象全体的に可もなく不可もなくって感じです。」
                   </blockquote>
                 </div>
               </div>
@@ -853,7 +853,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>650台(1台1,500円/泊)　※クラブフロア宿泊者は1室1台無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お盆休みに宿泊しました。夕食のマグロの解体も息子が大変喜んでくれました。夜景も綺麗でホテル近くから行ける布引ハーブ園からの眺めも最高でした。来年も機会が有れば宿泊しようと思います。従業…　2026-08-21 21:48:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お盆休みに宿泊しました。夕食のマグロの解体も息子が大変喜んでくれました。夜景も綺麗でホテル近くから行ける布引ハーブ園からの眺めも最高でした。来年も機会が有れば宿泊しようと思います。従業…」
                   </blockquote>
                 </div>
               </div>
@@ -875,7 +875,7 @@ export default function FeatureDetailPage() {
                   <p>【摘みたてハーブの癒やし。自家菜園ハーブ料理＆ハーバル】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.41 ／ 部屋 ★4.39 ／ 設備 ★4.23 ／ 風呂 ★4.14 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜景と広々とした部屋、朝食に満足お部屋の大きな窓から夜景がとっても綺麗見えました。直前で予約したので部屋の広さは期待していなかったのですが、天井が高く広々していて予想以上に良かったです。た…　2026-10-04 20:48:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜景と広々とした部屋、朝食に満足お部屋の大きな窓から夜景がとっても綺麗見えました。直前で予約したので部屋の広さは期待していなかったのですが、天井が高く広々していて予想以上に良かったです。た…」
                   </blockquote>
                 </div>
               </div>

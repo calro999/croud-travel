@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と朝食は満足だが洗面所の清掃が残念良かったところ・泉質がよかったです。・朝食のおかずがかなり多く、味も良く楽しめました。・施設は古いですが、スタッフさんの接遇はしっかりされていまし…　2026-08-21 18:52:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と朝食は満足だが洗面所の清掃が残念良かったところ・泉質がよかったです。・朝食のおかずがかなり多く、味も良く楽しめました。・施設は古いですが、スタッフさんの接遇はしっかりされていまし…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【みずみずしく芳醇な春いちご】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の空気が悪く匂いがして気分が悪かった部屋の空気が悪く匂いがして滞在中ずっと気分が悪かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-08-04 14:28:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の空気が悪く匂いがして気分が悪かった部屋の空気が悪く匂いがして滞在中ずっと気分が悪かった」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.79 ／ 立地 ★4.72 ／ 部屋 ★4.85 ／ 設備 ★4.83 ／ 風呂 ★4.85 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた雰囲気だが部屋からの眺望は期待外れ別邸越の里に宿泊。充分なプライベート感で落ち着いた雰囲気のなかゆっくりできました。ただし部屋からのビュー感は期待ハズレが否なめませんでした。クチ…　2026-10-08 17:20:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた雰囲気だが部屋からの眺望は期待外れ別邸越の里に宿泊。充分なプライベート感で落ち着いた雰囲気のなかゆっくりできました。ただし部屋からのビュー感は期待ハズレが否なめませんでした。クチ…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良い時間を過ごせましたスタッフの方々に温かく迎え入れていただき、清潔で美しい館内で気持ちよく滞在できました。子ども向けのお菓子のサービスや、子ども用の作務衣があるのもとてもありがたかっ…　2026-08-22 09:02:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良い時間を過ごせましたスタッフの方々に温かく迎え入れていただき、清潔で美しい館内で気持ちよく滞在できました。子ども向けのお菓子のサービスや、子ども用の作務衣があるのもとてもありがたかっ…」
                   </blockquote>
                 </div>
               </div>

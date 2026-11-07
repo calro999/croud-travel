@@ -583,7 +583,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場なし　近隣駐車場：市営あちてらす倉敷駐車場（ホテルから徒歩２分）1２時間830円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅からも近く、気持ちよく過ごせました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/182714?reviewId=3…　2026-09-17 17:13:04投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182714&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅からも近く、気持ちよく過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料88台（6m以上は有料1泊1,200円(税込)。事前にお問い合わせください）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と静かな部屋、朝食も大満足フロントでの接客は非常に丁寧で好感が持てました。部屋は清潔感があり大きな道路に面している割に静かな部屋で快適に寝ることができました。朝食ビュッフェは美味しかった…　2026-09-13 00:25:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と静かな部屋、朝食も大満足フロントでの接客は非常に丁寧で好感が持てました。部屋は清潔感があり大きな道路に面している割に静かな部屋で快適に寝ることができました。朝食ビュッフェは美味しかった…」
                   </blockquote>
                 </div>
               </div>

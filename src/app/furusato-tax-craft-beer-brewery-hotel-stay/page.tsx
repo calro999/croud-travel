@@ -855,7 +855,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…　2026-09-14 20:40:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…」
                   </blockquote>
                 </div>
               </div>
@@ -877,7 +877,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゴルフ利用に最適、飲み放題が嬉しいゴルフの時、利用させてもらっています。安いので十分です。お風呂は、本館より別館のほうが良いと思います。料理は普通くらい、飲み放題がうれしいです。クチコミの詳細…　2026-08-29 07:03:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゴルフ利用に最適、飲み放題が嬉しいゴルフの時、利用させてもらっています。安いので十分です。お風呂は、本館より別館のほうが良いと思います。料理は普通くらい、飲み放題がうれしいです。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -899,7 +899,7 @@ export default function FurusatoTaxPage() {
                   <p>【クラフトビール＆ご当地ブルワリーホテル×ふるさと納税】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も大満足、家族で最高の夏休み夕食、朝食ともに大満足でした。スタッフの方の気配りもありがたく、子供達もご飯は美味しかったし旅行が楽しかった!!と夏休み最後の旅行を楽しむことが出来ました。近…　2026-08-25 20:48:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も大満足、家族で最高の夏休み夕食、朝食ともに大満足でした。スタッフの方の気配りもありがたく、子供達もご飯は美味しかったし旅行が楽しかった!!と夏休み最後の旅行を楽しむことが出来ました。近…」
                   </blockquote>
                 </div>
               </div>
@@ -921,7 +921,7 @@ export default function FurusatoTaxPage() {
                   <p>【クラフトビール＆ご当地ブルワリーホテル×ふるさと納税】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大…　2026-09-05 19:42:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大…」
                   </blockquote>
                 </div>
               </div>
@@ -943,7 +943,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料円（税込み／泊）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「場所は分かりづらいが電話対応は丁寧ホテルの場所が分かりづらかったですただ 電話にて問い合わせると 丁寧に説明してもらえましたクチコミの詳細はこちらから　https://review.tra…　2026-08-18 07:04:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「場所は分かりづらいが電話対応は丁寧ホテルの場所が分かりづらかったですただ 電話にて問い合わせると 丁寧に説明してもらえました」
                   </blockquote>
                 </div>
               </div>

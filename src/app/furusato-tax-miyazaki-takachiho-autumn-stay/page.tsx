@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨で観光は断念したが、快適に過ごせた雨がすごく高千穂渓谷には行けませんでしたが、お宿は快適でした。また、秋に伺います。クチコミの詳細はこちらから　https://review.trav…　2026-07-24 18:24:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨で観光は断念したが、快適に過ごせた雨がすごく高千穂渓谷には行けませんでしたが、お宿は快適でした。また、秋に伺います。」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>必ず停めれて出入り自由。料金無料予約不要。正面以外に地下駐車場もございます。大型バスも可能（要予約）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.52 ／ 部屋 ★4.31 ／ 設備 ★4.31 ／ 風呂 ★4.18 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高千穂峡や神社へ徒歩圏内、食事も大満足お盆の最中に家族3人で伺いました。場所は高千穂峡と高千穂神社の間で、どちらにも歩いて行けます。ただし高千穂峡は15分から20分くらいはかかるかも。高千穂神…　2026-10-09 12:22:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高千穂峡や神社へ徒歩圏内、食事も大満足お盆の最中に家族3人で伺いました。場所は高千穂峡と高千穂神社の間で、どちらにも歩いて行けます。ただし高千穂峡は15分から20分くらいはかかるかも。高千穂神…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「神社のそばで落ち着いて過ごせる環境落ち着いて過ごせました。神社のそばで、とても良かったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-08-15 00:12:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「神社のそばで落ち着いて過ごせる環境落ち着いて過ごせました。神社のそばで、とても良かったです」
                   </blockquote>
                 </div>
               </div>

@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>15台　無料　★要予約※駐車場所についてはご到着先着順です。近くの空地スペースになる場合がございます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と朝食に大満足、ゆっくり過ごせた温泉も大変よくまた朝の朝食も大変美味しく頂きました。本当にゆっくり出来るお宿でした。またお泊りしたいです。クチコミの詳細はこちらから　https://rev…　2026-09-08 06:39:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と朝食に大満足、ゆっくり過ごせた温泉も大変よくまた朝の朝食も大変美味しく頂きました。本当にゆっくり出来るお宿でした。またお泊りしたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p>【文豪たちが筆を走らせた名湯】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.81 ／ 立地 ★4.54 ／ 部屋 ★4.62 ／ 設備 ★4.44 ／ 風呂 ★4.62 ／ 食事 ★4.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「文化財の建物とマツタケ料理に感動文化財となっているだけあって、素晴らしい建物でした。お部屋をグレードアップしてくださり、ゆったりゆっくりできました。木造で階段が多いので、HPにあった通り足腰の弱い…　2026-10-05 17:31:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「文化財の建物とマツタケ料理に感動文化財となっているだけあって、素晴らしい建物でした。お部屋をグレードアップしてくださり、ゆったりゆっくりできました。木造で階段が多いので、HPにあった通り足腰の弱い…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p>【文豪たちが筆を走らせた名湯】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.3 ／ 部屋 ★4.49 ／ 設備 ★4.37 ／ 風呂 ★4.37 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事が最高、常宿にしたいスタッフの方々が皆さん明るく親切でした。夕食も個室でゆっくりお料理を堪能できました。部屋も清潔感がありコンセントもたくさんあったので使い勝手が良く過ごしやす…　2026-10-07 17:59:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事が最高、常宿にしたいスタッフの方々が皆さん明るく親切でした。夕食も個室でゆっくりお料理を堪能できました。部屋も清潔感がありコンセントもたくさんあったので使い勝手が良く過ごしやす…」
                   </blockquote>
                 </div>
               </div>

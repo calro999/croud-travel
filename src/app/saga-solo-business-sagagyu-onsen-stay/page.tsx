@@ -561,7 +561,7 @@ export default function ArticlePage() {
                   <p>【佐賀出張・男一人旅：お濠の水辺ビュー・佐賀牛グルメ・】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.26 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★3.99 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。また、フロントのスタッフの方々も非常に丁寧で親切にご対応…　2026-10-10 10:13:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。また、フロントのスタッフの方々も非常に丁寧で親切にご対応…」
                   </blockquote>
                 </div>
               </div>
@@ -583,7 +583,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場20台◆1泊800円・先着順◆入出庫不可◆幅2.0m　長さ5.0m　※大型不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.15 ／ 部屋 ★4.13 ／ 設備 ★4.01 ／ 風呂 ★3.94 ／ 食事 ★4.07</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり朝食も種類豊富で大満足清潔感あり朝食も数品多くとてもおいしかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-10-08 17:56:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり朝食も種類豊富で大満足清潔感あり朝食も数品多くとてもおいしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -605,7 +605,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場25台　1000円/1泊　大型車要予約　マイクロ2000円〜/1泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.98 ／ 設備 ★3.93 ／ 風呂 ★3.82 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウォーターサーバー設置が大変助かるいつも利用しております。ウォーターサパー設置は、大変助かります。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-03 07:40:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウォーターサーバー設置が大変助かるいつも利用しております。ウォーターサパー設置は、大変助かります。」
                   </blockquote>
                 </div>
               </div>
@@ -627,7 +627,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観と温泉に癒やされ、部屋も広く快適景観もよく、温泉も泉質がよくリラックスできて良かったです!空室があったからか、部屋もアップグレードしてもらえたみたいです。部屋も思ったより広く快適に過ご…　2026-09-09 23:03:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観と温泉に癒やされ、部屋も広く快適景観もよく、温泉も泉質がよくリラックスできて良かったです!空室があったからか、部屋もアップグレードしてもらえたみたいです。部屋も思ったより広く快適に過ご…」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台(無料)　先着順＊満車の場合、近くの無料駐車場にご案内します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.46 ／ 部屋 ★4.66 ／ 設備 ★4.54 ／ 風呂 ★4.42 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「有明海を望む静かな宿、食事も温泉も大満足有明海を望む好立地にも関わらず静かで穏やかな宿です。最近リニューアルされた内装は木材の良さを生かした落ち着きがありそれでいて明るく快適でした。客室には独特な…　2026-09-30 11:15:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「有明海を望む静かな宿、食事も温泉も大満足有明海を望む好立地にも関わらず静かで穏やかな宿です。最近リニューアルされた内装は木材の良さを生かした落ち着きがありそれでいて明るく快適でした。客室には独特な…」
                   </blockquote>
                 </div>
               </div>

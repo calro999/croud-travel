@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.43 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.49 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「屋上露天風呂の眺望と清潔な館内に大満足屋上露天風呂が眺望も綺麗で最高でした特に岩風呂の方は趣があって良かったお部屋、館内全てが清潔・綺麗で過ごしやすかったですお勧めの宿ですクチコミ…　2026-09-27 16:38:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「屋上露天風呂の眺望と清潔な館内に大満足屋上露天風呂が眺望も綺麗で最高でした特に岩風呂の方は趣があって良かったお部屋、館内全てが清潔・綺麗で過ごしやすかったですお勧めの宿です…」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.07 ／ 部屋 ★4.4 ／ 設備 ★4.33 ／ 風呂 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応に感謝、また利用したいスタッフの方の対応がすごく有り難かったです。雨の中オートバイで伺い、カッパのまま玄関まで入っていくとすぐにタオルを用意して応対してくれました。受付…　2026-09-07 00:41:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応に感謝、また利用したいスタッフの方の対応がすごく有り難かったです。雨の中オートバイで伺い、カッパのまま玄関まで入っていくとすぐにタオルを用意して応対してくれました。受付…」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>建物地下駐車場約50台 ※満車の場合は近隣駐車場を使う場合がございます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗でラボットに子供も大喜び!部屋もとても綺麗で、ロビーには子供が喜ぶラボットがいました。石段街へのアクセスも抜群に良く、大変満足でした。また機会があれば利用したいと思います。クチコミの…　2026-08-30 20:52:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗でラボットに子供も大喜び!部屋もとても綺麗で、ロビーには子供が喜ぶラボットがいました。石段街へのアクセスも抜群に良く、大変満足でした。また機会があれば利用したいと思います。クチコミの…」
                   </blockquote>
                 </div>
               </div>

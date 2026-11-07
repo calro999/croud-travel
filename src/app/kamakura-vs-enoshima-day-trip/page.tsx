@@ -392,7 +392,7 @@ export default function KamakuraVsEnoshimaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>完全予約制。当ホテル公式ホームぺージをご覧ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションもサービスも最高、また利用したいロケーションもサービスも大変満足しております。また鎌倉に行く機会があればまたここに泊まりに行きます。ありがとうございました!クチコミの詳細はこちらか…　2026-08-29 19:23:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションもサービスも最高、また利用したいロケーションもサービスも大変満足しております。また鎌倉に行く機会があればまたここに泊まりに行きます。ありがとうございました!クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>
@@ -414,7 +414,7 @@ export default function KamakuraVsEnoshimaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約制/台数限定/1泊3000円 （15時-翌11時）※12/31～1/3はご利用不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量や風呂の設備に物足りなさを感じたクチコミが良かったので宿泊してみました。施設は普通です。食事は美味しいですが量が少ないので物足りません。ライブキッチンを推しにしているようで…　2026-07-14 23:05:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量や風呂の設備に物足りなさを感じたクチコミが良かったので宿泊してみました。施設は普通です。食事は美味しいですが量が少ないので物足りません。ライブキッチンを推しにしているようで…」
                   </blockquote>
                 </div>
               </div>
@@ -436,7 +436,7 @@ export default function KamakuraVsEnoshimaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２台　1泊（15:00～翌10:00）2000円(税込）※必ず事前に電話にてご予約下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利な立地と親切な接客に大満足ホテルから鎌倉駅や小町通り、鶴岡八幡宮等がとても近い。観光や食事、お土産購入等に便利だった。従業員の方々も親切で感じがよい。建物は新しくはないが、掃除が…　2026-08-04 21:25:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利な立地と親切な接客に大満足ホテルから鎌倉駅や小町通り、鶴岡八幡宮等がとても近い。観光や食事、お土産購入等に便利だった。従業員の方々も親切で感じがよい。建物は新しくはないが、掃除が…」
                   </blockquote>
                 </div>
               </div>
@@ -458,7 +458,7 @@ export default function KamakuraVsEnoshimaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携：観光協会江の島駐車場　駐車チケット(24時間/2,000円)のお取り扱い有　その他駐車場は除外</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地も海景色も最高、また利用したい立地も最高で、お部屋からの海景色もいい感じでまた利用したいと思います。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-08-22 12:22:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地も海景色も最高、また利用したい立地も最高で、お部屋からの海景色もいい感じでまた利用したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -480,7 +480,7 @@ export default function KamakuraVsEnoshimaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■提携駐車場■タイムズ藤沢リラパーキング・台数：137台（先着順）入庫後24時間1,200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で温泉と朝食を満喫、娘も大満足駅近で温泉もついているので、温泉好きな7歳の娘と宿泊しました。従業員の皆さん親切で優しく感じの良い方ばかりでした。お風呂は少し狭く、上がってから脱衣所が混んでいて…　2026-08-21 10:56:22投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=172349&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で温泉と朝食を満喫、娘も大満足駅近で温泉もついているので、温泉好きな7歳の娘と宿泊しました。従業員の皆さん親切で優しく感じの良い方ばかりでした。お風呂は少し狭く、上がってから脱衣所が混んでいて…」
                   </blockquote>
                 </div>
               </div>
@@ -502,7 +502,7 @@ export default function KamakuraVsEnoshimaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場有、タイムズ藤沢石上第九駐車場（先着順）入庫後24H￥1,200</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高かよ最高すぎてまた来月もいきます!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/130658?review…　2026-08-21 22:16:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高かよ最高すぎてまた来月もいきます!」
                   </blockquote>
                 </div>
               </div>

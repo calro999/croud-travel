@@ -526,7 +526,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）／専用駐車場は当館横と裏側にあります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「15年振りの利用も変わらぬ美味しさと親切な接客約15年振りに利用させてもらいました。朝夕食は変わらず大変美味しく本当に大満足でした!給仕の方も皆さん親切で気持ちよく過ごすことができました。ありがと…　2026-08-21 19:44:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「15年振りの利用も変わらぬ美味しさと親切な接客約15年振りに利用させてもらいました。朝夕食は変わらず大変美味しく本当に大満足でした!給仕の方も皆さん親切で気持ちよく過ごすことができました。ありがと…」
                   </blockquote>
                 </div>
               </div>
@@ -548,7 +548,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>400台（無料）／駐車場はホテルより離れた場所にございます。詳しくは交通案内ページをご覧ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.41 ／ 部屋 ★4.18 ／ 設備 ★4.03 ／ 風呂 ★4.51 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質がとても良くて大満足クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/54556?reviewId=331234…　2026-10-10 16:50:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質がとても良くて大満足」
                   </blockquote>
                 </div>
               </div>
@@ -570,7 +570,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.14 ／ 部屋 ★3.71 ／ 設備 ★3.59 ／ 風呂 ★4.05 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂への移動が怖く食事も不便潮見の湯という露天風呂は、大浴場から また衣服を着て移動します。その経路が夜間は1人では怖い気がします。また、露天風呂からの海の眺めは期待したほどではなかっ…　2026-10-09 16:33:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂への移動が怖く食事も不便潮見の湯という露天風呂は、大浴場から また衣服を着て移動します。その経路が夜間は1人では怖い気がします。また、露天風呂からの海の眺めは期待したほどではなかっ…」
                   </blockquote>
                 </div>
               </div>

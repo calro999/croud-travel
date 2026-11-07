@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【採れたて天然ハチミツ食べ比べ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を望む絶景と蟹しゃぶに大満足!部屋からの眺めが最高でした、海きれい!夕食ビュッフェの蟹しゃぶ最高でした。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-09-18 18:10:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を望む絶景と蟹しゃぶに大満足!部屋からの眺めが最高でした、海きれい!夕食ビュッフェの蟹しゃぶ最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【採れたて天然ハチミツ食べ比べ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大人だけでゆっくり過ごしたい料理の美味しい宿母の誕生日のお祝いで、大人2人・子ども2人で宿泊しました。お料理がとても良く、母にも喜んでもらえて、誕生日のお祝いとして素敵な時間を過ごすことが…　2026-09-19 04:34:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大人だけでゆっくり過ごしたい料理の美味しい宿母の誕生日のお祝いで、大人2人・子ども2人で宿泊しました。お料理がとても良く、母にも喜んでもらえて、誕生日のお祝いとして素敵な時間を過ごすことが…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【採れたて天然ハチミツ食べ比べ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事、スタッフの対応に大満足温泉があり、食事も美味しく、スタッフ皆さんのホスピタリティも抜群でした。家族でゆっくり滞在できて大変良かったです。クチコミの詳細はこちらから　https://…　2026-09-19 21:23:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事、スタッフの対応に大満足温泉があり、食事も美味しく、スタッフ皆さんのホスピタリティも抜群でした。家族でゆっくり滞在できて大変良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【採れたて天然ハチミツ食べ比べ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…　2026-09-17 08:09:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台収容可・無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.49 ／ 部屋 ★4.42 ／ 設備 ★4.37 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も接客も素晴らしく、子供も大満足部屋も綺麗だったし接客も丁寧で夕食時の担当してくれた女性が子供にも優しくいい人でした。料理も美味しく7歳には子供会席、5歳にはお子様ランチで子供も美味しいと言っ…　2026-10-10 19:48:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も接客も素晴らしく、子供も大満足部屋も綺麗だったし接客も丁寧で夕食時の担当してくれた女性が子供にも優しくいい人でした。料理も美味しく7歳には子供会席、5歳にはお子様ランチで子供も美味しいと言っ…」
                   </blockquote>
                 </div>
               </div>

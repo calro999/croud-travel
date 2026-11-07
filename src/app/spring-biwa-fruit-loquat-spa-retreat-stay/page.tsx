@@ -562,7 +562,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.54 ／ 立地 ★3.21 ／ 部屋 ★3.17 ／ 設備 ★2.92 ／ 風呂 ★3.25 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「田舎の隠れ家で温泉を貸し切り気分で満喫隠れ家的な立地の田舎のおじいちゃんおばあちゃんの家、という感じの宿でした。24時間自由に入れる温泉を貸し切り同然で使えてラッキーでした。クチコミの詳細…　2026-09-08 21:05:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「田舎の隠れ家で温泉を貸し切り気分で満喫隠れ家的な立地の田舎のおじいちゃんおばあちゃんの家、という感じの宿でした。24時間自由に入れる温泉を貸し切り同然で使えてラッキーでした。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり　８０台（駐車場入り口は国道４１０号線沿い</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.37 ／ 部屋 ★4.34 ／ 設備 ★4.2 ／ 風呂 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しくスタッフの対応も丁寧朝食、夕食も美味しかったです。スタッフも丁寧にご案内して頂きました。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-10 16:36:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しくスタッフの対応も丁寧朝食、夕食も美味しかったです。スタッフも丁寧にご案内して頂きました。」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.36 ／ 部屋 ★4.26 ／ 設備 ★4.08 ／ 風呂 ★4.38 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「硫黄温泉と絶品の地魚料理に大満足硫黄温泉で温度も丁度良く、人数が少ないのでいつ行ってもゆっくり入れました。露天風呂は雨だったので富士山が見えなくて残念でしたが、海や対岸の三浦半島が見えて眺めはとて…　2026-10-05 18:46:44投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=193323&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「硫黄温泉と絶品の地魚料理に大満足硫黄温泉で温度も丁度良く、人数が少ないのでいつ行ってもゆっくり入れました。露天風呂は雨だったので富士山が見えなくて残念でしたが、海や対岸の三浦半島が見えて眺めはとて…」
                   </blockquote>
                 </div>
               </div>

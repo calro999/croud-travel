@@ -776,7 +776,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>大型駐車場有り　60台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「開放的なロッジと後片付け不要のBBQロッジ内は天井が高くて開放的。大きな木のテーブルも雰囲気がありステキでした。夕飯はバーベキュー、後片付けもやって貰えるのでとてもいい。量も十分です。おにぎり、と…　2026-08-21 21:33:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「開放的なロッジと後片付け不要のBBQロッジ内は天井が高くて開放的。大きな木のテーブルも雰囲気がありステキでした。夕飯はバーベキュー、後片付けもやって貰えるのでとてもいい。量も十分です。おにぎり、と…」
                   </blockquote>
                 </div>
               </div>
@@ -798,7 +798,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「BBQと露天風呂に羽アリが大量発生全体的にはいい施設だと思います。ただ、夏だからだとは思いますが、BBQ中、羽アリが大量発生して正直気持ち悪かったです...バスタブの中にも大量にいたので、露天…　2026-08-19 09:50:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「BBQと露天風呂に羽アリが大量発生全体的にはいい施設だと思います。ただ、夏だからだとは思いますが、BBQ中、羽アリが大量発生して正直気持ち悪かったです...バスタブの中にも大量にいたので、露天…」
                   </blockquote>
                 </div>
               </div>
@@ -842,7 +842,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り15台程度備えております</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「孫と愛犬がドッグランで大はしゃぎ!今回初めて孫達とわんちゃん連れて宿泊しました。広いドッグランや専用庭で走り回ってわんちゃん達も孫も楽しめました。スタッフの方の対応が皆さん良かったです。…　2026-08-28 17:59:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「孫と愛犬がドッグランで大はしゃぎ!今回初めて孫達とわんちゃん連れて宿泊しました。広いドッグランや専用庭で走り回ってわんちゃん達も孫も楽しめました。スタッフの方の対応が皆さん良かったです。…」
                   </blockquote>
                 </div>
               </div>

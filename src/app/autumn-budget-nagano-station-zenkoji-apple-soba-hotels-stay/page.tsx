@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルに専用駐車場はございません。近隣駐車場をご利用下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、選べる枕が嬉しいお部屋長野駅からも近く、お部屋も綺麗です。コンパクトながら簡易のソファがあり、枕は3種類で自分好みの枕が選べましたクチコミの詳細はこちらから　https://r…　2026-08-19 20:04:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、選べる枕が嬉しいお部屋長野駅からも近く、お部屋も綺麗です。コンパクトながら簡易のソファがあり、枕は3種類で自分好みの枕が選べました」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携：ながの東急百貨店第一駐車場　15時～翌10時迄　700円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水回りは綺麗で漫画や無料サービスが充実諸々古いところはありますが水回り中心にきっちりリニューアルされてます10階にコミックコーナーがあり漫画たくさん置いてますその横にフリーで飲めるソフトド…　2026-08-22 13:28:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水回りは綺麗で漫画や無料サービスが充実諸々古いところはありますが水回り中心にきっちりリニューアルされてます10階にコミックコーナーがあり漫画たくさん置いてますその横にフリーで飲めるソフトド…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅チカでサウナ、大浴場付きのお風呂は最高でした。部屋も広くよく眠ることができました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-07-23 12:52:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅チカでサウナ、大浴場付きのお風呂は最高でした。部屋も広くよく眠ることができました。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>34台　先着順　1000円/泊　延長100円/1h※休日休前日の延長不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.88 ／ 風呂 ★3.82 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で快適だが朝食会場は大混雑部屋は清潔で使いやすく、お風呂も湯船が大きくて良かったです。朝食が7時前に行きましたが激込みでパンはあるがトースターは全く使えず大行列です。コンビニが少し歩…　2026-10-04 23:06:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で快適だが朝食会場は大混雑部屋は清潔で使いやすく、お風呂も湯船が大きくて良かったです。朝食が7時前に行きましたが激込みでパンはあるがトースターは全く使えず大行列です。コンビニが少し歩…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場　60台　先着順　※駐輪場はありません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パーキングの対応が良く、駅近のラーメンも絶品到着時、出発時パーキングの方の対応がとても良く最初から最後までいいイメージのホテルでした。長野テレビをつけた所、駅近のラーメン屋さんみそ屋が紹介されてい…　2026-08-16 20:05:18投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=108383&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パーキングの対応が良く、駅近のラーメンも絶品到着時、出発時パーキングの方の対応がとても良く最初から最後までいいイメージのホテルでした。長野テレビをつけた所、駅近のラーメン屋さんみそ屋が紹介されてい…」
                   </blockquote>
                 </div>
               </div>

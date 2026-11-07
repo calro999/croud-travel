@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.71 ／ 部屋 ★4.76 ／ 設備 ★4.64 ／ 風呂 ★4.87 ／ 食事 ★4.8</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足の速い接客一番は外観、内装、温泉が醸し出すなんとも独特な雰囲気が最高です。風呂もそこからブクブク湧き出す温泉と総檜風呂が良かったです。料理は見た目も少し凝ったものもあり良かったです。…　2026-10-08 12:03:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足の速い接客一番は外観、内装、温泉が醸し出すなんとも独特な雰囲気が最高です。風呂もそこからブクブク湧き出す温泉と総檜風呂が良かったです。料理は見た目も少し凝ったものもあり良かったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.43 ／ 部屋 ★4.09 ／ 設備 ★4.14 ／ 風呂 ★4.65 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ピカイチの泉質と濃厚な硫黄泉に大満足湯治館で湯治食のプランで滞在。洗面、トイレ共同のめちゃくちゃ昭和スタイルなお部屋(笑)。しかしこちらの醍醐味は温泉で、ピカイチの泉質にヒノキ作りの浴槽。天下…　2026-10-05 20:19:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ピカイチの泉質と濃厚な硫黄泉に大満足湯治館で湯治食のプランで滞在。洗面、トイレ共同のめちゃくちゃ昭和スタイルなお部屋(笑)。しかしこちらの醍醐味は温泉で、ピカイチの泉質にヒノキ作りの浴槽。天下…」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：15台(無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.02 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.34 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備や案内に不満はあるが食事と温泉は満足お部屋は普通の温泉旅館って感じです。やや古さを感じます。洗面所はアパートの洗面所のような感じでした。タオルが使い古しのもので1枚しかなかったのがちょっと気に…　2026-10-07 18:41:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備や案内に不満はあるが食事と温泉は満足お部屋は普通の温泉旅館って感じです。やや古さを感じます。洗面所はアパートの洗面所のような感じでした。タオルが使い古しのもので1枚しかなかったのがちょっと気に…」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p>【勇壮なねぶたの熱気に包まれる】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足なソロ温泉旅夕食・朝食共に丁度良くおいしかった。お風呂は最高でした。前から入ってみたかったお風呂だったので満足です!クチコミの詳細はこちらから　https://review.tra…　2026-08-18 19:20:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足なソロ温泉旅夕食・朝食共に丁度良くおいしかった。お風呂は最高でした。前から入ってみたかったお風呂だったので満足です!」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料の駐車場12台分ご用意しています（※要予約）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.33 ／ 部屋 ★4.07 ／ 風呂 ★4.33 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「牛肉陶板焼きは子供も満足、温泉は熱め夕食の牛肉陶板焼きは、脂身が少なく小学生の子供も満足でした。温泉は少し熱く、長湯は厳禁です。他の画像やクチコミの詳細はこちらから　https://rev…　2026-09-23 06:56:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「牛肉陶板焼きは子供も満足、温泉は熱め夕食の牛肉陶板焼きは、脂身が少なく小学生の子供も満足でした。温泉は少し熱く、長湯は厳禁です。」
                   </blockquote>
                 </div>
               </div>

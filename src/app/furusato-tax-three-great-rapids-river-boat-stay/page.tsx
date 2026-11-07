@@ -655,7 +655,7 @@ export default function Page() {
                   <p>【日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…　2026-10-10 21:38:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p>【日本三大急流＆舟下り・リバーサイド宿×ふるさと納税ガ】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/16280?reviewId=331…　2026-10-03 22:25:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!」
                   </blockquote>
                 </div>
               </div>

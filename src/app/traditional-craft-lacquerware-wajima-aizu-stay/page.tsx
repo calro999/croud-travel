@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【艶やかな漆の器と伝統の技】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.12 ／ 部屋 ★4.13 ／ 設備 ★4.06 ／ 風呂 ★4.34 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、清潔感のある空間接客は丁寧で食事も美味しかったです。設備は多少古いですが、清潔さは感じました。クチコミの詳細はこちらから　https://review.travel.…　2026-10-07 23:57:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、清潔感のある空間接客は丁寧で食事も美味しかったです。設備は多少古いですが、清潔さは感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…　2026-10-10 21:27:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【艶やかな漆の器と伝統の技】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は楽しめたが、すだれの交換を希望楽しい食事をさせてもらいました。すだれは交換した方がいいとおもいます。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-08-10 12:41:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は楽しめたが、すだれの交換を希望楽しい食事をさせてもらいました。すだれは交換した方がいいとおもいます。」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【艶やかな漆の器と伝統の技】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…　2026-09-13 19:14:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【艶やかな漆の器と伝統の技】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で温泉も無料、ベッドも快適で満足付近の徒歩2～3分の温泉施設が無料で使えるため、快適でした。1人部屋でしたがベッドはフカフカですしそれなりの清潔さです。駅の目の前にあるため、公共交通機…　2026-09-17 17:47:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で温泉も無料、ベッドも快適で満足付近の徒歩2～3分の温泉施設が無料で使えるため、快適でした。1人部屋でしたがベッドはフカフカですしそれなりの清潔さです。駅の目の前にあるため、公共交通機…」
                   </blockquote>
                 </div>
               </div>

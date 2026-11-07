@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで美味しい食事に大満足!初めての佐渡島家族旅行でした。観光は大変記念になりました。宿泊した宿もリーズナブルだけどおいしい食事で大変満足しました。また来たいです。クチコミの詳細はこち…　2026-08-18 13:10:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで美味しい食事に大満足!初めての佐渡島家族旅行でした。観光は大変記念になりました。宿泊した宿もリーズナブルだけどおいしい食事で大変満足しました。また来たいです。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　11台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.53 ／ 部屋 ★4.53 ／ 設備 ★4.13 ／ 風呂 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観や接客は最高だが道中の山道が難点旅館に着くまでの道のりが大変でした。狭い山道で養老の滝から降りてこられる車とのすれ違うのに四苦八苦します。帰りも時間帯を気にしたほうがいいと思います。旅…　2026-09-26 13:05:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観や接客は最高だが道中の山道が難点旅館に着くまでの道のりが大変でした。狭い山道で養老の滝から降りてこられる車とのすれ違うのに四苦八苦します。帰りも時間帯を気にしたほうがいいと思います。旅…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.48 ／ 部屋 ★4.2 ／ 設備 ★3.98 ／ 風呂 ★4.14 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂と食事に大満足、最高の思い出に9月11日に5名で宿泊させて頂きました。部屋も綺麗で女性陣の部屋には風呂付きで予約したのですが話を聞くとかなり良い部屋風呂だったみたく大浴場には一度も行かず部…　2026-09-28 20:04:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂と食事に大満足、最高の思い出に9月11日に5名で宿泊させて頂きました。部屋も綺麗で女性陣の部屋には風呂付きで予約したのですが話を聞くとかなり良い部屋風呂だったみたく大浴場には一度も行かず部…」
                   </blockquote>
                 </div>
               </div>

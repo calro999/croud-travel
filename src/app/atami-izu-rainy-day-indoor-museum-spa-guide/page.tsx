@@ -642,7 +642,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台　有料（1100円）※ご利用時間はご宿泊日の12時からチェックアウト日の10時までとなります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…　2026-08-26 00:07:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代で熱海を満喫、景色と親切な対応に感動孫と三世代で 初めての熱海で ホテルの従業員の方は 親切で また 部屋から海が見えて景色よく感動しましたマリンスパ熱海のプールへ 目の前すぐ行ける…」
                   </blockquote>
                 </div>
               </div>
@@ -664,7 +664,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車高1.9ｍ長さ5.1ｍ重さ2ｔ以内は先着順にて駐車可能。1泊1,100円。その他の場合は要問合せ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場のシャンプーバーとコーヒーが魅力大浴場が嬉しかった。ドラストで買えるようなシャントリが4種類くらい(ボタニストなど)選べてよかったです。ウェルカムドリンクのコーヒーもカプセル式で美味しか…　2026-08-28 23:52:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場のシャンプーバーとコーヒーが魅力大浴場が嬉しかった。ドラストで買えるようなシャントリが4種類くらい(ボタニストなど)選べてよかったです。ウェルカムドリンクのコーヒーもカプセル式で美味しか…」
                   </blockquote>
                 </div>
               </div>
@@ -686,7 +686,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有 （1600円/泊、先着順、車種制限有）出入庫時間 7:00〜22:00   近隣駐車場も有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.15 ／ 部屋 ★4.37 ／ 設備 ★4.34 ／ 風呂 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの交通案内が不十分で残念土地勘がなかったので行きたいところへのバス経路を確認したかったが、フロントデスクの方は周辺の交通事情に詳しくなかった。問い合わせる時間が無駄になった。滞在は快適…　2026-10-09 05:43:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの交通案内が不十分で残念土地勘がなかったので行きたいところへのバス経路を確認したかったが、フロントデスクの方は周辺の交通事情に詳しくなかった。問い合わせる時間が無駄になった。滞在は快適…」
                   </blockquote>
                 </div>
               </div>
@@ -708,7 +708,7 @@ export default function AtamiIzuRainyDayIndoorMuseumSpaPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（駐車台数には限りがあります）　１９００円／泊（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で便利、朝食も美味しくまた利用したい15時チェックインが遅れて17時になりましたとっても残念でした沢山歩いていたので 少し横になって休みたかったから仕方ないのかもしれないですが。…　2026-08-17 15:52:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で便利、朝食も美味しくまた利用したい15時チェックインが遅れて17時になりましたとっても残念でした沢山歩いていたので 少し横になって休みたかったから仕方ないのかもしれないですが。…」
                   </blockquote>
                 </div>
               </div>

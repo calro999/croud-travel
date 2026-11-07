@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　駐車可能台数：79台　先着順・予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.5 ／ 部屋 ★4.64 ／ 設備 ★4.54 ／ 風呂 ★4.56 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トロッコ駅近で朝食も温泉も大満足トロッコの駅から歩ける距離にある素敵なホテルです。予定を詰め込んだ旅行だったため、朝ごはんのみのプランでした。ビュッフェ形式で、どれも美味しくて大満足でした。お風呂…　2026-10-08 16:37:43投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=184485&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トロッコ駅近で朝食も温泉も大満足トロッコの駅から歩ける距離にある素敵なホテルです。予定を詰め込んだ旅行だったため、朝ごはんのみのプランでした。ビュッフェ形式で、どれも美味しくて大満足でした。お風呂…」
                   </blockquote>
                 </div>
               </div>

@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場無：提携駐車場700円　満車時は周辺駐車場にて現地精算お願いします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.4 ／ 部屋 ★4.46 ／ 設備 ★4.36 ／ 風呂 ★4.3 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、ドリップコーヒーが嬉しい駅近で、とてもきれいなホテルでした。アメニティも豊富で、素泊まりでしたがドリップコーヒーが置いてあり、ドリンクバーよりうれしかったです。夜も静かで、…　2026-10-10 19:02:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、ドリップコーヒーが嬉しい駅近で、とてもきれいなホテルでした。アメニティも豊富で、素泊まりでしたがドリップコーヒーが置いてあり、ドリンクバーよりうれしかったです。夜も静かで、…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　普通車　900円（税込み／泊）※バイク専用の駐車場はございません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.92 ／ 立地 ★3.73 ／ 部屋 ★3.88 ／ 設備 ★3.89 ／ 風呂 ★3.67 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から少し離れている分、静かで快適な朝食駅から多少はなれているからか他の駅近辺のホテルより空いていて快適だった。朝食も空いていたのでゆっくり食べられた。メニューは一般的なもの。クチコミの詳細は…　2026-09-13 19:58:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から少し離れている分、静かで快適な朝食駅から多少はなれているからか他の駅近辺のホテルより空いていて快適だった。朝食も空いていたのでゆっくり食べられた。メニューは一般的なもの。クチコミの詳細は…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣大型コインパーキング有【提携外】　フロントで近隣パーキングの場所をご案内しております。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.35 ／ 部屋 ★4.32 ／ 設備 ★4.3 ／ 風呂 ★4.32 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイク駐輪場が近く大型バイクも安心清潔で快適でしたバイクの駐車場を探していたのですが、正面に駅のバイク駐輪場があり大型バイクでも余裕で停められるので助かりましたクチコミの詳細はこちらから　…　2026-10-10 07:49:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイク駐輪場が近く大型バイクも安心清潔で快適でしたバイクの駐車場を探していたのですが、正面に駅のバイク駐輪場があり大型バイクでも余裕で停められるので助かりました」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車30台まで駐車可能（1室につき1台まで）、大型車（全長8m）2台まで。大型車は有料、要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.07 ／ 部屋 ★4 ／ 設備 ★3.79 ／ 風呂 ★3.99 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂最高本館宿泊でお世話になりました。お風呂がとても気持ち良く、市内でも大好きなホテルです。今回少し残念と感じたのは、お部屋に入った瞬間からくしゃみが止まらなかった事と、チェック…　2026-10-06 16:21:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂最高本館宿泊でお世話になりました。お風呂がとても気持ち良く、市内でも大好きなホテルです。今回少し残念と感じたのは、お部屋に入った瞬間からくしゃみが止まらなかった事と、チェック…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１泊６００円　本町Ｐ・佐平パーキング　予約不可・先着順　バイク不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.01 ／ 部屋 ★3.93 ／ 設備 ★3.86 ／ 風呂 ★3.9 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しくスタッフの対応も丁寧連泊しましたが、朝ご飯は毎日違うものが出て、かつ種類も多く満足できました。プリンがかなり美味しかったです。大浴場は洗い場が4つしかなく、狭いこともありゆっくりは入…　2026-10-05 10:14:40投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=111180&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しくスタッフの対応も丁寧連泊しましたが、朝ご飯は毎日違うものが出て、かつ種類も多く満足できました。プリンがかなり美味しかったです。大浴場は洗い場が4つしかなく、狭いこともありゆっくりは入…」
                   </blockquote>
                 </div>
               </div>

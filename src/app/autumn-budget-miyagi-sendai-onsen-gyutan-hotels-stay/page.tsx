@@ -445,7 +445,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣コインパーキングをご利用ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.44 ／ 部屋 ★4.47 ／ 設備 ★4.44 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。朝食は無料で付いていたので、あまり期待はしていなかったんですが、焼きたてのパンやおかずも思ってた…　2026-10-10 22:46:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。朝食は無料で付いていたので、あまり期待はしていなかったんですが、焼きたてのパンやおかずも思ってた…」
                   </blockquote>
                 </div>
               </div>
@@ -467,7 +467,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館に駐車場はございませんので、予約等は一切承っておりません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は快適だが水回りの狭さがもったいない部屋はベッドなどは非常に良かったが、ユニットバスが狭すぎてトイレを利用するのも大変だった。温泉は3人でいっぱいになるくらいの広さしかなく、少し狭いと感じ…　2026-08-28 16:17:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は快適だが水回りの狭さがもったいない部屋はベッドなどは非常に良かったが、ユニットバスが狭すぎてトイレを利用するのも大変だった。温泉は3人でいっぱいになるくらいの広さしかなく、少し狭いと感じ…」
                   </blockquote>
                 </div>
               </div>
@@ -489,7 +489,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場●大仙台駐車場 1200円/1泊●松葉屋駐車場1300円～/1泊【駐輪場はございません】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「風呂上がりにスリッパが盗まれていて困惑温泉は良かったてすが、風呂上がりに帰ろうと、スリッパをはこうしたら、スリッパが無かった。(風呂に入っ居る人は、自分の他に一人しかいなかった)アイツが自…　2026-08-22 21:03:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「風呂上がりにスリッパが盗まれていて困惑温泉は良かったてすが、風呂上がりに帰ろうと、スリッパをはこうしたら、スリッパが無かった。(風呂に入っ居る人は、自分の他に一人しかいなかった)アイツが自…」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function SendaiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場１泊2,000円(15台分)高さ２．３ｍ以下まで（要電話予約）満車時は近隣駐車場案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「希望通りの部屋変更と快適なマットレス久しぶりの宿泊でしたが、希望通り部屋を変更していただけていました。マットレスも良かったです。クチコミの詳細はこちらから　https://review.tra…　2026-08-14 08:08:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「希望通りの部屋変更と快適なマットレス久しぶりの宿泊でしたが、希望通り部屋を変更していただけていました。マットレスも良かったです。」
                   </blockquote>
                 </div>
               </div>

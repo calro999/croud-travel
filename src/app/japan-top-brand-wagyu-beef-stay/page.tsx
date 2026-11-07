@@ -333,7 +333,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有（100台・予約不要）バイクも可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた客層と細やかなおもてなしに感動西村屋招月庭はファミリー向けと記載がありましたが、客層がかなり良いと感じました。日本人、外国人の割合は半々くらいに思いましたが、みなさんとにかく落ち着いてい…　2026-08-22 20:40:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた客層と細やかなおもてなしに感動西村屋招月庭はファミリー向けと記載がありましたが、客層がかなり良いと感じました。日本人、外国人の割合は半々くらいに思いましたが、みなさんとにかく落ち着いてい…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「人柄が温かく、また必ず行きたいお宿みなさんがおっしゃるとおりの素敵なお宿です。営む方の人柄が伝わりほっこりした気分で帰宅しました。どなたかも気にかけていましたが、お掃除の必要あればコロコロでも掃除…　2026-08-17 09:04:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「人柄が温かく、また必ず行きたいお宿みなさんがおっしゃるとおりの素敵なお宿です。営む方の人柄が伝わりほっこりした気分で帰宅しました。どなたかも気にかけていましたが、お掃除の必要あればコロコロでも掃除…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■玄関前無料駐車場あり。（30台分）10名様以上の場合、米沢市内の送迎サービス【全館Wi-Fi完備】</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4 ／ 部屋 ★4.39 ／ 設備 ★4.26 ／ 風呂 ★4.41 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は普通だが温泉と食事には満足部屋は普通でした。温泉は前日泊がよかったので、普通ですが満足でした。食事は良かったと思います。クチコミの詳細はこちらから　https://review.…　2026-09-05 13:42:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は普通だが温泉と食事には満足部屋は普通でした。温泉は前日泊がよかったので、普通ですが満足でした。食事は良かったと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function GourmetCuisineHubPage() {
                   <p>【日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ペットに優しく夕飯も豪華、リピ確定!ペットプランで宿泊しました。ペットに優しく、とてもいい感じでした。夕飯も豪華で、リピ確定です。クチコミの詳細はこちらから　https://revie…　2026-08-15 17:29:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ペットに優しく夕飯も豪華、リピ確定!ペットプランで宿泊しました。ペットに優しく、とてもいい感じでした。夕飯も豪華で、リピ確定です。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function GourmetCuisineHubPage() {
                   <p>【日本五大ブランド和牛の宿：松阪牛・神戸牛・米沢牛・近】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり寛げました場所がらお部屋からの眺めはそれ程期待出来ませんが、お部屋は8畳広縁に椅子付きでゆったり過ごす事ができました。お食事会場も広々とし、お花も綺麗に活けて有りお隣との感覚も広く寛げ…　2026-08-13 14:25:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり寛げました場所がらお部屋からの眺めはそれ程期待出来ませんが、お部屋は8畳広縁に椅子付きでゆったり過ごす事ができました。お食事会場も広々とし、お花も綺麗に活けて有りお隣との感覚も広く寛げ…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.59 ／ 部屋 ★4.46 ／ 設備 ★4.28 ／ 風呂 ★4.53 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と海の景色に癒やされる旅到着した瞬間から笑顔で出迎えてくださりとても嬉しかったですフロントの方もレストランの方も、とにかくスタッフの方がとても丁寧で良かったご飯もとても美味し…　2026-10-03 18:19:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と海の景色に癒やされる旅到着した瞬間から笑顔で出迎えてくださりとても嬉しかったですフロントの方もレストランの方も、とにかくスタッフの方がとても丁寧で良かったご飯もとても美味し…」
                   </blockquote>
                 </div>
               </div>

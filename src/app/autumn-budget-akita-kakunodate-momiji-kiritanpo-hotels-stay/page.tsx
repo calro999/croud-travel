@@ -421,7 +421,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場：800円（税込み／泊）先着順＊近隣コインパーキング有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.21 ／ 部屋 ★4.34 ／ 設備 ★4.3 ／ 風呂 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族3人で快適に過ごせました夫婦+3歳の子供で宿泊しました。フロントの方の説明が過不足なしでわかりやすく、お部屋も綺麗でした。1階の浴場も椅子3つと少々こぢんまりですが、19時頃に利用した…　2026-10-10 18:54:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族3人で快適に過ごせました夫婦+3歳の子供で宿泊しました。フロントの方の説明が過不足なしでわかりやすく、お部屋も綺麗でした。1階の浴場も椅子3つと少々こぢんまりですが、19時頃に利用した…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　64台　1泊あたり1,000円(税込)　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.21 ／ 部屋 ★4.28 ／ 設備 ★4.18 ／ 風呂 ★4.13 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングは、それなりに美味しかったですが、居室のエアコンが冷房から暖房に切り替える事が出来ず寒かったです。内線をすれば良かったが...。クチコミの詳細はこちらから　https://revie…　2026-10-09 12:45:19投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=196574&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングは、それなりに美味しかったですが、居室のエアコンが冷房から暖房に切り替える事が出来ず寒かったです。内線をすれば良かったが...。」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★4.02 ／ 風呂 ★4.01 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンは3段階、清掃やタオル交換は有料エアコンの温度設定なし3段階スイッチ。連泊時のタオルの取替えは別途料金。清掃はなし。川反の飲み屋は近い。駐車場はすぐ埋まるが、近隣にもコインパーキングは有る…　2026-10-08 08:32:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンは3段階、清掃やタオル交換は有料エアコンの温度設定なし3段階スイッチ。連泊時のタオルの取替えは別途料金。清掃はなし。川反の飲み屋は近い。駐車場はすぐ埋まるが、近隣にもコインパーキングは有る…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面・立体合わせて約130台の大型駐車場が完全無料！大型トラックやバイクも駐車可能です！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.94 ／ 部屋 ★4.11 ／ 設備 ★4.13 ／ 風呂 ★4.26 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場が使い放題で、徒歩でも苦にならない立地スーパー銭湯併設の宿泊施設。宿泊者は滞在中、ほぼ時間制限なく大浴場を使えるのがいいです。徒歩利用の場合、最寄り駅から20分程度歩きますが坂も無い…　2026-09-12 15:49:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場が使い放題で、徒歩でも苦にならない立地スーパー銭湯併設の宿泊施設。宿泊者は滞在中、ほぼ時間制限なく大浴場を使えるのがいいです。徒歩利用の場合、最寄り駅から20分程度歩きますが坂も無い…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetAkitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順４６台　１泊１，０００円（税込）　満車時は近隣駐車場で現地精算をお願いします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.33 ／ 部屋 ★4.44 ／ 設備 ★4.36 ／ 風呂 ★4.27 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秋田らしい雰囲気と充実のアメニティに満足お部屋も広く、とても寛げました。ロビーも秋田らしいしつらえで、なまはげや竿燈の飾りも気に入りました。アメニティか充実していて嬉しかったです。禁煙のお部屋が増…　2026-10-10 23:24:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秋田らしい雰囲気と充実のアメニティに満足お部屋も広く、とても寛げました。ロビーも秋田らしいしつらえで、なまはげや竿燈の飾りも気に入りました。アメニティか充実していて嬉しかったです。禁煙のお部屋が増…」
                   </blockquote>
                 </div>
               </div>

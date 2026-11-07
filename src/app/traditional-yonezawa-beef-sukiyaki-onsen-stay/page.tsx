@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■玄関前無料駐車場あり。（30台分）10名様以上の場合、米沢市内の送迎サービス【全館Wi-Fi完備】</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4 ／ 部屋 ★4.39 ／ 設備 ★4.26 ／ 風呂 ★4.41 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は普通だが温泉と食事には満足部屋は普通でした。温泉は前日泊がよかったので、普通ですが満足でした。食事は良かったと思います。クチコミの詳細はこちらから　https://review.…　2026-09-05 13:42:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は普通だが温泉と食事には満足部屋は普通でした。温泉は前日泊がよかったので、普通ですが満足でした。食事は良かったと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p>【とろける極上霜降り】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり寛げました場所がらお部屋からの眺めはそれ程期待出来ませんが、お部屋は8畳広縁に椅子付きでゆったり過ごす事ができました。お食事会場も広々とし、お花も綺麗に活けて有りお隣との感覚も広く寛げ…　2026-08-13 14:25:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり寛げました場所がらお部屋からの眺めはそれ程期待出来ませんが、お部屋は8畳広縁に椅子付きでゆったり過ごす事ができました。お食事会場も広々とし、お花も綺麗に活けて有りお隣との感覚も広く寛げ…」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p>【とろける極上霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高、食べ応え十分朝晩ともにお食事が良かったです。地元のものもあり、お肉もあり、食べ応えバッチリです。4人での食事ですが個室で、気兼ねなくのんびり食べることができました。部屋…　2026-09-10 11:56:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高、食べ応え十分朝晩ともにお食事が良かったです。地元のものもあり、お肉もあり、食べ応えバッチリです。4人での食事ですが個室で、気兼ねなくのんびり食べることができました。部屋…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p>【とろける極上霜降り】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「贅沢な湯量と落ち着いた食事に大満足何と言ってもお湯の量がすごくて、とても贅沢な温泉でした!少し熱めでしたが、子どももなんとか入れました!ご飯時も丁寧な接客で、バイキングにはない落ち着いた雰囲気…　2026-08-24 21:07:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「贅沢な湯量と落ち着いた食事に大満足何と言ってもお湯の量がすごくて、とても贅沢な温泉でした!少し熱めでしたが、子どももなんとか入れました!ご飯時も丁寧な接客で、バイキングにはない落ち着いた雰囲気…」
                   </blockquote>
                 </div>
               </div>

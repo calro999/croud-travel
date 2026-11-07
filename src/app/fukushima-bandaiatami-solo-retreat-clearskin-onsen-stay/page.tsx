@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は、隣接するホテル華の湯の駐車場をご利用ください『無料』</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.29 ／ 部屋 ★4.41 ／ 設備 ★4.4 ／ 風呂 ★4.53 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクを屋根下に停められ、食事と温泉に大満足バイクツーリングで利用させて頂きました。到着時は雨が降っていたのですがバイクも屋根下の安全な場所に停めさせてもらえました。食事も美味しく、温泉も…　2026-10-06 17:23:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクを屋根下に停められ、食事と温泉に大満足バイクツーリングで利用させて頂きました。到着時は雨が降っていたのですがバイクも屋根下の安全な場所に停めさせてもらえました。食事も美味しく、温泉も…」
                   </blockquote>
                 </div>
               </div>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　400台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの接客が良く、清潔感があり大満足フロントの接客もすごく良かったです!ホテルも、立派で清潔感があり、大変満足しました。又、泊まりに行きます!クチコミの詳細はこちらから　https:/…　2026-09-05 21:57:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの接客が良く、清潔感があり大満足フロントの接客もすごく良かったです!ホテルも、立派で清潔感があり、大変満足しました。又、泊まりに行きます!」
                   </blockquote>
                 </div>
               </div>
@@ -556,7 +556,7 @@ export default function ArticlePage() {
                   <p>【会津郡山・磐梯熱海温泉ひとり旅・萩姫伝説の美肌湯おこ】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.12 ／ 部屋 ★4.04 ／ 設備 ★3.96 ／ 風呂 ★4.42 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺に飲食店がなく郡山まで移動、お風呂は満足近隣に食事ができるところが見当たらず(宿でそれなりになら可能)電車で郡山まで出かけました。お風呂は良かったです。クチコミの詳細はこちらから　ht…　2026-10-06 19:06:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺に飲食店がなく郡山まで移動、お風呂は満足近隣に食事ができるところが見当たらず(宿でそれなりになら可能)電車で郡山まで出かけました。お風呂は良かったです。」
                   </blockquote>
                 </div>
               </div>

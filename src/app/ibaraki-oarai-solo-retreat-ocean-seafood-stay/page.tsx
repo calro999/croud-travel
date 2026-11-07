@@ -469,7 +469,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携コインパーキング（平面駐車場）　1滞在1台500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.2 ／ 部屋 ★4.28 ／ 設備 ★4.06 ／ 風呂 ★4.14 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は絶品だがアメニティが少し残念少し値がはりますが、広くてよいホテルでした。朝食はとてもおいしかったです。アメニティが残念でした。歯ブラシの質でホテルのクオリティが分かりますが、ここだけ残念でし…　2026-10-07 17:59:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は絶品だがアメニティが少し残念少し値がはりますが、広くてよいホテルでした。朝食はとてもおいしかったです。アメニティが残念でした。歯ブラシの質でホテルのクオリティが分かりますが、ここだけ残念でし…」
                   </blockquote>
                 </div>
               </div>
@@ -491,7 +491,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>別館横 ホテル専用駐車場　1泊につき￥1,000（税込み）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.27 ／ 部屋 ★4.07 ／ 設備 ★3.92 ／ 風呂 ★3.99 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でアクセス抜群、朝食も満足の内容駅から近くて分かりやすく、利用しやすいホテルでした。朝食も満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-10-08 23:33:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でアクセス抜群、朝食も満足の内容駅から近くて分かりやすく、利用しやすいホテルでした。朝食も満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り６０台 無料（普通車）　大型バス可(要予約)　＊不法改造車の駐車はお断りさせて頂きます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.6 ／ 部屋 ★4.33 ／ 設備 ★4.26 ／ 風呂 ★4.42 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと絶品料理に大満足!オーシャンビューのお部屋で、朝日もバッチリ見れました!展望風呂にも窓があり、海が見えます。屋上のお風呂からも海が見え、夜には星も。夕食はフュージョン料理っていう…　2026-09-25 23:29:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと絶品料理に大満足!オーシャンビューのお部屋で、朝日もバッチリ見れました!展望風呂にも窓があり、海が見えます。屋上のお風呂からも海が見え、夜には星も。夕食はフュージョン料理っていう…」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>300台有　無料(普通乗用車)　それ以外(中型車以上)の車は有料￥2200（電話にて要予約）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な予約にも快く対応、また利用したい急な予約でしたが、ご対応いただきましてありがとうございました。また茨城へ行く際には、金額もお手頃なので利用したいと思います。クチコミの詳細はこちらから　…　2026-09-05 10:01:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な予約にも快く対応、また利用したい急な予約でしたが、ご対応いただきましてありがとうございました。また茨城へ行く際には、金額もお手頃なので利用したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -557,7 +557,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場有（1泊500円）先着30台◆高さ2.1ｍ制限あり◆</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.16 ／ 部屋 ★4.14 ／ 設備 ★4.03 ／ 風呂 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「WiFiが全く繋がらず動画視聴は困難ネットの繋がりが非常に悪かったです。扉の前ならWiFi電波をギリギリ拾えるもののベッドの上に行ったらi電波はほぼ拾えないので使えないとみた方がいいです。電波…　2026-10-09 10:31:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「WiFiが全く繋がらず動画視聴は困難ネットの繋がりが非常に悪かったです。扉の前ならWiFi電波をギリギリ拾えるもののベッドの上に行ったらi電波はほぼ拾えないので使えないとみた方がいいです。電波…」
                   </blockquote>
                 </div>
               </div>

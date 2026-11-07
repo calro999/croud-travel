@@ -333,7 +333,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の方の接客が良かったです、大変ゆっくり過ごせました。温泉の質が素晴らしく、トロトロで肌がすべすべになります。設備は確かに最新ではありませんが、予約した2部屋とも和洋室で広々して快適に過ごせました…　2026-08-21 08:57:53投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=29133&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の方の接客が良かったです、大変ゆっくり過ごせました。温泉の質が素晴らしく、トロトロで肌がすべすべになります。設備は確かに最新ではありませんが、予約した2部屋とも和洋室で広々して快適に過ごせました…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１台500円(込)／泊　●入出庫可●高さ制限無※大型車・バイクは駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地や朝食の案内不足が少し残念コンビニが遠く、角にあるのと修繕中のため白いネットで覆われておりわかりませんでした。そこまで説明していただきたいです。朝ごはんの対応も何時までと記載してくださ…　2026-07-13 09:29:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地や朝食の案内不足が少し残念コンビニが遠く、角にあるのと修繕中のため白いネットで覆われておりわかりませんでした。そこまで説明していただきたいです。朝ごはんの対応も何時までと記載してくださ…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有あり。バイク向け屋根付きスペースも有あり。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.14 ／ 部屋 ★4.36 ／ 設備 ★4.26 ／ 風呂 ★4.55 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/11043?reviewId=33123479620440　2026-10-04 19:58:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　80台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くて快適だが駐車場と館内が不便お部屋は広くてよかったです。駐車場が台数もギリギリでスペースが狭く何度も切り返さないと出れない。施設の作りが複雑。クチコミの詳細はこちらから　https:…　2026-08-19 21:48:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くて快適だが駐車場と館内が不便お部屋は広くてよかったです。駐車場が台数もギリギリでスペースが狭く何度も切り返さないと出れない。施設の作りが複雑。」
                   </blockquote>
                 </div>
               </div>

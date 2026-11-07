@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【有り】　50台  先着順/ 駐車料金　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.54 ／ 立地 ★4.29 ／ 部屋 ★4.62 ／ 設備 ★4.53 ／ 風呂 ★4.57 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と北陸の食材を満喫、また利用したい部屋の露天風呂が最高でした。大人2人でもゆったり入れました。お湯の温度もちょうど良く、しっとりした泉質で湯上がりはポカポカでした。食事も北陸の食材をし…　2026-09-10 19:33:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と北陸の食材を満喫、また利用したい部屋の露天風呂が最高でした。大人2人でもゆったり入れました。お湯の温度もちょうど良く、しっとりした泉質で湯上がりはポカポカでした。食事も北陸の食材をし…」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料50台 ※正面玄関前にお越しください。スタッフが駐車場をご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.21 ／ 部屋 ★4.37 ／ 設備 ★4.24 ／ 風呂 ★4.46 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「24時間入れる温泉が快適、サービスも満足温泉が2つあるのが良かったです。24時間営業の温泉もあるので朝に入るのが快適でした。サービスもよく満足です。クチコミの詳細はこちらから　https://…　2026-10-05 02:23:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「24時間入れる温泉が快適、サービスも満足温泉が2つあるのが良かったです。24時間営業の温泉もあるので朝に入るのが快適でした。サービスもよく満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料200台　※正面玄関へお越しください。スタッフが駐車場をご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.07 ／ 部屋 ★4.27 ／ 設備 ★4.12 ／ 風呂 ★4.31 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お茶菓子がなく貸切風呂に死骸、設備も不便部屋にお茶菓子がない温泉旅館は初めてだった。貸し切り風呂には大きいカエルの死骸が浮いていて、入れなかった。今どき、階段ばかりで車椅子用のスロープもなかった。…　2026-10-07 18:32:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お茶菓子がなく貸切風呂に死骸、設備も不便部屋にお茶菓子がない温泉旅館は初めてだった。貸し切り風呂には大きいカエルの死骸が浮いていて、入れなかった。今どき、階段ばかりで車椅子用のスロープもなかった。…」
                   </blockquote>
                 </div>
               </div>

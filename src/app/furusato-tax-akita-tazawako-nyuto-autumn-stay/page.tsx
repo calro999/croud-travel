@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★3.99 ／ 部屋 ★4.02 ／ 設備 ★4.01 ／ 風呂 ★4.09 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ライブキッチンのステーキが絶品、料理も大満足バイキングのお料理が美味しかった。口コミの通り、ライブキッチンのステーキの味が良く、他のお料理もちゃんと作られている内容で満足でした。クチコミの詳細…　2026-10-08 09:32:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ライブキッチンのステーキが絶品、料理も大満足バイキングのお料理が美味しかった。口コミの通り、ライブキッチンのステーキの味が良く、他のお料理もちゃんと作られている内容で満足でした。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★3.96 ／ 部屋 ★3.82 ／ 設備 ★3.78 ／ 風呂 ★4.05 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「比内地鶏と地元野菜が美味しくリピート確定ビュッフェが美味しい!夏に続けて2回目です。比内地鶏や地元野菜そのものが美味しい。また利用します!クチコミの詳細はこちらから　https:/…　2026-10-10 15:56:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「比内地鶏と地元野菜が美味しくリピート確定ビュッフェが美味しい!夏に続けて2回目です。比内地鶏や地元野菜そのものが美味しい。また利用します!」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>１００台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.54 ／ 立地 ★4.5 ／ 部屋 ★4.6 ／ 設備 ★4.49 ／ 風呂 ★4.7 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素敵な日をありがとうございました。エントランス、お部屋の隅々まできれいで快適、露天風呂もほぼ貸切状態でゆったり過ごせてリフレッシュできました。ご飯も美味しくて特に朝食が好みで満足でした。カメム…　2026-10-07 16:16:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素敵な日をありがとうございました。エントランス、お部屋の隅々まできれいで快適、露天風呂もほぼ貸切状態でゆったり過ごせてリフレッシュできました。ご飯も美味しくて特に朝食が好みで満足でした。カメム…」
                   </blockquote>
                 </div>
               </div>

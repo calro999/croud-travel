@@ -614,7 +614,7 @@ export default function Page() {
                   <p>【日本三大運河＆水郷レトロ・白壁の蔵屋敷と舟流し情趣の】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年恒例の宿、朝食時間の配慮に感謝毎年北海道旅行の最終日に宿泊する宿です。去年から部屋をグレードアップし満足度がよりあがりました。今年は午前中の飛行機を予約したのでチェックアウトが速くなったのが残…　2026-09-04 20:54:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年恒例の宿、朝食時間の配慮に感謝毎年北海道旅行の最終日に宿泊する宿です。去年から部屋をグレードアップし満足度がよりあがりました。今年は午前中の飛行機を予約したのでチェックアウトが速くなったのが残…」
                   </blockquote>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の近江牛カレーが絶品、また食べたい朝食の近江牛カレーがすごくおいしかったです甘味がありながらの辛さお肉も柔らかくておいしくて、また食べたいですクチコミの詳細はこちらから　https…　2026-09-12 18:02:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の近江牛カレーが絶品、また食べたい朝食の近江牛カレーがすごくおいしかったです甘味がありながらの辛さお肉も柔らかくておいしくて、また食べたいです」
                   </blockquote>
                 </div>
               </div>

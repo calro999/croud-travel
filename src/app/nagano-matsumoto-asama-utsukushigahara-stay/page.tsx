@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有 40台無料   　■全館Wi-Fi対応 ■個室お食事処 ■バリアフリー対応風呂あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「こだわりのお料理と温泉でゆったり満喫松本へは夫婦旅行で初めての宿泊です。上高地観光の目的でネットで検索してお料理に魅力を感じ予約しました。思っていたようにお料理はこだわりがあり、朝夕共にとても…　2026-08-23 22:49:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「こだわりのお料理と温泉でゆったり満喫松本へは夫婦旅行で初めての宿泊です。上高地観光の目的でネットで検索してお料理に魅力を感じ予約しました。思っていたようにお料理はこだわりがあり、朝夕共にとても…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★3.98 ／ 部屋 ★4.04 ／ 設備 ★3.98 ／ 風呂 ★4.29 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と展望、食事と温泉に大満足部屋、設備とも清潔で気持ちよく過ごせた。窓からの展望もよく静かでゆっくり休めた。食事は美味しく量も丁度よかった。泉質は化粧水いらず。接客は過不足なく、全般に不満…　2026-10-08 17:22:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と展望、食事と温泉に大満足部屋、設備とも清潔で気持ちよく過ごせた。窓からの展望もよく静かでゆっくり休めた。食事は美味しく量も丁度よかった。泉質は化粧水いらず。接客は過不足なく、全般に不満…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.54 ／ 風呂 ★4.64 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は良いが露天風呂の視線が気になる食事は大変良かったです。従業員の方々の対応も良かった。客室露天風呂付きの部屋でしたが、他の部屋から見える。あまり温泉の湯という感じもしない。ク…　2026-10-09 14:02:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は良いが露天風呂の視線が気になる食事は大変良かったです。従業員の方々の対応も良かった。客室露天風呂付きの部屋でしたが、他の部屋から見える。あまり温泉の湯という感じもしない。ク…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　71台（立体：37、平面：25、第2駐車場：9）　無料・先着順　※大型車駐車は要事前連絡</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広いお風呂で疲れが取れ、朝食も満足広く気持ち良いお風呂で、疲れが取れました。朝食付きで、よかったです。クチコミの詳細はこちらから　https://review.travel.rakuten…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広いお風呂で疲れが取れ、朝食も満足広く気持ち良いお風呂で、疲れが取れました。朝食付きで、よかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。室内に電話が無く、浴衣を交換するのにフロントまで出向かなくてはな…　2026-08-16 12:58:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。室内に電話が無く、浴衣を交換するのにフロントまで出向かなくてはな…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・松本＆浅間温泉・美ヶ原：国宝松本城・クラフトの】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.39 ／ 部屋 ★4.44 ／ 設備 ★4.24 ／ 風呂 ★4.66 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂までの距離と暗さが少し残念露天風呂が行くまで少し距離があり、暗かったのが残念でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-10-05 09:54:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂までの距離と暗さが少し残念露天風呂が行くまで少し距離があり、暗かったのが残念でした」
                   </blockquote>
                 </div>
               </div>

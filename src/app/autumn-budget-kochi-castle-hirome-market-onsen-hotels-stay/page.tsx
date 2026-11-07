@@ -454,7 +454,7 @@ export default function KochiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順25台/駐車料金：1000円、大型・中型バス、ＲＶ車も可(バス等は料金が異なります)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応が最高、また泊まりたい!外壁の工事中で、駐車場の入口がわからずに電話してから伺いました。その電話対応からものすごくよくて、めちゃめちゃ期待しましたが、全くその通りでした。地下駐車…　2026-08-02 08:41:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応が最高、また泊まりたい!外壁の工事中で、駐車場の入口がわからずに電話してから伺いました。その電話対応からものすごくよくて、めちゃめちゃ期待しましたが、全くその通りでした。地下駐車…」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function KochiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車５００円（トラック・大型車・キャンピングカー駐車不可）バイク３００円お車の鍵をお預かりし移動有り。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.07 ／ 部屋 ★4.06 ／ 設備 ★4.06 ／ 風呂 ★4.16 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂はいいお風呂はよかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/8682?reviewId=3312…　2026-10-10 09:16:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂はいいお風呂はよかったです」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function KochiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋根付駐車場を【500円／1泊・先着順】でご利用いただけます。（台数に限りがございます）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.22 ／ 部屋 ★4.44 ／ 設備 ★4.36 ／ 風呂 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても快適で心地よい時間とても快適でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/182859?revi…　2026-10-04 06:50:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても快適で心地よい時間とても快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function KochiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（１５０台／無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.32 ／ 部屋 ★4.13 ／ 設備 ★4.06 ／ 風呂 ★4.17 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の中にゴキブリが出現ゴキが出てきたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/44261?reviewId=…　2026-10-11 00:20:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の中にゴキブリが出現ゴキが出てきた」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function KochiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>予約不可※1泊800円(15:00〜翌10：00)　ご到着順にフロントにて駐車場所を指定</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.03 ／ 部屋 ★4.14 ／ 設備 ★4.14 ／ 風呂 ★4.03 ／ 食事 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「檜の香りに包まれてぐっすり快眠できた睡眠特化のホテルだけあって自分の家よりぐっすり眠れました!檜のいい香りがしてリラックスできますしモクテルのドリンクサービスも嬉しかったです!初めての高知旅行がと…　2026-10-08 18:51:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「檜の香りに包まれてぐっすり快眠できた睡眠特化のホテルだけあって自分の家よりぐっすり眠れました!檜のいい香りがしてリラックスできますしモクテルのドリンクサービスも嬉しかったです!初めての高知旅行がと…」
                   </blockquote>
                 </div>
               </div>

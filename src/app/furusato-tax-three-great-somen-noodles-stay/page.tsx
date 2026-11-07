@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>１６台　無料　先着順　R２４『南八木』交差点東側　当館より徒歩２～３分　詳細はフロントにてご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素泊まりには便利だが清掃と備品に難あり素泊まりには十分。駅周辺でもあり、飲食店は多いので困らない。無料駐車場は限られてて、若干狭い、少し歩く必要あり。有料も周辺にあるので困る事はない。部屋…　2026-07-13 20:43:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素泊まりには便利だが清掃と備品に難あり素泊まりには十分。駅周辺でもあり、飲食店は多いので困らない。無料駐車場は限られてて、若干狭い、少し歩く必要あり。有料も周辺にあるので困る事はない。部屋…」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p>【日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「非日常景色が良い。建物も味があって内装も綺麗にされていて清掃もできているので良かったが、プラスアルファが欲しいかな。クチコミの詳細はこちらから　https://review.travel.ra…　2026-08-28 18:07:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「非日常景色が良い。建物も味があって内装も綺麗にされていて清掃もできているので良かったが、プラスアルファが欲しいかな。」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１６台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周りには何もない所ですが窓からの景色がとても良く、部屋もきれいで広く最高でした。スタッフの方も親しみやすく、とてもくつろげました。また、行きたいです。クチコミの詳細はこちらから　https://r…　2026-09-02 16:06:18投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=192875&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周りには何もない所ですが窓からの景色がとても良く、部屋もきれいで広く最高でした。スタッフの方も親しみやすく、とてもくつろげました。また、行きたいです。」
                   </blockquote>
                 </div>
               </div>

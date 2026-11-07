@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.35 ／ 部屋 ★4.05 ／ 設備 ★3.93 ／ 風呂 ★4.13 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「還暦祝いの眺望と食事、三味線に満足還暦祝いの旅行で利用しました。部屋からの眺めも良く食事も美味しかったです。津軽三味線の生演奏も良かった。露天風呂の床が滑りやすかったのが残念です。クチコミの詳…　2026-10-05 14:57:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「還暦祝いの眺望と食事、三味線に満足還暦祝いの旅行で利用しました。部屋からの眺めも良く食事も美味しかったです。津軽三味線の生演奏も良かった。露天風呂の床が滑りやすかったのが残念です。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　約３０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.15 ／ 部屋 ★4.27 ／ 設備 ★4.22 ／ 風呂 ★4.36 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「弘前駅からの送迎と充実の食事でゆったり弘前駅から送迎もあり、鉄道での移動であっても利用しやすかったです。オールインクルーシブで飲み物も充実しており、夕食、朝食とも適量でおいしくいただけました。…　2026-10-09 21:44:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「弘前駅からの送迎と充実の食事でゆったり弘前駅から送迎もあり、鉄道での移動であっても利用しやすかったです。オールインクルーシブで飲み物も充実しており、夕食、朝食とも適量でおいしくいただけました。…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.48 ／ 部屋 ★4.1 ／ 設備 ★4.02 ／ 風呂 ★4.14 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工事の音が煩く、時間帯を考慮してほしい滞在した時に眼下で工事をやってました。工事は必須かわかりませんが、音が煩く、ならチェックアウトからチェックイン迄の時間にやってもらいたかった。クチコミの詳…　2026-10-10 06:57:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工事の音が煩く、時間帯を考慮してほしい滞在した時に眼下で工事をやってました。工事は必須かわかりませんが、音が煩く、ならチェックアウトからチェックイン迄の時間にやってもらいたかった。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.44 ／ 部屋 ★3.98 ／ 設備 ★3.96 ／ 風呂 ★4.48 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「真夏はエアコンがなく少し暑いかもしれないエアコン等が無いので、真夏はちょっと暑いかも?クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-10-04 17:37:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「真夏はエアコンがなく少し暑いかもしれないエアコン等が無いので、真夏はちょっと暑いかも?」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　宿泊者無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.6 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの工夫と三味線ライブが楽しい天ぷらを天丼にできたり、ソフトクリームをパフェにできたり、ただチョイスするだけのバイキングではなく好きなようやに変化できるのが楽しかったです。また、多くの口コ…　2026-10-05 21:14:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの工夫と三味線ライブが楽しい天ぷらを天丼にできたり、ソフトクリームをパフェにできたり、ただチョイスするだけのバイキングではなく好きなようやに変化できるのが楽しかったです。また、多くの口コ…」
                   </blockquote>
                 </div>
               </div>

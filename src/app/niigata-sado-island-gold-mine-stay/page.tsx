@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。スタッフの方の対応も素…　2026-08-20 21:54:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。スタッフの方の対応も素…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで美味しい食事に大満足!初めての佐渡島家族旅行でした。観光は大変記念になりました。宿泊した宿もリーズナブルだけどおいしい食事で大変満足しました。また来たいです。クチコミの詳細はこち…　2026-08-18 13:10:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで美味しい食事に大満足!初めての佐渡島家族旅行でした。観光は大変記念になりました。宿泊した宿もリーズナブルだけどおいしい食事で大変満足しました。また来たいです。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と新鮮な魚介、親切な対応に大満足とても眺めがよく、夕飯はお腹いっぱいになるほどの量でした。旅館の従業員や女将さんもとても親切です。追加でさサザエの刺身を注文したところ、なかなかこないなぁと…　2026-08-25 20:45:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と新鮮な魚介、親切な対応に大満足とても眺めがよく、夕飯はお腹いっぱいになるほどの量でした。旅館の従業員や女将さんもとても親切です。追加でさサザエの刺身を注文したところ、なかなかこないなぁと…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく部屋も清潔、接客も親切ご飯も美味しく部屋の掃除も行き届いていたので快適に過ごせました。フロントの方もとても親切でした。クチコミの詳細はこちらから　https://review…　2026-08-28 00:53:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく部屋も清潔、接客も親切ご飯も美味しく部屋の掃除も行き届いていたので快適に過ごせました。フロントの方もとても親切でした。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【新潟・佐渡島＆相川金山：世界遺産佐渡金山・たらい舟＆】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮な魚介と花火、温泉で癒やされる旅夕食も朝食も魚介がたくさんで美味しかったです。ちょうど両津港の花火も宿の前の浜からみることができよかったです。温泉も泉質がよく日焼けした肌が癒されました。ク…　2026-08-12 19:15:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮な魚介と花火、温泉で癒やされる旅夕食も朝食も魚介がたくさんで美味しかったです。ちょうど両津港の花火も宿の前の浜からみることができよかったです。温泉も泉質がよく日焼けした肌が癒されました。ク…」
                   </blockquote>
                 </div>
               </div>

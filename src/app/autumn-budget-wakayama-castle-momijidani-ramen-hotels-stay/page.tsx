@@ -421,7 +421,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1000円★近鉄百貨店様と同じ立体駐車場の最上階からホテル連絡通路利用★24時間入出庫自由</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.32 ／ 部屋 ★4.24 ／ 設備 ★4.14 ／ 風呂 ★4.1 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「和歌山駅から近く、次回も利用したい利便性和歌山駅から近く、大変満足しています。タクシーも速やかに乗れる環境で、次回も利用したいと思います。クチコミの詳細はこちらから　https://rev…　2026-10-06 13:42:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「和歌山駅から近く、次回も利用したい利便性和歌山駅から近く、大変満足しています。タクシーも速やかに乗れる環境で、次回も利用したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>乗用車駐車台数198台(内　障がい者用3台) 屋外駐車場無料　事前予約は承っておりません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり食事も美味しく大満足宿泊費がそこそこ安価でしたので過度な期待はせず行きました。古いホテルをリニューアルされてるようで、エアコン等旧式なものもありましたが、どこも清潔でお庭も手入れさ…　2026-08-23 00:18:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり食事も美味しく大満足宿泊費がそこそこ安価でしたので過度な期待はせず行きました。古いホテルをリニューアルされてるようで、エアコン等旧式なものもありましたが、どこも清潔でお庭も手入れさ…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外無料駐車場（約70台）13時&amp;amp;#12316;翌11時。時間外は有料につき公式HPを御確認下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しくドライヤーも使いやすい海はライブするせいで入れなかったのはとてもざんねんでした、これはホテルのせいではないのは分かるけど、白浜で泳ぎたかった。ご飯は美味しかった、ドライヤーどこの…　2026-08-17 16:53:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しくドライヤーも使いやすい海はライブするせいで入れなかったのはとてもざんねんでした、これはホテルのせいではないのは分かるけど、白浜で泳ぎたかった。ご飯は美味しかった、ドライヤーどこの…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetWakayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.53 ／ 部屋 ★4.49 ／ 設備 ★4.51 ／ 風呂 ★4.37 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/4737?reviewId=33123479684227　2026-10-10 18:01:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>

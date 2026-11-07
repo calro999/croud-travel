@@ -421,7 +421,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>外部提携駐車場「マイアミパーク駐車場」1泊1000円　※途中出庫ある場合別途精算が必要となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.09 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天文館から近く静かで、朝食も美味しく快適おそらく5回以上利用しております。天文館から歩ける範囲の静かな場所です。ゆっくりと寝れて、駐車場も近く利便性はよいと思います。朝食もメニューからの選択となり…　2026-10-05 10:15:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天文館から近く静かで、朝食も美味しく快適おそらく5回以上利用しております。天文館から歩ける範囲の静かな場所です。ゆっくりと寝れて、駐車場も近く利便性はよいと思います。朝食もメニューからの選択となり…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場３００台。週末は混雑する場合がございます。予めご了承くださいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客もよく、部屋もキレイ、アメニティも揃ってる。あまり期待していなかった温泉は予想に反して大変良かった。本当に温泉でした!笑そして、朝食が大変美味しかった。航空関係者(パイロットやCA)も沢山…　2026-08-26 19:06:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客もよく、部屋もキレイ、アメニティも揃ってる。あまり期待していなかった温泉は予想に反して大変良かった。本当に温泉でした!笑そして、朝食が大変美味しかった。航空関係者(パイロットやCA)も沢山…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：センテラスパーキング・丸屋第一駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.41 ／ 部屋 ★4.51 ／ 設備 ★4.5 ／ 風呂 ★4.48 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お土産付きプランがとても良かったお土産プラン良かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1527?rev…　2026-10-03 16:29:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お土産付きプランがとても良かったお土産プラン良かった」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetKagoshimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>コインパーキング10台　ホテル利用時1泊1,000円　14：30〜11：30　予約不可・高さ制限2m</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.26 ／ 部屋 ★4.19 ／ 設備 ★4.19 ／ 風呂 ★4.46 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナと食事が最高、昔ながらの良さがあるサウナ最高、ご飯も最高!昔ながらですが、とてもいいホテルです!クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-10-08 17:00:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナと食事が最高、昔ながらの良さがあるサウナ最高、ご飯も最高!昔ながらですが、とてもいいホテルです!」
                   </blockquote>
                 </div>
               </div>

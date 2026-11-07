@@ -355,7 +355,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　無料　（大型車・中型車は駐車できません）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「男女交代制のお風呂で入浴時間に気を使う大きいお風呂を使う際、男女交代制の為入浴時間が設けられているので、時間をきにしながら外での夕食に気を使いました。我が家は、男性は先に入浴済ませそれからみん…　2026-07-22 14:41:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「男女交代制のお風呂で入浴時間に気を使う大きいお風呂を使う際、男女交代制の為入浴時間が設けられているので、時間をきにしながら外での夕食に気を使いました。我が家は、男性は先に入浴済ませそれからみん…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒毛和牛が絶品、部屋も広くて快適黒毛和牛の肉が柔らかく絶品でした。夕食・朝食とも品数が多く満足でした。また、部屋は2部屋あり寝室は広くゆったりし空調が行き届いて快適でした。(南側に広い廊下ある…　2026-08-03 22:42:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒毛和牛が絶品、部屋も広くて快適黒毛和牛の肉が柔らかく絶品でした。夕食・朝食とも品数が多く満足でした。また、部屋は2部屋あり寝室は広くゆったりし空調が行き届いて快適でした。(南側に広い廊下ある…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 100台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から特急あずさやかいじが見える!部屋から、特急あずさ、かいじが見えました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-08-29 17:19:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から特急あずさやかいじが見える!部屋から、特急あずさ、かいじが見えました。」
                   </blockquote>
                 </div>
               </div>

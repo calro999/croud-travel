@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【繊細なカットが生み出す光の芸術】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事…　2026-09-10 01:46:02投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=128473&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【繊細なカットが生み出す光の芸術】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高、また来たい旅館大変満足した1日でした。夕食、朝食共に見栄えに味申し分ありません。朝食は胃にとてもやさしい味付け。お風呂もとても素敵でした。担当に付いてくれた…　2026-09-19 13:47:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高、また来たい旅館大変満足した1日でした。夕食、朝食共に見栄えに味申し分ありません。朝食は胃にとてもやさしい味付け。お風呂もとても素敵でした。担当に付いてくれた…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【繊細なカットが生み出す光の芸術】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…　2026-09-19 17:22:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…」
                   </blockquote>
                 </div>
               </div>

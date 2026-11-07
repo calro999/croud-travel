@@ -505,7 +505,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　46台　1200円(１泊）　先着順となります。チェックイン前でもお車をお預かりいたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中庭ビューの部屋でしたが、特に不満はありませんでした。ユニットバスで無い独立した風呂があるのは、夏の暑い時期でしたので大変良かったです。建物は古いですが、清掃が行き届き綺麗でした。運河沿い…　2026-08-25 07:19:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中庭ビューの部屋でしたが、特に不満はありませんでした。ユニットバスで無い独立した風呂があるのは、夏の暑い時期でしたので大変良かったです。建物は古いですが、清掃が行き届き綺麗でした。運河沿い…」
                   </blockquote>
                 </div>
               </div>
@@ -527,7 +527,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　37台　1,200円　先着順/満車時は周辺のコインパーキングへご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「運河を一望できる広い部屋と朝食に大満足友人との旅行で宿泊。滅多に旅行も出来ないから良い部屋を予約したら運河が一望出来る広い部屋で最高でした。朝食も海鮮やアイヌ料理なんかも食べられて友人も喜んで…　2026-08-28 18:38:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「運河を一望できる広い部屋と朝食に大満足友人との旅行で宿泊。滅多に旅行も出来ないから良い部屋を予約したら運河が一望出来る広い部屋で最高でした。朝食も海鮮やアイヌ料理なんかも食べられて友人も喜んで…」
                   </blockquote>
                 </div>
               </div>
@@ -549,7 +549,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　1500円（税込／１泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく快適オープンして3年程度のため新しくてきれいです。客室のベッドは高め、下にスーツケースが入る仕様。硬めのマットレスです。朝食はパンやサラダ、フルーツなどのほかにバラちらしなどの魚介、オハ…　2026-08-29 17:39:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく快適オープンして3年程度のため新しくてきれいです。客室のベッドは高め、下にスーツケースが入る仕様。硬めのマットレスです。朝食はパンやサラダ、フルーツなどのほかにバラちらしなどの魚介、オハ…」
                   </blockquote>
                 </div>
               </div>
@@ -571,7 +571,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>2台あり・先着順（高さ制限有H１８００までの車に限る）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.42 ／ 部屋 ★4.43 ／ 設備 ★4.28 ／ 風呂 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃不足とコンセント不足で不便を感じるベッド、エアコンが埃だらけで清掃されていない。ベッドのマットレスはかなり薄いので、気になる方は要注意。ベッドにコンセントは有るが、テレビ、テーブル周辺…　2026-10-10 18:24:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃不足とコンセント不足で不便を感じるベッド、エアコンが埃だらけで清掃されていない。ベッドのマットレスはかなり薄いので、気になる方は要注意。ベッドにコンセントは有るが、テレビ、テーブル周辺…」
                   </blockquote>
                 </div>
               </div>

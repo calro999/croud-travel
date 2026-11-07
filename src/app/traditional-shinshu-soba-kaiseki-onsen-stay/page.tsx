@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.28 ／ 部屋 ★4.34 ／ 設備 ★4.26 ／ 風呂 ★4.58 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天からの夜景と柔らかいお湯に癒やされる露天からの夜景が綺麗でした。とにかくお湯が柔らかい。100年前の鎌倉に来たような、レトロな駅舎、古い仏閣が立ち並ぶ古都の風情が良かったです。クチコミ…　2026-10-10 20:50:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天からの夜景と柔らかいお湯に癒やされる露天からの夜景が綺麗でした。とにかくお湯が柔らかい。100年前の鎌倉に来たような、レトロな駅舎、古い仏閣が立ち並ぶ古都の風情が良かったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【挽きたて・打ちたて・茹でたて】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.48 ／ 部屋 ★4.71 ／ 設備 ★4.66 ／ 風呂 ★4.63 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。昨年は時期が少し早くてお目にかかれず残念な思いをしたので、今年は是非にと思い松…　2026-10-07 19:42:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。昨年は時期が少し早くてお目にかかれず残念な思いをしたので、今年は是非にと思い松…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。室内に電話が無く、浴衣を交換するのにフロントまで出向かなくてはな…　2026-08-16 12:58:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。室内に電話が無く、浴衣を交換するのにフロントまで出向かなくてはな…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　すべて可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★3.97 ／ 部屋 ★3.93 ／ 設備 ★3.8 ／ 風呂 ★4.4 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理を堪能、お風呂も親切な対応で満足犬と泊まれる宿なので以前も泊まりに行きました今回はあいにくの雨でしたが今年は松茸が沢山取れているらしく街の駅(佐久穂)道の駅にも沢山売っていました今…　2026-09-28 19:59:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理を堪能、お風呂も親切な対応で満足犬と泊まれる宿なので以前も泊まりに行きました今回はあいにくの雨でしたが今年は松茸が沢山取れているらしく街の駅(佐久穂)道の駅にも沢山売っていました今…」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.54 ／ 風呂 ★4.64 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は良いが露天風呂の視線が気になる食事は大変良かったです。従業員の方々の対応も良かった。客室露天風呂付きの部屋でしたが、他の部屋から見える。あまり温泉の湯という感じもしない。ク…　2026-10-09 14:02:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は良いが露天風呂の視線が気になる食事は大変良かったです。従業員の方々の対応も良かった。客室露天風呂付きの部屋でしたが、他の部屋から見える。あまり温泉の湯という感じもしない。ク…」
                   </blockquote>
                 </div>
               </div>

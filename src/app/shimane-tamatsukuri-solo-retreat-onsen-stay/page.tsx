@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：無料　当館スタッフが駐車場へお車を移動します。お車の鍵はフロントでお預かり致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.55 ／ 部屋 ★4.54 ／ 設備 ★4.52 ／ 風呂 ★4.66 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も部屋もすべて満足食事、温泉、部屋とも満足でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/78…　2026-10-10 13:15:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も部屋もすべて満足食事、温泉、部屋とも満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古めだが清潔、お部屋食でゆったり施設は年月を感じますが、清潔でした。お風呂も気持ちよく、食事もお部屋食で楽しめました。クチコミの詳細はこちらから　https://review.tra…　2026-09-12 12:43:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古めだが清潔、お部屋食でゆったり施設は年月を感じますが、清潔でした。お風呂も気持ちよく、食事もお部屋食で楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>約100台駐車できるスペース有り（無料）。大型車は事前にご連絡ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.04 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.14 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素敵なひとときでしたパイキングのローストビーフがとても美味しかったです。ご当地の食材など種類豊富でとても満足でした。部屋に備えてあったアメニティがとても素敵で使うのがもったいないぐ…　2026-10-07 11:53:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素敵なひとときでしたパイキングのローストビーフがとても美味しかったです。ご当地の食材など種類豊富でとても満足でした。部屋に備えてあったアメニティがとても素敵で使うのがもったいないぐ…」
                   </blockquote>
                 </div>
               </div>

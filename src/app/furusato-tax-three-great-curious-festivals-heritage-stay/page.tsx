@@ -633,7 +633,7 @@ export default function Page() {
                   <p>【日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「裏側の部屋からは湖が見えず残念な結果に紅やさんに泊まれると密かにワクワクして投宿わかっていたことですが湖畔のホテルですが裏側のお部屋からは湖は1ミリも見えませんなんだか残念感の残る結果に自…　2026-09-05 11:03:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「裏側の部屋からは湖が見えず残念な結果に紅やさんに泊まれると密かにワクワクして投宿わかっていたことですが湖畔のホテルですが裏側のお部屋からは湖は1ミリも見えませんなんだか残念感の残る結果に自…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>大駐車場有り：50台（無料・先着順）到着されたらフロントにて場所をご確認下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が便利で、駅に程よく近い家族が泊まりにくる時に利用させていただいております。駐車場もチェックイン前からチェックイン後まで停めさせてもらえるのでとても助かっています!いつも泊まっている…　2026-09-02 13:41:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が便利で、駅に程よく近い家族が泊まりにくる時に利用させていただいております。駐車場もチェックイン前からチェックイン後まで停めさせてもらえるのでとても助かっています!いつも泊まっている…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p>【日本三大奇祭＆天下の熱狂カルチャー宿×ふるさと納税ガ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.86 ／ 風呂 ★4.11 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「姉妹での古希祝い旅姉妹で古希祝いの旅行をしました。料理も美味しく思い出深いおもいでとなりました。お世話になりました。クチコミの詳細はこちらから　https://review.trave…　2026-10-10 14:04:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「姉妹での古希祝い旅姉妹で古希祝いの旅行をしました。料理も美味しく思い出深いおもいでとなりました。お世話になりました。」
                   </blockquote>
                 </div>
               </div>

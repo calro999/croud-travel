@@ -525,7 +525,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料：1台１泊 1,000円 （地下・予約不要・精算はフロント）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.66 ／ 部屋 ★4.6 ／ 設備 ★4.47 ／ 風呂 ★4.39 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「非日常感に癒やされてリラックスできたとても非日常感を味わえてリラックス出来ました!!また利用させていただきます。他の画像やクチコミの詳細はこちらから　https://review.trav…　2026-10-10 11:09:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「非日常感に癒やされてリラックスできたとても非日常感を味わえてリラックス出来ました!!また利用させていただきます。」
                   </blockquote>
                 </div>
               </div>
@@ -547,7 +547,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊につき1台1000円（税込）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.31 ／ 部屋 ★4.22 ／ 設備 ★3.96 ／ 風呂 ★4.05 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされた客室が明るく快適外観や廊下はレトロな雰囲気でしたが、客室はリニューアルされており、とても綺麗です。窓が大きく、日差したっぷりで明るいお部屋でした。駅から地下道でアクセスできるとい…　2026-10-09 21:35:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされた客室が明るく快適外観や廊下はレトロな雰囲気でしたが、客室はリニューアルされており、とても綺麗です。窓が大きく、日差したっぷりで明るいお部屋でした。駅から地下道でアクセスできるとい…」
                   </blockquote>
                 </div>
               </div>
@@ -569,7 +569,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料 200台2階建平面駐車場（大型バス・トラックは除く）。屋根付きだからバイクも安心</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.35 ／ 部屋 ★4.24 ／ 設備 ★4.16 ／ 風呂 ★3.95 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食に大満足、浜松城公園の散歩も最高金曜日の夜に一泊しました。部屋は清潔でしたが、若干の古さは否めない感じ。朝食は品数、味ともとても満足でした。隣が浜松城公園で朝食後に散歩をしました。とても気分が…　2026-10-10 20:17:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食に大満足、浜松城公園の散歩も最高金曜日の夜に一泊しました。部屋は清潔でしたが、若干の古さは否めない感じ。朝食は品数、味ともとても満足でした。隣が浜松城公園で朝食後に散歩をしました。とても気分が…」
                   </blockquote>
                 </div>
               </div>

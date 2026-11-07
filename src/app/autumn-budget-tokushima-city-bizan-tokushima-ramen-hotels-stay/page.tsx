@@ -506,7 +506,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内有料駐車場: 4台　先着順サイズ制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★3.93 ／ 設備 ★3.86 ／ 風呂 ★3.77 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが部屋が狭く期待外れ駅から近いのはわかっていたのでアパホテルの看板?探してついつい上を見上げましたが見えずGoogleマップを使って辿り着きました 駅からすぐでよかったのですが部屋がと…　2026-10-08 16:47:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが部屋が狭く期待外れ駅から近いのはわかっていたのでアパホテルの看板?探してついつい上を見上げましたが見えずGoogleマップを使って辿り着きました 駅からすぐでよかったのですが部屋がと…」
                   </blockquote>
                 </div>
               </div>
@@ -528,7 +528,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>600円/泊 日中駐車代金400円※23時以降お車の出入不可。10月1日より駐車代金改訂となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.93 ／ 部屋 ★3.86 ／ 設備 ★3.71 ／ 風呂 ★3.81 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エレベーター完備で移動が楽、朝食も絶品エレベーターがあるので、キャリーバックがあっても問題なく部屋まで行けます。朝食のバイキングがとてもおいしかったです。クチコミの詳細はこちらから　htt…　2026-09-25 13:21:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エレベーター完備で移動が楽、朝食も絶品エレベーターがあるので、キャリーバックがあっても問題なく部屋まで行けます。朝食のバイキングがとてもおいしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -550,7 +550,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.49 ／ 部屋 ★4.35 ／ 設備 ★4.22 ／ 風呂 ★4.29 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。お風呂場は洗い場の排水が追いついていないのか?ザブザブと溜まっ…　2026-10-09 13:26:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。お風呂場は洗い場の排水が追いついていないのか?ザブザブと溜まっ…」
                   </blockquote>
                 </div>
               </div>
@@ -572,7 +572,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>600円/泊・日中駐車400円※2026年10月1日より700円/泊・日中駐車500円に変更</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★3.96 ／ 部屋 ★3.99 ／ 設備 ★4.05 ／ 風呂 ★3.96 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回も美味しい朝食に大満足、また利用したい2度目のリピです。今回も美味しい朝食で、満足です。また徳島に伺う機会があれば、利用させていただきます。クチコミの詳細はこちらから　https:…　2026-10-08 13:30:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回も美味しい朝食に大満足、また利用したい2度目のリピです。今回も美味しい朝食で、満足です。また徳島に伺う機会があれば、利用させていただきます。」
                   </blockquote>
                 </div>
               </div>

@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.22 ／ 部屋 ★4.17 ／ 設備 ★4.31 ／ 風呂 ★4.5 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。出来立てが出てくるのでビュッフェより圧倒的に美味しいですし、出来立てを差し引いてもシンプルに…　2026-10-09 18:04:44投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=109464&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。出来立てが出てくるのでビュッフェより圧倒的に美味しいですし、出来立てを差し引いてもシンプルに…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　57台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.67 ／ 部屋 ★4.35 ／ 設備 ★4.31 ／ 風呂 ★4.21 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、ゆったりと佐渡時間を楽しめますとにかくお料理が美味しかったです。鮮度はもちろんのこと、ひとつひとつのが丁寧で心がこもったお料理でした。普段、あれだけ沢山いただくと胸やけしてしまうの…　2026-10-05 19:57:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、ゆったりと佐渡時間を楽しめますとにかくお料理が美味しかったです。鮮度はもちろんのこと、ひとつひとつのが丁寧で心がこもったお料理でした。普段、あれだけ沢山いただくと胸やけしてしまうの…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　700台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.47 ／ 部屋 ★4.28 ／ 設備 ★4.39 ／ 風呂 ★4.54 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ドームの部屋にカビが多くて驚いたドームの部屋のカビが凄くて汚かった。窓やドームに結露が凄くてカビも仕方ないと思いますが覚悟していた以上にカビが凄くて驚いた。クチコミの詳細はこちらから　http…　2026-10-10 19:12:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ドームの部屋にカビが多くて驚いたドームの部屋のカビが凄くて汚かった。窓やドームに結露が凄くてカビも仕方ないと思いますが覚悟していた以上にカビが凄くて驚いた。」
                   </blockquote>
                 </div>
               </div>

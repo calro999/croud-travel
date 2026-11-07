@@ -637,7 +637,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有４０台無料　係員が駐車場までご案内します　Google map「寿亭専用駐車場」と検索してください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.44 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.51 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と美味しい食事でゆったりと旅館自体は古いですが趣のある感じで寛げました。お食事も美味しかったですし器も素敵でした貸切風呂は綺麗でのんびり過ごせました。クチコミの詳細はこちら…　2026-10-09 19:48:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と美味しい食事でゆったりと旅館自体は古いですが趣のある感じで寛げました。お食事も美味しかったですし器も素敵でした貸切風呂は綺麗でのんびり過ごせました。クチコミの詳細はこちら…」
                   </blockquote>
                 </div>
               </div>
@@ -659,7 +659,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　先着順　（ナビでは湯の山郵便局で検索）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.3 ／ 部屋 ★4.5 ／ 設備 ★4.38 ／ 風呂 ★4.39 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れでも食事が美味しくのんびり満喫0歳児と3歳をつれていきましたが、とても過しやすく、大人はごはんが夕食も朝食も美味しくてのんびりできたのでとってもよかったです。またこのあたりに来る機会があ…　2026-10-11 00:01:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れでも食事が美味しくのんびり満喫0歳児と3歳をつれていきましたが、とても過しやすく、大人はごはんが夕食も朝食も美味しくてのんびりできたのでとってもよかったです。またこのあたりに来る機会があ…」
                   </blockquote>
                 </div>
               </div>
@@ -681,7 +681,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料♪５０台C/IN前、OUT後の利用可。無料温水シャワー・ロッカー有◆海まで徒歩１分強</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が最高で大満足!料理が最高でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/4723?reviewId=3…　2026-08-22 20:08:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が最高で大満足!料理が最高でした!」
                   </blockquote>
                 </div>
               </div>
@@ -703,7 +703,7 @@ export default function FurusatoFeaturePage() {
                   <p>【最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋付き露天風呂と心温まるおもてなし各部屋に信楽焼の温泉露天風呂がついています。シャワールームと繋がって露天風呂スペースとしては少し狭いですが、1人でお湯を楽しむには丁度良いです。館内畳敷なの… 2026-07-21 19:37:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋付き露天風呂と心温まるおもてなし各部屋に信楽焼の温泉露天風呂がついています。シャワールームと繋がって露天風呂スペースとしては少し狭いですが、1人でお湯を楽しむには丁度良いです。館内畳敷なの…」
                   </blockquote>
                 </div>
               </div>
@@ -725,7 +725,7 @@ export default function FurusatoFeaturePage() {
                   <p>【最高級黒毛和牛ステーキ＆鉄板焼きカウンター宿×ふるさ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。夜は近江牛、朝は地元の佃煮や温泉玉子、海苔、点数をつける…　2026-09-18 06:39:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。夜は近江牛、朝は地元の佃煮や温泉玉子、海苔、点数をつける…」
                   </blockquote>
                 </div>
               </div>
@@ -747,7 +747,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　敷地内・外に30台無料　共同駐車場100台無料。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高だが夏場の脱衣所に冷房が欲しい小野川温泉の「湯杜 匠味庵 山川」での宿泊は、素晴らしい体験でした。特にお食事が美味しく、和朝食の「源泉粥」はまろやかなコクが体に優しく染み渡るものでした。…　2026-08-27 10:16:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高だが夏場の脱衣所に冷房が欲しい小野川温泉の「湯杜 匠味庵 山川」での宿泊は、素晴らしい体験でした。特にお食事が美味しく、和朝食の「源泉粥」はまろやかなコクが体に優しく染み渡るものでした。…」
                   </blockquote>
                 </div>
               </div>

@@ -333,7 +333,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎ありでアクセス良好、食事も絶品で大満足香深港フェリーターミナルからは離れていますが、送迎をしてくれますし、路線バスのバス停にも近く、不便はありません。設備面では、部屋もレストランも大浴場も…　2026-08-08 21:43:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎ありでアクセス良好、食事も絶品で大満足香深港フェリーターミナルからは離れていますが、送迎をしてくれますし、路線バスのバス停にも近く、不便はありません。設備面では、部屋もレストランも大浴場も…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>200台有　宿泊者無料　予約不要　那覇空港から一番近いリゾートホテル</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウミカジテラス至近で温泉と朝食に大満足ウミカジテラス ほぼ敷地内にある 部屋風呂温泉ありの立地最高ホテル駐車場も広く心配ない掃除も行き届いており気持ちよく過ごせましたフロントスタッフの…　2026-08-12 06:58:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウミカジテラス至近で温泉と朝食に大満足ウミカジテラス ほぼ敷地内にある 部屋風呂温泉ありの立地最高ホテル駐車場も広く心配ない掃除も行き届いており気持ちよく過ごせましたフロントスタッフの…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>北谷アメリカンビレッジ近くのホテルに隣接の自走式立体駐車場無料　250台収容可能！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は綺麗で満足、お風呂の混雑状況が知りたいスタッフさんも優しく、施設も綺麗でした!ただ、お風呂に関して、プールの利用客でシャワーが埋まっていたり、脱衣場のロッカーが下の方しか空いていなか…　2026-08-21 08:21:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は綺麗で満足、お風呂の混雑状況が知りたいスタッフさんも優しく、施設も綺麗でした!ただ、お風呂に関して、プールの利用客でシャワーが埋まっていたり、脱衣場のロッカーが下の方しか空いていなか…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>台数：屋外78台(無料)／時間：15:00〜翌11:00　／　先着順(事前予約・滞在中の確保不可)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.57 ／ 部屋 ★4.68 ／ 設備 ★4.47 ／ 風呂 ★4.46 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で朝食も美味しく、屋上の景色も最高部屋はとてもきれいで、オシャレでした。トースターもどう掃除しているのかとてもきれいで、関心しました。受付の接客は普通でしたが、朝食会場のスタッフはと…　2026-10-05 12:58:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で朝食も美味しく、屋上の景色も最高部屋はとてもきれいで、オシャレでした。トースターもどう掃除しているのかとてもきれいで、関心しました。受付の接客は普通でしたが、朝食会場のスタッフはと…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場★先着順46台1泊1,500円 【車高1.8m制限有】※新規入庫は23時迄</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.04 ／ 部屋 ★3.89 ／ 設備 ★3.94 ／ 風呂 ★3.99 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「寝るだけなら十分、大浴場が助かるアパホテルなのでお部屋は広くはないですが寝るだけなら十分です。清潔にされています。大浴場があるのが助かりました。クチコミの詳細はこちらから　https:…　2026-10-10 09:55:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「寝るだけなら十分、大浴場が助かるアパホテルなのでお部屋は広くはないですが寝るだけなら十分です。清潔にされています。大浴場があるのが助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場「Dパーキング中洲5丁目第一／第三／第六」24時間2,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「安くで泊まれて朝食も付いてグッド安い料金で部屋を取ったのでロケーションや部屋の狭さはしょうがない。安いのに朝食はお腹いっぱい食べれて特におにぎりが美味しかった。夜のフリードリンクもカクテルを飲んで…　2026-08-20 10:11:55投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=168795&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「安くで泊まれて朝食も付いてグッド安い料金で部屋を取ったのでロケーションや部屋の狭さはしょうがない。安いのに朝食はお腹いっぱい食べれて特におにぎりが美味しかった。夜のフリードリンクもカクテルを飲んで…」
                   </blockquote>
                 </div>
               </div>

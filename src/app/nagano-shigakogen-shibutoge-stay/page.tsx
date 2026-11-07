@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場はいつでも入れるが料理と備品は物足りない大浴場がいつでも入れるのが良かったアメニティが少ないのが残念でした料理は物足らない感じでしたクチコミの詳細はこちらから　https://r…　2026-07-30 17:59:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場はいつでも入れるが料理と備品は物足りない大浴場がいつでも入れるのが良かったアメニティが少ないのが残念でした料理は物足らない感じでした」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高だが清掃と接客に改善の余地あり温泉はとても良い泉質です。硫黄泉のガスの影響もあってか施設はかなり老朽化しており、あとどのくらい保つんだろうか。行くなら早めに行くのが良さそうです。…　2026-08-21 09:00:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高だが清掃と接客に改善の余地あり温泉はとても良い泉質です。硫黄泉のガスの影響もあってか施設はかなり老朽化しており、あとどのくらい保つんだろうか。行くなら早めに行くのが良さそうです。…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台。　当館前が満車の場合は徒歩３～４分の共同駐車場となります。共に無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質だけは満足できた温泉だけは良かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/7379?reviewI…　2026-08-24 11:47:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質だけは満足できた温泉だけは良かった」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションとサービスが良く食事も美味しいとにかくロケーションが良くサービスも良い。チェックインまで1時間ほど早めに到着しましたが、お部屋に通してもらえました。食事は品数も多くいつも美味しいです。…　2026-08-16 18:58:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションとサービスが良く食事も美味しいとにかくロケーションが良くサービスも良い。チェックインまで1時間ほど早めに到着しましたが、お部屋に通してもらえました。食事は品数も多くいつも美味しいです。…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・志賀高原＆渋峠：日本国道最高地点・雲海テラス＆】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「避暑には最高だが夕食は控えめ設備は古めですが館内は清潔で快適に過ごせましたし、お盆前に最高気温が23度と避暑には最高でした夕食は控えめのプランにしたのですが予想以上に控えめでしたク…　2026-08-16 19:11:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「避暑には最高だが夕食は控えめ設備は古めですが館内は清潔で快適に過ごせましたし、お盆前に最高気温が23度と避暑には最高でした夕食は控えめのプランにしたのですが予想以上に控えめでしたク…」
                   </blockquote>
                 </div>
               </div>

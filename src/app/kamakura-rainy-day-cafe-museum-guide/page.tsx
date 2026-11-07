@@ -580,7 +580,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車高1.9ｍ長さ5.1ｍ重さ2ｔ以内は先着順にて駐車可能。1泊1,100円。その他の場合は要問合せ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場のシャンプーバーとコーヒーが魅力大浴場が嬉しかった。ドラストで買えるようなシャントリが4種類くらい(ボタニストなど)選べてよかったです。ウェルカムドリンクのコーヒーもカプセル式で美味しか…　2026-08-28 23:52:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場のシャンプーバーとコーヒーが魅力大浴場が嬉しかった。ドラストで買えるようなシャントリが4種類くらい(ボタニストなど)選べてよかったです。ウェルカムドリンクのコーヒーもカプセル式で美味しか…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>周辺コインPへご案内　※一部コインPで使える【割引券】のご用意あり。詳細はフロントまで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「必要な備品は揃うが部屋はやや狭めフロント横に必要な備品あり。部屋はやや狭い。可もなく不可もなしでした。お世話になりました。クチコミの詳細はこちらから　https://review.travel…　2026-08-24 19:05:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「必要な備品は揃うが部屋はやや狭めフロント横に必要な備品あり。部屋はやや狭い。可もなく不可もなしでした。お世話になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -624,7 +624,7 @@ export default function KamakuraRainyDayCafeMuseumPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　無料　普通車のみ予約不要　但しトラック、マイクロバス（9ｍ以下）要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗だったがダニに刺された部屋はとても綺麗でしたが、ベットでダニに刺されました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-08-26 07:10:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗だったがダニに刺された部屋はとても綺麗でしたが、ベットでダニに刺されました。」
                   </blockquote>
                 </div>
               </div>

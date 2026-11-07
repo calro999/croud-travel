@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>約200台(無料・屋外)　200V普通充電2台-TerraChargeアプリ要(有料・予約優先)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「舟盛りでお腹いっぱい、温玉作りも楽しめた夫婦での利用で夕食は1人1台の舟盛りプラン。お腹いっぱいになりました。チェックインが夕方になってしまったので温玉作りとウェルカムコーヒーがギリギリでしたが、…　2026-08-28 23:28:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「舟盛りでお腹いっぱい、温玉作りも楽しめた夫婦での利用で夕食は1人1台の舟盛りプラン。お腹いっぱいになりました。チェックインが夕方になってしまったので温玉作りとウェルカムコーヒーがギリギリでしたが、…」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…　2026-10-10 21:27:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.31 ／ 部屋 ★4.26 ／ 設備 ★4.19 ／ 風呂 ★4.34 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。ただ天ぷ…　2026-10-10 22:17:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。ただ天ぷ…」
                   </blockquote>
                 </div>
               </div>

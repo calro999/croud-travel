@@ -333,7 +333,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>15台　無料　★要予約※駐車場所についてはご到着先着順です。近くの空地スペースになる場合がございます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と朝食に大満足、ゆっくり過ごせた温泉も大変よくまた朝の朝食も大変美味しく頂きました。本当にゆっくり出来るお宿でした。またお泊りしたいです。クチコミの詳細はこちらから　https://rev…　2026-09-08 06:39:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と朝食に大満足、ゆっくり過ごせた温泉も大変よくまた朝の朝食も大変美味しく頂きました。本当にゆっくり出来るお宿でした。またお泊りしたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.15 ／ 部屋 ★4.45 ／ 設備 ★4.33 ／ 風呂 ★4.51 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は量が多く、朝食の方がバランス良好夕食については食事の量が大変多く食べきれないぐらいありましたが、内容については 特筆するものはなかったと思います。朝食の方がバランスが取れてて良かったと思…　2026-09-08 16:16:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は量が多く、朝食の方がバランス良好夕食については食事の量が大変多く食べきれないぐらいありましたが、内容については 特筆するものはなかったと思います。朝食の方がバランスが取れてて良かったと思…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。リピ…　2026-08-21 19:19:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。リピ…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.63 ／ 部屋 ★4.49 ／ 設備 ★4.28 ／ 風呂 ★4.45 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「瀬戸内の絶景と清潔な館内、温泉に癒される旅播州赤穂温泉に予定して瀬戸内を望む旅館で呑海楼に決めました!大きな客室からは壮大な海の景色で天候に恵まれて綺麗な風景に癒されました^^古い旅館と仰…　2026-10-09 11:02:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「瀬戸内の絶景と清潔な館内、温泉に癒される旅播州赤穂温泉に予定して瀬戸内を望む旅館で呑海楼に決めました!大きな客室からは壮大な海の景色で天候に恵まれて綺麗な風景に癒されました^^古い旅館と仰…」
                   </blockquote>
                 </div>
               </div>

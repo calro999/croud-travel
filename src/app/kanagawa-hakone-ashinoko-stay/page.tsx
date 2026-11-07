@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p>【箱根・芦ノ湖＆元箱根：湖畔鳥居・海賊船＆富士ビュー極】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「芦ノ湖の絶景と充実のビュッフェに大満足部屋からの芦ノ湖の景色が良く、ビュッフェも充実していて美味しかったです。従業員の方の対応も良く、機会があればまた訪れたいです。クチコミの詳細はこちらから　…　2026-08-30 20:38:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「芦ノ湖の絶景と充実のビュッフェに大満足部屋からの芦ノ湖の景色が良く、ビュッフェも充実していて美味しかったです。従業員の方の対応も良く、機会があればまた訪れたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　２０台(1グループ1台まで）　先着順　無料（マイクロバス等の駐車はできません）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★3.66 ／ 部屋 ★3.74 ／ 設備 ★3.68 ／ 風呂 ★3.92 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は熱かったが対応が早く満足大浴場のお湯が熱くてゆっくり浸かれませんでしたがスタックに伝えたところ翌朝は適温で浸かることが出来ました 総合的には満足ですクチコミの詳細はこちらから　…　2026-09-20 07:03:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は熱かったが対応が早く満足大浴場のお湯が熱くてゆっくり浸かれませんでしたがスタックに伝えたところ翌朝は適温で浸かることが出来ました 総合的には満足です」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉でのんびり、良い時間を過ごせました温泉に入ってのんびりできて、良かったです。有難うございました。クチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-05-01 18:03:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉でのんびり、良い時間を過ごせました温泉に入ってのんびりできて、良かったです。有難うございました。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／屋外282台（宿泊者無料・予約不要）※12月より3月までは、積雪の恐れがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族で快適に過ごせて朝食も大満足!今回、スーペリアツインに宿泊。大人2人、小学生2人で泊まりましたが快適な広さでした。プレイルームには卓球台や色々なゲームがあり、子どもたちは楽しんでいました。…　2026-08-16 12:21:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族で快適に過ごせて朝食も大満足!今回、スーペリアツインに宿泊。大人2人、小学生2人で泊まりましたが快適な広さでした。プレイルームには卓球台や色々なゲームがあり、子どもたちは楽しんでいました。…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日のお祝いに宿泊しました子どもの誕生日当日に宿泊しました。デザートのプレートにメッセージを入れてもらうようお願いしましたが、子どもはとても喜んでいました。鱧など季節の食材も取り入れて美味しかっ…　2026-07-21 19:41:38投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184193&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日のお祝いに宿泊しました子どもの誕生日当日に宿泊しました。デザートのプレートにメッセージを入れてもらうようお願いしましたが、子どもはとても喜んでいました。鱧など季節の食材も取り入れて美味しかっ…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【北館】南館隣接駐車場に1室2台まで【南館】部屋により駐車場・台数が異なります※EV充電可能・先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬との初旅行、お風呂と足湯に大満足清潔感があり、お風呂も足湯も最高でした。ドッグランが芝生だとなお良かったです。はじめての愛犬との旅行でしたが楽しく過ごす事ができました。またぜひ利用…　2026-08-19 20:37:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬との初旅行、お風呂と足湯に大満足清潔感があり、お風呂も足湯も最高でした。ドッグランが芝生だとなお良かったです。はじめての愛犬との旅行でしたが楽しく過ごす事ができました。またぜひ利用…」
                   </blockquote>
                 </div>
               </div>

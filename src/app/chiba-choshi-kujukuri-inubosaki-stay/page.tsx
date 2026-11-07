@@ -315,7 +315,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.55 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★4.31 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。銚子ということで期待していた食事もがっかりなクオリティで、良い口コミが本当なのか疑ってしまい…　2026-10-08 21:51:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。銚子ということで期待していた食事もがっかりなクオリティで、良い口コミが本当なのか疑ってしまい…」
                   </blockquote>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　普通車15台(無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も料理も大満足、また行きたい場所部屋も料理も良かったです。また行きたいところです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-08-26 11:12:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も料理も大満足、また行きたい場所部屋も料理も良かったです。また行きたいところです。」
                   </blockquote>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.91 ／ 部屋 ★4.09 ／ 設備 ★3.84 ／ 風呂 ★4.29 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎やアレルギー対応も丁寧で料理も温泉も最高駅から駅まで送迎もしていただき アレルギー対応もしていただきました。お料理も美味しくて温泉も気持ちよくステキなお宿でした!クチコミの詳細はこちらから…　2026-09-13 22:06:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎やアレルギー対応も丁寧で料理も温泉も最高駅から駅まで送迎もしていただき アレルギー対応もしていただきました。お料理も美味しくて温泉も気持ちよくステキなお宿でした!」
                   </blockquote>
                 </div>
               </div>

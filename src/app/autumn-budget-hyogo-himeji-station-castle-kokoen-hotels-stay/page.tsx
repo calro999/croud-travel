@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>650台(1台1,500円/泊)　※クラブフロア宿泊者は1室1台無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お盆休みに宿泊しました。夕食のマグロの解体も息子が大変喜んでくれました。夜景も綺麗でホテル近くから行ける布引ハーブ園からの眺めも最高でした。来年も機会が有れば宿泊しようと思います。従業…　2026-08-21 21:48:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お盆休みに宿泊しました。夕食のマグロの解体も息子が大変喜んでくれました。夜景も綺麗でホテル近くから行ける布引ハーブ園からの眺めも最高でした。来年も機会が有れば宿泊しようと思います。従業…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有20台　１泊 普通車880円税込、（要予約・ご予約順）　※大型車駐車可、問合せ下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が最高一番印象的なのが朝食でした。2泊で利用しましたが両日とも素敵な朝ごはんでとても幸せな朝でした。和室のコンパクトの部屋を利用しましたが広さ的には1人だと十分。少し部屋は古いので…　2026-08-29 08:42:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が最高一番印象的なのが朝食でした。2泊で利用しましたが両日とも素敵な朝ごはんでとても幸せな朝でした。和室のコンパクトの部屋を利用しましたが広さ的には1人だと十分。少し部屋は古いので…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある和室と可愛い朝食、貸切温泉に満足清潔感のある和室のお部屋で、コンパクトにまとまっています。全身鏡があると支度がしやすくてよかったかも。朝食は少量ずつの小皿がたくさんで、大変かわいい見…　2026-08-23 18:08:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある和室と可愛い朝食、貸切温泉に満足清潔感のある和室のお部屋で、コンパクトにまとまっています。全身鏡があると支度がしやすくてよかったかも。朝食は少量ずつの小皿がたくさんで、大変かわいい見…」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（50台）ご宿泊者様は利用室数分まで無料　※場所が分かりづらいため当館HPアクセスページ参照下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚40周年の記念に金泉と銀泉を堪能結婚40周年の記念に夫婦で利用させていただきました。金泉、銀泉を堪能出来、駐車場の利用も親切にナビして頂けたのと、別館の喫茶店オーロラでいただいたチャーシュー麺…　2026-08-21 23:04:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚40周年の記念に金泉と銀泉を堪能結婚40周年の記念に夫婦で利用させていただきました。金泉、銀泉を堪能出来、駐車場の利用も親切にナビして頂けたのと、別館の喫茶店オーロラでいただいたチャーシュー麺…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　300台　1泊24時間　800円（2025年4月1日より）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「明石海峡大橋の絶景と新しい施設に感動朝夕と部屋の窓から見える明石海峡大橋が迫力があり、美しかったです。今回は息子と一緒に宿泊しました。実家から近く、幼い頃からよくお邪魔していたのですが、久しぶ…　2026-08-28 12:49:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「明石海峡大橋の絶景と新しい施設に感動朝夕と部屋の窓から見える明石海峡大橋が迫力があり、美しかったです。今回は息子と一緒に宿泊しました。実家から近く、幼い頃からよくお邪魔していたのですが、久しぶ…」
                   </blockquote>
                 </div>
               </div>

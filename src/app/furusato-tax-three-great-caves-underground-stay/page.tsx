@@ -400,31 +400,31 @@ export default function FurusatoUpgradedPage() {
               <h4 className="text-sm font-bold text-stone-900">1. 札幌グランドホテル（北海道・★4.45）</h4>
               <p><strong>【特徴】</strong>2025年7月、本館客室がリニューアル！札幌駅地下歩行空間直結♪</p>
               <p><strong>【交通・駐車場】</strong>★地下歩行空間8番出口横にてホテル直結★JR札幌駅南口より徒歩10分、地下鉄大通駅より徒歩5分 ／ 駐車場：立体/屋外180台、立体：1泊2500円/台(先着順)、屋外：1泊3500円/台</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「広めの部屋と朝食は満足、朝食会場は混雑少し広めのスーペリアツインに夫婦で宿泊、いつも出張でシングルのビジホに泊まっていたのでそれに比べると快適でした。ホテルスタッフも親切でプロの仕事ぶりで良かった…　2026-08-21 07:00:23投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=76」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「広めの部屋と朝食は満足、朝食会場は混雑少し広めのスーペリアツインに夫婦で宿泊、いつも出張でシングルのビジホに泊まっていたのでそれに比べると快適でした。ホテルスタッフも親切でプロの仕事ぶりで良かった…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">2. グリーンヒルホテル尾道（広島県・★4.4）</h4>
               <p><strong>【特徴】</strong>ＪＲ尾道駅から徒歩２分に位置し、尾道観光やしまなみ海道サイクリングの拠点に最適！</p>
               <p><strong>【交通・駐車場】</strong>山陽本線尾道駅駅前　山陽新幹線新尾道駅より車で７分 山陽自動車道福山西・尾道ＩＣより約２０分 ／ 駐車場：専用駐車場無し。駅前港湾駐車場 2000円/1日 1000円の割引券あり。＊満車の場合有</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/783?reviewId=33123478319389　2026-08-02 16:31:29投稿」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. ホテルグランヴィア岡山（岡山県・★4.44）</h4>
               <p><strong>【特徴】</strong>JR岡山駅２階から連絡通路で直結。全室無線LAN（WI-FI）接続が無料でご利用いただけます。</p>
               <p><strong>【交通・駐車場】</strong>JR岡山駅直結（徒歩1分）／山陽自動車道　岡山ICより車で20分／岡山空港より車で30分 ／ 駐車場：ホテル地下に有り　171台　24時間1,300円　事前予約不要</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「2度目の利用も大満足、また必ず来ます2度目の宿泊です。ホスピタリティ、立地、清潔さ全てとても良かったです。また、岡山に行く際は宿泊したいと思いますクチコミの詳細はこちらから　https://r…　2026-10-05 15:54:46投稿」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「2度目の利用も大満足、また必ず来ます2度目の宿泊です。ホスピタリティ、立地、清潔さ全てとても良かったです。また、岡山に行く際は宿泊したいと思います」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">4. 熱海温泉　月の栖　熱海聚楽ホテル（静岡県・★4.4）</h4>
               <p><strong>【特徴】</strong>【熱海温泉】楽天トラベルマイスター＆アワード受賞！お部屋へご用意する会席料理がクチコミ高評価！</p>
               <p><strong>【交通・駐車場】</strong>ＪＲ東海道線「熱海駅」～仲見世通り商店街を抜けて徒歩３分。高台に建つ和風旅館。海と街の景色が人気。露天風呂付客室3室有り ／ 駐車場：有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。商店街からも近く、立地も最…　2026-08-22 20:09:30投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=859&quot;」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。商店街からも近く、立地も最…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">5. 紋別セントラルホテル（北海道・★4.44）</h4>
               <p><strong>【特徴】</strong>◆無料無線ＬＡＮ（Ｗｉ-Ｆi)◆駐車場無料◆光明石温泉大浴場◆シャワートイレ◆空気清浄機◆</p>
               <p><strong>【交通・駐車場】</strong>オホーツク紋別空港から車で約10分。旭川紋別自動車道・丸瀬布（まるせっぷ）ＩＣから約60分。 ／ 駐車場：有り　150台　無料</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「建物は古めだが清潔感があり快適ちょっと古めですが清潔感があるので普通に良い感じです。素泊まりです。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-10-09 17:52:06投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=863&quot; cla」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「建物は古めだが清潔感があり快適ちょっと古めですが清潔感があるので普通に良い感じです。素泊まりです。」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

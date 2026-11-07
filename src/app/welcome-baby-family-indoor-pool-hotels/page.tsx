@@ -390,7 +390,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有(約250台・無料・先着順)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.27 ／ 部屋 ★4.16 ／ 設備 ★4.2 ／ 風呂 ★4.17 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れで賑やかだが立地と接客は最高ほとんどが小さい子連れだったので、とにかく賑やかでした。子連れでなければ行きたくないです笑スタッフの方は皆さん好印象でした。レジャー施設が近くに沢山あ…　2026-10-09 18:36:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れで賑やかだが立地と接客は最高ほとんどが小さい子連れだったので、とにかく賑やかでした。子連れでなければ行きたくないです笑スタッフの方は皆さん好印象でした。レジャー施設が近くに沢山あ…」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　500台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「妻も大満足のもみほぐし、また行きたい温泉はもとより、もみほぐしが最高だったと妻が言ってました。それだけでも宿泊しに行く価値あります。クチコミの詳細はこちらから　https://review…　2026-08-22 18:48:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「妻も大満足のもみほぐし、また行きたい温泉はもとより、もみほぐしが最高だったと妻が言ってました。それだけでも宿泊しに行く価値あります。」
                   </blockquote>
                 </div>
               </div>
@@ -434,7 +434,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　400台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.42 ／ 部屋 ★4.4 ／ 設備 ★4.34 ／ 風呂 ★4.38 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が豊富で部屋からの眺めも最高バイキング料理の種類が多くてどれも美味しかったです。お部屋も広く見晴らしも良くて大満足でしたクチコミの詳細はこちらから　https://revie…　2026-10-10 15:43:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が豊富で部屋からの眺めも最高バイキング料理の種類が多くてどれも美味しかったです。お部屋も広く見晴らしも良くて大満足でした」
                   </blockquote>
                 </div>
               </div>

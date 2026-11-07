@@ -445,7 +445,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し/近隣パーキングをご利用ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東寺が近く、京都駅にも歩いて15分程度。近隣にもコインパーキングもあり、車での旅にももってこいです。値段も安く、ゆっくりくつろぐことができました。クチコミの詳細はこちらから　https://r…　2026-08-28 12:33:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東寺が近く、京都駅にも歩いて15分程度。近隣にもコインパーキングもあり、車での旅にももってこいです。値段も安く、ゆっくりくつろぐことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -467,7 +467,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場なし。提携駐車場は3台限定です。先着順・ご予約制のためご希望の場合は、必ずお電話ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.48 ／ 部屋 ★4.51 ／ 設備 ★4.48 ／ 風呂 ★4.45 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富でライブキッチンも最高!朝食が非常においしかった。メニューが豊富で、ライブキッチンもあり、満足です。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-10-10 20:56:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富でライブキッチンも最高!朝食が非常においしかった。メニューが豊富で、ライブキッチンもあり、満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -489,7 +489,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 立体駐車場28台 高さ1.8ｍ　1泊2000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.31 ／ 部屋 ★4.43 ／ 設備 ★4.42 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利で子供向けイベントも充実駅から近く、観光に便利でした。子供向けのおもちゃの貸し出しや、夏休みの子供向けイベントもあり楽しくすごせました。朝食バイキングのハンバーグを子供が気に入ってた…　2026-10-09 14:16:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利で子供向けイベントも充実駅から近く、観光に便利でした。子供向けのおもちゃの貸し出しや、夏休みの子供向けイベントもあり楽しくすごせました。朝食バイキングのハンバーグを子供が気に入ってた…」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function KyotoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.37 ／ 部屋 ★4.49 ／ 設備 ★4.49 ／ 風呂 ★4.36 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハッピーアワーの軽食サービスが嬉しい泊まった部屋は24m2という事でしたが、印象はもっと狭い感じ。朝食は和食メニュー少な目でしょうか。大浴場は湯舟はそれほど大きくはないものの、それほど混んでなかっ…　2026-10-07 10:37:20投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=165176&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハッピーアワーの軽食サービスが嬉しい泊まった部屋は24m2という事でしたが、印象はもっと狭い感じ。朝食は和食メニュー少な目でしょうか。大浴場は湯舟はそれほど大きくはないものの、それほど混んでなかっ…」
                   </blockquote>
                 </div>
               </div>

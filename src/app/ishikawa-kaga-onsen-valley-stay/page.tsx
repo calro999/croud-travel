@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…　2026-10-10 21:27:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）３０台  ※正面玄関へお越しください。スタッフが駐車場へご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.56 ／ 部屋 ★4.5 ／ 設備 ★4.42 ／ 風呂 ★4.6 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も大満足、また利用したいお食事がとても美味しく、お風呂も2回入りました。また利用させていただきたいです!クチコミの詳細はこちらから　https://review.travel.r…　2026-10-10 23:07:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も大満足、また利用したいお食事がとても美味しく、お風呂も2回入りました。また利用させていただきたいです!」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「畳敷きの館内と温泉に癒やされる心地よい時間滞在中ゆったりと過ごすことができました。館内はすべて畳敷きで、良い香りが漂い心地よかったです。大浴場も広々としており、温泉に癒やされました。スタッフの皆様…　2026-08-12 13:36:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「畳敷きの館内と温泉に癒やされる心地よい時間滞在中ゆったりと過ごすことができました。館内はすべて畳敷きで、良い香りが漂い心地よかったです。大浴場も広々としており、温泉に癒やされました。スタッフの皆様…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p>【石川・加賀温泉郷：山中温泉・山代温泉＆鶴仙渓川床・加】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.81 ／ 部屋 ★3.96 ／ 設備 ★3.73 ／ 風呂 ★3.97 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。楽天トラベルでは対応できない機…　2026-09-28 13:17:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。楽天トラベルでは対応できない機…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【有り】　50台  先着順/ 駐車料金　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.54 ／ 立地 ★4.29 ／ 部屋 ★4.62 ／ 設備 ★4.53 ／ 風呂 ★4.57 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と北陸の食材を満喫、また利用したい部屋の露天風呂が最高でした。大人2人でもゆったり入れました。お湯の温度もちょうど良く、しっとりした泉質で湯上がりはポカポカでした。食事も北陸の食材をし…　2026-09-10 19:33:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と北陸の食材を満喫、また利用したい部屋の露天風呂が最高でした。大人2人でもゆったり入れました。お湯の温度もちょうど良く、しっとりした泉質で湯上がりはポカポカでした。食事も北陸の食材をし…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>８０台分有り（無料）　※スタッフが場所をご案内しますので、正面玄関まで車をお寄せくださいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.42 ／ 部屋 ★4.37 ／ 設備 ★4.34 ／ 風呂 ★4.55 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理の質とサウナの動線が素晴らしい他の方もコメントがありますが、料理も一品一品非常凝っており料理長の自信がお品書きに表れていると思いますした。ただ会席料理でお酒を飲む者にとって、最後ごはんのタイミ…　2026-10-10 14:10:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理の質とサウナの動線が素晴らしい他の方もコメントがありますが、料理も一品一品非常凝っており料理長の自信がお品書きに表れていると思いますした。ただ会席料理でお酒を飲む者にとって、最後ごはんのタイミ…」
                   </blockquote>
                 </div>
               </div>

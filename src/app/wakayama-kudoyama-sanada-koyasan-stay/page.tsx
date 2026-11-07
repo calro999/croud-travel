@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても楽しい時間でした高野山に行くために前泊しました。初めての一人旅で常に迷いながら辿り着いたくどやま旅館さん。ご主人が暖かく迎えてくださいました。次の日の高野山のことも、とても詳しく…　2026-07-20 09:07:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても楽しい時間でした高野山に行くために前泊しました。初めての一人旅で常に迷いながら辿り着いたくどやま旅館さん。ご主人が暖かく迎えてくださいました。次の日の高野山のことも、とても詳しく…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３３台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.85 ／ 部屋 ★3.92 ／ 設備 ★3.64 ／ 風呂 ★3.99 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯は良いが、日本酒や菓子の品質が残念お安い宿泊価格で努力されているのはすごく分かるが、日本酒はあけてから日数が経ちすぎてて気が抜けている。お菓子に至っては明らかに色が変な色に変わってて、おかきな…　2026-09-24 18:00:43投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=137866&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯は良いが、日本酒や菓子の品質が残念お安い宿泊価格で努力されているのはすごく分かるが、日本酒はあけてから日数が経ちすぎてて気が抜けている。お菓子に至っては明らかに色が変な色に変わってて、おかきな…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　108台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの方の親切な対応に感激!フロントの方がすごく親切でした!!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1…　2026-08-24 13:59:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの方の親切な対応に感激!フロントの方がすごく親切でした!!」
                   </blockquote>
                 </div>
               </div>

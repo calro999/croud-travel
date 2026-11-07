@@ -452,7 +452,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１８０台　無料　自由</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.29 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.49 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光の拠点に最適、温泉と食事も大満足玉置神社や谷瀬のつり橋などの観光で利用しました。アクセスには申し分のない場所でした。スタッフさんは簡潔丁寧の接客対応で好感が持てました。和室は清潔感があり使い勝…　2026-10-04 14:50:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光の拠点に最適、温泉と食事も大満足玉置神社や谷瀬のつり橋などの観光で利用しました。アクセスには申し分のない場所でした。スタッフさんは簡潔丁寧の接客対応で好感が持てました。和室は清潔感があり使い勝…」
                   </blockquote>
                 </div>
               </div>
@@ -474,7 +474,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.05 ／ 部屋 ★4.05 ／ 設備 ★4.22 ／ 風呂 ★4.52 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームで癒されました娘と2人、親子で利用しました。建物は本当に古い感じでしたが、お部屋やお風呂は古いながらもお掃除は行き届いてて不満なかったですお料理が少ないコースだったのですが…　2026-08-19 17:58:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームで癒されました娘と2人、親子で利用しました。建物は本当に古い感じでしたが、お部屋やお風呂は古いながらもお掃除は行き届いてて不満なかったですお料理が少ないコースだったのですが…」
                   </blockquote>
                 </div>
               </div>
@@ -496,7 +496,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.18 ／ 部屋 ★4.03 ／ 設備 ★3.76 ／ 風呂 ★4.3 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/104663?reviewId=33123479606597　2026-10-03 13:49:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>

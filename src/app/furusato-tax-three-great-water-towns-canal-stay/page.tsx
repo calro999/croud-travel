@@ -413,7 +413,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の近江牛カレーが絶品、また食べたい朝食の近江牛カレーがすごくおいしかったです甘味がありながらの辛さお肉も柔らかくておいしくて、また食べたいですクチコミの詳細はこちらから　https…　2026-09-12 18:02:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の近江牛カレーが絶品、また食べたい朝食の近江牛カレーがすごくおいしかったです甘味がありながらの辛さお肉も柔らかくておいしくて、また食べたいです」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>バス、作業車等の大型車両可[連絡お願いします]/普通車100台程度駐車可/多数の場合、ご連絡を。無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「寮のように気軽にコスパ良く過ごせた寮のように気軽にコスパ良く滞在できて良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-08-14 19:24:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「寮のように気軽にコスパ良く過ごせた寮のように気軽にコスパ良く滞在できて良かったです。」
                   </blockquote>
                 </div>
               </div>

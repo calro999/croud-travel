@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：70台（無料）／EV充電器設置</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.52 ／ 部屋 ★4.58 ／ 設備 ★4.52 ／ 風呂 ★4.66 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「幸せな非日常な優雅な時間お食事が朝夕共とっても美味しかったです。夕食の最後に白ごはんか卵かけご飯か選べるのも良いなあと思いました。私達は卵かけご飯の方をいただきましたが卵が新鮮で大満足でし…　2026-10-10 13:35:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「幸せな非日常な優雅な時間お食事が朝夕共とっても美味しかったです。夕食の最後に白ごはんか卵かけご飯か選べるのも良いなあと思いました。私達は卵かけご飯の方をいただきましたが卵が新鮮で大満足でし…」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p>【日本三大うどん＆名水と小麦の麺道・ご当地名湯宿×ふる】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.59 ／ 部屋 ★4.67 ／ 設備 ★4.53 ／ 風呂 ★4.82 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘湯感あふれる露天風呂と美味しい食事に感動泥湯の露天風呂はすすきが風になびいて、鳥の鳴き声の中、ゆっくり癒されて最高の時間でした!静けさ、秘湯感素晴らしい!宿も非常に清潔で古いものも磨き上…　2026-09-30 15:57:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘湯感あふれる露天風呂と美味しい食事に感動泥湯の露天風呂はすすきが風になびいて、鳥の鳴き声の中、ゆっくり癒されて最高の時間でした!静けさ、秘湯感素晴らしい!宿も非常に清潔で古いものも磨き上…」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（200台／無料／先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は満足だが子供の食事と朝食は残念初めて利用しました。夕食は五島牛のすき焼きはとても美味しかった。刺し身も良かった。しかし、子供のワンプレートの食事は他のホテルと比較すると、手抜き感が際立ってい…　2026-08-24 20:26:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は満足だが子供の食事と朝食は残念初めて利用しました。夕食は五島牛のすき焼きはとても美味しかった。刺し身も良かった。しかし、子供のワンプレートの食事は他のホテルと比較すると、手抜き感が際立ってい…」
                   </blockquote>
                 </div>
               </div>

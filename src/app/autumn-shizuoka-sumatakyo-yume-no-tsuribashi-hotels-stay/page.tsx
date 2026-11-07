@@ -436,7 +436,7 @@ export default function SumatakyoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.62 ／ 部屋 ★4.51 ／ 設備 ★4.54 ／ 風呂 ★4.6 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れ歓迎で設備も食事も大満足子連れで和室とクイーンベッドの部屋と迷いましたが、ベビーベッドやベビーガードの貸出もあるとの事で、今回はクイーンベッドで利用させてもらいました。子連れ歓迎なだけあ…　2026-10-10 17:17:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れ歓迎で設備も食事も大満足子連れで和室とクイーンベッドの部屋と迷いましたが、ベビーベッドやベビーガードの貸出もあるとの事で、今回はクイーンベッドで利用させてもらいました。子連れ歓迎なだけあ…」
                   </blockquote>
                 </div>
               </div>
@@ -458,7 +458,7 @@ export default function SumatakyoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に無料駐車場がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「檜風呂と露天風呂付きで家族とゆったり過ごせた急遽の予約・コテージでの素泊まりプランを利用させていただきました。コテージはお任せのプランでしたが、檜風呂と露天風呂のある建物でした。コテージ自…　2026-07-24 20:19:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「檜風呂と露天風呂付きで家族とゆったり過ごせた急遽の予約・コテージでの素泊まりプランを利用させていただきました。コテージはお任せのプランでしたが、檜風呂と露天風呂のある建物でした。コテージ自…」
                   </blockquote>
                 </div>
               </div>
@@ -480,7 +480,7 @@ export default function SumatakyoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）　ご来館前に必ず「交通情報（道路改良工事、鉄道復旧工事等）」をご確認ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた雰囲気と美味しい食事に大満足落ち着いた雰囲気で、食事もおいしいく大満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-09-08 10:16:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた雰囲気と美味しい食事に大満足落ち着いた雰囲気で、食事もおいしいく大満足です。」
                   </blockquote>
                 </div>
               </div>

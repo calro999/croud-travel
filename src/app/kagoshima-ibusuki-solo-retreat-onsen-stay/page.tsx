@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p>【指宿温泉ひとり旅・砂むし温泉おこもり：錦江湾パノラマ】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…　2026-10-09 21:39:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.43 ／ 部屋 ★4.16 ／ 設備 ★3.85 ／ 風呂 ★4.12 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海側の部屋へのアップグレードに感謝!予約時、山側しか空いていなくて残念だと思いながら、ホテルのお風呂のオーシャンビューの写真、目の前が海のロケーションに惹かれ予約しました。当日チェックイン時、なん…　2026-10-10 19:27:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海側の部屋へのアップグレードに感謝!予約時、山側しか空いていなくて残念だと思いながら、ホテルのお風呂のオーシャンビューの写真、目の前が海のロケーションに惹かれ予約しました。当日チェックイン時、なん…」
                   </blockquote>
                 </div>
               </div>

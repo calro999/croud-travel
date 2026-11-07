@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…　2026-08-25 12:13:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 15台　 ※ 有料／1台1泊ごとに1,000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心遣いと個室での食事が最高、お風呂は熱め私達夫婦と子供達2家族でそれぞれ離れを予約しました。到着するとすぐにお出迎え、離れではお茶も淹れてくださり、従業員の皆さんの心遣いがとても良かったです。夕食…　2026-08-23 22:33:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心遣いと個室での食事が最高、お風呂は熱め私達夫婦と子供達2家族でそれぞれ離れを予約しました。到着するとすぐにお出迎え、離れではお茶も淹れてくださり、従業員の皆さんの心遣いがとても良かったです。夕食…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…　2026-09-13 19:14:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「木曽路旅行の拠点に便利寝覚めの床のすぐそばの高台にあり、車なら奈良井、赤沢休養林、御嶽山、妻籠宿など、木曽の名所を観光できる好立地でした。スタッフの方々は皆さん親切で、お部屋も広く清潔でゆったりと…　2026-08-05 22:16:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「木曽路旅行の拠点に便利寝覚めの床のすぐそばの高台にあり、車なら奈良井、赤沢休養林、御嶽山、妻籠宿など、木曽の名所を観光できる好立地でした。スタッフの方々は皆さん親切で、お部屋も広く清潔でゆったりと…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・木曽福島＆寝覚の床・御嶽山：中山道関所宿場町・】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日の22時までであればいつでもチェックイン可能の制度に助けられました、夜遅くのチェックインだったのにも関わらず丁寧に対応していただきありがとうございました、朝食のお肉がとても美味しかったですクチ…　2026-08-29 23:02:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日の22時までであればいつでもチェックイン可能の制度に助けられました、夜遅くのチェックインだったのにも関わらず丁寧に対応していただきありがとうございました、朝食のお肉がとても美味しかったですクチ…」
                   </blockquote>
                 </div>
               </div>

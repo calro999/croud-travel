@@ -445,7 +445,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅チカでサウナ、大浴場付きのお風呂は最高でした。部屋も広くよく眠ることができました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-07-23 12:52:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅チカでサウナ、大浴場付きのお風呂は最高でした。部屋も広くよく眠ることができました。」
                   </blockquote>
                 </div>
               </div>
@@ -467,7 +467,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り150台　地下駐車場50台を含みます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉かけ流しの温泉部屋についている温泉も源泉かけ流しで広くてとても良かった。ご飯も美味しい。窓から渓流が見えるが、雨が降ったので濁流だった。街中の地元民が日常使いする日帰り温浴施設の上が宿…　2026-08-29 12:00:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉かけ流しの温泉部屋についている温泉も源泉かけ流しで広くてとても良かった。ご飯も美味しい。窓から渓流が見えるが、雨が降ったので濁流だった。街中の地元民が日常使いする日帰り温浴施設の上が宿…」
                   </blockquote>
                 </div>
               </div>
@@ -489,7 +489,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1600円　　※現在、ホテル地下Pは営業時間を短縮してます。詳しくはHPをご確認下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.33 ／ 部屋 ★4.36 ／ 設備 ★4.31 ／ 風呂 ★4.21 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの丁寧な対応と充実したアメニティに感動今はだいたいが自動チェックイン・アウトになっています。ホテルによっては、「そこの機械で!」とほっておかれることがありますが、エミシアのフロント…　2026-10-09 18:00:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの丁寧な対応と充実したアメニティに感動今はだいたいが自動チェックイン・アウトになっています。ホテルによっては、「そこの機械で!」とほっておかれることがありますが、エミシアのフロント…」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊につき1台  3,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「マットレスが快適すぎて早々に寝落ち女子会で利用しました。ホテルのお部屋もベッドも寝心地よく最高でした。そして遅くまでゆっくり話そうと約束していた私なのに...。21時半にマットレスの気…　2026-08-28 18:10:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「マットレスが快適すぎて早々に寝落ち女子会で利用しました。ホテルのお部屋もベッドも寝心地よく最高でした。そして遅くまでゆっくり話そうと約束していた私なのに...。21時半にマットレスの気…」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場　車体制限あり　ホテルに問い合わせ要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセスも良く、丁寧な接客でとても良かった!ライブのために利用させていただきました。渋谷なので、治安が心配でしたが、アクセスも良く、迷うことなく辿り着けました。また、それほど混み合った場所では…　2026-07-06 18:39:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセスも良く、丁寧な接客でとても良かった!ライブのために利用させていただきました。渋谷なので、治安が心配でしたが、アクセスも良く、迷うことなく辿り着けました。また、それほど混み合った場所では…」
                   </blockquote>
                 </div>
               </div>

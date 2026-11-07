@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.51 ／ 風呂 ★4.68 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-08 21:45:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良い」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p>【森の宙に浮かぶ幻想空間】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初のグランピング、設備も食事も大満足!初のグランピングで利用させていただきました。結果、とても良かったです!部屋もとても綺麗で広く、冷房もあり、快適に過ごせました!冷蔵庫もついていたので良かっ…　2026-08-22 17:06:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初のグランピング、設備も食事も大満足!初のグランピングで利用させていただきました。結果、とても良かったです!部屋もとても綺麗で広く、冷房もあり、快適に過ごせました!冷蔵庫もついていたので良かっ…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p>【森の宙に浮かぶ幻想空間】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と温泉は最高だが運営が残念部屋と温泉がすごく良いのに、オペレーションが全くボロボロなのが残念!もったいない!クチコミの詳細はこちらから　https://review.travel.raku…　2026-08-30 16:51:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と温泉は最高だが運営が残念部屋と温泉がすごく良いのに、オペレーションが全くボロボロなのが残念!もったいない!」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクアパッツァが絶品、温泉も最高でしたアクアパッツァがとても美味しかったです。椎茸との相性がバツグンでした。お肉を食べるのにタレがあるとなお良いかと思いました。温泉もとても良かったです。…　2026-08-23 11:55:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクアパッツァが絶品、温泉も最高でしたアクアパッツァがとても美味しかったです。椎茸との相性がバツグンでした。お肉を食べるのにタレがあるとなお良いかと思いました。温泉もとても良かったです。…」
                   </blockquote>
                 </div>
               </div>

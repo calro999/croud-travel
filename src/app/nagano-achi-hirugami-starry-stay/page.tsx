@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の育成が行き届いており、また来たい昨年に続いて2度目の宿泊。サービスも決して過剰でなく、平日の宿泊であったためかゆったりと時間を過ごすことができた。昨年は、外国人の従業員とのコミュニケーショ…　2026-08-14 14:14:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の育成が行き届いており、また来たい昨年に続いて2度目の宿泊。サービスも決して過剰でなく、平日の宿泊であったためかゆったりと時間を過ごすことができた。昨年は、外国人の従業員とのコミュニケーショ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のアップグレードと美味しい食事に感謝10畳の部屋から大部屋へ移動してくださりありがとうございました。夕食も朝食もとてもおいしかったです。クチコミの詳細はこちらから　https://re…　2026-09-11 15:21:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のアップグレードと美味しい食事に感謝10畳の部屋から大部屋へ移動してくださりありがとうございました。夕食も朝食もとてもおいしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：４０台（無料）ホテルの前と後にご用意がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。スタッフさんはみなさんとても温かく、すれ違う方みなさん笑顔で挨拶をして…　2026-09-10 15:22:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。スタッフさんはみなさんとても温かく、すれ違う方みなさん笑顔で挨拶をして…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台まで　屋外　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.7 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.73 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天風呂は残念だが接客には満足露天ぶろ付きの部屋に宿泊させていただいたのですが部屋の泉質が大浴場の泉質より薄くガッカリ。仕方ないので大浴場で我慢をした次第です。それ以外は仲居さんの気遣いサー…　2026-10-07 00:44:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天風呂は残念だが接客には満足露天ぶろ付きの部屋に宿泊させていただいたのですが部屋の泉質が大浴場の泉質より薄くガッカリ。仕方ないので大浴場で我慢をした次第です。それ以外は仲居さんの気遣いサー…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・阿智村＆昼神温泉：日本一の星空ナイトツアー・美】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4 ／ 部屋 ★4.23 ／ 設備 ★3.97 ／ 風呂 ★4.24 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鯉料理最高、送迎サービスに感謝ですい草の香りが漂うお部屋で、水回りも綺麗で快適でした。鯉料理を楽しみにしていましたが、とても美味しい味付けで、今まで食べてきた鯉料理で一番でした!温泉旅館の…　2026-10-11 01:36:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鯉料理最高、送迎サービスに感謝ですい草の香りが漂うお部屋で、水回りも綺麗で快適でした。鯉料理を楽しみにしていましたが、とても美味しい味付けで、今まで食べてきた鯉料理で一番でした!温泉旅館の…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バランスよくとてもいいホテルですリーズナブルなのに、総じてよかったです、家族全員満足でした。ご飯もとても美味しかったし、お風呂もきれいで広いし、露天風呂もよかったです。ナイトツアーの手配もして頂き…　2026-08-20 11:50:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バランスよくとてもいいホテルですリーズナブルなのに、総じてよかったです、家族全員満足でした。ご飯もとても美味しかったし、お風呂もきれいで広いし、露天風呂もよかったです。ナイトツアーの手配もして頂き…」
                   </blockquote>
                 </div>
               </div>

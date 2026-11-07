@@ -467,7 +467,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有 ５０台 無料 チェックイン前・チェックアウト後も無料でお車お預かり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.71 ／ 立地 ★4.68 ／ 部屋 ★4.54 ／ 設備 ★4.52 ／ 風呂 ★4.42 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教育の行き届いた接客と工夫された料理に感動従業員の皆さんに教育が行き届いていまして、気分よく過ごせました。料理もひと工夫されていて本当に美味しい料理でした。ありがとうございます。クチコミの詳細…　2026-09-25 11:46:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教育の行き届いた接客と工夫された料理に感動従業員の皆さんに教育が行き届いていまして、気分よく過ごせました。料理もひと工夫されていて本当に美味しい料理でした。ありがとうございます。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -489,7 +489,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　50台　チェックイン前・チェックアウト後もお預かりいたします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.92 ／ 立地 ★4.82 ／ 部屋 ★4.87 ／ 設備 ★4.79 ／ 風呂 ★4.69 ／ 食事 ★4.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋と美味しい料理、露天風呂に満足お部屋が綺麗で、清潔感が有り、快適に過ごせました。料理が美味しかったです。別館の大浴場の露天風呂(屋上)は、とても気持ち良かったです。…　2026-09-29 21:39:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋と美味しい料理、露天風呂に満足お部屋が綺麗で、清潔感が有り、快適に過ごせました。料理が美味しかったです。別館の大浴場の露天風呂(屋上)は、とても気持ち良かったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function HighwayBusArticlePage() {
                   <p>【東京・新宿】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は満足食事に関しては味も良く、囲炉裏の雰囲気もあり、食事対応の方の接客も好感が持ててよかった。温泉に関しては、浴槽の変色やヌメヌメ感、硫黄の匂いも強く、温泉らしい温泉に思えた。客…　2026-09-18 18:39:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は満足食事に関しては味も良く、囲炉裏の雰囲気もあり、食事対応の方の接客も好感が持ててよかった。温泉に関しては、浴槽の変色やヌメヌメ感、硫黄の匂いも強く、温泉らしい温泉に思えた。客…」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.59 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.83 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が最高で貸切風呂も充実、大人の隠れ家とにかく料理が最高でした。地の食材を使って見た目もきれいな一品ばかり。4か所あるお風呂はすべて貸し切りでゆっくり入れます。ただ、自分が入りたいタイミング…　2026-10-05 09:50:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が最高で貸切風呂も充実、大人の隠れ家とにかく料理が最高でした。地の食材を使って見た目もきれいな一品ばかり。4か所あるお風呂はすべて貸し切りでゆっくり入れます。ただ、自分が入りたいタイミング…」
                   </blockquote>
                 </div>
               </div>

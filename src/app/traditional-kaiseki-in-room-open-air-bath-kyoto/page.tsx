@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　700台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.34 ／ 部屋 ★4.13 ／ 設備 ★4.03 ／ 風呂 ★4.45 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は充実しているが案内の改善を希望リニューアルしてから利用しました。色々な設備が出来ていて散策してビリーヤード、卓球、など、楽しめるのはよい、年配には、入り口がわかりにくく、案内の看板も分かりや…　2026-10-06 11:57:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は充実しているが案内の改善を希望リニューアルしてから利用しました。色々な設備が出来ていて散策してビリーヤード、卓球、など、楽しめるのはよい、年配には、入り口がわかりにくく、案内の看板も分かりや…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【古都の情緒と旬の京会席】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.26 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.35 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て…　2026-09-17 02:13:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【古都の情緒と旬の京会席】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の照明が少し暗く感じた少し照明が暗かったような、、クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/171986?…　2026-08-03 12:07:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の照明が少し暗く感じた少し照明が暗かったような、、」
                   </blockquote>
                 </div>
               </div>

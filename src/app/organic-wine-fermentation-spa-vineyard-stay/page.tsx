@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【芳醇な香りに包まれるワイン風呂】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!花火大会は残念でしたが、来て良かったです!…　2026-08-14 13:16:34投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=142842&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!花火大会は残念でしたが、来て良かったです!…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p>【芳醇な香りに包まれるワイン風呂】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.48 ／ 部屋 ★4.71 ／ 設備 ★4.66 ／ 風呂 ★4.63 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。昨年は時期が少し早くてお目にかかれず残念な思いをしたので、今年は是非にと思い松…　2026-10-07 19:42:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。昨年は時期が少し早くてお目にかかれず残念な思いをしたので、今年は是非にと思い松…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【芳醇な香りに包まれるワイン風呂】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中の小さな看板ででさらに迷ってしまったナビで車で向かったのですが途中で出てくる小さな看板に惑わされ狭い農道をうろうろすること20分 ナビの道に戻ったら何度もゴールがかきかえられドキドキしながら到…　2026-09-19 18:07:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中の小さな看板ででさらに迷ってしまったナビで車で向かったのですが途中で出てくる小さな看板に惑わされ狭い農道をうろうろすること20分 ナビの道に戻ったら何度もゴールがかきかえられドキドキしながら到…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワインセラーは見られず残念だが食事は最高ワインセラーがあるとのことで、ここの旅館に決めました。楽しみにしていたのてすが、夕方着いた時にはすでに閉まっていて、見せてもらうことができませんでした。お願…　2026-08-21 11:23:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワインセラーは見られず残念だが食事は最高ワインセラーがあるとのことで、ここの旅館に決めました。楽しみにしていたのてすが、夕方着いた時にはすでに閉まっていて、見せてもらうことができませんでした。お願…」
                   </blockquote>
                 </div>
               </div>

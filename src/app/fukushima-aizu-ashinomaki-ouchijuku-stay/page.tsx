@@ -324,7 +324,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.31 ／ 部屋 ★4.26 ／ 設備 ★4.19 ／ 風呂 ★4.34 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。ただ天ぷ…　2026-10-10 22:17:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。ただ天ぷ…」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…　2026-10-08 14:22:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function MicroTouristHubPage() {
                   <p>【福島・会津若松＆芦ノ牧温泉：鶴ヶ城・大内宿ねぎそば＆】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と温泉が素晴らしく、また必ず伺いたい2回目の宿泊でした。前回は冬でしたので違う季節を楽しみに伺いました。川霧は幻想的で子どももはしゃいでました。食事は朝夕とても美味しくて、温泉はと… 2026-08-29 19:45:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と温泉が素晴らしく、また必ず伺いたい2回目の宿泊でした。前回は冬でしたので違う季節を楽しみに伺いました。川霧は幻想的で子どももはしゃいでました。食事は朝夕とても美味しくて、温泉はと…」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊でした。夕食も朝食もシンプルながらも素材の味が生かせれていて、とても美味しくいただきました。お風呂も熱々で気持ち良く、またリピートします!クチコミの詳細はこちらから　https…　2026-08-15 20:18:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊でした。夕食も朝食もシンプルながらも素材の味が生かせれていて、とても美味しくいただきました。お風呂も熱々で気持ち良く、またリピートします!」
                   </blockquote>
                 </div>
               </div>

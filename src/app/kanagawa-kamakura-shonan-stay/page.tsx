@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p>【古都鎌倉＆湘南江の島：鶴岡八幡宮・江ノ電・富士夕景ホ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉も部屋も広くてゆったり過ごせた温泉も部屋も広くて満足しました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/5…　2026-07-27 16:19:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉も部屋も広くてゆったり過ごせた温泉も部屋も広くて満足しました。」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　１４台　　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが設備やサービスに改善の余地あり問い合わせ時のスタッフの愛想が悪かった。宿泊時は良い対応だったので人によると思う。片瀬江ノ島駅から徒歩2～3分で立地良し。広さも十分。荷物も預かってく…　2026-08-13 09:49:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが設備やサービスに改善の余地あり問い合わせ時のスタッフの愛想が悪かった。宿泊時は良い対応だったので人によると思う。片瀬江ノ島駅から徒歩2～3分で立地良し。広さも十分。荷物も預かってく…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２台　１５００円（１泊）要予約、 満車時は観光協会東浜駐車場（１泊１５００円）にご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くて快適、朝食のパンが美味しい部屋は広くて快適、朝ご飯パンは美味しい。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-08-17 18:52:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くて快適、朝食のパンが美味しい部屋は広くて快適、朝ご飯パンは美味しい。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料。20台～。大型車は1,100円にて駐車可能。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「系列の大浴場が利用できコスパも抜群妻と2人で素泊まりで泊まりました系列の大浴場に入れたので良かったですコスパが良かったですクチコミの詳細はこちらから　https://rev…　2026-08-19 21:55:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「系列の大浴場が利用できコスパも抜群妻と2人で素泊まりで泊まりました系列の大浴場に入れたので良かったですコスパが良かったです」
                   </blockquote>
                 </div>
               </div>

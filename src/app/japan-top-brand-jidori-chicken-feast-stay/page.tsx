@@ -333,7 +333,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>宿から5分ほど離れた場所にあります。当日係がご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本一の強酸温泉と絶品料理に大満足日本一の強酸温泉。ロケーション・泉質・食事どれをとっても掛け値なしに素晴らしいです。天然岩盤浴はロケーション含めて、本当に気持ちよく帰りたくなくなります。…　2026-08-22 12:08:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本一の強酸温泉と絶品料理に大満足日本一の強酸温泉。ロケーション・泉質・食事どれをとっても掛け値なしに素晴らしいです。天然岩盤浴はロケーション含めて、本当に気持ちよく帰りたくなくなります。…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…　2026-08-19 19:52:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function GourmetCuisineHubPage() {
                   <p>【日本三大地鶏＆銘柄鶏の宿：比内地鶏・名古屋コーチン・】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.86 ／ 風呂 ★4.11 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「姉妹での古希祝い旅姉妹で古希祝いの旅行をしました。料理も美味しく思い出深いおもいでとなりました。お世話になりました。クチコミの詳細はこちらから　https://review.trave…　2026-10-10 14:04:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「姉妹での古希祝い旅姉妹で古希祝いの旅行をしました。料理も美味しく思い出深いおもいでとなりました。お世話になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華な食事と広々とした部屋で大満足食事は大変豪華で食べきれないほどでした。お風呂もこじんまりとしていましたが貸し切り状態だったのでゆったりと入れました。お部屋はコネクティングルームだったの…　2026-08-17 17:05:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華な食事と広々とした部屋で大満足食事は大変豪華で食べきれないほどでした。お風呂もこじんまりとしていましたが貸し切り状態だったのでゆったりと入れました。お部屋はコネクティングルームだったの…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　先着順　無料　　バイクの場合は屋根付きスペースを確保します（要連絡）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気とラドン湯で湯治気分を満喫昭和の雰囲気漂う山里の宿で、ゆっくり温泉に浸かり味わい深い手料理を堪能するのに格好の場所です。周辺に飲み歩く場所やコンビニはありません。ラドン湯の泉質…　2026-07-18 07:14:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気とラドン湯で湯治気分を満喫昭和の雰囲気漂う山里の宿で、ゆっくり温泉に浸かり味わい深い手料理を堪能するのに格好の場所です。周辺に飲み歩く場所やコンビニはありません。ラドン湯の泉質…」
                   </blockquote>
                 </div>
               </div>

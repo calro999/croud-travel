@@ -633,7 +633,7 @@ export default function Page() {
                   <p>【日本三大鍾乳洞＆神秘の地底美宿×ふるさと納税ガイド】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。お食事は期待したほどではなく少し残念でしたが、朝の…　2026-09-04 23:43:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。お食事は期待したほどではなく少し残念でしたが、朝の…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場　約５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.56 ／ 風呂 ★4.52 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も星空の露天風呂も最高朝食、夕食ともにとても美味しかったです。オールインクルーシブだったのでチェックイン後にドリンクとご当地スナックも楽しむことができました。また、露天風呂は田舎ならで…　2026-09-24 17:50:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も星空の露天風呂も最高朝食、夕食ともにとても美味しかったです。オールインクルーシブだったのでチェックイン後にドリンクとご当地スナックも楽しむことができました。また、露天風呂は田舎ならで…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　90台 収容　屋内駐車場もございます。背の高いお車でもご安心ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても素敵で大満足のひとときとても素敵なお宿でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/8178?rev…　2026-09-08 08:15:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても素敵で大満足のひとときとても素敵なお宿でした。」
                   </blockquote>
                 </div>
               </div>

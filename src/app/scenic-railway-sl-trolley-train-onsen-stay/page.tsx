@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料 （トロッコ観光中もお預かりいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。プラレールと鉄道模型の鉄道部屋が…　2026-08-09 22:06:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。プラレールと鉄道模型の鉄道部屋が…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.3 ／ 部屋 ★3.63 ／ 設備 ★3.7 ／ 風呂 ★3.58 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華な夕食と親切な対応で大満足とても豪華な夕食で大変満足でした。旅館の方もとても親切で居心地が良かったです。クチコミの詳細はこちらから　https://review.travel.raku…　2026-09-29 17:48:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華な夕食と親切な対応で大満足とても豪華な夕食で大変満足でした。旅館の方もとても親切で居心地が良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>140台の無料駐車スペースがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバイキングを満喫、日本酒の演出も最高電車からホテルが見えましたおかげで迷わずホテルへ行けましたロビーからの景色も良くフリードリンクでゆっくり過ごせましたマッサージチェアもありました…　2026-09-11 09:24:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバイキングを満喫、日本酒の演出も最高電車からホテルが見えましたおかげで迷わずホテルへ行けましたロビーからの景色も良くフリードリンクでゆっくり過ごせましたマッサージチェアもありました…」
                   </blockquote>
                 </div>
               </div>

@@ -650,7 +650,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…　2026-09-14 20:40:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…」
                   </blockquote>
                 </div>
               </div>
@@ -672,7 +672,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　屋外のみ　マイクロバス以上は有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5種類の貸切風呂と親切な接客に大満足9月1日宿泊、貸切風呂が5種類ありました。外には無料で入れるお風呂が沢山あり2箇所行きました。男女分かれていて外のお風呂は熱めです。お肌スベスベになりました。ま…　2026-09-03 19:00:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5種類の貸切風呂と親切な接客に大満足9月1日宿泊、貸切風呂が5種類ありました。外には無料で入れるお風呂が沢山あり2箇所行きました。男女分かれていて外のお風呂は熱めです。お肌スベスベになりました。ま…」
                   </blockquote>
                 </div>
               </div>

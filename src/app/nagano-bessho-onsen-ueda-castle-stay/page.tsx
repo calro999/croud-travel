@@ -306,7 +306,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.28 ／ 部屋 ★4.34 ／ 設備 ★4.26 ／ 風呂 ★4.58 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天からの夜景と柔らかいお湯に癒やされる露天からの夜景が綺麗でした。とにかくお湯が柔らかい。100年前の鎌倉に来たような、レトロな駅舎、古い仏閣が立ち並ぶ古都の風情が良かったです。クチコミ…　2026-10-10 20:50:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天からの夜景と柔らかいお湯に癒やされる露天からの夜景が綺麗でした。とにかくお湯が柔らかい。100年前の鎌倉に来たような、レトロな駅舎、古い仏閣が立ち並ぶ古都の風情が良かったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -350,7 +350,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・別所温泉＆上田城：信州の鎌倉・日本唯一八角三重】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も最高!満室にも関わらず何度か利用した大浴場はいつも貸し切り状態でとてもリラックスできました。眺めのいい個室で朝夕美味しいお料理も堪能して、ラウンジでは日本酒やワインの試飲やコーヒーもい…　2026-08-13 00:01:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も最高!満室にも関わらず何度か利用した大浴場はいつも貸し切り状態でとてもリラックスできました。眺めのいい個室で朝夕美味しいお料理も堪能して、ラウンジでは日本酒やワインの試飲やコーヒーもい…」
                   </blockquote>
                 </div>
               </div>

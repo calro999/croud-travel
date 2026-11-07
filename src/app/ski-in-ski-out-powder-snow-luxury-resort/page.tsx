@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【ゲレンデ直結スキーイン・スキーアウト】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋もお風呂も快適、鏡が多く女性に嬉しい部屋もお風呂も良かった部屋に鏡が多く、女性は嬉しいと思うクチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-09-18 18:42:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋もお風呂も快適、鏡が多く女性に嬉しい部屋もお風呂も良かった部屋に鏡が多く、女性は嬉しいと思う」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り / 200台 / 宿泊者無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.1 ／ 部屋 ★4 ／ 設備 ★3.73 ／ 風呂 ★4.1 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華なバイキングと秘湯のような露天風呂夕飯はバスで送迎してくれます。バイキングの内容が豪華でとても良かったです。朝食はホテル内でしたが、こちらも内容満足でよかったです。お風呂は露天風呂が階…　2026-09-30 23:42:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華なバイキングと秘湯のような露天風呂夕飯はバスで送迎してくれます。バイキングの内容が豪華でとても良かったです。朝食はホテル内でしたが、こちらも内容満足でよかったです。お風呂は露天風呂が階…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【ゲレンデ直結スキーイン・スキーアウト】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、また行きたい!温泉は言わずもがな、最高でしたさすが蔵王温泉です、4回くらい入りました夕飯の芋煮、朝飯の豚汁どちらも具がたくさんでとてもとても美味しかったです夕飯時ア…　2026-09-19 15:21:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、また行きたい!温泉は言わずもがな、最高でしたさすが蔵王温泉です、4回くらい入りました夕飯の芋煮、朝飯の豚汁どちらも具がたくさんでとてもとても美味しかったです夕飯時ア…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【ゲレンデ直結スキーイン・スキーアウト】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく、スタッフの対応も親切ご飯が美味しかったです。子ども達の対応にも、店員さんが皆親切にしてくださいました。団体さんがおられました。迷路は大人でも難しく、良い運動になります。ありがとうご…　2026-09-08 10:26:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく、スタッフの対応も親切ご飯が美味しかったです。子ども達の対応にも、店員さんが皆親切にしてくださいました。団体さんがおられました。迷路は大人でも難しく、良い運動になります。ありがとうご…」
                   </blockquote>
                 </div>
               </div>

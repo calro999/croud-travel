@@ -333,7 +333,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊3300円 2泊4700円 3泊以上6100円  到着日0時〜出発日14時まで／超過は別料金</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.45 ／ 部屋 ★4.53 ／ 設備 ★4.42 ／ 風呂 ★4.42 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のお風呂が大きく、また利用したい1部屋4人(子供1人含む)で宿泊しました。部屋にあったお風呂は大きめでよかったです。女性用の化粧水乳液は問い合わせないと頂けない仕様になっていました。…　2026-10-10 23:28:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のお風呂が大きく、また利用したい1部屋4人(子供1人含む)で宿泊しました。部屋にあったお風呂は大きめでよかったです。女性用の化粧水乳液は問い合わせないと頂けない仕様になっていました。…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【ご宿泊日当日0:00～翌日14:00】 1泊3000円 ※時間外　300円/30分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地良水回りの掃除が行き届いてなくて残念でした。洗面台、トイレ、バスルーム...髪の毛や汚れが気になって、掃除道具をお借りしたいと思ったくらい。低価格だったから?でも立地はよく、スタッフ皆さん…　2026-08-22 21:06:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地良水回りの掃除が行き届いてなくて残念でした。洗面台、トイレ、バスルーム...髪の毛や汚れが気になって、掃除道具をお借りしたいと思ったくらい。低価格だったから?でも立地はよく、スタッフ皆さん…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊3,100円。2泊目以降、1泊に付き+1,600円（午前7時〜午後1時迄）※EV車充電器有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.66 ／ 部屋 ★4.62 ／ 設備 ★4.54 ／ 風呂 ★4.41 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めとバイキングに大満足、次は別の部屋へお部屋はキレイに清掃されていました。シャワーブースがシャンプー等置く場所がなく、不便でした。窓からの眺めは良くて、さすがバイキングはどれも美味しく、…　2026-10-10 20:40:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めとバイキングに大満足、次は別の部屋へお部屋はキレイに清掃されていました。シャワーブースがシャンプー等置く場所がなく、不便でした。窓からの眺めは良くて、さすがバイキングはどれも美味しく、…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊目入庫より30時間2000円　2泊目以降は24時間2000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と朝食は良いが、製氷機の衛生面が不快接客サービスは良かったです。朝食ブッフェも満足です。お部屋の広さ、洗面所お風呂の清潔度、大浴場は期待したほどではありませんでした。施設の老朽化を…　2026-08-13 23:54:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と朝食は良いが、製氷機の衛生面が不快接客サービスは良かったです。朝食ブッフェも満足です。お部屋の広さ、洗面所お風呂の清潔度、大浴場は期待したほどではありませんでした。施設の老朽化を…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料　平面駐車場　338台（出入口ゲート高さ制限 2.5m）予約不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子どもの急な体調不良にも丁寧に対応していただき、とても感謝しています。またぜひ利用させていただきたいと思います。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-08-29 20:28:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子どもの急な体調不良にも丁寧に対応していただき、とても感謝しています。またぜひ利用させていただきたいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function ThemeParkActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいていますクチコミの詳細…　2026-08-22 14:54:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいていますクチコミの詳細…」
                   </blockquote>
                 </div>
               </div>

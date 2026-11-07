@@ -411,7 +411,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用P(先着順)または提携P（平日･日祝：1000円、金土･祝前：1500円）※お盆期間除く</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4 ／ 部屋 ★4.22 ／ 設備 ★4.03 ／ 風呂 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の豪華さとスタッフの対応に大満足コメントを残さずいられないくらい最高のホテルでした!初めての口コミです。初の徳島市内にての宿泊でしたが、こちらを選んでよかったです。シックで落ち…　2026-10-08 08:10:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の豪華さとスタッフの対応に大満足コメントを残さずいられないくらい最高のホテルでした!初めての口コミです。初の徳島市内にての宿泊でしたが、こちらを選んでよかったです。シックで落ち…」
                   </blockquote>
                 </div>
               </div>
@@ -433,7 +433,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台1,300円(24時間入出庫可能)※2026/4/1より1,300円へ変更になりました</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「室内が古くエアコンの音が気になった室内が古かった。エアコンの音がうるさかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-08-26 17:42:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「室内が古くエアコンの音が気になった室内が古かった。エアコンの音がうるさかった。」
                   </blockquote>
                 </div>
               </div>
@@ -455,7 +455,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.49 ／ 部屋 ★4.35 ／ 設備 ★4.22 ／ 風呂 ★4.29 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。お風呂場は洗い場の排水が追いついていないのか?ザブザブと溜まっ…　2026-10-09 13:26:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。お風呂場は洗い場の排水が追いついていないのか?ザブザブと溜まっ…」
                   </blockquote>
                 </div>
               </div>
@@ -477,7 +477,7 @@ export default function AutumnBudgetTokushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.35 ／ 部屋 ★4.37 ／ 設備 ★4.27 ／ 風呂 ★4.17 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の混雑とスタッフの対応に不満朝食会場が、系列ホテルと共用のため6時台から非常に混雑していた。席を采配する女性スタッフから相席を打診されたため出直すと伝えたが、ロビーで待機する様に指示された。失…　2026-10-10 18:42:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の混雑とスタッフの対応に不満朝食会場が、系列ホテルと共用のため6時台から非常に混雑していた。席を采配する女性スタッフから相席を打診されたため出直すと伝えたが、ロビーで待機する様に指示された。失…」
                   </blockquote>
                 </div>
               </div>

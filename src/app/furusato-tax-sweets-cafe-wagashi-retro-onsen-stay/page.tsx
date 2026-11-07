@@ -683,7 +683,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は小さめだが混雑状況を確認できて便利温泉(大浴場)は想像していたより小さめでした。部屋から浴場の混雑状況が確認できるため、空いている時間に入れば問題ないと思います。クチコミの詳細はこちら…　2026-08-22 11:51:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は小さめだが混雑状況を確認できて便利温泉(大浴場)は想像していたより小さめでした。部屋から浴場の混雑状況が確認できるため、空いている時間に入れば問題ないと思います。クチコミの詳細はこちら…」
                   </blockquote>
                 </div>
               </div>
@@ -705,7 +705,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場50台／料金1泊1台1,000円／24時間入出庫可／高さ制限2.1ｍ未満</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…　2026-09-04 17:39:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…」
                   </blockquote>
                 </div>
               </div>
@@ -727,7 +727,7 @@ export default function FurusatoFeaturePage() {
                   <p>【銘菓・和カフェ＆老舗スイーツめぐり温泉宿×ふるさと納】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…　2026-09-17 08:09:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…」
                   </blockquote>
                 </div>
               </div>

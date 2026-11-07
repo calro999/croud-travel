@@ -421,7 +421,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>10台(身障者用1台含む)　1泊1,000円(税込)　予約不可　先着順　提携駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は気が利いているが清掃が行き届かず残念まだ新しい建物で設備面や備品は気が効いているところがあって良いと思いました。ただカーペットに以前の宿泊者のものであろう髪の毛がかなり絡まっていて、気分…　2026-08-21 19:52:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は気が利いているが清掃が行き届かず残念まだ新しい建物で設備面や備品は気が効いているところがあって良いと思いました。ただカーペットに以前の宿泊者のものであろう髪の毛がかなり絡まっていて、気分…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車　約60台　大型バス　約6台　料金は宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お酒飲み放題とバイキング料理に大満足!お酒飲み放題最高でした夕食のバイキングも全部美味しかったです!クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-08-21 18:53:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お酒飲み放題とバイキング料理に大満足!お酒飲み放題最高でした夕食のバイキングも全部美味しかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>一律料金（ご1泊あたり1,000円）にてご利用頂けます。駐車場の入り口はプラン詳細をご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.39 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.21 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの眺めが最高でゆっくりくつろげる部屋からの眺め最高です。ゆっくりくつろげます。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-10-08 23:32:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの眺めが最高でゆっくりくつろげる部屋からの眺め最高です。ゆっくりくつろげます。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古めだが温泉と朝食は十分満足施設は少し古めですが、温泉、朝食とも十分楽しめました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-08-21 13:05:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古めだが温泉と朝食は十分満足施設は少し古めですが、温泉、朝食とも十分楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetOitaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　1泊550円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と綺麗な室内、愛犬と快適な時間親切な接客でした。室内も綺麗で、犬とお泊まりできてよかったです。また利用したいです。クチコミの詳細はこちらから　https://review.t…　2026-08-16 16:54:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と綺麗な室内、愛犬と快適な時間親切な接客でした。室内も綺麗で、犬とお泊まりできてよかったです。また利用したいです。」
                   </blockquote>
                 </div>
               </div>

@@ -515,7 +515,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場をご案内させていただきます</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.25 ／ 部屋 ★4.17 ／ 設備 ★4.15 ／ 風呂 ★4.18 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗なお部屋と美味しいふぐ料理に大満足お部屋は綺麗でふぐを使ったお料理も美味しく満足できました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-10-08 20:10:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗なお部屋と美味しいふぐ料理に大満足お部屋は綺麗でふぐを使ったお料理も美味しく満足できました。」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p>【下関：唐戸市場の秋ふく・海鮮握り＆関門海峡絶景】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「唐戸市場に近く、豪華で綺麗な空間綺麗で豪華なホテルでした。唐戸市場にも近くて満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-09-05 18:36:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「唐戸市場に近く、豪華で綺麗な空間綺麗で豪華なホテルでした。唐戸市場にも近くて満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -559,7 +559,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>600円/日　ご宿泊予約時に備考欄に記載ください。※記載がない場合はお取りできません。ご了承ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.08 ／ 部屋 ★4.15 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が広くて快適でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/9134?reviewId=3312347967…　2026-10-09 14:53:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が広くて快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -581,7 +581,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　37台　無料　先着順 （満車になり次第、有料駐車場へのご案内）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.8 ／ 部屋 ★3.87 ／ 設備 ★3.82 ／ 風呂 ★3.9 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「冷蔵庫の故障に笑顔で迅速対応、感謝!冷蔵庫が故障していて,連絡したら女性のスタッフの方が重い新品の冷蔵庫を笑顔で運んできて,交換して下さいました感謝クチコミの詳細はこちらから　https://…　2026-10-08 20:41:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「冷蔵庫の故障に笑顔で迅速対応、感謝!冷蔵庫が故障していて,連絡したら女性のスタッフの方が重い新品の冷蔵庫を笑顔で運んできて,交換して下さいました感謝」
                   </blockquote>
                 </div>
               </div>
@@ -603,7 +603,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場先着順（普通車700円〜）／大型車事前電話予約必須￥1400〜￥2800</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.88 ／ 部屋 ★3.81 ／ 設備 ★3.71 ／ 風呂 ★3.62 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待どおり期待どおりのロケーション・朝食で料金以上の満足感がありました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-10-09 16:01:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待どおり期待どおりのロケーション・朝食で料金以上の満足感がありました。」
                   </blockquote>
                 </div>
               </div>

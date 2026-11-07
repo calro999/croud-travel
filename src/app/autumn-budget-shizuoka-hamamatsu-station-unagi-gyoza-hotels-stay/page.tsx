@@ -496,7 +496,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（先着順）30台 有料  乗用車1泊1台600円(税込)。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.87 ／ 立地 ★3.93 ／ 部屋 ★3.76 ／ 設備 ★3.7 ／ 風呂 ★3.63 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士宮観光や富士山登山の起点に最適駅やバスターミナルが目の前にあり富士宮観光や富士山登山の起点にするには大変ロケーションが良かったです。今回は富士宮ルートでの富士山登山の起点にしましたが早朝のバス…　2026-10-07 10:37:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士宮観光や富士山登山の起点に最適駅やバスターミナルが目の前にあり富士宮観光や富士山登山の起点にするには大変ロケーションが良かったです。今回は富士宮ルートでの富士山登山の起点にしましたが早朝のバス…」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車まで無料でお停めいただけます。※大型車（2t車以上）は事前の申込みが必要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.05 ／ 部屋 ★4.04 ／ 設備 ★3.94 ／ 風呂 ★3.92 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と朝食は満足、上層階の足音が響くホテル従業員様はとても丁寧でフランドリー。朝食は、地元食材?で満足。施設は古いので、設備はそれなり。上層階の方が連日ドタバタしておりうるさかっ…　2026-10-07 06:50:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と朝食は満足、上層階の足音が響くホテル従業員様はとても丁寧でフランドリー。朝食は、地元食材?で満足。施設は古いので、設備はそれなり。上層階の方が連日ドタバタしておりうるさかっ…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（有料）１泊　1760円（税込）　お車は当館の玄関前に直接お寄せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。商店街からも近く、立地も最…　2026-08-22 20:09:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が美味しくボリューム満点で大満足今回2回目の宿泊です。とてもご飯が美味しく、ボリューム満点で大満足です。ここより美味しく満足できるご飯は、なかなかないと思います。商店街からも近く、立地も最…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　50台　　1泊　　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。(金目の煮付けが最高でした)お風呂の設備に不備があり…　2026-08-29 13:21:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。(金目の煮付けが最高でした)お風呂の設備に不備があり…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function AutumnBudgetHamamatsuStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…　2026-08-29 21:17:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…」
                   </blockquote>
                 </div>
               </div>

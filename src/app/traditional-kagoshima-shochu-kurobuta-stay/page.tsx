@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.51 ／ 風呂 ★4.68 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-08 21:45:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良い」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　先着順　無料　　バイクの場合は屋根付きスペースを確保します（要連絡）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気とラドン湯で湯治気分を満喫昭和の雰囲気漂う山里の宿で、ゆっくり温泉に浸かり味わい深い手料理を堪能するのに格好の場所です。周辺に飲み歩く場所やコンビニはありません。ラドン湯の泉質…　2026-07-18 07:14:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気とラドン湯で湯治気分を満喫昭和の雰囲気漂う山里の宿で、ゆっくり温泉に浸かり味わい深い手料理を堪能するのに格好の場所です。周辺に飲み歩く場所やコンビニはありません。ラドン湯の泉質…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p>【極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に離れに泊まりました。直前に人数変更があったり、当日、到着予定時刻がズレて夕食開始時間も変更していただきましたが、笑顔で対応してくださいました。ありがとうございました。ご飯は、量もあ…　2026-07-30 10:45:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に離れに泊まりました。直前に人数変更があったり、当日、到着予定時刻がズレて夕食開始時間も変更していただきましたが、笑顔で対応してくださいました。ありがとうございました。ご飯は、量もあ…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>３０台有料（普通車 1,100円）先着順により満車の場合、提携駐車場にご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒豚鍋と源泉かけ流しの温泉に大満足夕食はすぐ近くの居酒屋さんでメインは黒豚のお鍋、お刺身もあり妻も大変満足しておりました。温泉も鹿児島市内では珍しい源泉かけ流しで体もとても癒されました。照国神…　2026-07-23 09:49:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒豚鍋と源泉かけ流しの温泉に大満足夕食はすぐ近くの居酒屋さんでメインは黒豚のお鍋、お刺身もあり妻も大変満足しておりました。温泉も鹿児島市内では珍しい源泉かけ流しで体もとても癒されました。照国神…」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p>【極上黒豚しゃぶしゃぶ＆百種プレミアム焼酎BAR】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切温泉と美味しい朝食、立地も最高貸切温泉風呂が最高でした!犬飼の湯は広々していて星空、青空を見ながらゆったり浸かることができました。朝食もご飯が進むおいしいおかずばかりでおかわりいただきました。…　2026-07-16 15:10:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切温泉と美味しい朝食、立地も最高貸切温泉風呂が最高でした!犬飼の湯は広々していて星空、青空を見ながらゆったり浸かることができました。朝食もご飯が進むおいしいおかずばかりでおかわりいただきました。…」
                   </blockquote>
                 </div>
               </div>

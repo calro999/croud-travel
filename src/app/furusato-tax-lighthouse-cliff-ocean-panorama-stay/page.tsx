@@ -628,7 +628,7 @@ export default function FurusatoFeaturePage() {
                   <p>【白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とBBQ、贅沢な朝食で大満足!グランピングですが、温泉入り放題、BBQもボリュームがあり、大満足です。朝はカワイイバスケットにサラダやジュース、ヨーグルト、温かいパンに、ハンドドリップでコーヒ…　2026-09-13 17:38:23投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=165626&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とBBQ、贅沢な朝食で大満足!グランピングですが、温泉入り放題、BBQもボリュームがあり、大満足です。朝はカワイイバスケットにサラダやジュース、ヨーグルト、温かいパンに、ハンドドリップでコーヒ…」
                   </blockquote>
                 </div>
               </div>
@@ -650,7 +650,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　先着順41台　800円/泊　※満車の際は近隣のコインパーキングをご利用下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「残念な2泊部屋は、汗臭く ずっと換気やスプレーで何とか2泊過ごしました。朝食も残念な感じでした。銚子の時は利用してますが、次回は、他のホテルにしたいと思ってます。クチコミの詳…　2026-08-24 22:16:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「残念な2泊部屋は、汗臭く ずっと換気やスプレーで何とか2泊過ごしました。朝食も残念な感じでした。銚子の時は利用してますが、次回は、他のホテルにしたいと思ってます。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>
@@ -672,7 +672,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.55 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★4.31 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。銚子ということで期待していた食事もがっかりなクオリティで、良い口コミが本当なのか疑ってしまい…　2026-10-08 21:51:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。銚子ということで期待していた食事もがっかりなクオリティで、良い口コミが本当なのか疑ってしまい…」
                   </blockquote>
                 </div>
               </div>
@@ -694,7 +694,7 @@ export default function FurusatoFeaturePage() {
                   <p>【白亜の灯台＆断崖絶景オーシャンビュー宿×ふるさと納税】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で、部屋からの景色も絶景朝ごはんのバイキングの品数が豊富です。和食、洋食、中華、地元の食材を使ったものが並んでいて大満足ですその場で作る白身がふわふわの卵かけご飯が美味しかった…　2026-08-29 19:38:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で、部屋からの景色も絶景朝ごはんのバイキングの品数が豊富です。和食、洋食、中華、地元の食材を使ったものが並んでいて大満足ですその場で作る白身がふわふわの卵かけご飯が美味しかった…」
                   </blockquote>
                 </div>
               </div>
@@ -716,7 +716,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料平面駐車場有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応に心温まるひとときスタッフの対応が素晴らしい。小さな子にも遊び相手になってあげている様子を見て、あたたかい宿だと感じた。クチコミの詳細はこちらから　https://revi…　2026-08-29 19:53:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応に心温まるひとときスタッフの対応が素晴らしい。小さな子にも遊び相手になってあげている様子を見て、あたたかい宿だと感じた。」
                   </blockquote>
                 </div>
               </div>

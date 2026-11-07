@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料にてご用意がございます。約30台・ 屋外駐車場のみ・ヴァレーパーキング：一部可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.69 ／ 部屋 ★4.78 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。全国のクラシックホテルを訪れていて、今…　2026-08-25 16:23:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。全国のクラシックホテルを訪れていて、今…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３９台　有料1台1泊500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お庭の眺めに癒やされる、創作料理は凝りすぎ部屋から素敵なお庭が見れて癒されました。夕食の創作料理は美味しいけど少し凝り過ぎた感じがします。クチコミの詳細はこちらから　https://revie…　2026-08-16 15:53:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お庭の眺めに癒やされる、創作料理は凝りすぎ部屋から素敵なお庭が見れて癒されました。夕食の創作料理は美味しいけど少し凝り過ぎた感じがします。」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料/30台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は良かったが清掃と異臭が気になるお部屋にお風呂があるのは最高でした。ただ、湯船の端にある黒カビが気になりました。あとお部屋のエアコンの風が出てくるところの埃もたっぷり見えてしまって。。そして1…　2026-09-18 18:13:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は良かったが清掃と異臭が気になるお部屋にお風呂があるのは最高でした。ただ、湯船の端にある黒カビが気になりました。あとお部屋のエアコンの風が出てくるところの埃もたっぷり見えてしまって。。そして1…」
                   </blockquote>
                 </div>
               </div>

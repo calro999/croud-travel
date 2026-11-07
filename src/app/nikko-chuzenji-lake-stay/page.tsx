@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p>【奥日光・中禅寺湖：華厳の滝＆湖畔リゾート極上宿 厳選】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中禅寺湖の絶景と2種類の温泉に癒される中禅寺湖の眼の前で、眺めが最高!朝起きたら朝日が湖に、光って癒されました。温泉も硫黄泉と肌によい弱アルカリ泉と、2種類あり、ゆったりできました。地元の野菜のせ…　2026-09-12 17:19:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中禅寺湖の絶景と2種類の温泉に癒される中禅寺湖の眼の前で、眺めが最高!朝起きたら朝日が湖に、光って癒されました。温泉も硫黄泉と肌によい弱アルカリ泉と、2種類あり、ゆったりできました。地元の野菜のせ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外）　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「金谷ホテルの食事に母も大絶賛の旅金谷ホテルはやはり食事がおいしいです。以前は日光金谷ホテルも利用したことがありとてもよい印象残ったため、この度は母が温泉に浸かりたいということで中禅寺金谷ホテル…　2026-09-10 19:48:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「金谷ホテルの食事に母も大絶賛の旅金谷ホテルはやはり食事がおいしいです。以前は日光金谷ホテルも利用したことがありとてもよい印象残ったため、この度は母が温泉に浸かりたいということで中禅寺金谷ホテル…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.88 ／ 設備 ★3.81 ／ 風呂 ★4.17 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。残念な事がは綺麗な畳に横になっている時…　2026-10-05 15:35:45投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=149268&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。残念な事がは綺麗な畳に横になっている時…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「乳白色の温泉と自然に癒やされ、心身ともにリフレッシュ乳白色のお湯が最高でした。自律神経が乱れ気味だったのですが、お風呂に入ってすごく楽になり、とてもよく眠れました。お部屋も広くてゆったりでき、喫煙…　2026-08-22 17:23:48投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=135482&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「乳白色の温泉と自然に癒やされ、心身ともにリフレッシュ乳白色のお湯が最高でした。自律神経が乱れ気味だったのですが、お風呂に入ってすごく楽になり、とてもよく眠れました。お部屋も広くてゆったりでき、喫煙…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　１００台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が狭く設備も古く、再訪はない今回与えられた部屋は、小屋もしくは安アパートの様なものでした入った瞬間に帰りたいと思いました、リピートはありませんクチコミの詳細はこちらから　https:/…　2026-08-21 20:58:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が狭く設備も古く、再訪はない今回与えられた部屋は、小屋もしくは安アパートの様なものでした入った瞬間に帰りたいと思いました、リピートはありません」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…　2026-10-08 19:33:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…」
                   </blockquote>
                 </div>
               </div>

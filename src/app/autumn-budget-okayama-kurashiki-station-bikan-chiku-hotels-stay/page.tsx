@@ -505,7 +505,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場『カモ井パーキング』24時間1,000円（フロント精算）※途中出庫不可・到着順案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光地での荷物預かりサービスが助かる観光地倉敷でチェックイン前後で荷物を預かってくださるのがとても助かりました。クチコミの詳細はこちらから　https://review.travel.raku…　2026-09-15 13:01:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光地での荷物預かりサービスが助かる観光地倉敷でチェックイン前後で荷物を預かってくださるのがとても助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -527,7 +527,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣にコインパーキングあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★4 ／ 部屋 ★4.02 ／ 設備 ★3.87 ／ 風呂 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光にも便利、出張の定宿に最適倉敷駅から近く、スーパー、商店街とも近く飲食に困りません。美観地区までも徒歩圏内ですので観光にも最適です。出張時にはまた利用させてもらいます。クチコミの詳細…　2026-09-06 18:37:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光にも便利、出張の定宿に最適倉敷駅から近く、スーパー、商店街とも近く飲食に困りません。美観地区までも徒歩圏内ですので観光にも最適です。出張時にはまた利用させてもらいます。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -549,7 +549,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　1泊￥700　立体駐車場（32台）　先着順　高さ制限有：155cmまで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.03 ／ 部屋 ★4.03 ／ 設備 ★4.02 ／ 風呂 ★3.93 ／ 食事 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利な立地、エレベーター音は少し気になる倉敷の馬関地区に近く、観光目的の方にはおすすめです。また飲食店も近隣に多数あり、便利です。宿泊当日に最後の1室を予約したためか、エレベーターの…　2026-09-28 12:13:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に便利な立地、エレベーター音は少し気になる倉敷の馬関地区に近く、観光目的の方にはおすすめです。また飲食店も近隣に多数あり、便利です。宿泊当日に最後の1室を予約したためか、エレベーターの…」
                   </blockquote>
                 </div>
               </div>
@@ -571,7 +571,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1泊1,100円（税込　16時〜翌日10時）　予約不可先着順　※10時〜16時は」別途料金発生</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.9 ／ 部屋 ★3.76 ／ 設備 ★3.72 ／ 風呂 ★3.79 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「充電設備が便利で、お風呂も良かった朝夕食付き、部屋にはUSB、Type-C充電ポートあり。大浴場は脱衣所狭いけど、お風呂は良かったです。次も利用したいです!クチコミの詳細はこちらから　http…　2026-10-09 22:17:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「充電設備が便利で、お風呂も良かった朝夕食付き、部屋にはUSB、Type-C充電ポートあり。大浴場は脱衣所狭いけど、お風呂は良かったです。次も利用したいです!」
                   </blockquote>
                 </div>
               </div>

@@ -251,7 +251,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「人生で一番の体験、すべてが最高級の宿今までの人生で1番の宿泊体験でした。瑠璃紫に宿泊しましたが、部屋のお風呂が信じられないほど広く尚且つ温度もちょうど良く何回も入ってました。夕食も朝食も地…　2026-09-24 13:40:36投稿 つづきはこちら」
+                「人生で一番の体験、すべてが最高級の宿今までの人生で1番の宿泊体験でした。瑠璃紫に宿泊しましたが、部屋のお風呂が信じられないほど広く尚且つ温度もちょうど良く何回も入ってました。夕食も朝食も地… つづきはこちら」
               </div>
 
               <div className="pt-2">
@@ -389,7 +389,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「誕生日のお祝いに最適、非日常で心地よい時間彼氏のお誕生日でケーキを用意してもらいました。ご飯も美味しくて、サービスも良くて、何より非日常でとても良い時間でした。昼も涼しく、ベンチでゆったり…　2026-08-29 00:38:13投稿 つづきはこちら」
+                「誕生日のお祝いに最適、非日常で心地よい時間彼氏のお誕生日でケーキを用意してもらいました。ご飯も美味しくて、サービスも良くて、何より非日常でとても良い時間でした。昼も涼しく、ベンチでゆったり… つづきはこちら」
               </div>
 
               <div className="pt-2">
@@ -458,7 +458,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「霧島神宮への送迎や細やかな気配りに感動!料理長の料理も抜群で、お部屋もくつろげました。霧島神宮に近いお宿を探して予約しました。翌朝が早くに移動するため、送迎をお願いしており予約時から丁寧に対応頂き…　2026-09-27 17:23:43投稿 つづきはこちら」
+                「霧島神宮への送迎や細やかな気配りに感動!料理長の料理も抜群で、お部屋もくつろげました。霧島神宮に近いお宿を探して予約しました。翌朝が早くに移動するため、送迎をお願いしており予約時から丁寧に対応頂き… つづきはこちら」
               </div>
 
               <div className="pt-2">

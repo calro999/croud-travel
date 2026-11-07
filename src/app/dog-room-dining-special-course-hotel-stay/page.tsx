@@ -333,7 +333,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　14台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で食事も美味しく大満足部屋も清潔で匂いもせず、ご飯も美味しくて満足でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-08-26 12:30:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で食事も美味しく大満足部屋も清潔で匂いもせず、ご飯も美味しくて満足でした」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function PetDogResortHubPage() {
                   <p>【愛犬同伴OK・お部屋食＆愛犬用特製フルコース宿：無添】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に絶景を眺めて楽しいひととき愛犬と泊まることができて、景色もきれいで、とても楽しい時間を過ごせました!クチコミの詳細はこちらから　https://review.travel.raku…　2026-08-18 21:03:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に絶景を眺めて楽しいひととき愛犬と泊まることができて、景色もきれいで、とても楽しい時間を過ごせました!」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事もドッグランも大満足、愛犬と楽しめた夕食、朝食ともにボリュームがすごいだけでなく、とても美味しい食事でした。アメニティやペット用のグッズもちゃんと準備され、ドッグランも楽しめました。ベッドが柔…　2026-08-13 08:26:16投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=129403&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事もドッグランも大満足、愛犬と楽しめた夕食、朝食ともにボリュームがすごいだけでなく、とても美味しい食事でした。アメニティやペット用のグッズもちゃんと準備され、ドッグランも楽しめました。ベッドが柔…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は豪華でロケーション最高、愛犬も大満足夕食が食べきれないくらいでお腹いっぱいになりました!お風呂と部屋が普通すぎるくらい普通でした。夫婦岩が部屋から見えてロケーションは最高でしたがクー…　2026-08-29 11:05:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は豪華でロケーション最高、愛犬も大満足夕食が食べきれないくらいでお腹いっぱいになりました!お風呂と部屋が普通すぎるくらい普通でした。夫婦岩が部屋から見えてロケーションは最高でしたがクー…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…　2026-08-29 21:17:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　室数分　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「・車で行く人は結構道が狭いです。・歩きの方は坂がとにかくきついので注意が必要です。・ホテル内にエレベーターはありません。それでも素晴らしいホテルでした。おもてなしも素敵でしたし、客…　2026-08-04 07:40:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「・車で行く人は結構道が狭いです。・歩きの方は坂がとにかくきついので注意が必要です。・ホテル内にエレベーターはありません。それでも素晴らしいホテルでした。おもてなしも素敵でしたし、客…」
                   </blockquote>
                 </div>
               </div>

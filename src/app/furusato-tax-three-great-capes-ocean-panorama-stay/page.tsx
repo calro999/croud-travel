@@ -614,7 +614,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　到着順にご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.48 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.48 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの種類が豊富でアルコールも充実バイキングはたくさん種類があって食べきれないほどです秋刀魚のお寿司があって嬉しかったですアルコールフリーで満足ソラチが飲めたのが良かったです…　2026-10-08 21:11:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの種類が豊富でアルコールも充実バイキングはたくさん種類があって食べきれないほどです秋刀魚のお寿司があって嬉しかったですアルコールフリーで満足ソラチが飲めたのが良かったです…」
                   </blockquote>
                 </div>
               </div>
@@ -636,7 +636,7 @@ export default function Page() {
                   <p>【日本三大岬＆地球の丸みを感じる断崖・絶景パノラマ海宿】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と眺望は最高、お風呂は熱すぎて...海の見えるベッドのお部屋が満室、高齢者を連れて和室は少々不安もありながらの予約。しかしエレベーター降りてすぐの部屋で助かったのと、畳も綺麗で清潔感があり、掃…　2026-09-01 23:42:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と眺望は最高、お風呂は熱すぎて...海の見えるベッドのお部屋が満室、高齢者を連れて和室は少々不安もありながらの予約。しかしエレベーター降りてすぐの部屋で助かったのと、畳も綺麗で清潔感があり、掃…」
                   </blockquote>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「・こんなにバイキング料理が充実してるのは初めて!1つ1つ美味しいし会場の席案内や 料理も スーツのスタッフさんがちゃんとみていて 食事の時間が楽しく過ごせる様に 気を利かせてらっしゃいました。…　2026-09-04 12:34:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「・こんなにバイキング料理が充実してるのは初めて!1つ1つ美味しいし会場の席案内や 料理も スーツのスタッフさんがちゃんとみていて 食事の時間が楽しく過ごせる様に 気を利かせてらっしゃいました。…」
                   </blockquote>
                 </div>
               </div>

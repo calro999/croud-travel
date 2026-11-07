@@ -477,7 +477,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台1,000円(税込)/先着順/23:00〜翌6:30入出庫不可/機械式立体駐車場(72台)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.54 ／ 部屋 ★4.54 ／ 設備 ★4.48 ／ 風呂 ★4.41 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は満席だったが部屋は綺麗で満足朝食が満席で予約が取れなかった事以外は、部屋もとても綺麗で、満足いくステイでした。クチコミの詳細はこちらから　https://review.travel.ra…　2026-10-04 19:50:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は満席だったが部屋は綺麗で満足朝食が満席で予約が取れなかった事以外は、部屋もとても綺麗で、満足いくステイでした。」
                   </blockquote>
                 </div>
               </div>
@@ -499,7 +499,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面P・立体P（１泊１０００円税込）契約P（１泊７００円又は８００円税込）※R6年４月１日〜料金改定</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.28 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.26 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「餃子と観光の拠点に最適、また利用したい今回の目的は、東武ワールドスクエア宇都宮で餃子を食べることでした。そして、クチコミを読み、こちらのホテルを選びました。(朝食付・禁煙・ReFaルーム)…　2026-10-10 18:36:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「餃子と観光の拠点に最適、また利用したい今回の目的は、東武ワールドスクエア宇都宮で餃子を食べることでした。そして、クチコミを読み、こちらのホテルを選びました。(朝食付・禁煙・ReFaルーム)…」
                   </blockquote>
                 </div>
               </div>
@@ -521,7 +521,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　141台　無料　／　大型車両やバスは1泊2000円・事前にお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.28 ／ 部屋 ★4.69 ／ 設備 ★4.64 ／ 風呂 ★4.56 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋とソファベッドが快適、次は朝食も部屋も清潔で、ソファベッドがとても使いやすくて良かったですお水やコーヒーのサービスもあり、次回は朝食付きにしたいと思いますクチコミの詳細はこちらか…　2026-10-10 20:49:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋とソファベッドが快適、次は朝食も部屋も清潔で、ソファベッドがとても使いやすくて良かったですお水やコーヒーのサービスもあり、次回は朝食付きにしたいと思いますクチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>

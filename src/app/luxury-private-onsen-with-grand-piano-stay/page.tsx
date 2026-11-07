@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>バイク・普通車　50台無料　マイクロバス等の普通車以外のお車は駐車できません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.77 ／ 立地 ★3.76 ／ 部屋 ★3.66 ／ 設備 ★3.58 ／ 風呂 ★3.86 ／ 食事 ★3.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングとお酒が美味しく大部屋も快適バイキングの料理も美味しく、お酒もとてもおいしかったです。5人家族なので、大部屋も大変有り難いです!クチコミの詳細はこちらから　https://revie…　2026-10-08 17:19:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングとお酒が美味しく大部屋も快適バイキングの料理も美味しく、お酒もとてもおいしかったです。5人家族なので、大部屋も大変有り難いです!」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ５０台 １１００円（税込み／泊）　駐車場の立体・平面の種別はお選びいただけません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯うますぎるバイキングの鰹のタタキが絶品でした。刺身もかなりレベル高く寿司もうまい3周しちゃいました!朝ごはんも何もかもうまくてまたきたいです他の画像やクチコミの詳細はこちらから　https…　2026-08-16 17:01:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯うますぎるバイキングの鰹のタタキが絶品でした。刺身もかなりレベル高く寿司もうまい3周しちゃいました!朝ごはんも何もかもうまくてまたきたいです」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★3.51 ／ 部屋 ★3.48 ／ 設備 ★3.22 ／ 風呂 ★3.5 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/72…　2026-09-17 19:41:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.71 ／ 部屋 ★4.64 ／ 設備 ★4.6 ／ 風呂 ★4.73 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。温かく出してほ…　2026-10-10 11:41:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。温かく出してほ…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【優雅な生演奏と美肌名湯】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…　2026-09-19 21:11:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…」
                   </blockquote>
                 </div>
               </div>

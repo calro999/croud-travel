@@ -440,7 +440,7 @@ export default function KusatsuVsIkahoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.48 ／ 部屋 ★4.14 ／ 設備 ★4.02 ／ 風呂 ★4.53 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事とスタッフの優しさに和むご飯が美味しいスタッフさんも、優しくて和みましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-10-08 00:46:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事とスタッフの優しさに和むご飯が美味しいスタッフさんも、優しくて和みました」
                   </blockquote>
                 </div>
               </div>
@@ -484,7 +484,7 @@ export default function KusatsuVsIkahoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.23 ／ 部屋 ★4.23 ／ 設備 ★4.05 ／ 風呂 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高、朝食も程よい満足感温泉は横綱でした。朝食も程よい感じでした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-21 20:20:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高、朝食も程よい満足感温泉は横綱でした。朝食も程よい感じでした。」
                   </blockquote>
                 </div>
               </div>
@@ -506,7 +506,7 @@ export default function KusatsuVsIkahoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>旅館前駐車場有り75台　無料　駐車スペースが無い場合は大変お手数ですがフロントまでお申し付けください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく、子連れへの対応が温かい食事が良かったです。子ども向けの部屋があって手厚いおもてなしでした。子どもが部屋を汚してしまいましたが嫌な顔せず対応してくれました。また行きたいで…　2026-08-24 17:05:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく、子連れへの対応が温かい食事が良かったです。子ども向けの部屋があって手厚いおもてなしでした。子どもが部屋を汚してしまいましたが嫌な顔せず対応してくれました。また行きたいで…」
                   </blockquote>
                 </div>
               </div>
@@ -528,7 +528,7 @@ export default function KusatsuVsIkahoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要　チェックイン前ご利用可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.13 ／ 部屋 ★4.4 ／ 設備 ★4.22 ／ 風呂 ★4.31 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅にやさしい伊香保で泊まってみたかった旅館のひとつ。旅館前の駐車場は一台ぶんのスペースが狭め。ひとり旅、ほったらかしプランは嬉しい。貸し切り風呂が多いお宿だからか、大浴場は2回入って2回とも…　2026-10-07 15:53:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅にやさしい伊香保で泊まってみたかった旅館のひとつ。旅館前の駐車場は一台ぶんのスペースが狭め。ひとり旅、ほったらかしプランは嬉しい。貸し切り風呂が多いお宿だからか、大浴場は2回入って2回とも…」
                   </blockquote>
                 </div>
               </div>
@@ -550,7 +550,7 @@ export default function KusatsuVsIkahoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。リピ…　2026-08-21 19:19:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。リピ…」
                   </blockquote>
                 </div>
               </div>

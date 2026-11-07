@@ -472,7 +472,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料100台有り■玄関前以外はバレーサービス■ハイルーフ・マイクロでも安心のアスファルト敷平面</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で料理が最高、また行きたい館内はリニューアルされていて綺麗でした。カーペットが少し汚れていたのと、ガラスが汚れていたのが残念です。料理は最高に美味しかったです。朝、晩御飯とも…　2026-08-19 06:03:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で料理が最高、また行きたい館内はリニューアルされていて綺麗でした。カーペットが少し汚れていたのと、ガラスが汚れていたのが残念です。料理は最高に美味しかったです。朝、晩御飯とも…」
                   </blockquote>
                 </div>
               </div>
@@ -494,7 +494,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.48 ／ 部屋 ★4.37 ／ 設備 ★4.15 ／ 風呂 ★4.44 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供宿泊可能の是非丁寧な接客であったが,誰が「女将」か「責任者」かわからなかった.食事は部屋に運んでくれて良かった.温泉は外風呂がチケット制で1回しか行けないし,外部の客(日帰り)も多く,少し残念…　2026-09-23 22:21:03投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=129984&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供宿泊可能の是非丁寧な接客であったが,誰が「女将」か「責任者」かわからなかった.食事は部屋に運んでくれて良かった.温泉は外風呂がチケット制で1回しか行けないし,外部の客(日帰り)も多く,少し残念…」
                   </blockquote>
                 </div>
               </div>
@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【白砂の枯山水庭園と畳の静寂】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…　2026-10-09 21:39:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…」
                   </blockquote>
                 </div>
               </div>

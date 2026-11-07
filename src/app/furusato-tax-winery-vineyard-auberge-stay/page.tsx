@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　コンビニ徒歩2分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とワイン風呂を堪能、また安く泊まりたいリピート。温泉がとても良くて、今回が2回目。石和温泉で安い宿を探していたら、本宿がかなりのプライスダウンで迷わず予約。最安値の和室で景観は無いに等しい…　2026-08-21 06:00:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とワイン風呂を堪能、また安く泊まりたいリピート。温泉がとても良くて、今回が2回目。石和温泉で安い宿を探していたら、本宿がかなりのプライスダウンで迷わず予約。最安値の和室で景観は無いに等しい…」
                   </blockquote>
                 </div>
               </div>
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★3.51 ／ 部屋 ★3.48 ／ 設備 ★3.22 ／ 風呂 ★3.5 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/72…　2026-09-17 19:41:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。」
                   </blockquote>
                 </div>
               </div>
@@ -819,7 +819,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の眺めとスタッフの気配りに感動「眺望ナシ」のお部屋でしたが、庭園が見えて感動しました。庭園では鯉を眺めたり足湯に入ったり食後の散策と気持ち良く過ごす事が出来ました。接客が素晴らしかったです…　2026-08-27 20:52:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の眺めとスタッフの気配りに感動「眺望ナシ」のお部屋でしたが、庭園が見えて感動しました。庭園では鯉を眺めたり足湯に入ったり食後の散策と気持ち良く過ごす事が出来ました。接客が素晴らしかったです…」
                   </blockquote>
                 </div>
               </div>
@@ -841,7 +841,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5台　1500円（1泊1台分）　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食とワイン、おしゃれな空間で小樽を満喫朝食のモーニングハイティーのクオリティがとても高く、大満足でした。また、夕方にはワインバーのサービスを無料で利用でき、小樽や富良野のワインをゆっくりと楽しむ…　2026-08-25 11:03:50投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=172337&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食とワイン、おしゃれな空間で小樽を満喫朝食のモーニングハイティーのクオリティがとても高く、大満足でした。また、夕方にはワインバーのサービスを無料で利用でき、小樽や富良野のワインをゆっくりと楽しむ…」
                   </blockquote>
                 </div>
               </div>
@@ -863,7 +863,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.24 ／ 部屋 ★4.42 ／ 設備 ★4.34 ／ 風呂 ★4.26 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが手入れが行き届いている建物は古いですが、広くて良いホテルだと思います。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-10-06 18:44:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが手入れが行き届いている建物は古いですが、広くて良いホテルだと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -885,7 +885,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>79台収容（1泊￥2,000/地下駐車場：車高1.9m迄/国道5号線北方面沿い）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のメニューが豊富で連泊も大満足3日の連泊でした。朝食付きのプラン。「本日のメニュ」があったり、汁物が変わったりして3日間とも楽しく食事をしました。北海道らしいメニューもたくさんありました。なん…　2026-08-25 23:33:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のメニューが豊富で連泊も大満足3日の連泊でした。朝食付きのプラン。「本日のメニュ」があったり、汁物が変わったりして3日間とも楽しく食事をしました。北海道らしいメニューもたくさんありました。なん…」
                   </blockquote>
                 </div>
               </div>

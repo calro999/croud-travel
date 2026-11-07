@@ -614,7 +614,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.6 ／ 部屋 ★4.58 ／ 設備 ★4.49 ／ 風呂 ★4.24 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「語り部さんツアーは絶対参加すべし!お出迎えのお茶とおしぼりに癒やされました。法隆寺駅から歩いてもそれほど遠く感じませんでした。お部屋も夕食も、3種おためしのお酒も、朝食も丁寧でやさしい味付け。どれ…　2026-10-09 16:40:15投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=177058&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「語り部さんツアーは絶対参加すべし!お出迎えのお茶とおしぼりに癒やされました。法隆寺駅から歩いてもそれほど遠く感じませんでした。お部屋も夕食も、3種おためしのお酒も、朝食も丁寧でやさしい味付け。どれ…」
                   </blockquote>
                 </div>
               </div>
@@ -636,7 +636,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着117台（事前予約不可）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.22 ／ 部屋 ★4.24 ／ 設備 ★4.16 ／ 風呂 ★4.08 ／ 食事 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都駅への送迎は便利だが部屋が遠い京都駅に近いだけでなく、駅までの無料送迎もあるのでとても便利でした。今回、宿泊した部屋がホテルの端だったため、メインエレベーターからかなり歩かないといけません…　2026-10-06 11:27:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都駅への送迎は便利だが部屋が遠い京都駅に近いだけでなく、駅までの無料送迎もあるのでとても便利でした。今回、宿泊した部屋がホテルの端だったため、メインエレベーターからかなり歩かないといけません…」
                   </blockquote>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.34 ／ 部屋 ★4.75 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心のこもった食事に大満足夕食、朝食共に心のこもった品々に感激!大変おいしかった。夕食を8分目のプランにし満腹になったけれど次回は通常のプランで全てを食べたいと思った。季節を変えて食事を堪能しに行き…　2026-10-09 20:40:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心のこもった食事に大満足夕食、朝食共に心のこもった品々に感激!大変おいしかった。夕食を8分目のプランにし満腹になったけれど次回は通常のプランで全てを食べたいと思った。季節を変えて食事を堪能しに行き…」
                   </blockquote>
                 </div>
               </div>

@@ -710,7 +710,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1,000円（税込／泊）先着順／170台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な事前対応と絶景の露天風呂に大満足宿泊前からタクシーのお手配やその他の質問に対して、丁寧にご回答いただきました。当日も飛行機が遅れたことで、諸々の変更をお願いしましたが、すぐに全て対応いた…　2026-08-25 16:37:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な事前対応と絶景の露天風呂に大満足宿泊前からタクシーのお手配やその他の質問に対して、丁寧にご回答いただきました。当日も飛行機が遅れたことで、諸々の変更をお願いしましたが、すぐに全て対応いた…」
                   </blockquote>
                 </div>
               </div>
@@ -732,7 +732,7 @@ export default function FurusatoTaxPage() {
                   <p>【朝食日本一受賞・究極の朝ごはんホテル×ふるさと納税厳】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事、スタッフの対応に大満足温泉があり、食事も美味しく、スタッフ皆さんのホスピタリティも抜群でした。家族でゆっくり滞在できて大変良かったです。クチコミの詳細はこちらから　https://…　2026-09-19 21:23:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事、スタッフの対応に大満足温泉があり、食事も美味しく、スタッフ皆さんのホスピタリティも抜群でした。家族でゆっくり滞在できて大変良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -754,7 +754,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場50台／料金1泊1台1,000円／24時間入出庫可／高さ制限2.1ｍ未満</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…　2026-09-04 17:39:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…」
                   </blockquote>
                 </div>
               </div>
@@ -776,7 +776,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場58台／1泊1台につき1,200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご当地の美味しい食事を存分に満喫!食事がとてもおいしかったです。ご当地の食べ物を満喫できて最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-08-22 17:46:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご当地の美味しい食事を存分に満喫!食事がとてもおいしかったです。ご当地の食べ物を満喫できて最高でした。」
                   </blockquote>
                 </div>
               </div>

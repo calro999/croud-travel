@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく満足、隣の音が気になる食事は美味しく満足しました部屋の壁が薄いのか、隣の声、音が聞こえるので自分達も気を使ったクチコミの詳細はこちらから　https://review.tra…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく満足、隣の音が気になる食事は美味しく満足しました部屋の壁が薄いのか、隣の声、音が聞こえるので自分達も気を使った」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Good serviceクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13447?reviewId=331234794…　2026-09-17 16:43:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Good service」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が温かく、また泊まりたい今回2回目の利用でした。宿の方が本当に 優しい方ばかりで 急な要望も素早く対応して頂き今回も素敵な体験がたくさんできました。ありがとうございました。ま…　2026-09-16 19:59:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が温かく、また泊まりたい今回2回目の利用でした。宿の方が本当に 優しい方ばかりで 急な要望も素早く対応して頂き今回も素敵な体験がたくさんできました。ありがとうございました。ま…」
                   </blockquote>
                 </div>
               </div>

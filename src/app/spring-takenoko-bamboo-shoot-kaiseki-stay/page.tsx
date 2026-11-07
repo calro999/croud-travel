@@ -785,7 +785,7 @@ export default function FeatureDetailPage() {
                   <p>【春の味覚・朝採り筍】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「タイムスリップしたような空間と乳児への配慮昔ながらの旅館という感じでタイムスリップしたような時間を過ごせました。広間での食事の時に乳児用の簡易ベッドも準備してくださりありがたかったです。クチコ…　2026-09-15 15:18:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「タイムスリップしたような空間と乳児への配慮昔ながらの旅館という感じでタイムスリップしたような時間を過ごせました。広間での食事の時に乳児用の簡易ベッドも準備してくださりありがたかったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -807,7 +807,7 @@ export default function FeatureDetailPage() {
                   <p>【春の味覚・朝採り筍】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても気持ちが休まる良いお宿でした平日だった為か、お宿にゆとりがあったそうで予約のお部屋より広いお部屋を用意していただけました。佇まいは古いけれど、どこもとても綺麗に掃除をされていて気持ちよく…　2026-09-09 14:52:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても気持ちが休まる良いお宿でした平日だった為か、お宿にゆとりがあったそうで予約のお部屋より広いお部屋を用意していただけました。佇まいは古いけれど、どこもとても綺麗に掃除をされていて気持ちよく…」
                   </blockquote>
                 </div>
               </div>
@@ -829,7 +829,7 @@ export default function FeatureDetailPage() {
                   <p>【春の味覚・朝採り筍】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、格安で満足のいく内容料理がとても美味しくて、ランクアップして、料理をもっと楽しみたかったです。階段でトイレが階が違ったので、ちょっと気になりましたが、お値段が格安だったので満足でし…　2026-08-14 18:38:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、格安で満足のいく内容料理がとても美味しくて、ランクアップして、料理をもっと楽しみたかったです。階段でトイレが階が違ったので、ちょっと気になりましたが、お値段が格安だったので満足でし…」
                   </blockquote>
                 </div>
               </div>
@@ -851,7 +851,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…　2026-09-14 20:40:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…」
                   </blockquote>
                 </div>
               </div>

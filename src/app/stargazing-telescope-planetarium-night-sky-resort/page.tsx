@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【本格天体望遠鏡＆星空ガイド付き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高原の空気と夕食は満足、朝食の提供に改善希望家内と暑すぎた夏のおわりに、ちょうどいい頃かなと思い、出かけました。雨が少し残り、湿度が高かったのですが、思った通り涼しい高原の空気を満喫でき、夕食で久…　2026-09-16 18:29:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高原の空気と夕食は満足、朝食の提供に改善希望家内と暑すぎた夏のおわりに、ちょうどいい頃かなと思い、出かけました。雨が少し残り、湿度が高かったのですが、思った通り涼しい高原の空気を満喫でき、夕食で久…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.22 ／ 部屋 ★4.17 ／ 設備 ★4.31 ／ 風呂 ★4.5 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。出来立てが出てくるのでビュッフェより圧倒的に美味しいですし、出来立てを差し引いてもシンプルに…　2026-10-09 18:04:44投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=109464&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。出来立てが出てくるのでビュッフェより圧倒的に美味しいですし、出来立てを差し引いてもシンプルに…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【本格天体望遠鏡＆星空ガイド付き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員さんの皆さんの対応が良くて、とても気持ちよく過ごすことができました!食事も美味しかったです!ネコちゃんと触れ合うこともできる施設です。クチコミの詳細はこちらから　https://re…　2026-07-16 00:45:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員さんの皆さんの対応が良くて、とても気持ちよく過ごすことができました!食事も美味しかったです!ネコちゃんと触れ合うこともできる施設です。」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…　2026-10-09 12:59:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
                   </blockquote>
                 </div>
               </div>

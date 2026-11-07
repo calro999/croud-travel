@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.29 ／ 風呂 ★4.31 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富…　2026-10-06 19:19:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.71 ／ 部屋 ★4.64 ／ 設備 ★4.6 ／ 風呂 ★4.73 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。温かく出してほ…　2026-10-10 11:41:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。温かく出してほ…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 100台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から特急あずさやかいじが見える!部屋から、特急あずさ、かいじが見えました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-08-29 17:19:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から特急あずさやかいじが見える!部屋から、特急あずさ、かいじが見えました。」
                   </blockquote>
                 </div>
               </div>

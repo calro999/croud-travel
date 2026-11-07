@@ -478,7 +478,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                   <p>【伊豆下田：旬の金目鯛煮付け＆名湯満喫】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯温が丁度よく、気持ちよく入浴できた風呂の湯温が丁度よく気持ち良く入浴できましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-09-15 17:07:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯温が丁度よく、気持ちよく入浴できた風呂の湯温が丁度よく気持ち良く入浴できました」
                   </blockquote>
                 </div>
               </div>
@@ -500,7 +500,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と接客は最高、清掃面で少し残念お部屋の窓からの景色と海側露天風呂からの景色が最高でしたスタッフの方々の対応も穏やかでこちらもゆったりとした気分で過ごせました。子連れにも優しいサービスが…　2026-08-02 19:27:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と接客は最高、清掃面で少し残念お部屋の窓からの景色と海側露天風呂からの景色が最高でしたスタッフの方々の対応も穏やかでこちらもゆったりとした気分で過ごせました。子連れにも優しいサービスが…」
                   </blockquote>
                 </div>
               </div>
@@ -522,7 +522,7 @@ export default function AutumnBudgetShimodaKinmedaiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…　2026-08-29 21:17:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…」
                   </blockquote>
                 </div>
               </div>

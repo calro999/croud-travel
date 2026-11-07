@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p>【定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.45 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.53 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性への配慮が行き届き、一人旅でも快適女性目線でいろいろ配慮があって、また泊まりたいと思わせてくれるお宿でした。1人旅でしたが、他にも1人旅らしき方を数名お見かけしました。ごはんも、見た目…　2026-10-06 19:16:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性への配慮が行き届き、一人旅でも快適女性目線でいろいろ配慮があって、また泊まりたいと思わせてくれるお宿でした。1人旅でしたが、他にも1人旅らしき方を数名お見かけしました。ごはんも、見た目…」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料平面屋外駐車場有り（35台分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.52 ／ 部屋 ★4.56 ／ 設備 ★4.44 ／ 風呂 ★4.46 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ラウンジや設備は充実よくYouTubeで紹介されていたので気になって来ました。チェックインは15時ですが14時からラウンジがりようできました。部屋は広く綺麗で、寝室にもテレビがありコンセントもたく…　2026-09-25 09:42:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ラウンジや設備は充実よくYouTubeで紹介されていたので気になって来ました。チェックインは15時ですが14時からラウンジがりようできました。部屋は広く綺麗で、寝室にもテレビがありコンセントもたく…」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p>【定山渓温泉ひとり旅・渓谷美おこもり：札幌から60分・】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフと美味しい食事でゆったりこじんまりとした館内でしたが、スタッフの方々が皆さん親切だったので、とてものんびり過ごすことができました。食事も量が多く、味も良く、満足です。子供連れが少なか…　2026-08-25 18:23:29投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=130162&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフと美味しい食事でゆったりこじんまりとした館内でしたが、スタッフの方々が皆さん親切だったので、とてものんびり過ごすことができました。食事も量が多く、味も良く、満足です。子供連れが少なか…」
                   </blockquote>
                 </div>
               </div>

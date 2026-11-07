@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有/有料【普通車まで】1泊1000円/予約不可先着順【中型車】1泊3000円/要予約【駐輪】無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.88 ／ 部屋 ★4.07 ／ 設備 ★4 ／ 風呂 ★3.83 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドが広く快適、無料のアイスも絶品大人2、子供3での宿泊でセミダブルベット4つあり2泊したのでゆっくり過ごせて快適でしたマンゴウアイスが宿泊者無料でとても美味しかったですクチコミ…　2026-09-24 11:14:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドが広く快適、無料のアイスも絶品大人2、子供3での宿泊でセミダブルベット4つあり2泊したのでゆっくり過ごせて快適でしたマンゴウアイスが宿泊者無料でとても美味しかったです…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　43台　1泊1台：1000円　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「生ビールの飲み放題があり,サプライズでした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/182521?reviewI…　2026-07-25 15:11:41投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182521&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「生ビールの飲み放題があり,サプライズでした。」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　第一駐車場38台　第二駐車場12台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海の景色と朝食は最高だが水回りが残念お部屋からの海の景色が窓全面に広がってとても綺麗で朝日も素晴らしく癒されました。朝食はオムレツが好きなので洋食にしました。サラダやスープなどもついて美味しく…　2026-08-21 08:17:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海の景色と朝食は最高だが水回りが残念お部屋からの海の景色が窓全面に広がってとても綺麗で朝日も素晴らしく癒されました。朝食はオムレツが好きなので洋食にしました。サラダやスープなどもついて美味しく…」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>自走式立体駐車場６０台完備・立体に比べ楽々出庫　1000円（税込/泊）　高さ制限２．１Ｍ　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前で迷わず到着、快適に過ごせました市内での仕事の関係で、初めて利用しました。レンタカーで移動してましたが、駅前のため迷う事無く到着出来ました。エレベーターが背面での2台設置で、珍しいな?と思いま…　2026-08-20 16:06:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前で迷わず到着、快適に過ごせました市内での仕事の関係で、初めて利用しました。レンタカーで移動してましたが、駅前のため迷う事無く到着出来ました。エレベーターが背面での2台設置で、珍しいな?と思いま…」
                   </blockquote>
                 </div>
               </div>

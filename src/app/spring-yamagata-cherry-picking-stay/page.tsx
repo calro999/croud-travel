@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★3.97 ／ 部屋 ★3.8 ／ 設備 ★3.93 ／ 風呂 ★4.47 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「4度目のリピート、お湯も朝食も最高!4度目の宿泊です。さくら湯さんのお湯は熱くてとろっとしてて最高です。接客もいいし、清潔感もあり、朝食もバッチリです。ご飯がすすむおかずがズラリで、いつもおかわり…　2026-10-08 16:49:45投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=147604&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「4度目のリピート、お湯も朝食も最高!4度目の宿泊です。さくら湯さんのお湯は熱くてとろっとしてて最高です。接客もいいし、清潔感もあり、朝食もバッチリです。ご飯がすすむおかずがズラリで、いつもおかわり…」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.83 ／ 部屋 ★3.8 ／ 設備 ★3.8 ／ 風呂 ★4.08 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と衛生面に大きな不満あり貸切風呂の予約を取る際に夕陽を見れる時間を希望した所、お風呂場からは見れないとスタッフ冷たく言われましたが実際は見れました。夕食時は隣の机の片付けを始めたかと…　2026-10-08 22:24:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と衛生面に大きな不満あり貸切風呂の予約を取る際に夕陽を見れる時間を希望した所、お風呂場からは見れないとスタッフ冷たく言われましたが実際は見れました。夕食時は隣の机の片付けを始めたかと…」
                   </blockquote>
                 </div>
               </div>

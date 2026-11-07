@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（約100台・無料）予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行家族旅行で中央館に宿泊、天気に恵まれ、部屋からの景色が良く、窓を見ると鳥さんも歓迎してくれてました。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-08-30 21:14:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行家族旅行で中央館に宿泊、天気に恵まれ、部屋からの景色が良く、窓を見ると鳥さんも歓迎してくれてました。」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p>【洞爺湖温泉ひとり旅・湖畔絶景おこもり：インフィニティ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.24 ／ 部屋 ★4.03 ／ 設備 ★3.88 ／ 風呂 ★4.03 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は露天風呂と温度別の風呂がいくつかあり、クレンジングや洗顔もあったので良かったしかし、ドライヤーにホコリが溜まっており清掃が行き届いていないと感じた古さが感じられが、特に問題もなく泊まれた…　2026-09-30 10:05:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は露天風呂と温度別の風呂がいくつかあり、クレンジングや洗顔もあったので良かったしかし、ドライヤーにホコリが溜まっており清掃が行き届いていないと感じた古さが感じられが、特に問題もなく泊まれた…」
                   </blockquote>
                 </div>
               </div>
@@ -575,7 +575,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆1泊 800円（先着順）地下（10台）屋外（40台）※バイク500円　バス・トラック2400円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.35 ／ 部屋 ★4.35 ／ 設備 ★4.29 ／ 風呂 ★4.34 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「安定のホテル法華クラブいつも通りのサービス、フロントの対応、朝食と出張のひと時を癒されました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-10-05 12:00:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「安定のホテル法華クラブいつも通りのサービス、フロントの対応、朝食と出張のひと時を癒されました。」
                   </blockquote>
                 </div>
               </div>
@@ -597,7 +597,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>79台収容（1泊￥2,000/地下駐車場：車高1.9m迄/国道5号線北方面沿い）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のメニューが豊富で連泊も大満足3日の連泊でした。朝食付きのプラン。「本日のメニュ」があったり、汁物が変わったりして3日間とも楽しく食事をしました。北海道らしいメニューもたくさんありました。なん…　2026-08-25 23:33:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のメニューが豊富で連泊も大満足3日の連泊でした。朝食付きのプラン。「本日のメニュ」があったり、汁物が変わったりして3日間とも楽しく食事をしました。北海道らしいメニューもたくさんありました。なん…」
                   </blockquote>
                 </div>
               </div>
@@ -619,7 +619,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場含めて100台収容（１泊800円）ページ内に「駐車場」案内有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回は素泊まりで利用しました。ホテルとしては古い感じですが、レディースプランの部屋だったのでプライバシーの守られる静かな部屋で良かったです。クチコミの詳細はこちらから　https://review…　2026-08-29 19:27:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回は素泊まりで利用しました。ホテルとしては古い感じですが、レディースプランの部屋だったのでプライバシーの守られる静かな部屋で良かったです。」
                   </blockquote>
                 </div>
               </div>

@@ -548,7 +548,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.69 ／ 立地 ★3.89 ／ 部屋 ★3.75 ／ 設備 ★3.61 ／ 風呂 ★3.71 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨川の景色と温泉、絶品料理に癒される天気も良く、窓から見える飛騨川のキラキラした水面と川の音に心が癒されました。今回で3回目の宿泊でしたが、何度食べてもまた食べたくなるスペアリブとトロト…　2026-10-08 21:13:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨川の景色と温泉、絶品料理に癒される天気も良く、窓から見える飛騨川のキラキラした水面と川の音に心が癒されました。今回で3回目の宿泊でしたが、何度食べてもまた食べたくなるスペアリブとトロト…」
                   </blockquote>
                 </div>
               </div>
@@ -570,7 +570,7 @@ export default function Page() {
                   <p>【下呂温泉の紅葉合掌村と飛騨金山巨石群】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★3.8 ／ 部屋 ★3.91 ／ 設備 ★3.91 ／ 風呂 ★4.2 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナ付きのお風呂が最高でした!お風呂にサウナがあって最高でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/3…　2026-10-09 00:16:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナ付きのお風呂が最高でした!お風呂にサウナがあって最高でした!」
                   </blockquote>
                 </div>
               </div>

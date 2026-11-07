@@ -614,7 +614,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料（敷地内に駐車場はございません）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.71 ／ 立地 ★4.77 ／ 部屋 ★4.73 ／ 設備 ★4.62 ／ 風呂 ★4.77 ／ 食事 ★4.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/70807?reviewId=33123479652149　2026-10-07 17:06:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>
@@ -636,7 +636,7 @@ export default function Page() {
                   <p>【日本三大名湯の別邸＆極上離れ・客室露天風呂とおこもり】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「息子の誕生日旅行今回で4回目でしたが、いつも完璧なおもてなしで大満足です。癒されましたまた泊まりに行こうと思いますクチコミの詳細はこちらから　https://review.travel.r…　2026-08-30 20:16:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「息子の誕生日旅行今回で4回目でしたが、いつも完璧なおもてなしで大満足です。癒されましたまた泊まりに行こうと思います」
                   </blockquote>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ２００台 【無料】 ※大型車の駐車も可能です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.38 ／ 部屋 ★4.32 ／ 設備 ★4.26 ／ 風呂 ★4.53 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされた綺麗な部屋と美味しい食事部屋からの眺めはイマイチだったけど、リニューアルされたお部屋は綺麗で快適でした!畳の空間もあって良き!お夕食もリズミカルに出てきて、食べやすかった…　2026-10-09 15:51:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされた綺麗な部屋と美味しい食事部屋からの眺めはイマイチだったけど、リニューアルされたお部屋は綺麗で快適でした!畳の空間もあって良き!お夕食もリズミカルに出てきて、食べやすかった…」
                   </blockquote>
                 </div>
               </div>

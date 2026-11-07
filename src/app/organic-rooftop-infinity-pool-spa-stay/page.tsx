@@ -787,7 +787,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　42台　1,500円（税込み／泊）　先着順　※高さ制限有（175センチ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、また行きたい!沖縄では珍しい温泉に、プールとバーよかったです。夏休み時期のせいか2階のプールはお子さま向けな雰囲気でした。海近く、プールもあるのでランドリースペース拡大してくれ…　2026-08-18 20:01:37投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=178447&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、また行きたい!沖縄では珍しい温泉に、プールとバーよかったです。夏休み時期のせいか2階のプールはお子さま向けな雰囲気でした。海近く、プールもあるのでランドリースペース拡大してくれ…」
                   </blockquote>
                 </div>
               </div>
@@ -809,7 +809,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>入庫から24時間/3000円、20分/400円、最大6時間/1500円　※先着順になります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.28 ／ 部屋 ★4.28 ／ 設備 ★4.27 ／ 風呂 ★4.32 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「梅田から近く大浴場で疲れが取れた梅田から近くて良かった大浴場があるので疲れがとれました飲食店が沢山あり朝食なしでしたが好きな店で食べれました又利用したいですクチコミの詳細はこち…　2026-10-10 19:55:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「梅田から近く大浴場で疲れが取れた梅田から近くて良かった大浴場があるので疲れがとれました飲食店が沢山あり朝食なしでしたが好きな店で食べれました又利用したいですクチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -831,7 +831,7 @@ export default function FeatureDetailPage() {
                   <p>【都会の空に浮かぶオアシス】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。クチコミの詳細はこちらから　https://review.tra…　2026-09-16 17:10:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -853,7 +853,7 @@ export default function FeatureDetailPage() {
                   <p>【都会の空に浮かぶオアシス】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…　2026-09-19 15:26:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…」
                   </blockquote>
                 </div>
               </div>
@@ -875,7 +875,7 @@ export default function FeatureDetailPage() {
                   <p>【都会の空に浮かぶオアシス】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、部屋も広くて清潔料理内容がよく、部屋は広く清潔感あるクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-09-18 16:57:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、部屋も広くて清潔料理内容がよく、部屋は広く清潔感ある」
                   </blockquote>
                 </div>
               </div>

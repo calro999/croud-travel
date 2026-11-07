@@ -496,7 +496,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し　提携駐車場エンタツパーキング16:00～翌11:00 ￥1,200（割引適用後）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で利便性は高い総合的に安く駅近で利用できる、程よく綺麗なホテルだと思います。几帳面なフィルターをかけると、以下が気になります。リノベーションされていますが設備が古いので受付や廊下は…　2026-08-16 11:33:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で利便性は高い総合的に安く駅近で利用できる、程よく綺麗なホテルだと思います。几帳面なフィルターをかけると、以下が気になります。リノベーションされていますが設備が古いので受付や廊下は…」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で荷物預かりも便利、お出汁と枕に癒やされる駅からのアクセスが良く便利でチェックイン、アウト前後の荷物預かりも大変助かりました。フロントから頂いたお出汁は外食続きの胃に優しいしとても美味…　2026-08-18 00:02:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で荷物預かりも便利、お出汁と枕に癒やされる駅からのアクセスが良く便利でチェックイン、アウト前後の荷物預かりも大変助かりました。フロントから頂いたお出汁は外食続きの胃に優しいしとても美味…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場１泊2,000円(15台分)高さ２．３ｍ以下まで（要電話予約）満車時は近隣駐車場案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「希望通りの部屋変更と快適なマットレス久しぶりの宿泊でしたが、希望通り部屋を変更していただけていました。マットレスも良かったです。クチコミの詳細はこちらから　https://review.tra…　2026-08-14 08:08:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「希望通りの部屋変更と快適なマットレス久しぶりの宿泊でしたが、希望通り部屋を変更していただけていました。マットレスも良かったです。」
                   </blockquote>
                 </div>
               </div>

@@ -529,7 +529,7 @@ export default function ArticlePage() {
                   <p>【甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり：広】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.7 ／ 立地 ★4.47 ／ 部屋 ★4.62 ／ 設備 ★4.51 ／ 風呂 ★4.66 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石和温泉は3回目で初の宿泊でしたが素晴らしかったです。来月も行きたいですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-09-27 21:51:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石和温泉は3回目で初の宿泊でしたが素晴らしかったです。来月も行きたいです」
                   </blockquote>
                 </div>
               </div>
@@ -551,7 +551,7 @@ export default function ArticlePage() {
                   <p>【甲州・石和温泉ひとり旅・甲州ワインと名湯おこもり：広】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの親切な対応と心温まるおもてなし鈴虫の音が響いて心地が良いです。かなり響いてますが、音響じゃなく飼われてます。とスタッフさんが愛想良くお話ししてくださいました!あと、チェックインしたら…　2026-08-20 17:42:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの親切な対応と心温まるおもてなし鈴虫の音が響いて心地が良いです。かなり響いてますが、音響じゃなく飼われてます。とスタッフさんが愛想良くお話ししてくださいました!あと、チェックインしたら…」
                   </blockquote>
                 </div>
               </div>
@@ -573,7 +573,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.35 ／ 部屋 ★4.2 ／ 設備 ★4.22 ／ 風呂 ★4.16 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「犬連れへの配慮が素晴らしく大満足飼っている犬が吠えてしまう為、バイキング朝食をキャンセルしました。ですが部屋まで朝食を持ってきてくださり、大変満足いたしました。とても良いお宿だと思います。また行き…　2026-10-10 23:16:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「犬連れへの配慮が素晴らしく大満足飼っている犬が吠えてしまう為、バイキング朝食をキャンセルしました。ですが部屋まで朝食を持ってきてくださり、大変満足いたしました。とても良いお宿だと思います。また行き…」
                   </blockquote>
                 </div>
               </div>
@@ -595,7 +595,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】車50台・バス5台の十分な広さで御座いますので、ご安心してお越し下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.14 ／ 部屋 ★4.01 ／ 設備 ★3.9 ／ 風呂 ★4.3 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と温泉で心身ともにリフレッシュスタッフの方々がすべて親切でとても笑顔が素敵でした。温泉もたくさんあってすごくリフレッシュできました。クチコミの詳細はこちらから　https://r…　2026-10-07 17:51:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と温泉で心身ともにリフレッシュスタッフの方々がすべて親切でとても笑顔が素敵でした。温泉もたくさんあってすごくリフレッシュできました。」
                   </blockquote>
                 </div>
               </div>
@@ -617,7 +617,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.94 ／ 部屋 ★3.95 ／ 設備 ★3.95 ／ 風呂 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格に見合わないサービスと衛生面に不満プレミアムと名が付いていて決してお安くはないのに、とても微妙でした。エレベーターは全然来ない、バイキング会場のテーブル、お皿汚い、ライブキッチンのステーキ、切…　2026-10-09 23:05:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格に見合わないサービスと衛生面に不満プレミアムと名が付いていて決してお安くはないのに、とても微妙でした。エレベーターは全然来ない、バイキング会場のテーブル、お皿汚い、ライブキッチンのステーキ、切…」
                   </blockquote>
                 </div>
               </div>

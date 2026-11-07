@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【ふっくら香ばしい秘伝の炭火蒲焼き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ぬる湯と熱湯の交互浴が最高、名湯名宿ぬる湯と熱湯の2槽あって交互に入浴、特にぬる湯はツルトロで時間があれば半日でも入っていたいお風呂。リーズナブルで旅情あふれる名湯名宿。下部は本当に大…　2026-09-18 18:51:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ぬる湯と熱湯の交互浴が最高、名湯名宿ぬる湯と熱湯の2槽あって交互に入浴、特にぬる湯はツルトロで時間があれば半日でも入っていたいお風呂。リーズナブルで旅情あふれる名湯名宿。下部は本当に大…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【ふっくら香ばしい秘伝の炭火蒲焼き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新勝寺の目の前、ウナギ料理と気遣いが嬉しい新勝寺の目の前という好立地の場所です。自分の場合は成田駅から歩き、表参道のお店や街並みを楽しみながら歩き15分ほどで宿に到着しました。大雨でしたが、宿…　2026-09-10 09:06:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新勝寺の目の前、ウナギ料理と気遣いが嬉しい新勝寺の目の前という好立地の場所です。自分の場合は成田駅から歩き、表参道のお店や街並みを楽しみながら歩き15分ほどで宿に到着しました。大雨でしたが、宿…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【ふっくら香ばしい秘伝の炭火蒲焼き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「森の中のサウナで最高に整ったとにかくサウナが最高です。森の中で整いましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-18 01:56:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「森の中のサウナで最高に整ったとにかくサウナが最高です。森の中で整いました」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【ふっくら香ばしい秘伝の炭火蒲焼き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「うな丼と過去最高に美味しいしじみ汁うな丼が美味しかったです。夕飯のしじみも、しじみ汁史上最高に美味しかったです。クチコミの詳細はこちらから　https://review.travel.ra…　2026-08-30 17:56:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「うな丼と過去最高に美味しいしじみ汁うな丼が美味しかったです。夕飯のしじみも、しじみ汁史上最高に美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【ふっくら香ばしい秘伝の炭火蒲焼き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある庭園と丁寧な接客でゆったりと趣きがありゆっくりできました。庭園がとても綺麗でした。スタッフも丁寧で親切に対応してくれました。クチコミの詳細はこちらから　https://revi…　2026-09-12 21:15:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある庭園と丁寧な接客でゆったりと趣きがありゆっくりできました。庭園がとても綺麗でした。スタッフも丁寧で親切に対応してくれました。」
                   </blockquote>
                 </div>
               </div>

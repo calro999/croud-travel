@@ -516,7 +516,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>40台（有料）・利用時間14時〜翌11時・予約必須・詳細は桜の抄公式HPをご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.49 ／ 部屋 ★4.59 ／ 設備 ★4.51 ／ 風呂 ★4.56 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊。大人も子どもも楽しめる宿1歳と3歳の子どもを連れて、2回目の宿泊でした。部屋はきれいで、窓や客室露天風呂からこんぴらさんを眺められるのがとても良かったです。客室露天風呂なので、子ども…　2026-10-10 16:23:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊。大人も子どもも楽しめる宿1歳と3歳の子どもを連れて、2回目の宿泊でした。部屋はきれいで、窓や客室露天風呂からこんぴらさんを眺められるのがとても良かったです。客室露天風呂なので、子ども…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.69 ／ 立地 ★3.89 ／ 部屋 ★3.75 ／ 設備 ★3.61 ／ 風呂 ★3.71 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨川の景色と温泉、絶品料理に癒される天気も良く、窓から見える飛騨川のキラキラした水面と川の音に心が癒されました。今回で3回目の宿泊でしたが、何度食べてもまた食べたくなるスペアリブとトロト…　2026-10-08 21:13:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨川の景色と温泉、絶品料理に癒される天気も良く、窓から見える飛騨川のキラキラした水面と川の音に心が癒されました。今回で3回目の宿泊でしたが、何度食べてもまた食べたくなるスペアリブとトロト…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【客室露天から桜を独り占め】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/16280?reviewId=331…　2026-10-03 22:25:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.91 ／ 立地 ★4.49 ／ 部屋 ★4.88 ／ 設備 ★4.81 ／ 風呂 ★4.85 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…　2026-09-27 18:08:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【客室露天から桜を独り占め】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…　2026-09-05 22:04:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…」
                   </blockquote>
                 </div>
               </div>

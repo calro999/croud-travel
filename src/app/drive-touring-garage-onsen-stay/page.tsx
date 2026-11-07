@@ -399,7 +399,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心身が癒やされる最高の3連泊プチ湯治五十代になって、出張以外ではじめての一人旅。憧れの3連泊プチ湯治をさせていただきました。本当に素晴らしいお湯、お部屋、そして絶妙のお気遣いがありがたく、心身に染…　2026-08-11 18:03:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心身が癒やされる最高の3連泊プチ湯治五十代になって、出張以外ではじめての一人旅。憧れの3連泊プチ湯治をさせていただきました。本当に素晴らしいお湯、お部屋、そして絶妙のお気遣いがありがたく、心身に染…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function TransitStyleHubPage() {
                   <p>【愛車・ドライブ旅の温泉宿：絶景ワインディング・屋内ガ】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「残念すぎる、もう行かない2名で28600円で予約。道が細くてわかりづらいから中々辿り着けなかった。画像の全てが綺麗すぎて良く見せすぎだと思う。昭和レトロと言えば聞こえが良いが、玄関前や…　2026-08-20 00:59:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「残念すぎる、もう行かない2名で28600円で予約。道が細くてわかりづらいから中々辿り着けなかった。画像の全てが綺麗すぎて良く見せすぎだと思う。昭和レトロと言えば聞こえが良いが、玄関前や…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.35 ／ 部屋 ★4.44 ／ 設備 ★4.2 ／ 風呂 ★4.49 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女将さんがとっても優しくてすごい暖かかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13902?reviewI…　2026-10-05 17:22:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女将さんがとっても優しくてすごい暖かかったです」
                   </blockquote>
                 </div>
               </div>

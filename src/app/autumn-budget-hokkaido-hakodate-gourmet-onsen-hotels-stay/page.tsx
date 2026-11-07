@@ -454,7 +454,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：44台￥1,000-（税込み／泊）　先着順となり予約は不可となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.34 ／ 部屋 ★4.48 ／ 設備 ★4.35 ／ 風呂 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広い部屋と日の出、海鮮丼に大満足!お部屋が広く、ゆったりと過ごすことができました。部屋の窓からは日の出が見え、とてもいい思い出になりました。朝食は自分で海鮮丼を作り、イカ飯や五島軒のカレーなど…　2026-10-10 16:57:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広い部屋と日の出、海鮮丼に大満足!お部屋が広く、ゆったりと過ごすことができました。部屋の窓からは日の出が見え、とてもいい思い出になりました。朝食は自分で海鮮丼を作り、イカ飯や五島軒のカレーなど…」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1階が12台（先着順）他に第2、第3駐車場がございます。お車の出し入れは自由です。1泊500円/台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.34 ／ 部屋 ★4.43 ／ 設備 ★4.31 ／ 風呂 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「函館駅近で駐車場完備、落ち着いた環境函館駅近くでホテルの駐車場もあり立地条件はいいかと思います。また繁華街から少し離れているので落ち着いて過ごせます。クチコミの詳細はこちらから　https…　2026-09-24 15:12:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「函館駅近で駐車場完備、落ち着いた環境函館駅近くでホテルの駐車場もあり立地条件はいいかと思います。また繁華街から少し離れているので落ち着いて過ごせます。」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊 800円（立体駐車場14台・先着順）事前予約不可　近隣に有料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.32 ／ 部屋 ★4.4 ／ 設備 ★4.31 ／ 風呂 ★4.26 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスマン向け安パイホテル立地が良くビジネスマンにとって必要十分な設備がある安定したホテルです。個人的に有線LANがあるのがありがたいです。朝食のカレーが美味しいです。クチコミの詳細…　2026-10-05 11:19:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスマン向け安パイホテル立地が良くビジネスマンにとって必要十分な設備がある安定したホテルです。個人的に有線LANがあるのがありがたいです。朝食のカレーが美味しいです。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３０台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.23 ／ 部屋 ★4.16 ／ 設備 ★3.98 ／ 風呂 ★4.09 ／ 食事 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適なホテルライフ駒ヶ岳登山の前泊で利用。お部屋からも駒ヶ岳がみえて、テンション上がりました。プリンスのコースが久しぶりに食べたくて、こちらにしましたが、楽天さんのプランだけなのか分かりません…　2026-10-10 13:53:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適なホテルライフ駒ヶ岳登山の前泊で利用。お部屋からも駒ヶ岳がみえて、テンション上がりました。プリンスのコースが久しぶりに食べたくて、こちらにしましたが、楽天さんのプランだけなのか分かりません…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function HakodateBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　約90台　湯の川最大級青空平面</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと美味しい食事に大満足訳あり1階のプランで宿泊したのですが、空き部屋があったとのことで3階のオーシャンビューの部屋にグレードアップしてもらえました!波の音をききながら眠りにつく…　2026-08-22 10:12:40投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=137023&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと美味しい食事に大満足訳あり1階のプランで宿泊したのですが、空き部屋があったとのことで3階のオーシャンビューの部屋にグレードアップしてもらえました!波の音をききながら眠りにつく…」
                   </blockquote>
                 </div>
               </div>

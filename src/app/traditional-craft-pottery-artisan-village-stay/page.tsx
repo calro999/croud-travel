@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【手仕事の器と窯元のぬくもり】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.81 ／ 部屋 ★3.96 ／ 設備 ★3.73 ／ 風呂 ★3.97 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。楽天トラベルでは対応できない機…　2026-09-28 13:17:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。楽天トラベルでは対応できない機…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【手仕事の器と窯元のぬくもり】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの礼儀正しい接客に大満足スタッフの方々の礼儀正しい接客に大変満足しています。良い思い出ができました。ありがとうございました。クチコミの詳細はこちらから　https://revi…　2026-07-09 17:54:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの礼儀正しい接客に大満足スタッフの方々の礼儀正しい接客に大変満足しています。良い思い出ができました。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【手仕事の器と窯元のぬくもり】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯と味噌汁が絶品、とてもくつろげた旅館の宣伝通り、ご飯と味噌汁がすごく美味しかった。お湯も滑らかで肌にも優しい感じがしました。設備は古いですが隅々まで清掃されており、また、旅館の人も親切で、とて…　2026-09-18 19:03:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯と味噌汁が絶品、とてもくつろげた旅館の宣伝通り、ご飯と味噌汁がすごく美味しかった。お湯も滑らかで肌にも優しい感じがしました。設備は古いですが隅々まで清掃されており、また、旅館の人も親切で、とて…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【手仕事の器と窯元のぬくもり】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も最高、女将さんの親切に感謝夕飯、朝食と大変美味しい食事で満足でした!お部屋でもゆっくりと過ごせて、大変良い時間を過ごせました。お風呂の温泉の湯もとても良く、大満足でした…　2026-09-16 16:17:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も最高、女将さんの親切に感謝夕飯、朝食と大変美味しい食事で満足でした!お部屋でもゆっくりと過ごせて、大変良い時間を過ごせました。お風呂の温泉の湯もとても良く、大満足でした…」
                   </blockquote>
                 </div>
               </div>

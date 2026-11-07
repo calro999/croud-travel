@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                   <p>【天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔だがカビ臭く、風呂の設備も不満新館に泊まりましたが、確かにトイレはウォッシュレットで綺麗でした。部屋も清潔でしたが、カビ臭くてエアコンを見ると見たく無いくらいにホコリだらけ...カビ臭くて当た…　2026-09-19 18:22:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔だがカビ臭く、風呂の設備も不満新館に泊まりましたが、確かにトイレはウォッシュレットで綺麗でした。部屋も清潔でしたが、カビ臭くてエアコンを見ると見たく無いくらいにホコリだらけ...カビ臭くて当た…」
                   </blockquote>
                 </div>
               </div>
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                   <p>【天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何十年ぶりかに訪れましたが、相変わらず温泉は最高です。今回の旅館は、初めてでしたが長い歴史を感じさせる雰囲気のある旅館でした。テレビの調子が悪くてほとんど見れませんでしたが、それがまた良かった…　2026-09-14 18:41:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何十年ぶりかに訪れましたが、相変わらず温泉は最高です。今回の旅館は、初めてでしたが長い歴史を感じさせる雰囲気のある旅館でした。テレビの調子が悪くてほとんど見れませんでしたが、それがまた良かった…」
                   </blockquote>
                 </div>
               </div>
@@ -819,7 +819,7 @@ export default function FurusatoFeaturePage() {
                   <p>【天然炭酸泉＆シュワシュワ美肌の湯宿×ふるさと納税厳選】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高級宿に負けないおもてなしと美味しい料理安価でしたので期待はしていませんでしたが高級宿に負けないおもてなしをして頂きました。お料理も少ないとの情報でしたがとても美味しく満腹になりました。登山が趣味…　2026-08-02 13:19:17投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=137839&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高級宿に負けないおもてなしと美味しい料理安価でしたので期待はしていませんでしたが高級宿に負けないおもてなしをして頂きました。お料理も少ないとの情報でしたがとても美味しく満腹になりました。登山が趣味…」
                   </blockquote>
                 </div>
               </div>

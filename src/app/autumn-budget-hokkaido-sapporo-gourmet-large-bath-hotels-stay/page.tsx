@@ -445,7 +445,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場(先着順)／８０台１5００円（税込／泊）　平面駐車場(要予約)／２台１５００円(税込／泊)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある部屋と高級感あるエントランスお部屋の使い勝手が良かったです。コンパクトで、清潔感もありました。大浴場も空いてる時間に入ったので良かったです。ホテルのエントランスが高級感ありました。機会が…　2026-08-27 21:00:41投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=172398&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある部屋と高級感あるエントランスお部屋の使い勝手が良かったです。コンパクトで、清潔感もありました。大浴場も空いてる時間に入ったので良かったです。ホテルのエントランスが高級感ありました。機会が…」
                   </blockquote>
                 </div>
               </div>
@@ -467,7 +467,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場　1泊/1,600円　入庫後出入不可/予約不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで綺麗、立地も良く快適な滞在リーズナブルな金額の割にホテルが綺麗でゆっくりできます!場所も良く近隣駐車場も目の前にありすんなり宿泊出来ます。すすきのに立地しているためご飯に困ることなく…　2026-07-25 22:15:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで綺麗、立地も良く快適な滞在リーズナブルな金額の割にホテルが綺麗でゆっくりできます!場所も良く近隣駐車場も目の前にありすんなり宿泊出来ます。すすきのに立地しているためご飯に困ることなく…」
                   </blockquote>
                 </div>
               </div>
@@ -489,7 +489,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台有り予約不可・先着順　一泊1,500円　満車時は同料金にて提携駐車場をご案内いたします</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「札幌駅チカで駐車場あり、スタッフの対応も丁寧比較的札幌駅チカ駐車場がある宿ということで利用しました。ホテルの駐車場は車高が高い車だと使えない場合がありますが、近隣の駐車場を案内してもらえます。…　2026-08-21 21:01:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「札幌駅チカで駐車場あり、スタッフの対応も丁寧比較的札幌駅チカ駐車場がある宿ということで利用しました。ホテルの駐車場は車高が高い車だと使えない場合がありますが、近隣の駐車場を案内してもらえます。…」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function SapporoBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル立体(1泊1800円)・提携(1泊1500円)車高2m/幅1.8ｍ以内・予約不可(当日案内)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.48 ／ 部屋 ★4.47 ／ 設備 ★4.41 ／ 風呂 ★4.48 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯上りところが良い全般的に良いと思います。特に湯上りのところにアイスのサービスがあり、ゆったり出来、大通り公園も見えて良かったです。クチコミの詳細はこちらから　https://review.t…　2026-10-09 20:26:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯上りところが良い全般的に良いと思います。特に湯上りのところにアイスのサービスがあり、ゆったり出来、大通り公園も見えて良かったです。」
                   </blockquote>
                 </div>
               </div>

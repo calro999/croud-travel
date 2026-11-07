@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし（普通車のみホテル提携駐車場￥1,000/1泊先着順・入出庫不可）※バス、トラック、バイク不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.35 ／ 部屋 ★4.4 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜泣きそばやアイスなどサービスが充実ビジネスで宿泊しました。他のドーミーインもよく利用させていただきます。夜泣きそば、アイス、マッサージ機とてもありがたいです!クチコミの詳細はこち…　2026-10-02 21:48:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜泣きそばやアイスなどサービスが充実ビジネスで宿泊しました。他のドーミーインもよく利用させていただきます。夜泣きそば、アイス、マッサージ機とてもありがたいです!クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣に有料パーキングあり　※提携はしておりません　満車の場合はご容赦下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.92 ／ 立地 ★3.92 ／ 部屋 ★3.79 ／ 設備 ★3.88 ／ 風呂 ★3.84</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応と冷水や洗濯機が助かりましたフロントの方の説明がとても穏やかな口調で親切でした。猛暑日が続いている中、ロビーにある冷水がとても助かりました。洗濯機も利用でき、汗をかいた衣服を洗う…　2026-08-19 10:53:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応と冷水や洗濯機が助かりましたフロントの方の説明がとても穏やかな口調で親切でした。猛暑日が続いている中、ロビーにある冷水がとても助かりました。洗濯機も利用でき、汗をかいた衣服を洗う…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：500円（1泊＝15：00から翌10：00）予約不可・出入別料金・台数制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.08 ／ 部屋 ★4.14 ／ 設備 ★4.09 ／ 風呂 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、朝食のサラダもたっぷり満足駅から近くとても便利。朝食は野菜サラダがたっぷりいただけて満足。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-07 11:41:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、朝食のサラダもたっぷり満足駅から近くとても便利。朝食は野菜サラダがたっぷりいただけて満足。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携立体駐車場／44台／一泊（14時〜翌12時）1,200円税込／車高制限有／営業時間外入出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.38 ／ 部屋 ★4.48 ／ 設備 ★4.42 ／ 風呂 ★4.34 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な案内で飛騨牛を堪能駅が近いことで、夜の繁華街が活気に溢れていました。ホテルの人に夕食の美味しい店をお聞きしたところ、大変丁寧にA4サイズのマップを頂き説明してくれました。お…　2026-10-01 09:58:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な案内で飛騨牛を堪能駅が近いことで、夜の繁華街が活気に溢れていました。ホテルの人に夕食の美味しい店をお聞きしたところ、大変丁寧にA4サイズのマップを頂き説明してくれました。お…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし。近隣のコインパーキングにご駐車ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.14 ／ 部屋 ★4.02 ／ 設備 ★3.92 ／ 風呂 ★3.86 ／ 食事 ★3.99</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅やコンビニが近く、便利です。朝食付きも有難かった!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/20562?revi…　2026-10-04 17:23:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅やコンビニが近く、便利です。朝食付きも有難かった!」
                   </blockquote>
                 </div>
               </div>

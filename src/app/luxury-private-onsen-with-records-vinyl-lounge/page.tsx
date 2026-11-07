@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　６０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.16 ／ 部屋 ★4.26 ／ 設備 ★4.3 ／ 風呂 ★4.38 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族全員で笑顔の接客と温泉を満喫!家族5人で利用しました。スタッフの皆さんも笑顔で対応していただき気持ちよく過ごせました。ご飯も美味しかった。温泉も肌あたりが良く、また宿泊したいと思います。…　2026-09-27 19:04:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族全員で笑顔の接客と温泉を満喫!家族5人で利用しました。スタッフの皆さんも笑顔で対応していただき気持ちよく過ごせました。ご飯も美味しかった。温泉も肌あたりが良く、また宿泊したいと思います。…」
                   </blockquote>
                 </div>
               </div>
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　２０台　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★4.3 ／ 部屋 ★4.05 ／ 設備 ★3.86 ／ 風呂 ★4.01 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も綺麗で食事と飲み放題を満喫!部屋も綺麗!お風呂も良かった。食事もコースでゆっくり食べられました。飲み放題なのでかなり飲んでしまいました。スタッフも丁寧て、楽しい夕食をいただきました。…　2026-10-10 19:26:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も綺麗で食事と飲み放題を満喫!部屋も綺麗!お風呂も良かった。食事もコースでゆっくり食べられました。飲み放題なのでかなり飲んでしまいました。スタッフも丁寧て、楽しい夕食をいただきました。…」
                   </blockquote>
                 </div>
               </div>

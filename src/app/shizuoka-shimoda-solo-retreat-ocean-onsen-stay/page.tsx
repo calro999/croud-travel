@@ -511,7 +511,7 @@ export default function ArticlePage() {
                   <p>【南伊豆・下田温泉ひとり旅・ペリー黒船と白砂ビーチおこ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.86 ／ 立地 ★4.48 ／ 部屋 ★4.76 ／ 設備 ★4.73 ／ 風呂 ★4.76 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい接客と清潔な館内で心からくつろげた接客がとにかく素晴らしかったです。お部屋と夕食の案内をしてくださった男性が特に和やかで、どんどん機械化が進む昨今ですが、ほっとさせてもらいました。おばあちゃ…　2026-10-06 16:39:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい接客と清潔な館内で心からくつろげた接客がとにかく素晴らしかったです。お部屋と夕食の案内をしてくださった男性が特に和やかで、どんどん機械化が進む昨今ですが、ほっとさせてもらいました。おばあちゃ…」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と接客は最高、清掃面で少し残念お部屋の窓からの景色と海側露天風呂からの景色が最高でしたスタッフの方々の対応も穏やかでこちらもゆったりとした気分で過ごせました。子連れにも優しいサービスが…　2026-08-02 19:27:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と接客は最高、清掃面で少し残念お部屋の窓からの景色と海側露天風呂からの景色が最高でしたスタッフの方々の対応も穏やかでこちらもゆったりとした気分で過ごせました。子連れにも優しいサービスが…」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ご宿泊者様専用無料駐車場有り　乗用車３００台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.54 ／ 部屋 ★4.34 ／ 設備 ★4.23 ／ 風呂 ★4.48 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広い和室と食事チケットに子供も大喜びとても広いお部屋で、眺望も良く、和室でものびのび子供たちも嬉しそうに過ごせました。夕飯時についていた食事の交換チケットみたいなものが、大人も子供もウキウキ楽…　2026-10-09 15:33:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広い和室と食事チケットに子供も大喜びとても広いお部屋で、眺望も良く、和室でものびのび子供たちも嬉しそうに過ごせました。夕飯時についていた食事の交換チケットみたいなものが、大人も子供もウキウキ楽…」
                   </blockquote>
                 </div>
               </div>

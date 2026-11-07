@@ -885,7 +885,7 @@ export default function FurusatoTaxPage() {
                   <p>【絶景オーシャンフロント×波音ヒーリングの海宿ふるさと】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が遠く不便、卓球は楽しめた駐車場が離れていた。送迎はあるが手間に感じた。子ども達のご飯のお供が少なかった。卓球ができたのは嬉しかった。クチコミの詳細はこちらから　https://revi…　2026-08-24 17:33:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が遠く不便、卓球は楽しめた駐車場が離れていた。送迎はあるが手間に感じた。子ども達のご飯のお供が少なかった。卓球ができたのは嬉しかった。」
                   </blockquote>
                 </div>
               </div>
@@ -907,7 +907,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　制限なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スイートルーム琥珀に泊まりました。お部屋はほどよい広さで景色も良くくつろげます。客室露天風呂は湯船が広くて深さがあり、とっても気持ちが良かったです。目隠しが付いているので、海はちらっとしか見えませ…　2026-08-25 14:48:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スイートルーム琥珀に泊まりました。お部屋はほどよい広さで景色も良くくつろげます。客室露天風呂は湯船が広くて深さがあり、とっても気持ちが良かったです。目隠しが付いているので、海はちらっとしか見えませ…」
                   </blockquote>
                 </div>
               </div>
@@ -929,7 +929,7 @@ export default function FurusatoTaxPage() {
                   <p>【絶景オーシャンフロント×波音ヒーリングの海宿ふるさと】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…　2026-08-29 17:15:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…」
                   </blockquote>
                 </div>
               </div>
@@ -951,7 +951,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>80台あり　無料・予約不要（バス・工事車両等の大型車の場合はスペース確保のため事前にご連絡ください）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスが良くお得感あり初めて利用させて頂きました。古い建物でしたが、清潔感はあり、スタッフさんの対応も感じよかったです。夕食、朝食共にバイキングでしたが、良くも悪くも適度な感…　2026-08-27 03:01:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスが良くお得感あり初めて利用させて頂きました。古い建物でしたが、清潔感はあり、スタッフさんの対応も感じよかったです。夕食、朝食共にバイキングでしたが、良くも悪くも適度な感…」
                   </blockquote>
                 </div>
               </div>
@@ -973,7 +973,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順　◇◆必ず駐車できます◆◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で良いが、食事とベッドに難あり夕食の量は我々には多すぎ。鮑と赤海老のアヒージョの鮑は3分の1にエリンギでカサ増し、海老は食べづらく手がベトベト。刺身は寿司用のネタの大きさで食べづらい。金…　2026-08-23 17:17:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で良いが、食事とベッドに難あり夕食の量は我々には多すぎ。鮑と赤海老のアヒージョの鮑は3分の1にエリンギでカサ増し、海老は食べづらく手がベトベト。刺身は寿司用のネタの大きさで食べづらい。金…」
                   </blockquote>
                 </div>
               </div>
@@ -995,7 +995,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　38台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューは綺麗だが設備に不満ありオーシャンビューでとても綺麗でした!部屋のシャワーが水しか出なかったです。なので大浴場に行きましたが、大浴場も時間のせいなのか水が張られていないお風呂が…　2026-08-28 12:51:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューは綺麗だが設備に不満ありオーシャンビューでとても綺麗でした!部屋のシャワーが水しか出なかったです。なので大浴場に行きましたが、大浴場も時間のせいなのか水が張られていないお風呂が…」
                   </blockquote>
                 </div>
               </div>

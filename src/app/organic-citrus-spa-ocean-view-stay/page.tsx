@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.3 ／ 部屋 ★4.15 ／ 設備 ★4.07 ／ 風呂 ★4.37 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮料理と花火、細やかなサービスに大満足急きょ決めた旅行で直前に探したお宿でしたが、結果大満足でした。空室限定プランでの予約だったのであまり期待していませんでしたが、お部屋は十分な広さ。夕食は…　2026-10-09 17:36:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮料理と花火、細やかなサービスに大満足急きょ決めた旅行で直前に探したお宿でしたが、結果大満足でした。空室限定プランでの予約だったのであまり期待していませんでしたが、お部屋は十分な広さ。夕食は…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.46 ／ 部屋 ★4.21 ／ 設備 ★4.22 ／ 風呂 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の質と接客は最高、また利用したい宿総合評価が大変満足の訳を列挙します年間20回ほど温泉旅行を行いここ白浜及び当ホテル共に2回目の利用です。1,お風呂に体全体に刺青がある人が入って来…　2026-10-11 02:26:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の質と接客は最高、また利用したい宿総合評価が大変満足の訳を列挙します年間20回ほど温泉旅行を行いここ白浜及び当ホテル共に2回目の利用です。1,お風呂に体全体に刺青がある人が入って来…」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋でゆっくり味わうバイキングが最高!部屋でゆっくり美味しいバイキングのご飯、最高でした!一才児が部屋でのびのびできました!他の画像やクチコミの詳細はこちらから　https://revie…　2026-08-26 21:37:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋でゆっくり味わうバイキングが最高!部屋でゆっくり美味しいバイキングのご飯、最高でした!一才児が部屋でのびのびできました!」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>４０台あり■□赤ちゃん歓迎、記念日、宴会など多彩なプラン■□コンビニ・スーパー徒歩５分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いと食事が良く、子連れに最適小学生の子どもと一緒に海水浴でお世話になりました。宿は築年数なりに古さはあるものの、スタッフさんのお気遣いなどもあり快適に過ごす事ができました。ご飯も…　2026-08-16 02:38:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いと食事が良く、子連れに最適小学生の子どもと一緒に海水浴でお世話になりました。宿は築年数なりに古さはあるものの、スタッフさんのお気遣いなどもあり快適に過ごす事ができました。ご飯も…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>各部屋1台分確保（40台）：普通車無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客や食事は最高だが部屋の臭いが残念スタッフさんの接客良くてビュッフェの種類が多くてとても美味しかったです。チェックインしてからコーヒーやかき氷のサービスもあったし、お部屋もお風呂も良かったで…　2026-08-27 07:33:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客や食事は最高だが部屋の臭いが残念スタッフさんの接客良くてビュッフェの種類が多くてとても美味しかったです。チェックインしてからコーヒーやかき氷のサービスもあったし、お部屋もお風呂も良かったで…」
                   </blockquote>
                 </div>
               </div>

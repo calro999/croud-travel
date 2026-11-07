@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場 37台／先着順／1泊700円（バイク・大型車は別料金）／車高制限なし／大型は事前連絡必須</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.96 ／ 部屋 ★3.81 ／ 設備 ★3.78 ／ 風呂 ★4.05 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適に過ごせました。ありがとうございました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1516?reviewI…　2026-10-08 23:38:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適に過ごせました。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車‥駐車料金普通車１台　800円税込/1泊。近隣契約駐車場有り　バイク１台300円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.71 ／ 部屋 ★3.57 ／ 設備 ★3.41 ／ 風呂 ★3.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客が最高で、次回もここに泊まりたい接客がとにかく気持ちよかったです。次回高知に行く時もここに泊まりたいクチコミの詳細はこちらから　https://review.travel.rakute…　2026-10-10 19:29:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客が最高で、次回もここに泊まりたい接客がとにかく気持ちよかったです。次回高知に行く時もここに泊まりたい」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>≪無料！！≫ 150台まで入ります。 　トラック・RV車・ワゴン車可。予約は不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.14 ／ 部屋 ★4.44 ／ 設備 ★4.32 ／ 風呂 ★4.22 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「平面駐車場が広く、大きな車でも安心初めての利用、素泊まり、高知市内中心部は駐車場が立体、もしくはない宿が多いと感じた為こちらに宿泊しました。平面駐車場はかなり広く裏にも駐車可能で車両が大きい方には…　2026-10-09 23:29:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「平面駐車場が広く、大きな車でも安心初めての利用、素泊まり、高知市内中心部は駐車場が立体、もしくはない宿が多いと感じた為こちらに宿泊しました。平面駐車場はかなり広く裏にも駐車可能で車両が大きい方には…」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り/30台。有料/普通車：700円、バイク：500円、自転車：無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、立地も良く鏡川の眺めも良いホテルの前に車を止めてから駐車場を確認する必要があります。近くに2か所あるとの事ですが、一番近いのは縦列利用で車のキーを預ける、二番目は少し離れますがキーは預…　2026-08-20 21:17:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、立地も良く鏡川の眺めも良いホテルの前に車を止めてから駐車場を確認する必要があります。近くに2か所あるとの事ですが、一番近いのは縦列利用で車のキーを預ける、二番目は少し離れますがキーは預…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り。お車保管料１泊770円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「遅い時間のチェックインも丁寧な対応チェックインが遅くなりましたが丁寧に対応して頂きました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-08-16 23:20:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「遅い時間のチェックインも丁寧な対応チェックインが遅くなりましたが丁寧に対応して頂きました。」
                   </blockquote>
                 </div>
               </div>

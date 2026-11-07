@@ -355,7 +355,7 @@ export default function HistoryHeritageHubPage() {
                   <p>【幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.12 ／ 部屋 ★4.13 ／ 設備 ★4.06 ／ 風呂 ★4.34 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、清潔感のある空間接客は丁寧で食事も美味しかったです。設備は多少古いですが、清潔さは感じました。クチコミの詳細はこちらから　https://review.travel.…　2026-10-07 23:57:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、清潔感のある空間接客は丁寧で食事も美味しかったです。設備は多少古いですが、清潔さは感じました。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…　2026-10-08 14:22:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊でした。夕食も朝食もシンプルながらも素材の味が生かせれていて、とても美味しくいただきました。お風呂も熱々で気持ち良く、またリピートします!クチコミの詳細はこちらから　https…　2026-08-15 20:18:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊でした。夕食も朝食もシンプルながらも素材の味が生かせれていて、とても美味しくいただきました。お風呂も熱々で気持ち良く、またリピートします!」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function HistoryHeritageHubPage() {
                   <p>【幕末維新の歴史浪漫宿：萩・会津若松・高知・薩摩・龍馬】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「藁焼きカツオの演出と夕食に大満足夕食がとても素晴らしかった。カツオを藁で炙る様子も間近で見せてもらって面白かったです。クチコミの詳細はこちらから　https://review.travel…　2026-08-29 23:36:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「藁焼きカツオの演出と夕食に大満足夕食がとても素晴らしかった。カツオを藁で炙る様子も間近で見せてもらって面白かったです。」
                   </blockquote>
                 </div>
               </div>

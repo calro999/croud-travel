@@ -339,7 +339,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の変更に感謝、食事も風呂も大満足!お部屋変えて頂きありがとうございました!お風呂最高でした!夕食も朝食も美味しいしボリューミー、リピ確定。クチコミの詳細はこちらから　https://rev…　2026-08-15 10:19:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の変更に感謝、食事も風呂も大満足!お部屋変えて頂きありがとうございました!お風呂最高でした!夕食も朝食も美味しいしボリューミー、リピ確定。」
                   </blockquote>
                 </div>
               </div>
@@ -361,7 +361,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供・障害者に優しい宿子供に障害があるため、部屋風呂付き、部屋食が出来る宿とのことでこちらを利用させていただきました。夕食の金目鯛の煮付けは、3人前なのに、ビッグサイズの一匹が付き、ご飯も金目鯛が…　2026-08-17 20:40:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供・障害者に優しい宿子供に障害があるため、部屋風呂付き、部屋食が出来る宿とのことでこちらを利用させていただきました。夕食の金目鯛の煮付けは、3人前なのに、ビッグサイズの一匹が付き、ご飯も金目鯛が…」
                   </blockquote>
                 </div>
               </div>
@@ -383,7 +383,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料7台（ご予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.06 ／ 部屋 ★4.52 ／ 設備 ★4.26 ／ 風呂 ★4.38 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。部屋数は少なく、こじんまりしていて…　2026-09-28 01:01:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。部屋数は少なく、こじんまりしていて…」
                   </blockquote>
                 </div>
               </div>
@@ -427,7 +427,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.63 ／ 部屋 ★4.82 ／ 設備 ★4.81 ／ 風呂 ★4.81 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。今回たまたまキャンセル待ちで予約することが…　2026-09-30 11:57:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。今回たまたまキャンセル待ちで予約することが…」
                   </blockquote>
                 </div>
               </div>

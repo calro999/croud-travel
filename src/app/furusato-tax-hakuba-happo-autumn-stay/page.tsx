@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約70台無料。EV充電器2台分ございます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.74 ／ 部屋 ★4.64 ／ 設備 ★4.55 ／ 風呂 ★4.41 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質とゆったりとした暖炉が良かったです小雨が降る8月末の週末にお世話になりました。部屋から前庭越しに望める白馬の峰々を期待していたのですが、次回に持ち越しとなりました。楽しみにしてい…　2026-10-10 15:47:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質とゆったりとした暖炉が良かったです小雨が降る8月末の週末にお世話になりました。部屋から前庭越しに望める白馬の峰々を期待していたのですが、次回に持ち越しとなりました。楽しみにしてい…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく焚き火も楽しめるリピート宿去年に続き2回目の宿泊です。ホテルの雰囲気は落ち着いていてとても過ごしやすいです。スタッフも笑顔で対応してくださり、とても気持ちよく過ごせました。…　2026-08-24 20:02:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく焚き火も楽しめるリピート宿去年に続き2回目の宿泊です。ホテルの雰囲気は落ち着いていてとても過ごしやすいです。スタッフも笑顔で対応してくださり、とても気持ちよく過ごせました。…」
                   </blockquote>
                 </div>
               </div>

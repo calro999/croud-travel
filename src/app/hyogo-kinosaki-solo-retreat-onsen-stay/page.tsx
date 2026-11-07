@@ -528,7 +528,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車1台1泊1000円 バイク1泊500円　利用時間：15：00〜チェックアウト日11：30まで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.54 ／ 部屋 ★4.6 ／ 設備 ★4.57 ／ 風呂 ★4.56 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋は綺麗で食事も美味しく満足お部屋はとても綺麗で、設備も十分整っていました。電気消すところが若干初めてだとわかりづらさもありましたが、マイナスするほどでもありません。お風呂は貸切風呂が2つ…　2026-09-28 13:49:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋は綺麗で食事も美味しく満足お部屋はとても綺麗で、設備も十分整っていました。電気消すところが若干初めてだとわかりづらさもありましたが、マイナスするほどでもありません。お風呂は貸切風呂が2つ…」
                   </blockquote>
                 </div>
               </div>
@@ -550,7 +550,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有　（10台予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教えたくないほどお気に入りの場所いろんなところに旅行に行っていますが今のところ自分の1番気に入っている宿などで今回は結婚が決まり最初の旅行で旅行に行くならここに行きたいと思っていてやはり今…　2026-08-18 17:34:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「教えたくないほどお気に入りの場所いろんなところに旅行に行っていますが今のところ自分の1番気に入っている宿などで今回は結婚が決まり最初の旅行で旅行に行くならここに行きたいと思っていてやはり今…」
                   </blockquote>
                 </div>
               </div>
@@ -572,7 +572,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.35 ／ 部屋 ★4.2 ／ 設備 ★4.22 ／ 風呂 ★4.16 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「犬連れへの配慮が素晴らしく大満足飼っている犬が吠えてしまう為、バイキング朝食をキャンセルしました。ですが部屋まで朝食を持ってきてくださり、大変満足いたしました。とても良いお宿だと思います。また行き…　2026-10-10 23:16:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「犬連れへの配慮が素晴らしく大満足飼っている犬が吠えてしまう為、バイキング朝食をキャンセルしました。ですが部屋まで朝食を持ってきてくださり、大変満足いたしました。とても良いお宿だと思います。また行き…」
                   </blockquote>
                 </div>
               </div>
@@ -594,7 +594,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】車50台・バス5台の十分な広さで御座いますので、ご安心してお越し下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.14 ／ 部屋 ★4.01 ／ 設備 ★3.9 ／ 風呂 ★4.3 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と温泉で心身ともにリフレッシュスタッフの方々がすべて親切でとても笑顔が素敵でした。温泉もたくさんあってすごくリフレッシュできました。クチコミの詳細はこちらから　https://r…　2026-10-07 17:51:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と温泉で心身ともにリフレッシュスタッフの方々がすべて親切でとても笑顔が素敵でした。温泉もたくさんあってすごくリフレッシュできました。」
                   </blockquote>
                 </div>
               </div>
@@ -616,7 +616,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.94 ／ 部屋 ★3.95 ／ 設備 ★3.95 ／ 風呂 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格に見合わないサービスと衛生面に不満プレミアムと名が付いていて決してお安くはないのに、とても微妙でした。エレベーターは全然来ない、バイキング会場のテーブル、お皿汚い、ライブキッチンのステーキ、切…　2026-10-09 23:05:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格に見合わないサービスと衛生面に不満プレミアムと名が付いていて決してお安くはないのに、とても微妙でした。エレベーターは全然来ない、バイキング会場のテーブル、お皿汚い、ライブキッチンのステーキ、切…」
                   </blockquote>
                 </div>
               </div>

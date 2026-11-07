@@ -390,7 +390,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.02 ／ 部屋 ★4.09 ／ 設備 ★3.94 ／ 風呂 ★4.21 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…　2026-10-10 22:25:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　宿泊者専用（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ローストビーフが絶品、設備が広々で快適ローストビーフ最高でした!!部屋数よりも各設備が広めなのでゆっくりのんびり過ごせます!!脱衣所も広々!ロビーも広々!カラオケ部屋も広々!お…　2026-08-17 22:54:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ローストビーフが絶品、設備が広々で快適ローストビーフ最高でした!!部屋数よりも各設備が広めなのでゆっくりのんびり過ごせます!!脱衣所も広々!ロビーも広々!カラオケ部屋も広々!お…」
                   </blockquote>
                 </div>
               </div>
@@ -434,7 +434,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：１００台（無料・予約制）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は清潔で広々、スタッフの対応も親切施設自体は昔の建物ですが、館内は掃除などが行き届いており、キレイでしたし、客室内もキレイで広々としておりとても居心地が良かったです。スタッフの方がとても親切で…　2026-08-18 14:59:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は清潔で広々、スタッフの対応も親切施設自体は昔の建物ですが、館内は掃除などが行き届いており、キレイでしたし、客室内もキレイで広々としておりとても居心地が良かったです。スタッフの方がとても親切で…」
                   </blockquote>
                 </div>
               </div>

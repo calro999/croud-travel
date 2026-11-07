@@ -583,7 +583,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と源泉掛け流しの温泉に大満足総合評価は5。部屋数が少なくて静かなので大人向けです。サービスは行き届いています。部屋の設備も清潔さも良かったですよ。宿は道路からずっと下の方にあるので、…　2026-08-20 12:33:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と源泉掛け流しの温泉に大満足総合評価は5。部屋数が少なくて静かなので大人向けです。サービスは行き届いています。部屋の設備も清潔さも良かったですよ。宿は道路からずっと下の方にあるので、…」
                   </blockquote>
                 </div>
               </div>
@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　3０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と料理に癒やされ、心温まるひととき温泉が露天風呂と内湯4ヶ所のうち3つに入らせていただきました。どれも、最高でした。料理も、繊細で心のこもった豪華な料理で、とっても美味しいでした。部屋も、きれ…　2026-09-13 21:04:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と料理に癒やされ、心温まるひととき温泉が露天風呂と内湯4ヶ所のうち3つに入らせていただきました。どれも、最高でした。料理も、繊細で心のこもった豪華な料理で、とっても美味しいでした。部屋も、きれ…」
                   </blockquote>
                 </div>
               </div>

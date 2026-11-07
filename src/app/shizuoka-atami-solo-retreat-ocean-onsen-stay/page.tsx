@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊1台1,300円( 要予約）※駐車場は20台のみです。ご予約はお早目にお願い致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸し切り温泉、美味しい食事、丁寧な対応に感謝高齢の母に熱海の花火を見せてあげたくて、宿から花火が見える所を探しておりました。結果、最高の思い出ができました。正直、古さは感じます...部屋が…　2026-08-15 23:25:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸し切り温泉、美味しい食事、丁寧な対応に感謝高齢の母に熱海の花火を見せてあげたくて、宿から花火が見える所を探しておりました。結果、最高の思い出ができました。正直、古さは感じます...部屋が…」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 全１３台　1,100円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.29 ／ 部屋 ★3.94 ／ 設備 ★3.81 ／ 風呂 ★3.84 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を眺める温泉と絶品の鯵の開きに大満足9月に1泊しました。海が見えるお部屋で、窓からの眺めがとても良かったです。熱海らしい景色を楽しめて、のんびり過ごすことができました。お風呂はそ…　2026-10-08 19:31:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を眺める温泉と絶品の鯵の開きに大満足9月に1泊しました。海が見えるお部屋で、窓からの眺めがとても良かったです。熱海らしい景色を楽しめて、のんびり過ごすことができました。お風呂はそ…」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／敷地内駐車場・12台／無料／電気自動車充電可（1台分のみ）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.4 ／ 部屋 ★4.52 ／ 設備 ★4.3 ／ 風呂 ★4.51 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「母との旅行母とふたりで泊まりました。夜は日が落ちるのが早く、あまり景色を楽しめなかったのですが、朝方は日が差して綺麗な景色を楽しむことができました。普段食べないような食材もいただけて満足で…　2026-10-06 18:57:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「母との旅行母とふたりで泊まりました。夜は日が落ちるのが早く、あまり景色を楽しめなかったのですが、朝方は日が差して綺麗な景色を楽しむことができました。普段食べないような食材もいただけて満足で…」
                   </blockquote>
                 </div>
               </div>

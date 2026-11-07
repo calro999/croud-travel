@@ -658,7 +658,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.74 ／ 部屋 ★4.77 ／ 設備 ★4.66 ／ 風呂 ★4.79 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全ての面でトップクラスだが夕食の質に差ありいろんな温泉宿を利用してきたが、全ての面でトップクラス。気掛かりといえば、一泊目より二泊目の夕食の質がダウンしているように感じる。クチコミの詳細はこち…　2026-09-14 12:29:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全ての面でトップクラスだが夕食の質に差ありいろんな温泉宿を利用してきたが、全ての面でトップクラス。気掛かりといえば、一泊目より二泊目の夕食の質がダウンしているように感じる。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>

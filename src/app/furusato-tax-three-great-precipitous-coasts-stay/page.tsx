@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.52 ／ 部屋 ★4.32 ／ 設備 ★4.17 ／ 風呂 ★4.31 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理もロケーションも最高、隣の音が少し気になる得々プランでしたが、料理も満足でした。特にアワビの蒸し焼きが最高!海が近いのでロケーションも良かった!!ちょっと気になったのは、隣の部屋の音が聞こ…　2026-10-09 15:56:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理もロケーションも最高、隣の音が少し気になる得々プランでしたが、料理も満足でした。特にアワビの蒸し焼きが最高!海が近いのでロケーションも良かった!!ちょっと気になったのは、隣の部屋の音が聞こ…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいホテルです食事が思ったより残念でした。味とかは問題ではなく、こちらの過大な期待のせいだと思いますが..あと、夏休みの子供キャンプ?なのか子供が多すぎて、バイキング取りづらかった。更に引率の…　2026-08-18 16:20:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいホテルです食事が思ったより残念でした。味とかは問題ではなく、こちらの過大な期待のせいだと思いますが..あと、夏休みの子供キャンプ?なのか子供が多すぎて、バイキング取りづらかった。更に引率の…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p>【日本三大名勝断崖海岸＆パノラマ海宿×ふるさと納税ガイ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「佳海景与温泉体,感允携犬入住。佳的地点,能看到景的海岸,月光,享受温泉和静。服人心周到,仔介,感能允狗狗一起入住,如果去柏玩,是个理想的住宿所。クチコミの詳細はこちらから　https://re…　2026-08-28 22:29:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「佳海景与温泉体,感允携犬入住。佳的地点,能看到景的海岸,月光,享受温泉和静。服人心周到,仔介,感能允狗狗一起入住,如果去柏玩,是个理想的住宿所。」
                   </blockquote>
                 </div>
               </div>

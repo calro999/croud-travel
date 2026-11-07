@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【生バラの花びらが浮かぶ優美な湯船】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて 冷蔵庫下の床は捲れ上が…　2026-08-13 05:19:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて 冷蔵庫下の床は捲れ上が…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【生バラの花びらが浮かぶ優美な湯船】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣あるレトロな雰囲気と豪華な食事に満足キングダムコラボ目当てで宿泊しました。旅館は趣があり、レトロな雰囲気がとても素敵でした!夕食朝食共に豪華で美味しかったです。大満足しました。他の宿…　2026-09-08 08:26:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣あるレトロな雰囲気と豪華な食事に満足キングダムコラボ目当てで宿泊しました。旅館は趣があり、レトロな雰囲気がとても素敵でした!夕食朝食共に豪華で美味しかったです。大満足しました。他の宿…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【生バラの花びらが浮かぶ優美な湯船】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが清潔、記念日の心遣いに感動施設は古いですが館内は清潔で綺麗です。記念日の連絡はしませんでしたが、覚えていてくれたか赤飯のサービスと記念撮影をしていただきました。クチコミの詳細は…　2026-09-07 20:04:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが清潔、記念日の心遣いに感動施設は古いですが館内は清潔で綺麗です。記念日の連絡はしませんでしたが、覚えていてくれたか赤飯のサービスと記念撮影をしていただきました。クチコミの詳細は…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.3 ／ 部屋 ★4.13 ／ 設備 ★3.85 ／ 風呂 ★3.94 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕焼けは綺麗だが部屋食の対応が残念6階の部屋でお天気も良く、夕焼けがとても綺麗でした。夕食は、部屋食でしたが人手が足りないのか、お酒の注文も、部屋から出て配膳の所に言いに行ったり、ご飯を食べる…　2026-10-09 17:02:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕焼けは綺麗だが部屋食の対応が残念6階の部屋でお天気も良く、夕焼けがとても綺麗でした。夕食は、部屋食でしたが人手が足りないのか、お酒の注文も、部屋から出て配膳の所に言いに行ったり、ご飯を食べる…」
                   </blockquote>
                 </div>
               </div>

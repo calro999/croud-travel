@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台1,300円(24時間入出庫可能)※2026/4/1より1,300円へ変更になりました</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「室内が古くエアコンの音が気になった室内が古かった。エアコンの音がうるさかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-08-26 17:42:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「室内が古くエアコンの音が気になった室内が古かった。エアコンの音がうるさかった。」
                   </blockquote>
                 </div>
               </div>

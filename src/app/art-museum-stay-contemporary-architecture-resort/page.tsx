@@ -470,7 +470,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.42 ／ 部屋 ★4.45 ／ 設備 ★4.44 ／ 風呂 ★4.55 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂に感動しましたお風呂がとにかく大きく、ホテル滞在だけでもとても楽しめました!ブッフェも種類が豊富でどれも美味しくいただけました!クチコミの詳細はこちらから　https://rev…　2026-10-10 19:02:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂に感動しましたお風呂がとにかく大きく、ホテル滞在だけでもとても楽しめました!ブッフェも種類が豊富でどれも美味しくいただけました!」
                   </blockquote>
                 </div>
               </div>
@@ -492,7 +492,7 @@ export default function Page() {
                   <p>【名建築と現代アートに泊まる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高台からの絶景と丁寧な接客に満足ちょっと高台にあるホテルで、駐車場から見える景色がきれいでした。ホテルに到着してすぐに係の方がお出迎えしてくださり、荷物を部屋まで運んでいただきました。景色…　2026-09-16 17:41:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高台からの絶景と丁寧な接客に満足ちょっと高台にあるホテルで、駐車場から見える景色がきれいでした。ホテルに到着してすぐに係の方がお出迎えしてくださり、荷物を部屋まで運んでいただきました。景色…」
                   </blockquote>
                 </div>
               </div>

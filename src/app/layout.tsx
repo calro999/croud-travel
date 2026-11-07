@@ -135,6 +135,10 @@ export default function RootLayout({
                 <span>❄️ 冬温泉＆カニ特集</span>
               </Link>
               <span className="text-emerald-950/20">/</span>
+              <Link href="/furusato/" className="text-amber-800 hover:text-amber-600 transition flex items-center gap-1 font-black bg-amber-100/80 px-2 py-0.5 rounded-full border border-amber-300">
+                <span>🎁 ふるさと納税</span>
+              </Link>
+              <span className="text-emerald-950/20">/</span>
               <Link href="/features/" className="text-teal-800 hover:text-teal-600 transition flex items-center gap-1 font-black">
                 <span>✨ 特集・まとめ</span>
               </Link>

@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１０２台５００円（税込/１泊）■身障者用、大型車等は事前連絡を。近隣にバス専用Ｐ有（当ホテル所轄外）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で立地は最高、部屋の移動は要確認結婚記念日に3泊で利用しました。加熱式たばこOKのセミダブルの部屋を予約。予約時の備考欄に「景色のいい部屋を希望、レンタカー利用で駐車場希望」と書いたら…　2026-08-27 21:56:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で立地は最高、部屋の移動は要確認結婚記念日に3泊で利用しました。加熱式たばこOKのセミダブルの部屋を予約。予約時の備考欄に「景色のいい部屋を希望、レンタカー利用で駐車場希望」と書いたら…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p>【函館駅前：五稜郭紅葉＆函館朝市・活イカ・塩ラーメン】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海と電車の景色と朝食に大満足、また行きたい客室当日空きありでグレードアップしていただき海と電車の見えるお部屋で大変満足です 海の景色はいくら見ていても飽きませんでした 朝食も海鮮丼 蝦夷鹿のカレー…　2026-09-05 16:04:22投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=177009&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海と電車の景色と朝食に大満足、また行きたい客室当日空きありでグレードアップしていただき海と電車の見えるお部屋で大変満足です 海の景色はいくら見ていても飽きませんでした 朝食も海鮮丼 蝦夷鹿のカレー…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用駐車場なし。提携駐車場あり：先着順 14台、予約不可、 1泊500円（15時から翌11時）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.07 ／ 部屋 ★4.09 ／ 設備 ★4.07 ／ 風呂 ★3.96 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「以前も利用してます。アクセスも良く清潔感もあり満足しました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/167475…　2026-10-08 18:56:04投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=167475&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「以前も利用してます。アクセスも良く清潔感もあり満足しました。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1台１泊800円　 数に限りあり　 GWなど特別期間は別料金。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★3.78 ／ 部屋 ★3.42 ／ 設備 ★3.28 ／ 風呂 ★3.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクツーリングで利用バイクツーリングに人気の宿とのことで素泊まり利用でしたが外観から古臭く昔のビジネスホテルという感じでベッドは硬めで好みの感じ枕は1つ枕元付近にコンセントあるのでスマホやCPA…　2026-10-09 00:47:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクツーリングで利用バイクツーリングに人気の宿とのことで素泊まり利用でしたが外観から古臭く昔のビジネスホテルという感じでベッドは硬めで好みの感じ枕は1つ枕元付近にコンセントあるのでスマホやCPA…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場30台　800円／日（15時〜翌11時）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★4.07 ／ 部屋 ★3.84 ／ 設備 ★3.76 ／ 風呂 ★3.51 ／ 食事 ★3.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ、立地最高です立地がよく、一歩ホテルを出ると居酒屋さんが目移りするほどあり、大正解でした、また、函館行く時は、リピートしようと思います。コスパも良かったです。クチコミの詳細はこちらか…　2026-10-06 07:21:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ、立地最高です立地がよく、一歩ホテルを出ると居酒屋さんが目移りするほどあり、大正解でした、また、函館行く時は、リピートしようと思います。コスパも良かったです。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>

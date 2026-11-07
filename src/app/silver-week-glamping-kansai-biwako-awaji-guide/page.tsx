@@ -556,7 +556,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                   <p>【関西シルバーウィーク グランピング：琵琶湖レイクビュ】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めてのグランピング、最高のおもてなしでした初めてのグランピングで利用させて頂きました。結論、最高でした!施設も綺麗で、店員さん達のホスピタリティも素敵で、至れり尽くせりでした!5mド…　2026-08-26 21:55:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めてのグランピング、最高のおもてなしでした初めてのグランピングで利用させて頂きました。結論、最高でした!施設も綺麗で、店員さん達のホスピタリティも素敵で、至れり尽くせりでした!5mド…」
                   </blockquote>
                 </div>
               </div>
@@ -622,7 +622,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                   <p>【関西シルバーウィーク グランピング：琵琶湖レイクビュ】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と素晴らしいロケーション接客がとても丁寧でした。ロケーションもよくとても楽しい時間を過ごすことが出来ました。ありがとうございました!クチコミの詳細はこちらから　https://rev…　2026-08-19 12:57:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と素晴らしいロケーション接客がとても丁寧でした。ロケーションもよくとても楽しい時間を過ごすことが出来ました。ありがとうございました!」
                   </blockquote>
                 </div>
               </div>
@@ -644,7 +644,7 @@ export default function SilverWeekGlampingKansaiBiwakoAwajiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料/予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広々とした部屋と朝食バイキングに満足502号室を利用させて頂きました。お部屋はとても清潔でよく清掃されておりました。お部屋にはプロジェクターや岩盤浴、ベットも3つ(ダブル×1、シング…　2026-08-20 07:07:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広々とした部屋と朝食バイキングに満足502号室を利用させて頂きました。お部屋はとても清潔でよく清掃されておりました。お部屋にはプロジェクターや岩盤浴、ベットも3つ(ダブル×1、シング…」
                   </blockquote>
                 </div>
               </div>

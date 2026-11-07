@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-25 17:00:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でした」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>≪無料パーキングは最大50台♪≫ ※予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.78 ／ 部屋 ★4.79 ／ 設備 ★4.8 ／ 風呂 ★4.82 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく、温泉コーヒーも絶品夫婦2人でお世話になりました。従業員の対応、食事、温泉、設備の清潔さがすべてにおいて素晴らしいです。はじめて人吉に来訪しましたがとても良い思い出となりました。…　2026-10-10 16:56:01投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=107813&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく、温泉コーヒーも絶品夫婦2人でお世話になりました。従業員の対応、食事、温泉、設備の清潔さがすべてにおいて素晴らしいです。はじめて人吉に来訪しましたがとても良い思い出となりました。…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…　2026-10-09 12:59:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【爽快ラフティング＆キャニオニング】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「暖炉でリラックス、コップも欲しかったどこも不満がなく大満足です。暖炉が特にお気に入りで、時間を忘れてリラックスできました。1つ不満があるとすれば、部屋にあるコップを購入したかったです。…　2026-09-06 15:50:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「暖炉でリラックス、コップも欲しかったどこも不満がなく大満足です。暖炉が特にお気に入りで、時間を忘れてリラックスできました。1つ不満があるとすれば、部屋にあるコップを購入したかったです。…」
                   </blockquote>
                 </div>
               </div>

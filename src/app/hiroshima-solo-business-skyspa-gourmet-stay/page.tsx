@@ -525,7 +525,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルに駐車場はございません。最寄りのアクティブインターシティー駐車場をご利用下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.76 ／ 部屋 ★4.68 ／ 設備 ★4.62 ／ 風呂 ★4.58 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早めのチェックインと親切な対応に感謝チェックインの時間より早く着いたのですが、お部屋の用意は整っています。との事で早めに部屋に通していただきました。お部屋はとても綺麗で、浴室の小窓から外が見え…　2026-10-09 21:36:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早めのチェックインと親切な対応に感謝チェックインの時間より早く着いたのですが、お部屋の用意は整っています。との事で早めに部屋に通していただきました。お部屋はとても綺麗で、浴室の小窓から外が見え…」
                   </blockquote>
                 </div>
               </div>
@@ -547,7 +547,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル駐車場は無し、近隣に立体駐車場（提携ではない）あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.36 ／ 部屋 ★4.37 ／ 設備 ★4.27 ／ 風呂 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光の拠点に最適、また利用したい観光で利用しましたがとても利便性がよくまた機会があればまた利用したいです。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-10-06 16:03:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光の拠点に最適、また利用したい観光で利用しましたがとても利便性がよくまた機会があればまた利用したいです。」
                   </blockquote>
                 </div>
               </div>
@@ -569,7 +569,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順の提携駐車場　1泊￥1500（途中入出庫不可）　車体制限有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.28 ／ 部屋 ★4.36 ／ 設備 ★4.37 ／ 風呂 ★4.4 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂と朝食が最高、次回もまた利用したいお風呂と朝食がとても良かったです。次回もお世話になります。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-10 19:03:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂と朝食が最高、次回もまた利用したいお風呂と朝食がとても良かったです。次回もお世話になります。」
                   </blockquote>
                 </div>
               </div>

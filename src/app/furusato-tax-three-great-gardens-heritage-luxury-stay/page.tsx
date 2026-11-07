@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（1,000円／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理が最高、子供も大満足の金沢旅行幼児連れの家族で一泊しました。ホスピタリティ溢れた接客がありがたかったです。部屋は掃除が行き届いており、水回りも綺麗で気持ちよく使えました。1番楽しみに…　2026-08-27 23:41:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理が最高、子供も大満足の金沢旅行幼児連れの家族で一泊しました。ホスピタリティ溢れた接客がありがたかったです。部屋は掃除が行き届いており、水回りも綺麗で気持ちよく使えました。1番楽しみに…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル地下に有り　171台　24時間1,300円　事前予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.54 ／ 部屋 ★4.46 ／ 設備 ★4.4 ／ 風呂 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2度目の利用も大満足、また必ず来ます2度目の宿泊です。ホスピタリティ、立地、清潔さ全てとても良かったです。また、岡山に行く際は宿泊したいと思いますクチコミの詳細はこちらから　https://r…　2026-10-05 15:54:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2度目の利用も大満足、また必ず来ます2度目の宿泊です。ホスピタリティ、立地、清潔さ全てとても良かったです。また、岡山に行く際は宿泊したいと思います」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>自走式立体駐車場、700円（１泊1台）車高制限2.1m、予約不可（満車時は近隣提携駐車場案内）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水回りが清潔でリファのシャワーも最高水回りがとても良かった。お風呂が家のお風呂のようにきちんと洗い場もあって、しかもシャワーヘッドはリファ!台風の中到着したので、ゆったりと入浴できました。…　2026-09-04 23:14:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水回りが清潔でリファのシャワーも最高水回りがとても良かった。お風呂が家のお風呂のようにきちんと洗い場もあって、しかもシャワーヘッドはリファ!台風の中到着したので、ゆったりと入浴できました。…」
                   </blockquote>
                 </div>
               </div>

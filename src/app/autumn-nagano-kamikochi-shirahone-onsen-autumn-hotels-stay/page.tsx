@@ -445,7 +445,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p>【秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.46 ／ 部屋 ★4.61 ／ 設備 ★4.38 ／ 風呂 ★4.89 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「迅速な対応に感謝、温泉三昧でまた来たいお宿に到着してお部屋に案内されて、予約時に宿泊人数を間違えていたことに気付きました。従業員の皆様か迅速に対応していただき感謝しております。貸切露天風呂…　2026-09-23 21:24:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「迅速な対応に感謝、温泉三昧でまた来たいお宿に到着してお部屋に案内されて、予約時に宿泊人数を間違えていたことに気付きました。従業員の皆様か迅速に対応していただき感謝しております。貸切露天風呂…」
                   </blockquote>
                 </div>
               </div>
@@ -467,7 +467,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>40台有り。お車をお預かりし、駐車場へお停めいたします。 駐車場所の指定はお受けいたしかねます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「硫黄の温泉は最高だが移動が少し大変やっぱり温泉が最高です。硫黄の乳白色の温泉で、とってもあったまります。ご飯もおいしかったです。温泉までの移動が長く、エレベーターに2回ほど乗ったりするので、高齢者…　2026-09-12 18:55:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「硫黄の温泉は最高だが移動が少し大変やっぱり温泉が最高です。硫黄の乳白色の温泉で、とってもあったまります。ご飯もおいしかったです。温泉までの移動が長く、エレベーターに2回ほど乗ったりするので、高齢者…」
                   </blockquote>
                 </div>
               </div>
@@ -489,7 +489,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p>【秋の上高地・白骨温泉：カラマツ黄葉と乳白色の秘湯】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.39 ／ 部屋 ★4.44 ／ 設備 ★4.24 ／ 風呂 ★4.66 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂までの距離と暗さが少し残念露天風呂が行くまで少し距離があり、暗かったのが残念でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-10-05 09:54:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂までの距離と暗さが少し残念露天風呂が行くまで少し距離があり、暗かったのが残念でした」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function KamikochiShirahoneAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の中の出迎えや忘れ物の対応に感謝到着時雨が降っていたのですが車まで出迎えて玄関エントラスまで誘導してくださりぬれずに荷物を下ろせました。その後の車の移動もスタッフの方がしてくれました…　2026-09-07 16:05:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の中の出迎えや忘れ物の対応に感謝到着時雨が降っていたのですが車まで出迎えて玄関エントラスまで誘導してくださりぬれずに荷物を下ろせました。その後の車の移動もスタッフの方がしてくれました…」
                   </blockquote>
                 </div>
               </div>

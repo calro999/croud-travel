@@ -550,7 +550,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.51 ／ 風呂 ★4.68 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-08 21:45:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良い」
                   </blockquote>
                 </div>
               </div>
@@ -572,7 +572,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料（20台、予約不要）　無料送迎あり（富士山駅・富士山山中湖バス停付近）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「めちゃくちゃ綺麗で富士山も見れて最高ーただただ焚き火の薪が乾いてないか中々燃えなくてそれが残念ー部屋も綺麗で子どもたち楽しめました。また来たいですクチコミの詳細はこちらから　https…　2026-08-22 08:16:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「めちゃくちゃ綺麗で富士山も見れて最高ーただただ焚き火の薪が乾いてないか中々燃えなくてそれが残念ー部屋も綺麗で子どもたち楽しめました。また来たいです」
                   </blockquote>
                 </div>
               </div>
@@ -616,7 +616,7 @@ export default function SilverWeekGlampingLargeGroupCharterPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１棟当たり２台　無料　それ以上の方はご相談ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然に囲まれたログハウスで非日常を満喫家族と友人で利用子供2人もログハウスにテンション上がってました自然に囲まれてのBBQや魚の掴み取り等で非日常を味わえとても満足ゆっくりとした時…　2026-08-17 12:22:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然に囲まれたログハウスで非日常を満喫家族と友人で利用子供2人もログハウスにテンション上がってました自然に囲まれてのBBQや魚の掴み取り等で非日常を味わえとても満足ゆっくりとした時…」
                   </blockquote>
                 </div>
               </div>

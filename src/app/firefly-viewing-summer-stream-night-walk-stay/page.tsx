@@ -493,7 +493,7 @@ export default function Page() {
                   <p>【幻想的なホタルの乱舞と清流のせせらぎ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「山間の静かな環境でリフレッシュ、食事も満足山間の静かな環境で、しっかりリフレッシュできました。夕食も美味しくいただき、満足でした。クチコミの詳細はこちらから　https://review.tr…　2026-07-21 08:50:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「山間の静かな環境でリフレッシュ、食事も満足山間の静かな環境で、しっかりリフレッシュできました。夕食も美味しくいただき、満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -537,7 +537,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>１００台ご用意しております　無料（ご予約不要）　バイクはピロティーにご案内　屋根付（先着約10台）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.3 ／ 部屋 ★4.33 ／ 設備 ★4.26 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の方の対応がとても丁寧で感動従業員のかたの対応がたいへん良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/vo…　2026-10-10 22:33:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の方の対応がとても丁寧で感動従業員のかたの対応がたいへん良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -559,7 +559,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★3.98 ／ 部屋 ★4.04 ／ 設備 ★3.98 ／ 風呂 ★4.29 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と展望、食事と温泉に大満足部屋、設備とも清潔で気持ちよく過ごせた。窓からの展望もよく静かでゆっくり休めた。食事は美味しく量も丁度よかった。泉質は化粧水いらず。接客は過不足なく、全般に不満…　2026-10-08 17:22:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と展望、食事と温泉に大満足部屋、設備とも清潔で気持ちよく過ごせた。窓からの展望もよく静かでゆっくり休めた。食事は美味しく量も丁度よかった。泉質は化粧水いらず。接客は過不足なく、全般に不満…」
                   </blockquote>
                 </div>
               </div>

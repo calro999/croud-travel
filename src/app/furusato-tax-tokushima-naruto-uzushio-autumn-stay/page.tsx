@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。… 2026-09-05 20:05:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、海辺の遊びと食事を満喫家族で伺いました。チェックインは15時でしたが.12時にホテルにつきチェックインまで海辺や、釣りぼり、職業体験などでとても楽しむことができました。…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「10年ぶりの訪問で感じた進化と感動の料理約10年ぶりの訪問でしたが、「変わらず素晴らしい」と言うよりも「進化している!」と感じる2日間でした。お部屋のジャグジー、サウナともにとても良く、非日常…　2026-08-01 16:43:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「10年ぶりの訪問で感じた進化と感動の料理約10年ぶりの訪問でしたが、「変わらず素晴らしい」と言うよりも「進化している!」と感じる2日間でした。お部屋のジャグジー、サウナともにとても良く、非日常…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p>【徳島・鳴門海峡の秋の大潮うずしお＆大毛島リゾート】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も眺め最高。奥さんも大喜びの四国旅行全て最高でした。今まで泊まった中で1番です。食事はバイキングで大変美味しかったです～。部屋からの眺めもすぐ目の前が海で最高の長めでした。奥さんも大喜びでした…　2026-09-19 23:30:03投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=149301&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も眺め最高。奥さんも大喜びの四国旅行全て最高でした。今まで泊まった中で1番です。食事はバイキングで大変美味しかったです～。部屋からの眺めもすぐ目の前が海で最高の長めでした。奥さんも大喜びでした…」
                   </blockquote>
                 </div>
               </div>

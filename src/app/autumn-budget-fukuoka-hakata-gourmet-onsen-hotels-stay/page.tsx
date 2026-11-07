@@ -454,7 +454,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外/高さ制限無し）　7台　1980円（税込み/泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋を含めた設備はWEB掲載通りで期待外れはありませんでした。風呂はマイナスコメント多くありましたが十分に広く空いていました。フロントの方も親切に対応頂きました。朝食は大満足です。一点マイナスは廊下に…　2026-08-20 20:29:44投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=180583&quot; class=&quot;3clic」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋を含めた設備はWEB掲載通りで期待外れはありませんでした。風呂はマイナスコメント多くありましたが十分に広く空いていました。フロントの方も親切に対応頂きました。朝食は大満足です。一点マイナスは廊下に…」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>7台分（事前予約制） 1泊2，000円 ※高さ制限なし 　　近隣にコインパーキング多数あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レディース部屋と充実のアメニティで快適福岡旅行で利用しました。レディース部屋で気兼ねなく過ごせました。ウェルカムバーも楽しめ、アメニティにパックもあって嬉しかったです。リファのドライヤー、シャワー…　2026-08-28 20:08:55投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=163065&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レディース部屋と充実のアメニティで快適福岡旅行で利用しました。レディース部屋で気兼ねなく過ごせました。ウェルカムバーも楽しめ、アメニティにパックもあって嬉しかったです。リファのドライヤー、シャワー…」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場有　里馨(リカ)パーキング(24時間1500円の駐車券をフロント販売、当館から徒歩3分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★4.21 ／ 部屋 ★4.08 ／ 設備 ★3.92 ／ 風呂 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は空いていて快適、コーヒーも無料きれいなホテルで良かったです。大浴場は狭いですが、16時と6時に行った時は無人で貸切状態でした。部屋のテレビで混雑状況がわかります。朝のパンは無料なの…　2026-10-05 18:19:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は空いていて快適、コーヒーも無料きれいなホテルで良かったです。大浴場は狭いですが、16時と6時に行った時は無人で貸切状態でした。部屋のテレビで混雑状況がわかります。朝のパンは無料なの…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>11台有、1,500円 / 1泊（15：00～翌11：00）※連泊の場合24時間　※予約不可先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場で疲労回復、混雑以外は満足はじめてアパホテルに泊まりました。疲労回復のため大浴場付きのホテルにしましたが、正解でした。大浴場を利用した時間帯、脱衣所が混雑していたものの、それ以外は満…　2026-08-21 11:39:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場で疲労回復、混雑以外は満足はじめてアパホテルに泊まりました。疲労回復のため大浴場付きのホテルにしましたが、正解でした。大浴場を利用した時間帯、脱衣所が混雑していたものの、それ以外は満…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function FukuokaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場　1,500円（税込）/14時～翌日14時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。近いと言っても真夏の暑い中キャリーバックを引きず…　2026-08-25 13:39:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。近いと言っても真夏の暑い中キャリーバックを引きず…」
                   </blockquote>
                 </div>
               </div>

@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>【駐車場38台】入庫後24時間以内出庫500円　※先着順、予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.74 ／ 立地 ★3.68 ／ 部屋 ★3.6 ／ 設備 ★3.62 ／ 風呂 ★3.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルで綺麗だがリニューアル中で先月来たときに工事中だったフロアがリニューアルが終わってましたシリンダーキーからカードキーに変わってたのと、シャワーとトイレが本家と同じになってました…　2026-10-07 20:53:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルで綺麗だがリニューアル中で先月来たときに工事中だったフロアがリニューアルが終わってましたシリンダーキーからカードキーに変わってたのと、シャワーとトイレが本家と同じになってました…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★3.51 ／ 部屋 ★3.48 ／ 設備 ★3.22 ／ 風呂 ★3.5 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/72…　2026-09-17 19:41:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p>【日本三奇橋＆スリル満点の名橋・渓谷宿×ふるさと納税ガ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…　2026-09-05 22:04:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…」
                   </blockquote>
                 </div>
               </div>

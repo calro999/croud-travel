@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【専属パティシエ特製スイーツ＆デザートビュッフェ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「国際通り散策に便利な好立地素泊まりで利用しました。立地がよく国際通りを散策するのに便利です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-09-19 07:26:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「国際通り散策に便利な好立地素泊まりで利用しました。立地がよく国際通りを散策するのに便利です。」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：800台、1,500円（泊・先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.62 ／ 部屋 ★4.5 ／ 設備 ★4.38 ／ 風呂 ★4.28 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックアウト時の待ち時間が長く不満朝チェックアウト時に、フロントスタッフが一人一人しか対応しておらず、5分以上、待たされた。そこに不満を感じました。機械でセルフチェックアウトする仕組…　2026-10-10 22:15:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックアウト時の待ち時間が長く不満朝チェックアウト時に、フロントスタッフが一人一人しか対応しておらず、5分以上、待たされた。そこに不満を感じました。機械でセルフチェックアウトする仕組…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場58台／1泊1台につき1,200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご当地の美味しい食事を存分に満喫!食事がとてもおいしかったです。ご当地の食べ物を満喫できて最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-08-22 17:46:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご当地の美味しい食事を存分に満喫!食事がとてもおいしかったです。ご当地の食べ物を満喫できて最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【専属パティシエ特製スイーツ＆デザートビュッフェ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの対応が不快、部屋の造りも残念チェックイン時の対応が不快極まりなかった。また、ユニットバスがベッドからガラスとカーテンで仕切られラブホテルのようだった。クチコミの詳細はこちらか…　2026-09-18 20:30:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの対応が不快、部屋の造りも残念チェックイン時の対応が不快極まりなかった。また、ユニットバスがベッドからガラスとカーテンで仕切られラブホテルのようだった。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約100台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.35 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。料理の種類も豊富で和洋中、イタリアンに至るまで展開され、味もどれを食べてもハズレが全くなく、とても美味しかったです…　2026-10-09 14:41:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。料理の種類も豊富で和洋中、イタリアンに至るまで展開され、味もどれを食べてもハズレが全くなく、とても美味しかったです…」
                   </blockquote>
                 </div>
               </div>

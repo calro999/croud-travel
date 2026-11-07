@@ -421,7 +421,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車30台まで駐車可能（1室につき1台まで）、大型車（全長8m）2台まで。大型車は有料、要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.07 ／ 部屋 ★4 ／ 設備 ★3.79 ／ 風呂 ★3.99 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂最高本館宿泊でお世話になりました。お風呂がとても気持ち良く、市内でも大好きなホテルです。今回少し残念と感じたのは、お部屋に入った瞬間からくしゃみが止まらなかった事と、チェック…　2026-10-06 16:21:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂最高本館宿泊でお世話になりました。お風呂がとても気持ち良く、市内でも大好きなホテルです。今回少し残念と感じたのは、お部屋に入った瞬間からくしゃみが止まらなかった事と、チェック…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣大型コインパーキング有【提携外】　フロントで近隣パーキングの場所をご案内しております。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.35 ／ 部屋 ★4.32 ／ 設備 ★4.3 ／ 風呂 ★4.32 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイク駐輪場が近く大型バイクも安心清潔で快適でしたバイクの駐車場を探していたのですが、正面に駅のバイク駐輪場があり大型バイクでも余裕で停められるので助かりましたクチコミの詳細はこちらから　…　2026-10-10 07:49:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイク駐輪場が近く大型バイクも安心清潔で快適でしたバイクの駐車場を探していたのですが、正面に駅のバイク駐輪場があり大型バイクでも余裕で停められるので助かりました」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場無：提携駐車場700円　満車時は周辺駐車場にて現地精算お願いします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.4 ／ 部屋 ★4.46 ／ 設備 ★4.36 ／ 風呂 ★4.3 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、ドリップコーヒーが嬉しい駅近で、とてもきれいなホテルでした。アメニティも豊富で、素泊まりでしたがドリップコーヒーが置いてあり、ドリンクバーよりうれしかったです。夜も静かで、…　2026-10-10 19:02:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、ドリップコーヒーが嬉しい駅近で、とてもきれいなホテルでした。アメニティも豊富で、素泊まりでしたがドリップコーヒーが置いてあり、ドリンクバーよりうれしかったです。夜も静かで、…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>150台可、1泊1台1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.3 ／ 部屋 ★4.18 ／ 設備 ★4.08 ／ 風呂 ★4 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で大きなバスタブに大満足部屋はキレイでバスタブも大きい、入浴剤もアメニティでついていて、とても満足。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-10-02 18:19:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で大きなバスタブに大満足部屋はキレイでバスタブも大きい、入浴剤もアメニティでついていて、とても満足。」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetFukushimaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場118台／先着順／1泊税込1000円／車高制限有155cm迄※RV・ワゴン車は提携駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.16 ／ 部屋 ★4.22 ／ 設備 ★4.18 ／ 風呂 ★4.15 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エレベーターが少なく待ち時間が長いエレベーターが2基しか無く、部屋総数からして少なく、待ち時間が長くなり、チェックアウト時間帯が大変混雑しました。クチコミの詳細はこちらから　https://r…　2026-10-09 17:31:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エレベーターが少なく待ち時間が長いエレベーターが2基しか無く、部屋総数からして少なく、待ち時間が長くなり、チェックアウト時間帯が大変混雑しました。」
                   </blockquote>
                 </div>
               </div>

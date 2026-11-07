@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はありません。 近隣コインパーキング「金沢駅西口時計駐車場」 ※提携駐車場ではございません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「目的通りのサービスで不満なし目的通りのサービスで、不満も特に浮かびません。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…　2026-08-27 16:29:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「目的通りのサービスで不満なし目的通りのサービスで、不満も特に浮かびません。」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は小さめだが混雑状況を確認できて便利温泉(大浴場)は想像していたより小さめでした。部屋から浴場の混雑状況が確認できるため、空いている時間に入れば問題ないと思います。クチコミの詳細はこちら…　2026-08-22 11:51:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は小さめだが混雑状況を確認できて便利温泉(大浴場)は想像していたより小さめでした。部屋から浴場の混雑状況が確認できるため、空いている時間に入れば問題ないと思います。クチコミの詳細はこちら…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊:1,000円頂いております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの埃と朝食時間に間に合わない不満エアコンが埃だらけで清潔とは言えませんでした朝早くに出発する予定でしたが、朝食が7時からでしたので食べていませんクチコミの詳細はこちらから　http…　2026-08-25 23:26:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの埃と朝食時間に間に合わない不満エアコンが埃だらけで清潔とは言えませんでした朝早くに出発する予定でしたが、朝食が7時からでしたので食べていません」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１６６台　１，０００円（税込み／泊）　先着順・高さ制限２．１M迄</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、安定のクオリティルートインさん、間違いないです。価格対比、すべてレベル以上です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-08-19 08:04:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、安定のクオリティルートインさん、間違いないです。価格対比、すべてレベル以上です。」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1,100円（1台1泊）※ 先着順。満車の場合は金沢駅西口時計駐車場（徒歩3分）をご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが駐車場と荷物置きに改善の余地あり駅からも近くて便利でした。提携駐車場の案内をもらったけど、近くの違うコインパーキングのが安くてびっくりしました。今はキャリーバッグで宿泊する人が多いと…　2026-08-21 19:11:38投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=183231&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが駐車場と荷物置きに改善の余地あり駅からも近くて便利でした。提携駐車場の案内をもらったけど、近くの違うコインパーキングのが安くてびっくりしました。今はキャリーバッグで宿泊する人が多いと…」
                   </blockquote>
                 </div>
               </div>

@@ -315,7 +315,7 @@ export default function SakeTourismHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフ全員の接客が素晴らしく大満足初めて利用させていただきました。宿泊先を検討している段階で他にも候補があり、悩みながらも、少し予算オーバーでしたが、口コミも良かったので、こちらに決めましたが、…　2026-08-22 11:37:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフ全員の接客が素晴らしく大満足初めて利用させていただきました。宿泊先を検討している段階で他にも候補があり、悩みながらも、少し予算オーバーでしたが、口コミも良かったので、こちらに決めましたが、…」
                   </blockquote>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function SakeTourismHubPage() {
                   <p>【日本酒飲み放題＆利き酒Bar完備温泉宿：インクルーシ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある庭園と丁寧な接客でゆったりと趣きがありゆっくりできました。庭園がとても綺麗でした。スタッフも丁寧で親切に対応してくれました。クチコミの詳細はこちらから　https://revi…　2026-09-12 21:15:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある庭園と丁寧な接客でゆったりと趣きがありゆっくりできました。庭園がとても綺麗でした。スタッフも丁寧で親切に対応してくれました。」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function SakeTourismHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料200台・予約不要｜ホテル玄関前で荷下ろし後、当館から東に約130mの駐車場へご駐車ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.43 ／ 部屋 ★4.53 ／ 設備 ★4.47 ／ 風呂 ★4.54 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も満足。3歳と5歳の子供を連れて利用しました。ウェルカムドリンクや遊び場、絵本の貸し出し、お風呂後のヤクルトやアイスなどサービスが充実していてとても喜んで楽しく過ごすことができました…　2026-10-10 17:47:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も満足。3歳と5歳の子供を連れて利用しました。ウェルカムドリンクや遊び場、絵本の貸し出し、お風呂後のヤクルトやアイスなどサービスが充実していてとても喜んで楽しく過ごすことができました…」
                   </blockquote>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function SakeTourismHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料200台　※正面玄関へお越しください。スタッフが駐車場をご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.07 ／ 部屋 ★4.27 ／ 設備 ★4.12 ／ 風呂 ★4.31 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お茶菓子がなく貸切風呂に死骸、設備も不便部屋にお茶菓子がない温泉旅館は初めてだった。貸し切り風呂には大きいカエルの死骸が浮いていて、入れなかった。今どき、階段ばかりで車椅子用のスロープもなかった。…　2026-10-07 18:32:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お茶菓子がなく貸切風呂に死骸、設備も不便部屋にお茶菓子がない温泉旅館は初めてだった。貸し切り風呂には大きいカエルの死骸が浮いていて、入れなかった。今どき、階段ばかりで車椅子用のスロープもなかった。…」
                   </blockquote>
                 </div>
               </div>

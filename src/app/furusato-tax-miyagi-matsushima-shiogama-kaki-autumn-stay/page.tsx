@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり（200台）　※先着順となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「見晴らし最高アメニティとロビーにウェルカムドリンクとかあるといいなぁと思いました。バイキングのお料理美味しかったですライブキッチンにステーキがあればもっと最高でした。お部屋から…　2026-09-19 21:58:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「見晴らし最高アメニティとロビーにウェルカムドリンクとかあるといいなぁと思いました。バイキングのお料理美味しかったですライブキッチンにステーキがあればもっと最高でした。お部屋から…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【日本三景・松島＆塩竈の秋】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火の配慮が嬉しく素敵な夜を過ごせた家族旅行で利用しました。子どもに花火をいただきましたが、夕飯との兼ね合いでできそうにないねと子どもと話しといたところ、花火の時間を延長しますと言っていただけ…　2026-08-22 22:23:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火の配慮が嬉しく素敵な夜を過ごせた家族旅行で利用しました。子どもに花火をいただきましたが、夕飯との兼ね合いでできそうにないねと子どもと話しといたところ、花火の時間を延長しますと言っていただけ…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　４０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事が最高、脱衣所の清掃に改善希望部屋からの景色がとても綺麗でした。部屋とバス・トイレも清潔でした。夕飯はお刺身が美味しかったです。 脱衣所は狭く、混んでるときは大変だなとおもいました。ドラ…　2026-08-21 10:36:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事が最高、脱衣所の清掃に改善希望部屋からの景色がとても綺麗でした。部屋とバス・トイレも清潔でした。夕飯はお刺身が美味しかったです。 脱衣所は狭く、混んでるときは大変だなとおもいました。ドラ…」
                   </blockquote>
                 </div>
               </div>

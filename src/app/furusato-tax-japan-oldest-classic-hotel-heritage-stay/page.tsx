@@ -582,7 +582,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外）　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.53 ／ 部屋 ★4.37 ／ 設備 ★4.19 ／ 風呂 ★3.99 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある空間と親切な接客、朝食の提供タイミングが残念リゾートホテルの草分けらしく、建物や内装に趣きがあり、ゆったりした時間を過ごせました。スタッフのみなさんもとても親切で癒されました。和朝食も美…　2026-10-10 19:49:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある空間と親切な接客、朝食の提供タイミングが残念リゾートホテルの草分けらしく、建物や内装に趣きがあり、ゆったりした時間を過ごせました。スタッフのみなさんもとても親切で癒されました。和朝食も美…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場150台。小田厚道路箱根口ICより約3km、お車でのご来館も大変便利です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プールでの親切な対応と朝食に満足初日に子どもとプールに入りましたが、ちゃんと監視員さん、見回る方もいてよかったです。その内の一人の方が、子どもが見た目に分かる怪我をしていたからか、とても親切にして…　2026-08-26 17:47:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「プールでの親切な対応と朝食に満足初日に子どもとプールに入りましたが、ちゃんと監視員さん、見回る方もいてよかったです。その内の一人の方が、子どもが見た目に分かる怪我をしていたからか、とても親切にして…」
                   </blockquote>
                 </div>
               </div>
@@ -626,7 +626,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り(無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「憧れのホテルで過ごす快適な箱根旅憧れのホテルに宿泊できて嬉しいです。交通手段は箱根登山鉄道の宮ノ下駅や、箱根登山バスのホテル前が最寄りです。荷物を預かっていただき、日中は箱根湯本を…　2026-08-29 10:49:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「憧れのホテルで過ごす快適な箱根旅憧れのホテルに宿泊できて嬉しいです。交通手段は箱根登山鉄道の宮ノ下駅や、箱根登山バスのホテル前が最寄りです。荷物を預かっていただき、日中は箱根湯本を…」
                   </blockquote>
                 </div>
               </div>
@@ -670,7 +670,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料にてご用意がございます。約30台・ 屋外駐車場のみ・ヴァレーパーキング：一部可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.69 ／ 部屋 ★4.78 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。全国のクラシックホテルを訪れていて、今…　2026-08-25 16:23:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。全国のクラシックホテルを訪れていて、今…」
                   </blockquote>
                 </div>
               </div>

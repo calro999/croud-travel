@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.61 ／ 部屋 ★4.22 ／ 設備 ★4.22 ／ 風呂 ★4.03 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと食事が最高、次はスイートにロケーションも建物も、とても価値のあるものでした。お部屋はドアからいきなりベッドルームなので、スイートにしておくべきだったと後悔しました。逆にスイー…　2026-08-30 17:26:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと食事が最高、次はスイートにロケーションも建物も、とても価値のあるものでした。お部屋はドアからいきなりベッドルームなので、スイートにしておくべきだったと後悔しました。逆にスイー…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の温泉!ステーキで満足。夕飯にステーキのプランを選びました。正直、部屋に温泉があって、気兼ねなく入れれば良いと思って予約しました。しかし、夕飯の食事するところも、雰囲気良いし店員さんも…　2026-08-22 17:34:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の温泉!ステーキで満足。夕飯にステーキのプランを選びました。正直、部屋に温泉があって、気兼ねなく入れれば良いと思って予約しました。しかし、夕飯の食事するところも、雰囲気良いし店員さんも…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好きなモデルさんがYouTubeでおすすめしているのをみて予約しました。予約画面や施設紹介、注意事項には何も書いてなかったはずですが、入り口に着いたらドレスコードあり、との看板。真夏ですのでサンダ…　2026-08-25 12:21:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好きなモデルさんがYouTubeでおすすめしているのをみて予約しました。予約画面や施設紹介、注意事項には何も書いてなかったはずですが、入り口に着いたらドレスコードあり、との看板。真夏ですのでサンダ…」
                   </blockquote>
                 </div>
               </div>

@@ -783,7 +783,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）３０台まで　河川敷のため無舗装路。駐車が不安な方はスタッフにお申し出くださいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★3.71 ／ 部屋 ★3.89 ／ 設備 ★3.7 ／ 風呂 ★4.3 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感動の泉質とオオサンショウウオ探しに夢中地元にもいいお湯がありますが、こんなにいいお湯があるのかと感動でした。湯上がりがローションを使ったかのようにしっとりして、朝風呂も最高に気持ちよかったです!…　2026-10-10 17:05:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感動の泉質とオオサンショウウオ探しに夢中地元にもいいお湯がありますが、こんなにいいお湯があるのかと感動でした。湯上がりがローションを使ったかのようにしっとりして、朝風呂も最高に気持ちよかったです!…」
                   </blockquote>
                 </div>
               </div>
@@ -805,7 +805,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約７０台 市営駐車場を無料で完備</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.14 ／ 部屋 ★4.29 ／ 設備 ★4.22 ／ 風呂 ★4.57 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と美味しい食事、ふかふかの布団に大満足今回初めてつるやさんに宿泊しました檜の露天風呂付きだったので、いつでも入れるし、なんといっても広いので足が伸ばせる!めっちゃ気持ちよかったです!あとご…　2026-10-07 08:07:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と美味しい食事、ふかふかの布団に大満足今回初めてつるやさんに宿泊しました檜の露天風呂付きだったので、いつでも入れるし、なんといっても広いので足が伸ばせる!めっちゃ気持ちよかったです!あとご…」
                   </blockquote>
                 </div>
               </div>
@@ -827,7 +827,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料にてご利用いただけます。ご到着されましたらご案内させていただきます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.18 ／ 部屋 ★4.17 ／ 設備 ★4.17 ／ 風呂 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と露天風呂、美味しい食事に大満足夫婦で宿泊しました。大浴場は思ったより大きく、屋上露天風呂もとても気持ちよく入りました。また部屋のお風呂も景色がよく、ゆっくり入浴することができました。夕食は…　2026-09-21 17:30:12投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=147649&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と露天風呂、美味しい食事に大満足夫婦で宿泊しました。大浴場は思ったより大きく、屋上露天風呂もとても気持ちよく入りました。また部屋のお風呂も景色がよく、ゆっくり入浴することができました。夕食は…」
                   </blockquote>
                 </div>
               </div>
@@ -849,7 +849,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.71 ／ 部屋 ★4.46 ／ 設備 ★4.49 ／ 風呂 ★4.77 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「こじんまりとして温かみを感じるお宿こじんまりとして、あったかさを感じるお宿ですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-10-01 13:41:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「こじんまりとして温かみを感じるお宿こじんまりとして、あったかさを感じるお宿です」
                   </blockquote>
                 </div>
               </div>

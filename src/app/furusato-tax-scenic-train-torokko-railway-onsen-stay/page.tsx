@@ -729,7 +729,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に約70台分有、無料でご利用いただけます。　★お一人様1台でもOKです★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「キジ料理は絶品だが部屋のタバコ臭が気になる漫画「彼女お借りします」第3巻の舞台になったお宿さんです。夕食のキジ料理はとても美味しかったです。特に土瓶蒸しは気に入りました。ただ全体的に量が多…　2026-08-14 19:55:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「キジ料理は絶品だが部屋のタバコ臭が気になる漫画「彼女お借りします」第3巻の舞台になったお宿さんです。夕食のキジ料理はとても美味しかったです。特に土瓶蒸しは気に入りました。ただ全体的に量が多…」
                   </blockquote>
                 </div>
               </div>
@@ -751,7 +751,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り２０台無料　予約不要　※当館までの道は一部、夜間は特に見通しが悪くなります。お気を付けください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観と泉質が抜群ここまで温泉からの景観と泉質が揃っている宿は稀だと思います。また温泉あるあるですが、内湯でお風呂に浸かると、ガラスが曇ってしまって外が良く見えないことがあるのですが、ここは内湯…　2026-08-26 18:52:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景観と泉質が抜群ここまで温泉からの景観と泉質が揃っている宿は稀だと思います。また温泉あるあるですが、内湯でお風呂に浸かると、ガラスが曇ってしまって外が良く見えないことがあるのですが、ここは内湯…」
                   </blockquote>
                 </div>
               </div>
@@ -773,7 +773,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１０台　無料 ※駐車場が満車時は当館より徒歩1分の第二駐車場をご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格が安いが食事が最高ビジネスで桐生に来ており、楽天トラベル経由で申し込みました。建物は古さを感じますが、きれいに清掃しており、空調も単独で好きな温度に設定出来て快適でした。価格が安いのに…　2026-08-29 11:40:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格が安いが食事が最高ビジネスで桐生に来ており、楽天トラベル経由で申し込みました。建物は古さを感じますが、きれいに清掃しており、空調も単独で好きな温度に設定出来て快適でした。価格が安いのに…」
                   </blockquote>
                 </div>
               </div>
@@ -795,7 +795,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「懐かしい雰囲気と美味しい料理、温泉も最高!山の中のこじんまりしたお宿、ロビーの柱時計や各部屋の一輪挿しに飾られた野の花など、懐かしい雰囲気満載でした。お掃除も行き届いていて清潔感もありました。また…　2026-05-28 09:13:14投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=138045&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「懐かしい雰囲気と美味しい料理、温泉も最高!山の中のこじんまりしたお宿、ロビーの柱時計や各部屋の一輪挿しに飾られた野の花など、懐かしい雰囲気満載でした。お掃除も行き届いていて清潔感もありました。また…」
                   </blockquote>
                 </div>
               </div>
@@ -817,7 +817,7 @@ export default function FurusatoFeaturePage() {
                   <p>【絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり過ごさせていただきました各部屋のトイレは和式など多少古さを感じるところもありますが、とても綺麗にしているお宿です。到着してほどなく温泉を利用させていただきましたが、他のお客さんが到着す…　2026-08-13 12:09:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆっくり過ごさせていただきました各部屋のトイレは和式など多少古さを感じるところもありますが、とても綺麗にしているお宿です。到着してほどなく温泉を利用させていただきましたが、他のお客さんが到着す…」
                   </blockquote>
                 </div>
               </div>
@@ -839,7 +839,7 @@ export default function FurusatoFeaturePage() {
                   <p>【絶景ローカル線＆トロッコ列車めぐり温泉宿×ふるさと納】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と温泉が素晴らしく、また必ず伺いたい2回目の宿泊でした。前回は冬でしたので違う季節を楽しみに伺いました。川霧は幻想的で子どももはしゃいでました。食事は朝夕とても美味しくて、温泉はと… 2026-08-29 19:45:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と温泉が素晴らしく、また必ず伺いたい2回目の宿泊でした。前回は冬でしたので違う季節を楽しみに伺いました。川霧は幻想的で子どももはしゃいでました。食事は朝夕とても美味しくて、温泉はと…」
                   </blockquote>
                 </div>
               </div>

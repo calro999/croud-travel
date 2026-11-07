@@ -442,7 +442,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1階にコインパーキングあり。当館には提携している駐車場はございません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.25 ／ 部屋 ★4.1 ／ 設備 ★4.14 ／ 風呂 ★4.21 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で朝食も美味しく大満足部屋も綺麗で朝食も美味しいクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/28283…　2026-10-06 15:17:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で朝食も美味しく大満足部屋も綺麗で朝食も美味しい」
                   </blockquote>
                 </div>
               </div>
@@ -464,7 +464,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>事前に手配できる駐車場はございません。周辺のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.18 ／ 部屋 ★4.05 ／ 設備 ★4.07 ／ 風呂 ★4.02 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ラウンジでドリンクを飲みながら新聞読書夜ラウンジでドリンクバーを利用しながらゆっくり新聞が読めてよかったです。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-10-10 13:21:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ラウンジでドリンクを飲みながら新聞読書夜ラウンジでドリンクバーを利用しながらゆっくり新聞が読めてよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -486,7 +486,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料：立体駐車場1泊￥500</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.98 ／ 部屋 ★4.03 ／ 設備 ★3.94 ／ 風呂 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のおにぎりが美味しくコーヒーも満足朝食のおにぎりがとても美味しかったです。コーヒーのサービスもありました。アメニティがもう少し充実していると更に良かったです。クチコミの詳細はこちら…　2026-10-05 10:33:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のおにぎりが美味しくコーヒーも満足朝食のおにぎりがとても美味しかったです。コーヒーのサービスもありました。アメニティがもう少し充実していると更に良かったです。クチコミの詳細はこちら…」
                   </blockquote>
                 </div>
               </div>
@@ -508,7 +508,7 @@ export default function AutumnBudgetTakasakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル南隣「駅前駐車場」1泊1000円。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.25 ／ 部屋 ★4.11 ／ 設備 ★4.03 ／ 風呂 ★4 ／ 食事 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしぼりと青竹榛名湖マラソン参戦のため前泊。建物自体は古いのだろうがメンテがほぼ行き届いており快適。駅近でイオンからも近くロケーションは最高。独特だったのが、チェックイン時にいただいたおしぼりと部…　2026-10-10 12:44:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしぼりと青竹榛名湖マラソン参戦のため前泊。建物自体は古いのだろうがメンテがほぼ行き届いており快適。駅近でイオンからも近くロケーションは最高。独特だったのが、チェックイン時にいただいたおしぼりと部…」
                   </blockquote>
                 </div>
               </div>

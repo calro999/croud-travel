@@ -315,7 +315,7 @@ export default function MicroTouristHubPage() {
                   <p>【山梨・身延山＆下部温泉：日蓮宗総本山久遠寺しだれ桜・】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…　2026-10-10 21:38:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…」
                   </blockquote>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【有】5台無料／それ以上の場合は近くの空いている場所にお停めください（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供が完食する食事と家族風呂で癒やされる1月に初めて泊まって、2回目の宿泊です。お宿の方もみんな親切です。子どもが旅行に行くとご飯を食べないことがあるけど、ここのお宿のご飯は完食してくれます。味も…　2026-08-29 09:37:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供が完食する食事と家族風呂で癒やされる1月に初めて泊まって、2回目の宿泊です。お宿の方もみんな親切です。子どもが旅行に行くとご飯を食べないことがあるけど、ここのお宿のご飯は完食してくれます。味も…」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>事前にご案内をお送りしますので、メールアドレスをお知らせください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉を楽しむには最適、設備は古め昭和の遺構的なホテル。温泉を楽しむ為ならとても良いです。綺麗や快適さを求めるならオススメしません。他の画像やクチコミの詳細はこちらから　https://…　2026-08-25 08:00:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉を楽しむには最適、設備は古め昭和の遺構的なホテル。温泉を楽しむ為ならとても良いです。綺麗や快適さを求めるならオススメしません。」
                   </blockquote>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.62 ／ 部屋 ★4.49 ／ 設備 ★4.42 ／ 風呂 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のアップグレードと温泉に大満足まずは部屋のアップグレードありがとう御座いました。広くて綺麗な部屋で、より一層ゆっくりできました。宿の方は親切で愛想よく、料理も全て美味しい。源泉かけ流し、飲…　2026-10-10 17:33:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のアップグレードと温泉に大満足まずは部屋のアップグレードありがとう御座いました。広くて綺麗な部屋で、より一層ゆっくりできました。宿の方は親切で愛想よく、料理も全て美味しい。源泉かけ流し、飲…」
                   </blockquote>
                 </div>
               </div>

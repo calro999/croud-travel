@@ -697,7 +697,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：70台（無料）／EV充電器設置</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.52 ／ 部屋 ★4.58 ／ 設備 ★4.52 ／ 風呂 ★4.66 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「幸せな非日常な優雅な時間お食事が朝夕共とっても美味しかったです。夕食の最後に白ごはんか卵かけご飯か選べるのも良いなあと思いました。私達は卵かけご飯の方をいただきましたが卵が新鮮で大満足でし…　2026-10-10 13:35:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「幸せな非日常な優雅な時間お食事が朝夕共とっても美味しかったです。夕食の最後に白ごはんか卵かけご飯か選べるのも良いなあと思いました。私達は卵かけご飯の方をいただきましたが卵が新鮮で大満足でし…」
                   </blockquote>
                 </div>
               </div>
@@ -719,7 +719,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有/無料（8台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2027金比羅さんの旅お盆の時期にもかかわらず息子と2人でリーズナブルに宿泊できました。無料の朝食はごはんはなかったのですがクロワッサンとロールパンはとても美味しく、サラダやソーセージ、スクランブ…　2026-08-13 19:50:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2027金比羅さんの旅お盆の時期にもかかわらず息子と2人でリーズナブルに宿泊できました。無料の朝食はごはんはなかったのですがクロワッサンとロールパンはとても美味しく、サラダやソーセージ、スクランブ…」
                   </blockquote>
                 </div>
               </div>
@@ -741,7 +741,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>40台（有料）・利用時間14時〜翌11時・予約必須・詳細は桜の抄公式HPをご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.49 ／ 部屋 ★4.59 ／ 設備 ★4.51 ／ 風呂 ★4.56 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊。大人も子どもも楽しめる宿1歳と3歳の子どもを連れて、2回目の宿泊でした。部屋はきれいで、窓や客室露天風呂からこんぴらさんを眺められるのがとても良かったです。客室露天風呂なので、子ども…　2026-10-10 16:23:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊。大人も子どもも楽しめる宿1歳と3歳の子どもを連れて、2回目の宿泊でした。部屋はきれいで、窓や客室露天風呂からこんぴらさんを眺められるのがとても良かったです。客室露天風呂なので、子ども…」
                   </blockquote>
                 </div>
               </div>
@@ -763,7 +763,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２１７台　無料　予約不要。マイクロバス、中型、大型バス、トラック等は有料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.23 ／ 部屋 ★4.47 ／ 設備 ★4.38 ／ 風呂 ★4.38 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが料金が2年前の1.5倍に驚きリピーターです。今回も夕朝食付プランで宿泊しました。夕食も朝食もともに美味しく満足しました。ただ、料金が2年前に比べて1.5倍にアップしていて驚きまし…　2026-10-09 16:25:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが料金が2年前の1.5倍に驚きリピーターです。今回も夕朝食付プランで宿泊しました。夕食も朝食もともに美味しく満足しました。ただ、料金が2年前に比べて1.5倍にアップしていて驚きまし…」
                   </blockquote>
                 </div>
               </div>

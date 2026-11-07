@@ -390,7 +390,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】屋外駐車場完備。予約不要。大型車・バスは事前にお知らせください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.59 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.43 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れと愛犬に最適、部屋食と眺望に大満足子供2人(小学生1歳)とワンコ連れの我が家ですが、夕食は部屋食のすき焼きプランを選択したのが良かったです!到着がかなり早かったのですが、平日ということも…　2026-10-03 20:07:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れと愛犬に最適、部屋食と眺望に大満足子供2人(小学生1歳)とワンコ連れの我が家ですが、夕食は部屋食のすき焼きプランを選択したのが良かったです!到着がかなり早かったのですが、平日ということも…」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料7台（ご予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.06 ／ 部屋 ★4.52 ／ 設備 ★4.26 ／ 風呂 ★4.38 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。部屋数は少なく、こじんまりしていて…　2026-09-28 01:01:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。部屋数は少なく、こじんまりしていて…」
                   </blockquote>
                 </div>
               </div>
@@ -434,7 +434,7 @@ export default function Page() {
                   <p>【海から昇る初日の出を客室から望む】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.65 ／ 部屋 ★4.49 ／ 設備 ★4.48 ／ 風呂 ★4.68 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品の伊勢海老と温泉で贅沢なひととき夜ご飯がとても美味しかった。特に伊勢海老は絶品でした。温泉もとても気持ちよく、景色も良い。何もしない贅沢がありました。また行きたいです。クチコミの詳…　2026-09-30 20:25:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品の伊勢海老と温泉で贅沢なひととき夜ご飯がとても美味しかった。特に伊勢海老は絶品でした。温泉もとても気持ちよく、景色も良い。何もしない贅沢がありました。また行きたいです。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>

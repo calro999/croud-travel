@@ -454,7 +454,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体 38台／先着順・予約不可／1泊（14:00〜翌11:00）1,200円（税込）／車高2.05m</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.42 ／ 部屋 ★4.49 ／ 設備 ★4.43 ／ 風呂 ★4.42 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地も部屋もサービスも良く、また利用したい立地もよく、お部屋も綺麗で、サービスも心地良く、満足しています。ぜひまた利用したいです!!クチコミの詳細はこちらから　https://review.t…　2026-10-10 16:13:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地も部屋もサービスも良く、また利用したい立地もよく、お部屋も綺麗で、サービスも心地良く、満足しています。ぜひまた利用したいです!!」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　78台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.04 ／ 部屋 ★3.89 ／ 設備 ★3.81 ／ 風呂 ★4.14 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道後温泉本館に近く、観光に最高の立地10月2日に宿泊いたしました。道後温泉本館にも近く、今回の旅の行程には最高の立地でした。クチコミの詳細はこちらから　https://review.tra…　2026-10-03 22:51:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道後温泉本館に近く、観光に最高の立地10月2日に宿泊いたしました。道後温泉本館にも近く、今回の旅の行程には最高の立地でした。」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1,109台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.51 ／ 部屋 ★4.53 ／ 設備 ★4.6 ／ 風呂 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松山に来るたび利用、サウナでくつろぐ松山に訪問した際は、利用しています。いろんなサウナもあり、くつろげました。駐車場もあり、便利です。また、利用します。クチコミの詳細はこちらから　https:…　2026-10-07 08:24:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松山に来るたび利用、サウナでくつろぐ松山に訪問した際は、利用しています。いろんなサウナもあり、くつろげました。駐車場もあり、便利です。また、利用します。」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■先着順（予約不可）隣接の立体と屋外平面（かなり急な坂の上）約50台。1泊1台に付き800円。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.47 ／ 部屋 ★4.35 ／ 設備 ★4.26 ／ 風呂 ★4.28 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが掃除が行き届きリラックスできたホテルは古いが、掃除が行き届いていて良かったリラックス出来たクチコミの詳細はこちらから　https://review.travel.rakuten…　2026-10-09 09:38:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが掃除が行き届きリラックスできたホテルは古いが、掃除が行き届いていて良かったリラックス出来た」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function MatsuyamaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>伊予鉄市駅西駐車場（レフ松山市駅から徒歩2分）（自走式立体駐車場 / 先着順）1,000円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.57 ／ 部屋 ★4.5 ／ 設備 ★4.46 ／ 風呂 ★4.46 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「みかんジュースとソフトクリームに大満足朝ごはんのみかんジュースのに比べが嬉しい。また『ウエルカムソフトクリーム』は初。普段食べないのにおかわりしちゃった。クチコミの詳細はこちらから　https…　2026-10-01 10:44:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「みかんジュースとソフトクリームに大満足朝ごはんのみかんジュースのに比べが嬉しい。また『ウエルカムソフトクリーム』は初。普段食べないのにおかわりしちゃった。」
                   </blockquote>
                 </div>
               </div>

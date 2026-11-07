@@ -627,7 +627,7 @@ export default function Page() {
                   <p>【日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。お部屋の洗面スペースだけ空調が無かっ…　2026-09-06 08:45:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。お部屋の洗面スペースだけ空調が無かっ…」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（400台）　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天気が曇りで富士山は見えなかったがそれでも部屋からの景色は最高でした、ご飯も非常に美味しかったです、また行きたいと思える良いホテルですクチコミの詳細はこちらから　https://review.tr…　2026-09-02 18:49:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天気が曇りで富士山は見えなかったがそれでも部屋からの景色は最高でした、ご飯も非常に美味しかったです、また行きたいと思える良いホテルです」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　89台分　無料　（先着順）　満車時は有料駐車場のご案内（料金はお客様ご負担となります）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、朝食は少し時間をずらすのがコツ敦賀訪問時は常宿にしています。駅に近く、コンビニやスーパーも徒歩圏内にあり非常に便利な立地です。設備は少し古めですが、清掃はこまめに行われていて清潔感はあ…　2026-08-27 16:28:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、朝食は少し時間をずらすのがコツ敦賀訪問時は常宿にしています。駅に近く、コンビニやスーパーも徒歩圏内にあり非常に便利な立地です。設備は少し古めですが、清掃はこまめに行われていて清潔感はあ…」
                   </blockquote>
                 </div>
               </div>

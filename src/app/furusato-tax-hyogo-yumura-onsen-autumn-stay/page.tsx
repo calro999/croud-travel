@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【兵庫・山陰 湯村温泉「荒湯」の湯けむり紅葉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…　2026-09-19 17:22:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり（約80台）　電気自動車（EV）普通充電器を1台設置（要事前予約・ご宿泊者限定）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「老舗旅館って感じでお部屋に生花をいけて下さったり、仲居さんも親切で素晴らしかったです。夕飯も全部美味しくてお腹いっぱいになりました。朝食もご飯のお供が沢山で良かったです。温泉も堪能しました。少し気にな…　2026-08-18 21:18:10投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19964&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「老舗旅館って感じでお部屋に生花をいけて下さったり、仲居さんも親切で素晴らしかったです。夕飯も全部美味しくてお腹いっぱいになりました。朝食もご飯のお供が沢山で良かったです。温泉も堪能しました。少し気にな…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p>【兵庫・山陰 湯村温泉「荒湯」の湯けむり紅葉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉も食事も接客も素晴らしく大満足初めての湯村温泉でしたが温泉、食事、スタッフさんの対応等、どれもとても素晴らしく大変良かったです。(食事時には女将さんの丁寧なご挨拶もありました!)帰りに気付…　2026-09-19 22:28:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉も食事も接客も素晴らしく大満足初めての湯村温泉でしたが温泉、食事、スタッフさんの対応等、どれもとても素晴らしく大変良かったです。(食事時には女将さんの丁寧なご挨拶もありました!)帰りに気付…」
                   </blockquote>
                 </div>
               </div>

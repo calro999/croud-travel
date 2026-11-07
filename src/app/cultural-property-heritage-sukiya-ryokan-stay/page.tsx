@@ -387,7 +387,7 @@ export default function Page() {
                   <p>【宮大工の技と歴史が息づく】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/16280?reviewId=331…　2026-10-03 22:25:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p>【宮大工の技と歴史が息づく】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場は少し不便、建物裏手の管理が残念車が少し離れた場所に駐車するため、少し不便さを感じたあまり大きい車両では通れないかもだが、荷物を運び込む為に近くまで行くことはできる(私はTOYOTAヴォ…　2026-08-04 12:14:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場は少し不便、建物裏手の管理が残念車が少し離れた場所に駐車するため、少し不便さを感じたあまり大きい車両では通れないかもだが、荷物を運び込む為に近くまで行くことはできる(私はTOYOTAヴォ…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆約３０台分の無料駐車場あり◆全室Wi－Fi完備◆全室禁煙（喫煙室あり）◆当地で最大湯量の天然温泉</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.55 ／ 部屋 ★4.49 ／ 設備 ★4.29 ／ 風呂 ★4.52 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境とレトロな温泉、食事に課題あり別所温泉の駅から歩ける距離で、温泉街から少し離れていて静かで敷地も広く、趣きと歴史ある建物で、落ち着きます。温泉もステンドグラスのレトロな内装で個性…　2026-10-10 21:02:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境とレトロな温泉、食事に課題あり別所温泉の駅から歩ける距離で、温泉街から少し離れていて静かで敷地も広く、趣きと歴史ある建物で、落ち着きます。温泉もステンドグラスのレトロな内装で個性…」
                   </blockquote>
                 </div>
               </div>

@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.79 ／ 立地 ★3.7 ／ 部屋 ★3.64 ／ 設備 ★3.49 ／ 風呂 ★3.71 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。そして、なんと言っても、部屋にある露天風呂…　2026-10-10 20:57:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。そして、なんと言っても、部屋にある露天風呂…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　28台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.12 ／ 部屋 ★4.37 ／ 設備 ★4.27 ／ 風呂 ★4.27 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「改装され綺麗で、子連れや記念日に最適建物自体は古かっただったが、改装されていてとても綺麗だった子どもが喜ぶようなお宿で赤ちゃんにもサービスがたくさんでとても助かった結婚記念日のサプライ…　2026-10-10 09:09:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「改装され綺麗で、子連れや記念日に最適建物自体は古かっただったが、改装されていてとても綺麗だった子どもが喜ぶようなお宿で赤ちゃんにもサービスがたくさんでとても助かった結婚記念日のサプライ…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p>【足元ふんわり温かい】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.46 ／ 部屋 ★4.35 ／ 設備 ★4.32 ／ 風呂 ★4.59 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も施設も素晴らしく、また利用したい初めての温泉、旅館。大満足でした。家族と一緒に夕食・朝食付きのプランを利用しましたが、また利用したくなるくらい料理も施設も素晴らしかったです。クチコミ…　2026-10-10 17:53:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も施設も素晴らしく、また利用したい初めての温泉、旅館。大満足でした。家族と一緒に夕食・朝食付きのプランを利用しましたが、また利用したくなるくらい料理も施設も素晴らしかったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料100台有り■玄関前以外はバレーサービス■ハイルーフ・マイクロでも安心のアスファルト敷平面</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で料理が最高、また行きたい館内はリニューアルされていて綺麗でした。カーペットが少し汚れていたのと、ガラスが汚れていたのが残念です。料理は最高に美味しかったです。朝、晩御飯とも…　2026-08-19 06:03:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で料理が最高、また行きたい館内はリニューアルされていて綺麗でした。カーペットが少し汚れていたのと、ガラスが汚れていたのが残念です。料理は最高に美味しかったです。朝、晩御飯とも…」
                   </blockquote>
                 </div>
               </div>

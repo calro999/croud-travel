@@ -511,7 +511,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.09 ／ 部屋 ★4.46 ／ 設備 ★4.22 ／ 風呂 ★4.3 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事とお酒に満足、従業員の対応も良いお食事が美味しく、銘柄は限られますがお酒も飲み放題でとても満足しました。お風呂もチェックインから朝9時までいつでも入れて良かったです。設備は少し古いところも…　2026-10-04 17:13:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事とお酒に満足、従業員の対応も良いお食事が美味しく、銘柄は限られますがお酒も飲み放題でとても満足しました。お風呂もチェックインから朝9時までいつでも入れて良かったです。設備は少し古いところも…」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂は最高だが夕食のタレが辛すぎた夕食のしゃぶしゃぶのタレがゴマだれとポン酢だったのですが、どちらも辛すぎて何もつけずに食べたほうがよかったです。部屋付き露天風呂はとても気持ちよくて良かっ…　2026-08-28 20:05:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂は最高だが夕食のタレが辛すぎた夕食のしゃぶしゃぶのタレがゴマだれとポン酢だったのですが、どちらも辛すぎて何もつけずに食べたほうがよかったです。部屋付き露天風呂はとても気持ちよくて良かっ…」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　屋外駐車場　約100台（宿泊者無料／予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は最高だが清掃面が残念送迎の方、フロントの方は大変親切にご対応くださいました。夕食のお料理は大変美味しくいただきました。大満足でお酒が進みました。建物の経年はありましたが(お部屋も)、そ…　2026-08-28 12:30:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は最高だが清掃面が残念送迎の方、フロントの方は大変親切にご対応くださいました。夕食のお料理は大変美味しくいただきました。大満足でお酒が進みました。建物の経年はありましたが(お部屋も)、そ…」
                   </blockquote>
                 </div>
               </div>

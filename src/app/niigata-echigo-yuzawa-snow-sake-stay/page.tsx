@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>第1～第4駐車場まで82台駐車可能　（無料・予約不要）。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは豪華だが大浴場が暑すぎる朝夕のバイキングの食事がとても豪華でした!種類もとても多く、大満足です。大浴場の洗い場が、大浴場で今までに経験したことのないくらいの暑さで、大浴場自体がサウ…　2026-08-21 06:34:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは豪華だが大浴場が暑すぎる朝夕のバイキングの食事がとても豪華でした!種類もとても多く、大満足です。大浴場の洗い場が、大浴場で今までに経験したことのないくらいの暑さで、大浴場自体がサウ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有3,800台　★12月より駐車場有料（宿泊者：1泊につき1,000円）（越後湯沢駅より送迎バス有）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「楽しかったよ!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/30694?reviewId=33123479198169　2026-08-29 21:02:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「楽しかったよ!」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.02 ／ 部屋 ★4.09 ／ 設備 ★3.94 ／ 風呂 ★4.21 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…　2026-10-10 22:25:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　冬期は関越道のチェーン規制がございます。予めご注意ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.3 ／ 部屋 ★4.36 ／ 設備 ★4.22 ／ 風呂 ★4.56 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、記念日のワインも嬉しかったとても、落ち着いて宿泊させて頂きました。が、自分達は2階の部屋で下の階でバタバタと走る足音が夕方や朝方に多く気になりました。食事は十分な量で満足です。結婚記念…　2026-10-07 17:45:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、記念日のワインも嬉しかったとても、落ち着いて宿泊させて頂きました。が、自分達は2階の部屋で下の階でバタバタと走る足音が夕方や朝方に多く気になりました。食事は十分な量で満足です。結婚記念…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフ全員の接客が素晴らしく大満足初めて利用させていただきました。宿泊先を検討している段階で他にも候補があり、悩みながらも、少し予算オーバーでしたが、口コミも良かったので、こちらに決めましたが、…　2026-08-22 11:37:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフ全員の接客が素晴らしく大満足初めて利用させていただきました。宿泊先を検討している段階で他にも候補があり、悩みながらも、少し予算オーバーでしたが、口コミも良かったので、こちらに決めましたが、…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　※鍵をフロントでお預かり致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.57 ／ 部屋 ★4.52 ／ 設備 ★4.53 ／ 風呂 ★4.61 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付き客室で最高の贅沢を堪能奮発して露天風呂付きのお部屋にしてみました。いままで行った旅館の中でいちばん満足度が高かったです。部屋についてる露天風呂って、多少ぬるいのはしょうがないのかなと思…　2026-10-09 20:37:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付き客室で最高の贅沢を堪能奮発して露天風呂付きのお部屋にしてみました。いままで行った旅館の中でいちばん満足度が高かったです。部屋についてる露天風呂って、多少ぬるいのはしょうがないのかなと思…」
                   </blockquote>
                 </div>
               </div>

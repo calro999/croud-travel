@@ -597,7 +597,7 @@ export default function FeatureDetailPage() {
                   <p>【天然クレイで全身つるつる美肌】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.59 ／ 部屋 ★4.67 ／ 設備 ★4.53 ／ 風呂 ★4.82 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘湯感あふれる露天風呂と美味しい食事に感動泥湯の露天風呂はすすきが風になびいて、鳥の鳴き声の中、ゆっくり癒されて最高の時間でした!静けさ、秘湯感素晴らしい!宿も非常に清潔で古いものも磨き上…　2026-09-30 15:57:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘湯感あふれる露天風呂と美味しい食事に感動泥湯の露天風呂はすすきが風になびいて、鳥の鳴き声の中、ゆっくり癒されて最高の時間でした!静けさ、秘湯感素晴らしい!宿も非常に清潔で古いものも磨き上…」
                   </blockquote>
                 </div>
               </div>
@@ -619,7 +619,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.22 ／ 部屋 ★3.9 ／ 設備 ★3.96 ／ 風呂 ★4.38 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野菜たっぷりの鍋と肌がすべすべになる温泉お鍋が野菜たっぷりで美味しかったです。しめにご飯を入れて溶き卵で雑炊にして食べました。出汁の旨味が絡んて美味しかったです。温泉もどろ湯がとても肌…　2026-09-25 13:52:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野菜たっぷりの鍋と肌がすべすべになる温泉お鍋が野菜たっぷりで美味しかったです。しめにご飯を入れて溶き卵で雑炊にして食べました。出汁の旨味が絡んて美味しかったです。温泉もどろ湯がとても肌…」
                   </blockquote>
                 </div>
               </div>
@@ -641,7 +641,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り / 200台 / 宿泊者無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.1 ／ 部屋 ★4 ／ 設備 ★3.73 ／ 風呂 ★4.1 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華なバイキングと秘湯のような露天風呂夕飯はバスで送迎してくれます。バイキングの内容が豪華でとても良かったです。朝食はホテル内でしたが、こちらも内容満足でよかったです。お風呂は露天風呂が階…　2026-09-30 23:42:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華なバイキングと秘湯のような露天風呂夕飯はバスで送迎してくれます。バイキングの内容が豪華でとても良かったです。朝食はホテル内でしたが、こちらも内容満足でよかったです。お風呂は露天風呂が階…」
                   </blockquote>
                 </div>
               </div>

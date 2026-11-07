@@ -413,7 +413,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>バレーパーキング　6,500円（税込み／泊／24時間）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本橋の絶景と細やかな気遣いに大満足妻の誕生日に利用しました。日本橋というロケーションと高層階からの視界は最高です。ディナーで利用したレストラン、バー、スパ、皆気遣いが行き届いていました。…　2026-08-24 10:05:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本橋の絶景と細やかな気遣いに大満足妻の誕生日に利用しました。日本橋というロケーションと高層階からの視界は最高です。ディナーで利用したレストラン、バー、スパ、皆気遣いが行き届いていました。…」
                   </blockquote>
                 </div>
               </div>
@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順　★ただし万一満車の場合、駐車の事は必ず責任持って対応いたします★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夏休みに13泊しましたが、他のホテルに比べて金額がちょっと高めだったかなぁと思います由緒あるホテルで内装やお風呂も素敵だったので、しょうがないのかなぁとは思いますが食事の金額もかなり上げないと、そ…　2026-08-29 21:29:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夏休みに13泊しましたが、他のホテルに比べて金額がちょっと高めだったかなぁと思います由緒あるホテルで内装やお風呂も素敵だったので、しょうがないのかなぁとは思いますが食事の金額もかなり上げないと、そ…」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台/無料　先着順　（長崎駅より、無料送迎バスあり）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/15449?reviewId=33123479206188　2026-08-30 17:56:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>

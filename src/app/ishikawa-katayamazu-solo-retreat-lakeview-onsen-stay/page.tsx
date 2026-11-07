@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>250台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.52 ／ 部屋 ★4.46 ／ 設備 ★4.32 ／ 風呂 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「優しい味付けの食事と絶景の風呂に癒やされる食事の味付けが薄目で優しく、とても美味しかったと思います。風呂からの景色もよく、気持ち良い時間を過ごすことができました。クチコミの詳細はこちらから…　2026-10-10 21:57:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「優しい味付けの食事と絶景の風呂に癒やされる食事の味付けが薄目で優しく、とても美味しかったと思います。風呂からの景色もよく、気持ち良い時間を過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.13 ／ 部屋 ★4.11 ／ 設備 ★3.94 ／ 風呂 ★4.16 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉に大満足、また利用したい食事は色々な料理も大変美味しくいただきました温泉も大満足でした露天風呂の眺望が有ればもっと良いかな機会が有ればまた利用したいですクチコミの詳細はこ…　2026-10-08 10:31:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉に大満足、また利用したい食事は色々な料理も大変美味しくいただきました温泉も大満足でした露天風呂の眺望が有ればもっと良いかな機会が有ればまた利用したいですクチコミの詳細はこ…」
                   </blockquote>
                 </div>
               </div>
@@ -574,7 +574,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（45台）　料金1500円(1泊15:00～翌11:00)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋とライブキッチンの朝食歴史があるホテルですが、お部屋も清潔感があり快適に過ごせました。朝食もライブキッチンがあり、できたてのオムレツが食べれたり内容も充分でした。駅近でとても便…　2026-08-26 13:37:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋とライブキッチンの朝食歴史があるホテルですが、お部屋も清潔感があり快適に過ごせました。朝食もライブキッチンがあり、できたてのオムレツが食べれたり内容も充分でした。駅近でとても便…」
                   </blockquote>
                 </div>
               </div>
@@ -596,7 +596,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平地駐車場（7台）がホテル裏手にございます。1泊1,000円で先着順でございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食付きで格安、駅前でチェックアウトも遅め朝食もついて、めっちゃお安く泊まれました。駅前で場所も分かりやすく、チェックアウトが11時なのも良かったです。金沢に行く際は、泊まりたいホテルです…　2026-08-25 07:34:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食付きで格安、駅前でチェックアウトも遅め朝食もついて、めっちゃお安く泊まれました。駅前で場所も分かりやすく、チェックアウトが11時なのも良かったです。金沢に行く際は、泊まりたいホテルです…」
                   </blockquote>
                 </div>
               </div>
@@ -618,7 +618,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>78台 1泊/1,300円【車高1.9ｍ　先着順・予約不可】提携P：立体1,500台 1泊/800円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.22 ／ 部屋 ★4.03 ／ 設備 ★4.04 ／ 風呂 ★4.13 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの接客も丁寧でお部屋も清潔感があってよかったのですがベッドのマットレスが柔らか過ぎて私には、少し寝ずらかったです。その他は、大満足でした。クチコミの詳細はこちらから　htt…　2026-10-10 23:00:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの接客も丁寧でお部屋も清潔感があってよかったのですがベッドのマットレスが柔らか過ぎて私には、少し寝ずらかったです。その他は、大満足でした。」
                   </blockquote>
                 </div>
               </div>

@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り45台無料(先着順･予約不可）満車になれば近くの有料駐車場を利用頂き、代金はお支払い致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.14 ／ 部屋 ★4.08 ／ 設備 ★3.94 ／ 風呂 ★4.08 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の質とスタッフの親切な対応に感激朝ごはん何無料ってことで期待してなかったのですが、思いの外良くて、更にスタッフのおばちゃんが親切で声掛けも抜群で朝から素敵なスタートでしたクチコミの詳細はこ…　2026-10-10 22:31:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の質とスタッフの親切な対応に感激朝ごはん何無料ってことで期待してなかったのですが、思いの外良くて、更にスタッフのおばちゃんが親切で声掛けも抜群で朝から素敵なスタートでしたクチコミの詳細はこ…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/153182?reviewId=33123479368244　2026-09-13 16:19:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>出し入れ自由の平面駐車場８０台・予約なし(大型車は駐車料金１泊５００円）普通車無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅からの距離が遠く、設備も古く不便1棟買いなのか、古いホテルだったし、松阪って駅前にホテルなく、全部離れてて不便!クチコミの詳細はこちらから　https://review.travel.rak…　2026-09-09 18:44:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅からの距離が遠く、設備も古く不便1棟買いなのか、古いホテルだったし、松阪って駅前にホテルなく、全部離れてて不便!」
                   </blockquote>
                 </div>
               </div>

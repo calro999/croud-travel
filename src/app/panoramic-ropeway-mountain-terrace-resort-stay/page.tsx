@@ -333,7 +333,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と食事に満足、目の前の海で海水浴を満喫部屋も食事も満足でした。ホテルの目の前ですぐ泳げるのも最高。日の出時間を教えてもらって早起きしたのに雲で見えなかったのは残念でした。クチコミの詳細はこ…　2026-08-20 18:52:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と食事に満足、目の前の海で海水浴を満喫部屋も食事も満足でした。ホテルの目の前ですぐ泳げるのも最高。日の出時間を教えてもらって早起きしたのに雲で見えなかったのは残念でした。クチコミの詳細はこ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function RailwayActivityHubPage() {
                   <p>【絶景ロープウェイ＆山頂テラス宿：びわ湖バレイ・蔵王・】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…　2026-08-15 21:48:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　コンビニまで徒歩5分　 湯田中駅徒歩3分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「居酒屋がすぐ近くにあり立地は最高2年続けて宿泊しましたが昨年度の部屋の方が良かった。出てすぐの場所に居酒屋があるのは最高ですクチコミの詳細はこちらから　https://review.trave…　2026-08-25 06:07:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「居酒屋がすぐ近くにあり立地は最高2年続けて宿泊しましたが昨年度の部屋の方が良かった。出てすぐの場所に居酒屋があるのは最高です」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>旅館前にあり事前予約は必要ございません。バイクの駐車も可能。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフさんり夕食の際に椎茸を網で焼くって言うのがありました。珍しいなどで塩をつけてました。親切なスタッフさんの説明がちゃ?おしてあかたよクチコミの詳細はこちらから　https://…　2026-08-24 18:20:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフさんり夕食の際に椎茸を網で焼くって言うのがありました。珍しいなどで塩をつけてました。親切なスタッフさんの説明がちゃ?おしてあかたよ」
                   </blockquote>
                 </div>
               </div>

@@ -600,7 +600,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいていますクチコミの詳細…　2026-08-22 14:54:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいていますクチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -622,7 +622,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊3300円 2泊4700円 3泊以上6100円  到着日0時〜出発日14時まで／超過は別料金</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.45 ／ 部屋 ★4.53 ／ 設備 ★4.42 ／ 風呂 ★4.42 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のお風呂が大きく、また利用したい1部屋4人(子供1人含む)で宿泊しました。部屋にあったお風呂は大きめでよかったです。女性用の化粧水乳液は問い合わせないと頂けない仕様になっていました。…　2026-10-10 23:28:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のお風呂が大きく、また利用したい1部屋4人(子供1人含む)で宿泊しました。部屋にあったお風呂は大きめでよかったです。女性用の化粧水乳液は問い合わせないと頂けない仕様になっていました。…」
                   </blockquote>
                 </div>
               </div>
@@ -644,7 +644,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り。宿泊者一泊￥2,100（税金込） 予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.92 ／ 立地 ★4.88 ／ 部屋 ★4.83 ／ 設備 ★4.83 ／ 風呂 ★4.77 ／ 食事 ★4.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食ブッフェの雰囲気と接客が最高!朝食ブッフェの雰囲気が良くて、気持ちよく1日をスタート出来ました!接客・サービスもとても良かったです。是非また利用したいです。クチコミの詳細はこちらから　ht…　2026-10-05 21:31:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食ブッフェの雰囲気と接客が最高!朝食ブッフェの雰囲気が良くて、気持ちよく1日をスタート出来ました!接客・サービスもとても良かったです。是非また利用したいです。」
                   </blockquote>
                 </div>
               </div>
@@ -666,7 +666,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　177台　3000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日記念誕生日記念でクラブラウンジにアクセスできるお部屋に泊まりました。リバービューでしたがスカイツリーが見えて夜景がとても綺麗でした。ラウンジでチェックイン後シャンパンとアフタヌーンティーを出…　2026-08-29 19:11:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日記念誕生日記念でクラブラウンジにアクセスできるお部屋に泊まりました。リバービューでしたがスカイツリーが見えて夜景がとても綺麗でした。ラウンジでチェックイン後シャンパンとアフタヌーンティーを出…」
                   </blockquote>
                 </div>
               </div>
@@ -688,7 +688,7 @@ export default function TokyoBirthdaySurpriseHotelPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場有　75台　有料（予約不可／先着順）※満車時は近隣駐車場となります</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.66 ／ 部屋 ★4.62 ／ 設備 ★4.61 ／ 風呂 ★4.65 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と大浴場が最高でリピート確実朝食は、海鮮丼から洋食、デザートまで充実!ここまで充実した朝食はなかなか無いと思いました。強いてあげるとドリンクは、ファミレスのドリンクバーと同レベル。大浴場は…　2026-10-01 00:13:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と大浴場が最高でリピート確実朝食は、海鮮丼から洋食、デザートまで充実!ここまで充実した朝食はなかなか無いと思いました。強いてあげるとドリンクは、ファミレスのドリンクバーと同レベル。大浴場は…」
                   </blockquote>
                 </div>
               </div>

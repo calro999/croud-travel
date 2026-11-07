@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.86 ／ 部屋 ★4.16 ／ 設備 ★4.09 ／ 風呂 ★3.97 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で朝食も混雑なく快適綺麗なホテルでした朝食も混んでなく、ゆっくり食べることができましたクチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-10-04 20:54:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で朝食も混雑なく快適綺麗なホテルでした朝食も混んでなく、ゆっくり食べることができました」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>５６台（立体駐車場）　　　５００円/泊　　先着順　　高さ制限あり（2ｍまで）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.04 ／ 部屋 ★4.08 ／ 設備 ★3.96 ／ 風呂 ★3.96 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と清潔な部屋でぐっすり快眠周囲の騒音が全く気にならなかったので静かに過ごせました。部屋の嫌な臭いもなく清潔感が感じられたので良く眠れました。朝食会場は狭かったですが部屋で食べたい…　2026-10-05 22:57:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と清潔な部屋でぐっすり快眠周囲の騒音が全く気にならなかったので静かに過ごせました。部屋の嫌な臭いもなく清潔感が感じられたので良く眠れました。朝食会場は狭かったですが部屋で食べたい…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　1,000円（税込み／泊）　先着順　※提携駐車場も有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.96 ／ 部屋 ★3.9 ／ 設備 ★3.86 ／ 風呂 ★3.83 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届き、喫煙室があるのはありがたい清掃が行き届いて良かった!喫煙が肩身が狭くなってご時世に喫煙室はホントにありがたいです!クチコミの詳細はこちらから　https://review.…　2026-10-03 22:49:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届き、喫煙室があるのはありがたい清掃が行き届いて良かった!喫煙が肩身が狭くなってご時世に喫煙室はホントにありがたいです!」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.2 ／ 部屋 ★4.33 ／ 設備 ★4.25 ／ 風呂 ★4.3 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「上品で丁寧な接客に感動、部屋も広く清潔普段はビジネスホテルに宿泊していますが、たまたま空きがあったので初めて宿泊しました。結婚式も出来るホテルのようで、従業員の方の対応がビジネスホテルとは全く…　2026-10-10 11:28:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「上品で丁寧な接客に感動、部屋も広く清潔普段はビジネスホテルに宿泊していますが、たまたま空きがあったので初めて宿泊しました。結婚式も出来るホテルのようで、従業員の方の対応がビジネスホテルとは全く…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車200台　 550円（税込/泊）　/　大型車（バス･トラック）は事前にホテルへご確認下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.75 ／ 立地 ★3.66 ／ 部屋 ★3.59 ／ 設備 ★3.54 ／ 風呂 ★3.5 ／ 食事 ★3.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古くセキュリティや操作性に難あり設備が古過ぎですね。福岡市の繁華街に位置してるので、もう少しセキュリティ対策をして欲しいですね。エアコンのリモコンや目覚まし時計の表示が全く分かりませんでした…　2026-10-10 17:50:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古くセキュリティや操作性に難あり設備が古過ぎですね。福岡市の繁華街に位置してるので、もう少しセキュリティ対策をして欲しいですね。エアコンのリモコンや目覚まし時計の表示が全く分かりませんでした…」
                   </blockquote>
                 </div>
               </div>

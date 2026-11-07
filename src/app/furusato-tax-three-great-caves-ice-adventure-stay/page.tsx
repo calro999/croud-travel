@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／400台・無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.48 ／ 部屋 ★4.42 ／ 設備 ★4.38 ／ 風呂 ★4.55 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフが親切で清掃も行き届き大満足また絶対来たい!スタッフの方はみなさんとても親切で、清掃が行き届いてて気持ちよく過ごせました。那覇に4泊予定でしたがギリギリで2泊こちらに変更して大正解。あ…　2026-10-10 11:13:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフが親切で清掃も行き届き大満足また絶対来たい!スタッフの方はみなさんとても親切で、清掃が行き届いてて気持ちよく過ごせました。那覇に4泊予定でしたがギリギリで2泊こちらに変更して大正解。あ…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングと別館の大浴場が良かった施設は古いようです。リフォームされてて、外観と館内と部屋も綺麗でした。部屋には新しいエアコンがあり、暑い島ですが快適に過ごせました。別館のサウナ付き大浴場が良…　2026-08-25 22:15:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングと別館の大浴場が良かった施設は古いようです。リフォームされてて、外観と館内と部屋も綺麗でした。部屋には新しいエアコンがあり、暑い島ですが快適に過ごせました。別館のサウナ付き大浴場が良…」
                   </blockquote>
                 </div>
               </div>

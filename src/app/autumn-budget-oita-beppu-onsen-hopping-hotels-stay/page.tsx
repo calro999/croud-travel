@@ -454,7 +454,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.4 ／ 部屋 ★4.3 ／ 設備 ★4.07 ／ 風呂 ★4.2 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋付き温泉と豪華な食事に大満足泊まった部屋は温泉がついているタイプのお部屋でした。部屋の温泉は誰にも邪魔されることなく朝焼けがとても綺麗でかなりリラックスできました。食事の方も結構食べるほうなの…　2026-09-29 23:19:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋付き温泉と豪華な食事に大満足泊まった部屋は温泉がついているタイプのお部屋でした。部屋の温泉は誰にも邪魔されることなく朝焼けがとても綺麗でかなりリラックスできました。食事の方も結構食べるほうなの…」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古めだが温泉と朝食は十分満足施設は少し古めですが、温泉、朝食とも十分楽しめました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-08-21 13:05:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古めだが温泉と朝食は十分満足施設は少し古めですが、温泉、朝食とも十分楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用ならびに契約駐車場有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.17 ／ 部屋 ★4.03 ／ 設備 ★3.92 ／ 風呂 ★4.18 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、同期会や帰省の拠点に最適同期会で田舎に帰り、親せきに会い駅近くにと思いお世話になりました。何もかもがよく満足のいくホテルでした。なかなか田舎に帰っても皆年齢が上り実家に泊まるのも気兼ね…　2026-10-08 16:52:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、同期会や帰省の拠点に最適同期会で田舎に帰り、親せきに会い駅近くにと思いお世話になりました。何もかもがよく満足のいくホテルでした。なかなか田舎に帰っても皆年齢が上り実家に泊まるのも気兼ね…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：普通車34台、軽自動車2台 駐車可能　※無料　ご予約は不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.24 ／ 部屋 ★4.29 ／ 設備 ★4.06 ／ 風呂 ★4.27 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も広く清潔で、安心して過ごせた部屋も広く、お風呂やトイレはとても綺麗で安心して過ごすことができました!クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-09-24 20:29:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も広く清潔で、安心して過ごせた部屋も広く、お風呂やトイレはとても綺麗で安心して過ごすことができました!」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function BeppuBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（500円／泊）予約不可・先着順。※トキハ駐車場は途中出庫不可・チェックイン時に駐車券を要提示</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧と赤ちゃん連れに優しい環境で大満足温泉好きな夫の誕生日に、夫婦と赤ちゃんの3人で宿泊しました。館内に2箇所温泉があり、朝と夕で男女入れ替えで2箇所とも楽しめたのに加えて、徒歩圏内の姉妹…　2026-08-17 07:33:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧と赤ちゃん連れに優しい環境で大満足温泉好きな夫の誕生日に、夫婦と赤ちゃんの3人で宿泊しました。館内に2箇所温泉があり、朝と夕で男女入れ替えで2箇所とも楽しめたのに加えて、徒歩圏内の姉妹…」
                   </blockquote>
                 </div>
               </div>

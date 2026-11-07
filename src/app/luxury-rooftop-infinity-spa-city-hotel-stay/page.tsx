@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料(一部プランにより有料もあり)　バイク専用屋根付き駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.38 ／ 部屋 ★4.39 ／ 設備 ★4.35 ／ 風呂 ★4.49 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「仲居さんの笑顔と日本語対応、料理も絶品仲居さんの対応が良い外国人の仲居さんもおられるが日本語も上手で笑顔で対応してくれます。料理がおいしかったクチコミの詳細はこちらから　https:/…　2026-10-05 21:19:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「仲居さんの笑顔と日本語対応、料理も絶品仲居さんの対応が良い外国人の仲居さんもおられるが日本語も上手で笑顔で対応してくれます。料理がおいしかった」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　42台　1,500円（税込み／泊）　先着順　※高さ制限有（175センチ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、また行きたい!沖縄では珍しい温泉に、プールとバーよかったです。夏休み時期のせいか2階のプールはお子さま向けな雰囲気でした。海近く、プールもあるのでランドリースペース拡大してくれ…　2026-08-18 20:01:37投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=178447&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、また行きたい!沖縄では珍しい温泉に、プールとバーよかったです。夏休み時期のせいか2階のプールはお子さま向けな雰囲気でした。海近く、プールもあるのでランドリースペース拡大してくれ…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…　2026-09-19 15:26:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、部屋も広くて清潔料理内容がよく、部屋は広く清潔感あるクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-09-18 16:57:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、部屋も広くて清潔料理内容がよく、部屋は広く清潔感ある」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【都会の摩天楼を見下ろすルーフトップ温泉＆夜景インフィ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションも良く駐車場もあり設備もよく値段も安くまた使いたいです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/17…　2026-09-18 15:39:19投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=177866&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションも良く駐車場もあり設備もよく値段も安くまた使いたいです。」
                   </blockquote>
                 </div>
               </div>

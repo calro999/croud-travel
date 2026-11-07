@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　屋内60台　お車、バイクのお客様は旅館の正面までお越し下さい。係がご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と美味しい食事に大満足の旅前日に特別警報が出ていたので行くかギリギリまで悩み、被害状況など宿に確認し、当日伺いましたが行って大正解の宿でした!(お電話で状況を確認した時もとても丁寧に教…　2026-08-29 22:33:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と美味しい食事に大満足の旅前日に特別警報が出ていたので行くかギリギリまで悩み、被害状況など宿に確認し、当日伺いましたが行って大正解の宿でした!(お電話で状況を確認した時もとても丁寧に教…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　300台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と静かな環境で心から落ち着けた露天風呂付きの温泉に入れ、客室や通路も静かで落ち着けました。また利用したいホテルです。クチコミの詳細はこちらから　https://review.tra…　2026-08-13 10:53:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と静かな環境で心から落ち着けた露天風呂付きの温泉に入れ、客室や通路も静かで落ち着けました。また利用したいホテルです。」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場【高岡中央駐車場】屋根付通路でホテル直結！￥800/泊※途中出庫別途料金　車椅子専用P有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントと朝食スタッフの接客が心地よいフロントのスタッフ、朝食時のスタッフの皆さん気持ちの良い接客でしたクチコミの詳細はこちらから　https://review.travel.rakute…　2026-08-28 10:05:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントと朝食スタッフの接客が心地よいフロントのスタッフ、朝食時のスタッフの皆さん気持ちの良い接客でした」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【有】60台/到着順/普通車のみ無料 大型車⇒[要事前電話予約]</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高岡観光に便利、朝食のカレーも絶品高岡駅から大佛さんや高岡古城公園を散策ドラえもんの路面電車にも感激APAホテル近くにはお食事処やスーパーもあり便利朝食には地元食材が登場 氷見うどんも…　2026-08-28 19:12:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高岡観光に便利、朝食のカレーも絶品高岡駅から大佛さんや高岡古城公園を散策ドラえもんの路面電車にも感激APAホテル近くにはお食事処やスーパーもあり便利朝食には地元食材が登場 氷見うどんも…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【富山・氷見＆雨晴海岸・立山連峰：海越しに望む3000】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レビューが入力されていません。内容を教えていただければタイトルを作成します。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-08-11 20:12:06投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=141093&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レビューが入力されていません。内容を教えていただければタイトルを作成します。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り・4０台・無料・先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.67 ／ 部屋 ★4.49 ／ 設備 ★4.4 ／ 風呂 ★4.65 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境でゆっくり過ごせて満足少し、寒く、紅葉がもう少しだった、以外は、団体客や子供の騒々しさはなく、満足です。クチコミの詳細はこちらから　https://review.travel.rak…　2026-10-07 17:41:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境でゆっくり過ごせて満足少し、寒く、紅葉がもう少しだった、以外は、団体客や子供の騒々しさはなく、満足です。」
                   </blockquote>
                 </div>
               </div>

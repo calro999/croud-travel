@@ -390,7 +390,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.26 ／ 部屋 ★4.02 ／ 設備 ★3.98 ／ 風呂 ★4.58 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質は最高だが雨で露天風呂に行けず残念お風呂(泉質)最高~露天風呂が野外の離れたところにあり雨で行けなかったのが残念クチコミの詳細はこちらから　https://review.travel.…　2026-10-10 19:57:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質は最高だが雨で露天風呂に行けず残念お風呂(泉質)最高~露天風呂が野外の離れたところにあり雨で行けなかったのが残念」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１９０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.83 ／ 立地 ★4.01 ／ 部屋 ★3.58 ／ 設備 ★3.53 ／ 風呂 ★4.07 ／ 食事 ★3.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族で入れる温泉とビュッフェに満足異性の家族と一緒に広い温泉に入れるのが魅力で行きました。多少の建物の古さなど気になる部分はありますが、食べ盛りの息子にはありがたいビュッフェスタイルですし、各…　2026-10-10 12:00:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族で入れる温泉とビュッフェに満足異性の家族と一緒に広い温泉に入れるのが魅力で行きました。多少の建物の古さなど気になる部分はありますが、食べ盛りの息子にはありがたいビュッフェスタイルですし、各…」
                   </blockquote>
                 </div>
               </div>
@@ -434,7 +434,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場150台あり。旅館専用駐車場は伊香保小学校の道向かいにあり。専用駐車場から送迎いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.46 ／ 部屋 ★4.39 ／ 設備 ★4.27 ／ 風呂 ★4.49 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理は最高だがスリッパ紛失が残念伊香保温泉は仕事では来た事があったが、泊まった事が無かった為、今回妻と宿泊先を検討し石段沿いの岸権旅館さんにお世話になる事としました。宿は老舗旅館らしく建…　2026-10-10 17:18:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理は最高だがスリッパ紛失が残念伊香保温泉は仕事では来た事があったが、泊まった事が無かった為、今回妻と宿泊先を検討し石段沿いの岸権旅館さんにお世話になる事としました。宿は老舗旅館らしく建…」
                   </blockquote>
                 </div>
               </div>

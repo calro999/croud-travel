@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣のコインパーキングのご案内になります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.92 ／ 部屋 ★3.89 ／ 設備 ★3.73 ／ 風呂 ★3.55 ／ 食事 ★3.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リクエスト以上の配慮で快適に過ごせたいびきがひどいので角部屋をリクエストしました。チェックインするとシングル喫煙がダブルの喫煙室にアップグレードされていて、かつ角部屋でした。リクエストの上…　2026-10-09 20:32:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リクエスト以上の配慮で快適に過ごせたいびきがひどいので角部屋をリクエストしました。チェックインするとシングル喫煙がダブルの喫煙室にアップグレードされていて、かつ角部屋でした。リクエストの上…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着18台500円　満車時は提携駐車場ご案内(条件により)　提携駐車場満車時は近隣コインパーキングへ</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.7 ／ 部屋 ★3.78 ／ 設備 ★3.81 ／ 風呂 ★3.55 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジホでは上位の設備とサービス、朝食も満足安価なビジネスホテルの中では、設備/サービスが上位であると感じた。朝食も美味しく頂いた。↑カレーはアパカレーだったのかな?(普通でした)クチコ…　2026-10-01 16:12:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジホでは上位の設備とサービス、朝食も満足安価なビジネスホテルの中では、設備/サービスが上位であると感じた。朝食も美味しく頂いた。↑カレーはアパカレーだったのかな?(普通でした)…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>78台先着順にて1泊500〜1200円　満車の場合は近隣コインパーキング</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★3.77 ／ 部屋 ★4.14 ／ 設備 ★3.93 ／ 風呂 ★3.88 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの埃が蜘蛛の巣状態で、清掃不足部屋はこ綺麗にはされている...と思ったらエアコン見てびっくり!エアコン上部にかなり立派な埃が蜘蛛の巣状態!!エアコンフィルターなどを掃除…　2026-09-20 00:43:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの埃が蜘蛛の巣状態で、清掃不足部屋はこ綺麗にはされている...と思ったらエアコン見てびっくり!エアコン上部にかなり立派な埃が蜘蛛の巣状態!!エアコンフィルターなどを掃除…」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内駐車場　4台　先着順　1泊（14時〜翌11時）800円（時間外100円/1時間）　※車種制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.31 ／ 部屋 ★4.45 ／ 設備 ★4.37 ／ 風呂 ★4.27 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、本棚のセレクトもセンス抜群駅から近く、客室もカフェスペースも快適でした。また書架スペースの本のセレクトがセンスよく気に入りました。チェックイン前にも利用できる施錠ロッカーがあり…　2026-10-06 23:03:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、本棚のセレクトもセンス抜群駅から近く、客室もカフェスペースも快適でした。また書架スペースの本のセレクトがセンスよく気に入りました。チェックイン前にも利用できる施錠ロッカーがあり…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場〜先着順、2021/12/31日まで1泊500円〜2022/1/1日より1泊800円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.57 ／ 立地 ★3.84 ／ 部屋 ★3.64 ／ 設備 ★3.59 ／ 風呂 ★3.53 ／ 食事 ★3.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で静かな環境、朝食も満足のクオリティ駅からも近いが、静かなところで良かった。朝食もしっかり食べる事ができた。他の地域ても、また利用したい。クチコミの詳細はこちらから　https:/…　2026-10-01 09:34:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で静かな環境、朝食も満足のクオリティ駅からも近いが、静かなところで良かった。朝食もしっかり食べる事ができた。他の地域ても、また利用したい。」
                   </blockquote>
                 </div>
               </div>

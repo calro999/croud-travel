@@ -324,7 +324,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.87 ／ 立地 ★4.78 ／ 部屋 ★4.83 ／ 設備 ★4.78 ／ 風呂 ★4.74 ／ 食事 ★4.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大満足の誕生日彼の誕生日で宿泊しました。彼が、今までで一番かもと、とっても喜んでくれました。清掃が行き届いていたり、スタッフさんの心遣いだったり、その他諸々が本当に良すぎました。食事は…　2026-10-10 00:00:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大満足の誕生日彼の誕生日で宿泊しました。彼が、今までで一番かもと、とっても喜んでくれました。清掃が行き届いていたり、スタッフさんの心遣いだったり、その他諸々が本当に良すぎました。食事は…」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.42 ／ 部屋 ★4.45 ／ 設備 ★4.44 ／ 風呂 ★4.55 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂に感動しましたお風呂がとにかく大きく、ホテル滞在だけでもとても楽しめました!ブッフェも種類が豊富でどれも美味しくいただけました!クチコミの詳細はこちらから　https://rev…　2026-10-10 19:02:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂に感動しましたお風呂がとにかく大きく、ホテル滞在だけでもとても楽しめました!ブッフェも種類が豊富でどれも美味しくいただけました!」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６４台（敷地内２０台・第２駐車場４４台）　無料　予約不要（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「グランティアに期待外れ、割高感が残る釧網線の鉄旅で利用しました。前日に北見のフツーのルートインに宿泊しました。温泉大浴場もあり、とてもいいホテルでした。翌日に斜里のルートインに宿泊したので…　2026-08-27 18:15:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「グランティアに期待外れ、割高感が残る釧網線の鉄旅で利用しました。前日に北見のフツーのルートインに宿泊しました。温泉大浴場もあり、とてもいいホテルでした。翌日に斜里のルートインに宿泊したので…」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「酸性の温泉が素晴らしく、食事も大満足!体験したことのない酸性の素晴らしい温泉でした。ビュッフェのクオリティも高く、地元の牛乳を使ったプリンやアイスなど大変美味しかったです!クチコミの詳細はこち…　2026-08-22 18:37:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「酸性の温泉が素晴らしく、食事も大満足!体験したことのない酸性の素晴らしい温泉でした。ビュッフェのクオリティも高く、地元の牛乳を使ったプリンやアイスなど大変美味しかったです!クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>

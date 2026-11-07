@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.29 ／ 部屋 ★4.24 ／ 設備 ★4.25 ／ 風呂 ★4.74 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事大満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13417?reviewId=3312347953999…　2026-09-27 16:31:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事大満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約70台 無料 先着順（一区画内に収まらない車両の駐車は、ご遠慮いただいております）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「身体に染み渡るほど最高な温泉でしたお風呂が私の身体に染み込むくらい良かったです!朝食はビュッフェスタイルで満足ですが、席が少ないのと、エレベーターが一つなので混み合う時間帯は大変です!クチコミ…　2026-08-18 15:46:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「身体に染み渡るほど最高な温泉でしたお風呂が私の身体に染み込むくらい良かったです!朝食はビュッフェスタイルで満足ですが、席が少ないのと、エレベーターが一つなので混み合う時間帯は大変です!…」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>母屋向かい・隣に宿泊者様専用の無料駐車場がございます。 （ご予約不要・13台分のスペースあり）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「売店や設備、食事内容の改善を希望とても良いのだけど、もう少し売店を充実してほしいのと、あとは、仕方ないとはいえ虫が多かった。あとは2人別々に物書きをする机がちょっと欲しいと思いました。いろ…　2026-08-11 16:00:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「売店や設備、食事内容の改善を希望とても良いのだけど、もう少し売店を充実してほしいのと、あとは、仕方ないとはいえ虫が多かった。あとは2人別々に物書きをする机がちょっと欲しいと思いました。いろ…」
                   </blockquote>
                 </div>
               </div>

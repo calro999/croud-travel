@@ -454,7 +454,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>施設内、隣地に合計120台分の無料駐車場有（トラック・バス等の大型車は有料2000円／泊・要予約）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と広い駐車場、目の前のコンビニが便利大浴場と広めの駐車場がある上にLAWSONが目の前にありとても便利でした!!クチコミの詳細はこちらから　https://review.travel.r…　2026-09-14 19:10:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と広い駐車場、目の前のコンビニが便利大浴場と広めの駐車場がある上にLAWSONが目の前にありとても便利でした!!」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場なし　近隣駐車場：市営あちてらす倉敷駐車場（ホテルから徒歩２分）1２時間830円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅からも近く、気持ちよく過ごせました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/182714?reviewId=3…　2026-09-17 17:13:04投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182714&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅からも近く、気持ちよく過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル１Ｆ(フロントは2F)　約20台収容　一泊800~1000円　高さ2.5m迄2t車も可　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★3.95 ／ 部屋 ★4.18 ／ 設備 ★3.99 ／ 風呂 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、床でくつろげる空間が最高岡山に用事があって、前回も泊まらせていただき朝食が記憶に残っていたので今回リピートしました。ベットではなく床でくつろげる空間よかったです。岡山駅から…　2026-10-05 17:38:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、床でくつろげる空間が最高岡山に用事があって、前回も泊まらせていただき朝食が記憶に残っていたので今回リピートしました。ベットではなく床でくつろげる空間よかったです。岡山駅から…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p>【秋の倉敷美観地区×格安：白壁の町並み紅葉と大原美術館】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーション最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/799?reviewId=331234790337…　2026-08-21 07:28:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーション最高でした」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function KurashikiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル地下に有り　171台　24時間1,300円　事前予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.54 ／ 部屋 ★4.46 ／ 設備 ★4.4 ／ 風呂 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2度目の利用も大満足、また必ず来ます2度目の宿泊です。ホスピタリティ、立地、清潔さ全てとても良かったです。また、岡山に行く際は宿泊したいと思いますクチコミの詳細はこちらから　https://r…　2026-10-05 15:54:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2度目の利用も大満足、また必ず来ます2度目の宿泊です。ホスピタリティ、立地、清潔さ全てとても良かったです。また、岡山に行く際は宿泊したいと思います」
                   </blockquote>
                 </div>
               </div>

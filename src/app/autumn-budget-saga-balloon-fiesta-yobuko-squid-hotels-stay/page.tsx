@@ -421,7 +421,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：屋内10台 屋外８０台　無料　予約不要（チェックアウト後も駐車場は無料にて利用可能）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.36 ／ 部屋 ★4.58 ／ 設備 ★4.26 ／ 風呂 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋も接客も素晴らしくケーキも絶品初めて泊まりましたが凄く良いお部屋で快適でした()ホテルの方も接客が素晴らしく一階にあるケーキも美味しかったです。クチコミの詳細はこちらから…　2026-10-04 09:04:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋も接客も素晴らしくケーキも絶品初めて泊まりましたが凄く良いお部屋で快適でした()ホテルの方も接客が素晴らしく一階にあるケーキも美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場20台◆1泊800円・先着順◆入出庫不可◆幅2.0m　長さ5.0m　※大型不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.15 ／ 部屋 ★4.13 ／ 設備 ★4.01 ／ 風呂 ★3.94 ／ 食事 ★4.07</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり朝食も種類豊富で大満足清潔感あり朝食も数品多くとてもおいしかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-10-08 17:56:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり朝食も種類豊富で大満足清潔感あり朝食も数品多くとてもおいしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携有料駐車場（500円/1泊・出し入れ無し）29台先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.02 ／ 部屋 ★4.19 ／ 設備 ★4.05 ／ 風呂 ★3.93 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「予約確認の不備とスタッフの対応に困惑会社の外国人スタッフが宿泊するために予約しました。サイトの設定に沿って姓・名の順で予約を取りましたが、チェックイン時にパスポートの確認をされた際、表記が名・姓の…　2026-10-10 22:12:23投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=104654&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「予約確認の不備とスタッフの対応に困惑会社の外国人スタッフが宿泊するために予約しました。サイトの設定に沿って姓・名の順で予約を取りましたが、チェックイン時にパスポートの確認をされた際、表記が名・姓の…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場25台　1000円/1泊　大型車要予約　マイクロ2000円〜/1泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.98 ／ 設備 ★3.93 ／ 風呂 ★3.82 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウォーターサーバー設置が大変助かるいつも利用しております。ウォーターサパー設置は、大変助かります。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-03 07:40:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウォーターサーバー設置が大変助かるいつも利用しております。ウォーターサパー設置は、大変助かります。」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetSagaHotelsPage() {
                   <p>【佐賀：アジア最大級バルーンフェスタと呼子イカ・佐賀牛】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.26 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★3.99 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。また、フロントのスタッフの方々も非常に丁寧で親切にご対応…　2026-10-10 10:13:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて清潔な部屋と丁寧な接客に大満足素泊まりで利用させていただきました。お部屋は広くて清潔感があり、とても快適に過ごすことができました。また、フロントのスタッフの方々も非常に丁寧で親切にご対応…」
                   </blockquote>
                 </div>
               </div>

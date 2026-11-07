@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…　2026-10-10 21:27:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が夕・朝とも、とても美味しかった。お風呂は夜2回・朝2回入ったがほぼ貸切だった。泉質もトロトロしていて、温度も丁度良かった。他の画像やクチコミの詳細はこちらから　https://revie…　2026-08-26 17:44:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご飯が夕・朝とも、とても美味しかった。お風呂は夜2回・朝2回入ったがほぼ貸切だった。泉質もトロトロしていて、温度も丁度良かった。」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　6台　要予約 　1泊2,000円／台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.04 ／ 部屋 ★3.83 ／ 設備 ★3.54 ／ 風呂 ★3.27 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「八坂神社近くの好立地、丁寧な接客に大満足夫婦て京都旅行中に外国人の夫と共に一泊させていただきました。八坂神社のすぐ近くで祇園の商店街や清水寺からも歩いて行ける距離で立地はとてもいいと思います。建物…　2026-09-06 05:21:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「八坂神社近くの好立地、丁寧な接客に大満足夫婦て京都旅行中に外国人の夫と共に一泊させていただきました。八坂神社のすぐ近くで祇園の商店街や清水寺からも歩いて行ける距離で立地はとてもいいと思います。建物…」
                   </blockquote>
                 </div>
               </div>

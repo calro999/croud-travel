@@ -527,7 +527,7 @@ export default function ArticlePage() {
                   <p>【鳴子温泉ひとり旅・湯めぐりこけしおこもり：日本屈指の】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「滝の湯への好立地と豪華な食事に大満足滝の湯目当て鳴子に宿泊します。坂の上ホテルなのでこちらのホテルは不便かな?とおもつており初めての利用でした。ホテルからエレベーターで1階まで下がれば滝の湯まで直…　2026-08-22 10:33:40投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=106199&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「滝の湯への好立地と豪華な食事に大満足滝の湯目当て鳴子に宿泊します。坂の上ホテルなのでこちらのホテルは不便かな?とおもつており初めての利用でした。ホテルからエレベーターで1階まで下がれば滝の湯まで直…」
                   </blockquote>
                 </div>
               </div>
@@ -549,7 +549,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食が美味しく、オールインクルーシブを満喫「鳴子」へは行ったことがなく、調べたら有名なホテルであるようなので、このホテルに宿泊しました。夕食がとても美味しかったです。飲み物も自由に飲めて、オールイ…　2026-09-05 17:07:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食が美味しく、オールインクルーシブを満喫「鳴子」へは行ったことがなく、調べたら有名なホテルであるようなので、このホテルに宿泊しました。夕食がとても美味しかったです。飲み物も自由に飲めて、オールイ…」
                   </blockquote>
                 </div>
               </div>
@@ -571,7 +571,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル地下2階に駐車場「タイムズSS30」あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.14 ／ 部屋 ★4.13 ／ 設備 ★4.03 ／ 風呂 ★4.02 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観も部屋も最高、スタッフの対応も素晴らしいホテルの外観も部屋も菜香でした。スタッフの対応も素晴らしかった。また行きたいです。クチコミの詳細はこちらから　https://review.tr…　2026-10-06 14:53:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観も部屋も最高、スタッフの対応も素晴らしいホテルの外観も部屋も菜香でした。スタッフの対応も素晴らしかった。また行きたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -593,7 +593,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊1500円／現金精算のみ※予約はお受けしておりません。満車時は契約駐車場をご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な電話対応と便利な立地で大満足直近で急に予約したため心配で電話問い合わせした際に、とても親切で丁寧な対応をしていただき安心して行くことが出来ました。駐車場もすぐ近くてどこに行くにも便利で、家族…　2026-08-21 10:30:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な電話対応と便利な立地で大満足直近で急に予約したため心配で電話問い合わせした際に、とても親切で丁寧な対応をしていただき安心して行くことが出来ました。駐車場もすぐ近くてどこに行くにも便利で、家族…」
                   </blockquote>
                 </div>
               </div>
@@ -615,7 +615,7 @@ export default function ArticlePage() {
                   <p>【鳴子温泉ひとり旅・湯めぐりこけしおこもり：日本屈指の】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…　2026-08-24 12:26:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…」
                   </blockquote>
                 </div>
               </div>

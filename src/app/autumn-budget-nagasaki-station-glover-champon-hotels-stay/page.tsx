@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1日1室限定の駐車場付きプランをご用意しております。◆◇ご予約はお早めに◇◆</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.43 ／ 部屋 ★4.51 ／ 設備 ★4.49 ／ 風呂 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洗濯機と浴室乾燥機が便利、ゆっくり寛げた仕事の出張で利用しました。会社の同僚や先輩から、オススメとのことでしたので利用しました。他のホテルだと洗濯にちょっと悩みますが、洗濯機と浴室乾燥機があっ…　2026-10-02 18:38:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洗濯機と浴室乾燥機が便利、ゆっくり寛げた仕事の出張で利用しました。会社の同僚や先輩から、オススメとのことでしたので利用しました。他のホテルだと洗濯にちょっと悩みますが、洗濯機と浴室乾燥機があっ…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★4.13 ／ 部屋 ★3.98 ／ 設備 ★3.97 ／ 風呂 ★3.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で飲食店も多く、立地が最高に便利立地が最高駅近でコンビニ、吉野家、居酒屋多数有り滞在することに全く困らないクチコミの詳細はこちらから　https://review.travel.rak…　2026-09-07 23:26:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で飲食店も多く、立地が最高に便利立地が最高駅近でコンビニ、吉野家、居酒屋多数有り滞在することに全く困らない」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1階はコインパーキング(普通車3台・小型2台・軽1台)　※管理外ですので空車情報は不明。有料です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.38 ／ 部屋 ★4.4 ／ 設備 ★4.38 ／ 風呂 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長期滞在にも最適、設備が充実して快適ワンルームマンションのようなお部屋でした。キッチン(簡単なフライパンや食器もあり)、洗濯機、独立した洗面台と、洗い場付きのお風呂。快適でした。1泊だと勿…　2026-10-04 15:22:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長期滞在にも最適、設備が充実して快適ワンルームマンションのようなお部屋でした。キッチン(簡単なフライパンや食器もあり)、洗濯機、独立した洗面台と、洗い場付きのお風呂。快適でした。1泊だと勿…」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し。近隣の有料コインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.53 ／ 部屋 ★4.53 ／ 設備 ★4.13 ／ 風呂 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内が不十分でチェックインに苦戦した無人ホテルだが、案内が不十分でチェックインが出来なかったり、無料Wi-Fiの接続方法が分からずに困った。電話で問い合わせてなんとかなったが、遅い時間にチェックイ…　2026-09-24 21:31:52投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=178621&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内が不十分でチェックインに苦戦した無人ホテルだが、案内が不十分でチェックインが出来なかったり、無料Wi-Fiの接続方法が分からずに困った。電話で問い合わせてなんとかなったが、遅い時間にチェックイ…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場なし。周辺有料駐車場の場所をご案内対応となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.12 ／ 部屋 ★3.83 ／ 設備 ★3.85 ／ 風呂 ★3.75 ／ 食事 ★3.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「こちらのミスにも最後まで丁寧な対応に感謝チェックイン時の対応等こちらのミスもありながら最後まで丁寧に対応していただきました。ありがとうございました!!!クチコミの詳細はこちらから　https:…　2026-10-06 06:45:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「こちらのミスにも最後まで丁寧な対応に感謝チェックイン時の対応等こちらのミスもありながら最後まで丁寧に対応していただきました。ありがとうございました!!!」
                   </blockquote>
                 </div>
               </div>

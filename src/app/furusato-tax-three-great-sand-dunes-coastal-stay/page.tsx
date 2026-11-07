@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>70台（出し入れ自由）　普通車500円/1泊　二輪車500円/1泊　大型車2,000円/1泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.08 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.21 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は快適、朝食の地元ヨーグルトも美味大浴場はとても気持ちいいですね。朝食も大変美味しくてヨーグルトなど地元のカップヨーグルトで良かったです。クチコミの詳細はこちらから　https://re…　2026-10-10 19:17:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は快適、朝食の地元ヨーグルトも美味大浴場はとても気持ちいいですね。朝食も大変美味しくてヨーグルトなど地元のカップヨーグルトで良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　50台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★3.95 ／ 部屋 ★4.1 ／ 設備 ★4.1 ／ 風呂 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされてキレイ夕食のお刺身が新鮮でおいしかった。到着時間が伝えてあるにもかかわらず、部屋に入るとエアコンはついていなくて残念でした。クチコミの詳細はこちらから　https://r…　2026-09-12 06:31:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リニューアルされてキレイ夕食のお刺身が新鮮でおいしかった。到着時間が伝えてあるにもかかわらず、部屋に入るとエアコンはついていなくて残念でした。」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２9台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.17 ／ 部屋 ★4.26 ／ 設備 ★4.27 ／ 風呂 ★4.31 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全国展開の安心感があり、どこでも快適ルートインのホテルは色んな場所にあるので他の所も使ったことがある安心感があります。クチコミの詳細はこちらから　https://review.travel.r…　2026-10-09 21:20:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全国展開の安心感があり、どこでも快適ルートインのホテルは色んな場所にあるので他の所も使ったことがある安心感があります。」
                   </blockquote>
                 </div>
               </div>

@@ -390,7 +390,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.35 ／ 部屋 ★4.44 ／ 設備 ★4.2 ／ 風呂 ★4.49 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女将さんがとっても優しくてすごい暖かかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13902?reviewI…　2026-10-05 17:22:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女将さんがとっても優しくてすごい暖かかったです」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要  (当社駐車場内、EV用普通充電器あり。要予約。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地酒と朝食に感動、柔軟な対応にも大満足地酒の飲み比べがとってもリーズナブルで美味しくておかわりしてしまいました!浴衣のサイズが合って無かったので、お伝えした所有料の所無料で変えてくれたりととっ…　2026-08-21 17:16:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地酒と朝食に感動、柔軟な対応にも大満足地酒の飲み比べがとってもリーズナブルで美味しくておかわりしてしまいました!浴衣のサイズが合って無かったので、お伝えした所有料の所無料で変えてくれたりととっ…」
                   </blockquote>
                 </div>
               </div>

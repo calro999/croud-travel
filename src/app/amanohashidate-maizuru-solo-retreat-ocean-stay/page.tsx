@@ -564,7 +564,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室露天風呂と食事に満足、良い思い出に個室露天風呂付き特別室を利用しました。宿泊費はかかりましましたが、お部屋、部屋付きの露天風呂、食事などは概ね満足でした。天橋立の松林を散策がてら対岸ま…　2026-09-12 22:07:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室露天風呂と食事に満足、良い思い出に個室露天風呂付き特別室を利用しました。宿泊費はかかりましましたが、お部屋、部屋付きの露天風呂、食事などは概ね満足でした。天橋立の松林を散策がてら対岸ま…」
                   </blockquote>
                 </div>
               </div>
@@ -586,7 +586,7 @@ export default function ArticlePage() {
                   <p>【天橋立・舞鶴ひとり旅：日本三景パノラマ・茶褐色天橋立】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。お部屋の洗面スペースだけ空調が無かっ…　2026-09-06 08:45:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。お部屋の洗面スペースだけ空調が無かっ…」
                   </blockquote>
                 </div>
               </div>

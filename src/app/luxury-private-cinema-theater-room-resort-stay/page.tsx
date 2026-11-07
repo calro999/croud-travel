@@ -516,7 +516,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料1100円　先着順でご案内致します（予約不可）。料金は予告なく変更する場合がございます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.41 ／ 設備 ★4.39 ／ 風呂 ★4.43 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街への好立地と温泉、リファのドライヤーに大満足宮崎に行く時はいつも利用させていただいています。繁華街にもすぐ行けるし大変助かっています!トロトロの温泉も、好きな時間に何度も入れるので、夜に…　2026-10-06 13:58:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街への好立地と温泉、リファのドライヤーに大満足宮崎に行く時はいつも利用させていただいています。繁華街にもすぐ行けるし大変助かっています!トロトロの温泉も、好きな時間に何度も入れるので、夜に…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p>【大画面プロジェクター＆高音質音響】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が細やかで安心して過ごせた1歳の子どもを連れての宿泊でした。ウェルカムベビーの宿とうたってはいないけど、ベビー用品の貸し出しがあったり食事ではエプロンや子ども用取り皿、ハイチェアなど…　2026-08-21 15:11:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が細やかで安心して過ごせた1歳の子どもを連れての宿泊でした。ウェルカムベビーの宿とうたってはいないけど、ベビー用品の貸し出しがあったり食事ではエプロンや子ども用取り皿、ハイチェアなど…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内平面75台先着順無料。駐車場入り口は2ndstreetさんとくら寿司さんの間の道になります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.31 ／ 部屋 ★4.38 ／ 設備 ★4.36 ／ 風呂 ★4.35 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「過去一の満足度、清掃と接客が素晴らしいこれまで他のスーパーホテルを利用したことはあったが、ここは過去一で良かった!部屋も含めて施設全体の隅々まで清掃が行き届いており、またスタッフ全員が笑顔で接…　2026-10-10 09:21:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「過去一の満足度、清掃と接客が素晴らしいこれまで他のスーパーホテルを利用したことはあったが、ここは過去一で良かった!部屋も含めて施設全体の隅々まで清掃が行き届いており、またスタッフ全員が笑顔で接…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　■乗用車（２００台収容）※無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「角部屋の景色と子供への優しい対応に感謝お部屋お任せプランにしました。角部屋で、景色もよく満足しました。バイキングも子供が食べられるものがあり、助かりました。係の方も子供に優しく声をかけてくださり感…　2026-08-22 09:45:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「角部屋の景色と子供への優しい対応に感謝お部屋お任せプランにしました。角部屋で、景色もよく満足しました。バイキングも子供が食べられるものがあり、助かりました。係の方も子供に優しく声をかけてくださり感…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【大画面プロジェクター＆高音質音響】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…　2026-09-19 21:11:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…」
                   </blockquote>
                 </div>
               </div>

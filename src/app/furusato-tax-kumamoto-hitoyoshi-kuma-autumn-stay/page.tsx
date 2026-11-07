@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　最大150台(大型トラック・バス15台）　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.98 ／ 部屋 ★4.01 ／ 設備 ★3.98 ／ 風呂 ★4.19 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場とシェアサイクルで快適なアクセス大浴場は日帰り温泉として営業しているだけあり、露天風呂と広い浴場で快適でした。朝も入れるのもありがたいです。公共交通機関利用でしたが、敷地内にシェアサイク…　2026-10-10 07:42:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場とシェアサイクルで快適なアクセス大浴場は日帰り温泉として営業しているだけあり、露天風呂と広い浴場で快適でした。朝も入れるのもありがたいです。公共交通機関利用でしたが、敷地内にシェアサイク…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　駐車場7ｍ以上有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事もスタッフも最高、また訪れたい場所夏目友人帳の聖地巡礼の際にお世話になりました。スタッフの皆さんが親切で、食事もとてもおいしかったです。このお値段でこんなに美味しい食事がいただけるのかと、…　2026-08-28 14:49:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事もスタッフも最高、また訪れたい場所夏目友人帳の聖地巡礼の際にお世話になりました。スタッフの皆さんが親切で、食事もとてもおいしかったです。このお値段でこんなに美味しい食事がいただけるのかと、…」
                   </blockquote>
                 </div>
               </div>

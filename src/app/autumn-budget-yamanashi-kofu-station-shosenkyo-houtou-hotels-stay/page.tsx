@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場9台600円・バイク500円（ご予約がない場合は先着順　満車の場合は近隣有料駐車場へ）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.69 ／ 立地 ★3.91 ／ 部屋 ★3.38 ／ 設備 ★3.29 ／ 風呂 ★3.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅チカ以外は不満、設備に難あり女子向きではないオートロックじゃないと説明もなかったしシャワーは暴れだすし駅チカって事以外評価する所はないですクチコミの詳細はこちらから　…　2026-10-08 19:45:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅チカ以外は不満、設備に難あり女子向きではないオートロックじゃないと説明もなかったしシャワーは暴れだすし駅チカって事以外評価する所はないです」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場１泊800円先着制10台まで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.57 ／ 立地 ★3.65 ／ 部屋 ★3.48 ／ 設備 ★3.44 ／ 風呂 ★3.51 ／ 食事 ★3.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「枕がやわらかすぎること以外は快適何年ぶりかの宿泊でした。施設も古くなってきましたが、枕がやわらかすぎること以外は不満はなかったです。クチコミの詳細はこちらから　https://revi…　2026-10-08 18:11:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「枕がやわらかすぎること以外は快適何年ぶりかの宿泊でした。施設も古くなってきましたが、枕がやわらかすぎること以外は不満はなかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　800〜1000円（税込／泊）満車時は徒歩5分の提携コインパーキングへのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★3.99</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアウィーヴとリファ完備で快適な空間プレミアムプラスルームに1泊しましたが、ベッドもピローもエアウィーブで快適でした!リファのドライヤーとカールアイロンも良かったですね。お部屋は清潔感がありも…　2026-10-08 00:30:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアウィーヴとリファ完備で快適な空間プレミアムプラスルームに1泊しましたが、ベッドもピローもエアウィーブで快適でした!リファのドライヤーとカールアイロンも良かったですね。お部屋は清潔感がありも…」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体64台・平置6台（うち車いす優先1台・要予約）先着順 ￥1000／泊・時間外￥100／時</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★4.06 ／ 部屋 ★3.96 ／ 設備 ★3.88 ／ 風呂 ★3.84 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅至近で飲食店も多く、朝食の持ち帰りが便利初めての宿泊でしたが駅至近で、周辺の飲食店も充実しており出張には便利でした。朝食が部屋に持ち帰れるのが良い。クチコミの詳細はこちらから　https…　2026-10-02 17:29:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅至近で飲食店も多く、朝食の持ち帰りが便利初めての宿泊でしたが駅至近で、周辺の飲食店も充実しており出張には便利でした。朝食が部屋に持ち帰れるのが良い。」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　19台　500円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.83 ／ 立地 ★3.6 ／ 部屋 ★3.57 ／ 設備 ★3.43 ／ 風呂 ★3.38 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ抜群、手作り朝食と地ビールが最高ちょっと奥まった場所ですが、駅から徒歩でも問題ありません。設備は最低限ですが、「こちらで片付けるのでそのまま置いておいてもらって大丈夫です」というサービス精神…　2026-10-05 23:05:43投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=187168&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ抜群、手作り朝食と地ビールが最高ちょっと奥まった場所ですが、駅から徒歩でも問題ありません。設備は最低限ですが、「こちらで片付けるのでそのまま置いておいてもらって大丈夫です」というサービス精神…」
                   </blockquote>
                 </div>
               </div>

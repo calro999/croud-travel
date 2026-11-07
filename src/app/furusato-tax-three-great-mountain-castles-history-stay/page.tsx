@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り６台まで無料　※大型車は駐車不可　先着順の為、満車の際はコインパーキングへの御案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でリーズナブル、とても助かります駅から近いし、リーズナブルなので、助かります。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-07-24 16:36:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でリーズナブル、とても助かります駅から近いし、リーズナブルなので、助かります。」
                   </blockquote>
                 </div>
               </div>

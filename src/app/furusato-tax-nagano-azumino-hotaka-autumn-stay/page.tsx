@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが朝ごはんが最高に美味しい設備や建物は古いですが、朝ごはんが美味しくて最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-09-10 21:28:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが朝ごはんが最高に美味しい設備や建物は古いですが、朝ごはんが美味しくて最高でした。」
                   </blockquote>
                 </div>
               </div>

@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…　2026-09-14 20:40:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のあまりの古さにびっくりしました。スタッフさんは親切でした。ご飯も美味しく食べられました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-09-02 09:25:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のあまりの古さにびっくりしました。スタッフさんは親切でした。ご飯も美味しく食べられました。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【静岡・伊豆修善寺：竹林の小径・独鈷の湯＆伊豆牛・本わ】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.19 ／ 部屋 ★3.89 ／ 設備 ★3.82 ／ 風呂 ★4.12 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カラオケ三昧と源泉かけ流しの貸切風呂カラオケが朝8時から夜11時までできるのが魅力的です。貸切風呂も小さいですが、源泉かけ流しで無料で50分間入れてとても気持ちがよいです。夕食のマグロの刺身も…　2026-10-08 19:20:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カラオケ三昧と源泉かけ流しの貸切風呂カラオケが朝8時から夜11時までできるのが魅力的です。貸切風呂も小さいですが、源泉かけ流しで無料で50分間入れてとても気持ちがよいです。夕食のマグロの刺身も…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゴルフ利用に最適、飲み放題が嬉しいゴルフの時、利用させてもらっています。安いので十分です。お風呂は、本館より別館のほうが良いと思います。料理は普通くらい、飲み放題がうれしいです。クチコミの詳細…　2026-08-29 07:03:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゴルフ利用に最適、飲み放題が嬉しいゴルフの時、利用させてもらっています。安いので十分です。お風呂は、本館より別館のほうが良いと思います。料理は普通くらい、飲み放題がうれしいです。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>

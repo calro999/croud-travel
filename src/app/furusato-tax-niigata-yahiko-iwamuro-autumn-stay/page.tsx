@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がとてもよいです。温泉がとにかく心地よく、朝食バイキングも満足のいく物でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-09-10 08:38:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がとてもよいです。温泉がとにかく心地よく、朝食バイキングも満足のいく物でした。」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【新潟・越後一宮 弥彦神社もみじ谷＆弥彦温泉】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロビーのドリンクコーナーで地元のお酒を満喫地元のお酒を飲みたいと思っていたので、ロビーにドリンクコーナーがあったのが嬉しかったです。クチコミの詳細はこちらから　https://review.t…　2026-09-10 08:26:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロビーのドリンクコーナーで地元のお酒を満喫地元のお酒を飲みたいと思っていたので、ロビーにドリンクコーナーがあったのが嬉しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と夕食が絶品、温泉も最高でしたまずはなんといっても朝食がとても素晴らしかった事です。朝食ビュッヘは似たようなメニューが並ぶことが多いですが、富士屋さんは違いました。しっかり手間をかけ作…　2026-09-16 15:43:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と夕食が絶品、温泉も最高でしたまずはなんといっても朝食がとても素晴らしかった事です。朝食ビュッヘは似たようなメニューが並ぶことが多いですが、富士屋さんは違いました。しっかり手間をかけ作…」
                   </blockquote>
                 </div>
               </div>

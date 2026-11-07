@@ -729,7 +729,7 @@ export default function FurusatoFeaturePage() {
                   <p>【銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切温泉と美味しい朝食、立地も最高貸切温泉風呂が最高でした!犬飼の湯は広々していて星空、青空を見ながらゆったり浸かることができました。朝食もご飯が進むおいしいおかずばかりでおかわりいただきました。…　2026-07-16 15:10:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切温泉と美味しい朝食、立地も最高貸切温泉風呂が最高でした!犬飼の湯は広々していて星空、青空を見ながらゆったり浸かることができました。朝食もご飯が進むおいしいおかずばかりでおかわりいただきました。…」
                   </blockquote>
                 </div>
               </div>
@@ -751,7 +751,7 @@ export default function FurusatoFeaturePage() {
                   <p>【銘柄豚・極上しゃぶしゃぶ料理の名湯宿×ふるさと納税厳】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…　2026-10-09 21:39:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…」
                   </blockquote>
                 </div>
               </div>
@@ -773,7 +773,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　ホテル前に車60台分のスペースあり　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.29 ／ 設備 ★4.12 ／ 風呂 ★4.25 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新婚旅行で利用、妻も大満足の快適な時間新婚旅行で泊まらせてもらいました。妻がとても気に入ったみたいで私も快適に過ごせました。ご飯も美味しく、温泉最高でした。また泊まりたいなと思いました。ありがとう…　2026-10-03 23:36:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新婚旅行で利用、妻も大満足の快適な時間新婚旅行で泊まらせてもらいました。妻がとても気に入ったみたいで私も快適に過ごせました。ご飯も美味しく、温泉最高でした。また泊まりたいなと思いました。ありがとう…」
                   </blockquote>
                 </div>
               </div>
@@ -795,7 +795,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　2０台　無料　予約不要　大型もOK</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮が絶品、お風呂も広くて快適海鮮がとても美味しかったです。プールのようなお風呂も圧巻でした。泉質も申し分なし。女将さんがとても素敵でした。今度は電話予約で伺いたい。クチコミの詳細はこちらから…　2026-08-15 15:13:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮が絶品、お風呂も広くて快適海鮮がとても美味しかったです。プールのようなお風呂も圧巻でした。泉質も申し分なし。女将さんがとても素敵でした。今度は電話予約で伺いたい。」
                   </blockquote>
                 </div>
               </div>
@@ -817,7 +817,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　８台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は最高、お風呂の蛇口が残念連泊しましたが、女将さんはじめスタッフの方々の対応は素晴らしかったです。朝食・夕食もとても美味しくいただきました。窓からの景色も癒される風景。少し残念なのは、お…　2026-08-24 17:49:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は最高、お風呂の蛇口が残念連泊しましたが、女将さんはじめスタッフの方々の対応は素晴らしかったです。朝食・夕食もとても美味しくいただきました。窓からの景色も癒される風景。少し残念なのは、お…」
                   </blockquote>
                 </div>
               </div>

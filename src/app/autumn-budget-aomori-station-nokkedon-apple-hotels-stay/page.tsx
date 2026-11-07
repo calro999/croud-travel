@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車可500円/泊 先着順(高:2m,幅:1.8m,重:2,000kg以内)　バイク不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★4.21 ／ 部屋 ★4.09 ／ 設備 ★4.06 ／ 風呂 ★4.08 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で大浴場もあり、スタッフの対応も快適青森駅前で交通便利、繁華街から距離があるようですが、お酒飲まない自分には立地が優先なので問題ありません大浴場があるのはありがたいです、ゆったりできます…　2026-10-09 08:37:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で大浴場もあり、スタッフの対応も快適青森駅前で交通便利、繁華街から距離があるようですが、お酒飲まない自分には立地が優先なので問題ありません大浴場があるのはありがたいです、ゆったりできます…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場へご案内します。　駐車料金700円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.21 ／ 部屋 ★4.2 ／ 設備 ★4.14 ／ 風呂 ★4.15 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「青森駅の繁華街で観光にも便利な立地青森駅の繁華街にあり、観光地も近くにあるのでとても便利でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-09-24 11:58:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「青森駅の繁華街で観光にも便利な立地青森駅の繁華街にあり、観光地も近くにあるのでとても便利でした!」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊700円　※一部、車高1.6m　※バイク可/ 到着順 / 満車時は周辺コインパーキングへ</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.93 ／ 部屋 ★3.94 ／ 設備 ★3.89 ／ 風呂 ★3.78 ／ 食事 ★3.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でアクセス抜群、コスパも最高駅からも近く、アクセス非常に便利でした。コスパがとても良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-10-05 19:58:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でアクセス抜群、コスパも最高駅からも近く、アクセス非常に便利でした。コスパがとても良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>最大8台/1泊800円　※先着順/バイク駐車可　 / 他、周辺コインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★3.92 ／ 部屋 ★4.01 ／ 設備 ★3.9 ／ 風呂 ★3.76 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「拠点に最適、周辺のグルメも大満足ホテルに近い所で「鮨処あすか」で夕食。鮨ならここと言われて行ったけど、とても美味しかってです。昼御飯に「味の札幌大西」の味噌カレー牛乳ラーメンがソールフード…　2026-10-09 16:58:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「拠点に最適、周辺のグルメも大満足ホテルに近い所で「鮨処あすか」で夕食。鮨ならここと言われて行ったけど、とても美味しかってです。昼御飯に「味の札幌大西」の味噌カレー牛乳ラーメンがソールフード…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順：48台・500円（税込／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.2 ／ 部屋 ★4.2 ／ 設備 ★4.13 ／ 風呂 ★4.05 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張の前乗りで宿泊しましたが、駅チカでレンタカーも近くて便利、ベッドも大っきくて部屋もキレイで良かった...だけかな。インバウンドもあるし、国スポもあったから仕方ないとは思うけど、ビジネスマンの感…　2026-10-10 18:15:37投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=178564&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張の前乗りで宿泊しましたが、駅チカでレンタカーも近くて便利、ベッドも大っきくて部屋もキレイで良かった...だけかな。インバウンドもあるし、国スポもあったから仕方ないとは思うけど、ビジネスマンの感…」
                   </blockquote>
                 </div>
               </div>

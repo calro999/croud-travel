@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…　2026-08-16 18:44:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1100台　無料！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地元の食材を使った食事と多彩なお風呂に大満足ブッフェは朝食夕食ともに土地の料理や食材を使ったものが美味しく素晴らしいです。特に、信州味噌汁、塩鍋、松田牛乳、サーモン、ポーク等。白馬にこれだけの特産…　2026-08-20 16:42:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地元の食材を使った食事と多彩なお風呂に大満足ブッフェは朝食夕食ともに土地の料理や食材を使ったものが美味しく素晴らしいです。特に、信州味噌汁、塩鍋、松田牛乳、サーモン、ポーク等。白馬にこれだけの特産…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>５０台　無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.81 ／ 立地 ★3.81 ／ 部屋 ★3.15 ／ 設備 ★3.19 ／ 風呂 ★3.69 ／ 食事 ★3.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事内容や備品の説明不足が目立ち残念夕食の写真は会席料理でしたが 実際はビュッフェだった。だまされた気分。浴衣は部屋にはなくフロント横で受け取るシステム、チェックインの時に言ってほしかった。部屋は…　2026-10-02 16:12:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事内容や備品の説明不足が目立ち残念夕食の写真は会席料理でしたが 実際はビュッフェだった。だまされた気分。浴衣は部屋にはなくフロント横で受け取るシステム、チェックインの時に言ってほしかった。部屋は…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【山頂ゴンドラ直結＆暖炉ラウンジ】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.47 ／ 部屋 ★4.3 ／ 設備 ★4.24 ／ 風呂 ★4.28 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設も料理も大満足、送迎の対応も親切ホテルはとても綺麗、スタッフ全員がとても親切、料理もおいしい、2泊させて頂きましたが大満足でした。又八方尾根登山時には送迎バス対応をして頂きとても助かりまし…　2026-10-09 10:32:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設も料理も大満足、送迎の対応も親切ホテルはとても綺麗、スタッフ全員がとても親切、料理もおいしい、2泊させて頂きましたが大満足でした。又八方尾根登山時には送迎バス対応をして頂きとても助かりまし…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場20台設置。EV普通充電スタンド（6kW/3kW対応・2台）も完備しております。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.37 ／ 部屋 ★4.26 ／ 設備 ★4.16 ／ 風呂 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と立地が最高、冬にまた訪れたい良いホテルでした。景色もロケーションも良かったです。白馬はずいぶん前にスキーで行きました。また冬に来てみたいです。ホテルのスタッフの方の対応も良か…　2026-09-23 07:36:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と立地が最高、冬にまた訪れたい良いホテルでした。景色もロケーションも良かったです。白馬はずいぶん前にスキーで行きました。また冬に来てみたいです。ホテルのスタッフの方の対応も良か…」
                   </blockquote>
                 </div>
               </div>

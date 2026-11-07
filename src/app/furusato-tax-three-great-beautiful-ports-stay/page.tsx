@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（400台）　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天気が曇りで富士山は見えなかったがそれでも部屋からの景色は最高でした、ご飯も非常に美味しかったです、また行きたいと思える良いホテルですクチコミの詳細はこちらから　https://review.tr…　2026-09-02 18:49:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天気が曇りで富士山は見えなかったがそれでも部屋からの景色は最高でした、ご飯も非常に美味しかったです、また行きたいと思える良いホテルです」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台（先着順）　￥1,500（1台）　※高さ2.1ｍまで入庫可能な地下平面駐車場</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光の拠点に最適、清潔で便利な立地駅に近く市街地の中心部にあるので、観光の拠点として便利。施設も清潔感があり、コンビニも近い。また、機会があったら利用したい。クチコミの詳細はこちらから…　2026-09-05 22:02:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光の拠点に最適、清潔で便利な立地駅に近く市街地の中心部にあるので、観光の拠点として便利。施設も清潔感があり、コンビニも近い。また、機会があったら利用したい。」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>収容台数：290台　料金：1,800円/泊（チェックイン日の正午～翌日の正午まで） ※予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓から眺める神戸の夜景に大満足!部屋からの夜景がとってもキレイでした。子供連れですが、窓から神戸の夜景を眺める事ができて大満足です。クチコミの詳細はこちらから　https://review…　2026-08-22 19:28:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓から眺める神戸の夜景に大満足!部屋からの夜景がとってもキレイでした。子供連れですが、窓から神戸の夜景を眺める事ができて大満足です。」
                   </blockquote>
                 </div>
               </div>

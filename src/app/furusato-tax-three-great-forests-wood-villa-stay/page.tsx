@@ -413,7 +413,7 @@ export default function FurusatoUpgradedPage() {
                   <p>【日本三大美林の木漏れ日と森林セラピー・ウッドヴィラ宿】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.29 ／ 部屋 ★4.42 ／ 設備 ★4.34 ／ 風呂 ★4.54 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飯がうまい。部屋が広い。川がみえるクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/10728?reviewId=3312…　2026-10-09 22:39:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飯がうまい。部屋が広い。川がみえる」
                   </blockquote>
                 </div>
               </div>
@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「実演付きの夕食とスタッフの対応に満足夕飯は、鯛めしや石焼き鍋の実演があってなかなか良かったです。又、スタッフのサービスは満足出来ました。クチコミの詳細はこちらから　https://review…　2026-09-05 22:22:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「実演付きの夕食とスタッフの対応に満足夕飯は、鯛めしや石焼き鍋の実演があってなかなか良かったです。又、スタッフのサービスは満足出来ました。」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…　2026-08-25 12:13:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…」
                   </blockquote>
                 </div>
               </div>

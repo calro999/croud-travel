@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　約90台　湯の川最大級青空平面</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと美味しい食事に大満足訳あり1階のプランで宿泊したのですが、空き部屋があったとのことで3階のオーシャンビューの部屋にグレードアップしてもらえました!波の音をききながら眠りにつく…　2026-08-22 10:12:40投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=137023&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと美味しい食事に大満足訳あり1階のプランで宿泊したのですが、空き部屋があったとのことで3階のオーシャンビューの部屋にグレードアップしてもらえました!波の音をききながら眠りにつく…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1台１泊800円　 数に限りあり　 GWなど特別期間は別料金。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★3.78 ／ 部屋 ★3.42 ／ 設備 ★3.28 ／ 風呂 ★3.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクツーリングで利用バイクツーリングに人気の宿とのことで素泊まり利用でしたが外観から古臭く昔のビジネスホテルという感じでベッドは硬めで好みの感じ枕は1つ枕元付近にコンセントあるのでスマホやCPA…　2026-10-09 00:47:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクツーリングで利用バイクツーリングに人気の宿とのことで素泊まり利用でしたが外観から古臭く昔のビジネスホテルという感じでベッドは硬めで好みの感じ枕は1つ枕元付近にコンセントあるのでスマホやCPA…」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1000円 (宿泊日当日の11時〜出発日の14時まで出し入れ自由／先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.38 ／ 部屋 ★4.37 ／ 設備 ★4.3 ／ 風呂 ★4.25 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた食事と金森倉庫巡りで大満足ゆっくりと食事をして、チェックアウトの前に金森倉庫も堪能し、落ち着いた時間を過ごせました。また、お世話になりたいです。クチコミの詳細はこちらから　htt…　2026-10-09 12:23:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた食事と金森倉庫巡りで大満足ゆっくりと食事をして、チェックアウトの前に金森倉庫も堪能し、落ち着いた時間を過ごせました。また、お世話になりたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り(1,000円/日）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.63 ／ 部屋 ★4.69 ／ 設備 ★4.63 ／ 風呂 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「枕やアロマのサービスと囲炉裏焼きに大満足たくさんの種類の中から枕を借りられたり、好きな香りを選んで、アロマストーンを部屋に置いて置けるサービスがお気に入りで、何度もリピートしています。また、温泉も…　2026-10-10 17:12:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「枕やアロマのサービスと囲炉裏焼きに大満足たくさんの種類の中から枕を借りられたり、好きな香りを選んで、アロマストーンを部屋に置いて置けるサービスがお気に入りで、何度もリピートしています。また、温泉も…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p>【朝からいくら・ウニ・ホタテかけ放題】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.14 ／ 部屋 ★4.28 ／ 設備 ★4.12 ／ 風呂 ★4.32 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かで落ち着く環境と無料の美鈴コーヒー古い宿です 風呂も2か所だけでも静かです外国人少ない 子供が騒がしくないご飯なしでも近くのハセスト ラッキーピエロで回転寿司かんたろうでテイクアウトメニュ…　2026-10-06 14:50:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かで落ち着く環境と無料の美鈴コーヒー古い宿です 風呂も2か所だけでも静かです外国人少ない 子供が騒がしくないご飯なしでも近くのハセスト ラッキーピエロで回転寿司かんたろうでテイクアウトメニュ…」
                   </blockquote>
                 </div>
               </div>

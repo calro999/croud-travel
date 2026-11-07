@@ -421,7 +421,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場をご用意しております。『駐車場のご案内』をご確認の上、ご利用下さいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.17 ／ 部屋 ★4.24 ／ 設備 ★4.13 ／ 風呂 ★4.1 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スマイルホテルとして期待通りの満足感素泊まりで利用。スマイルホテラーとしては満足。次も泊まりたいと思う。ガオークチコミの詳細はこちらから　https://review.travel…　2026-10-09 07:32:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スマイルホテルとして期待通りの満足感素泊まりで利用。スマイルホテラーとしては満足。次も泊まりたいと思う。ガオー」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◇先着順◇立体駐車場：88台(ハイルーフ対応：20台)◇1泊税込1200円◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近いので大変便利夜は、鯛茶漬けをいただいた。鯛だけ食べても、出汁を入れて食べても美味しかった。おそらく百人ほど並んでいたが列を整える方も配膳いただいた方の接客も丁寧でよかった。…　2026-08-20 21:17:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近いので大変便利夜は、鯛茶漬けをいただいた。鯛だけ食べても、出汁を入れて食べても美味しかった。おそらく百人ほど並んでいたが列を整える方も配膳いただいた方の接客も丁寧でよかった。…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　72台(立体駐車場　全ハイルーフ車対応）　1,200円（税込み／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.48 ／ 部屋 ★4.56 ／ 設備 ★4.5 ／ 風呂 ★4.39 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、無料の鯛茶漬けも美味概ね満足しております。駅近で便利。清潔感のあるお部屋でした。お夜食に無料で鯛茶漬けをいただくことができました。美味しかったです。クチコミの詳細はこちらから　ht…　2026-09-25 19:53:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、無料の鯛茶漬けも美味概ね満足しております。駅近で便利。清潔感のあるお部屋でした。お夜食に無料で鯛茶漬けをいただくことができました。美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1,000円（税込）　15時〜翌11時　地下12台・屋外36台　先着順でのご案内です　※取り置き不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★4.21 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★4.01 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地の良さとリーズナブルな料金裏のエレベーターは、昔のサンホテルのままで、ちょっと懐かしかった(笑)居酒屋サムライの真横だし立地も最高です。クチコミの詳細はこちらから　https://re…　2026-10-08 23:03:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地の良さとリーズナブルな料金裏のエレベーターは、昔のサンホテルのままで、ちょっと懐かしかった(笑)居酒屋サムライの真横だし立地も最高です。」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetUtsunomiyaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場予約制(車種記入必須)。有料\１０００円／泊。台数制限あり、満車の場合は近隣駐車場お客様負担</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.17 ／ 部屋 ★3.99 ／ 設備 ★3.93 ／ 風呂 ★3.85 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で、親切な宿10時に宇都宮に到着したのですが、荷物を預かってくださり、とても助かりました。ホテルの方もとても親切で気持ちよく滞在できました。個室のサウナも堪能しました。朝食も量・質…　2026-09-16 06:18:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で、親切な宿10時に宇都宮に到着したのですが、荷物を預かってくださり、とても助かりました。ホテルの方もとても親切で気持ちよく滞在できました。個室のサウナも堪能しました。朝食も量・質…」
                   </blockquote>
                 </div>
               </div>

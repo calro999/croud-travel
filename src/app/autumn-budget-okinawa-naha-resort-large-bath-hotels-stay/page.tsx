@@ -453,7 +453,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場50台1泊1,500円(車高制限あり) ※先着順予約不可※満車時は近隣の提携駐車場を案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.45 ／ 部屋 ★4.53 ／ 設備 ★4.5 ／ 風呂 ★4.49 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウッド調の部屋で寛ぎ、朝食も大満足部屋はウッド系で旅行の緊張もほどけました。朝食会場はコンパクトながらも魅力的なメニューばかりでとても美味しかったです。クチコミの詳細はこちらから　https:…　2026-10-10 20:28:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウッド調の部屋で寛ぎ、朝食も大満足部屋はウッド系で旅行の緊張もほどけました。朝食会場はコンパクトながらも魅力的なメニューばかりでとても美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -475,7 +475,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。コストはかか…　2026-08-20 17:16:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。コストはかか…」
                   </blockquote>
                 </div>
               </div>
@@ -497,7 +497,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>15時～翌朝11時　敷地内18台(先着順)1泊1000円■提携駐車場161台(徒歩5分圏に7ヶ所)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「場所も良く、大満足のひととき場所もいいし、満足クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/172254?revi…　2026-07-22 20:52:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「場所も良く、大満足のひととき場所もいいし、満足」
                   </blockquote>
                 </div>
               </div>
@@ -519,7 +519,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館裏手に提携駐車場（商業施設併設の立体駐車場）へのご案内（先着順：1泊1,500円／税込）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.44 ／ 部屋 ★4.35 ／ 設備 ★4.26 ／ 風呂 ★4.11 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「国際通りと駅直結で便利、朝食も充実国際通り沿いなのと、ゆいレール牧志駅直結でとても便利。夕食は徒歩で栄町へ、お散歩も楽しかった。朝食は沖縄料理ビュッフェで種類も豊富だった。ビールのサービスはA…　2026-09-29 15:59:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「国際通りと駅直結で便利、朝食も充実国際通り沿いなのと、ゆいレール牧志駅直結でとても便利。夕食は徒歩で栄町へ、お散歩も楽しかった。朝食は沖縄料理ビュッフェで種類も豊富だった。ビールのサービスはA…」
                   </blockquote>
                 </div>
               </div>
@@ -541,7 +541,7 @@ export default function OkinawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有：72台駐車可能、有料：1000円/泊、先着順、制限有：高さ1.55mまで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドのシーツに血が付着しており交換を依頼沖縄出張の際に立地が良いので良く利用させて頂いてます。仕事を終えホテルの部屋に帰り机でPC作業し何気なくベッドメイキングを終えたベッドを見ると掛け布団…　2026-08-23 01:44:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドのシーツに血が付着しており交換を依頼沖縄出張の際に立地が良いので良く利用させて頂いてます。仕事を終えホテルの部屋に帰り机でPC作業し何気なくベッドメイキングを終えたベッドを見ると掛け布団…」
                   </blockquote>
                 </div>
               </div>

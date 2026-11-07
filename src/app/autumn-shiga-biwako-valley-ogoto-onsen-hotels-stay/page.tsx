@@ -436,7 +436,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４８台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「10年ぶりの再訪、今回も大満足の温泉旅館2回目です。10年程度前に両親と来て以来です。親が来られなくなり、娘も独り立ちしたので、夫婦での訪問でした。結論から言って、今回も花街道さんにして大満足…　2026-09-12 16:41:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「10年ぶりの再訪、今回も大満足の温泉旅館2回目です。10年程度前に両親と来て以来です。親が来られなくなり、娘も独り立ちしたので、夫婦での訪問でした。結論から言って、今回も花街道さんにして大満足…」
                   </blockquote>
                 </div>
               </div>
@@ -458,7 +458,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　23台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と快適に過ごせ、心温まる思い出の旅柴犬を連れての初めての旅館宿泊でした。部屋の設備、防音、快適性や犬のための備品、部屋内での過ごし方などとても工夫されていて、快適な宿泊でした。家族も大満足…　2026-08-31 17:53:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と快適に過ごせ、心温まる思い出の旅柴犬を連れての初めての旅館宿泊でした。部屋の設備、防音、快適性や犬のための備品、部屋内での過ごし方などとても工夫されていて、快適な宿泊でした。家族も大満足…」
                   </blockquote>
                 </div>
               </div>
@@ -480,7 +480,7 @@ export default function BiwakoOgotoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場【有】　※フロントにてキーをお預かりし、従業員が移動させていただく場合がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハウスダストがひどく接客も残念でした2026.8.9～10日に家族でお世話になりました。母と娘2人 ダニ埃アレルギー持ちです。館内の特に廊下、ハウスダストで2人とも鼻水が止まらなくなりました。…　2026-08-28 08:40:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハウスダストがひどく接客も残念でした2026.8.9～10日に家族でお世話になりました。母と娘2人 ダニ埃アレルギー持ちです。館内の特に廊下、ハウスダストで2人とも鼻水が止まらなくなりました。…」
                   </blockquote>
                 </div>
               </div>

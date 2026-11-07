@@ -315,7 +315,7 @@ export default function MicroTouristHubPage() {
                   <p>【和歌山・南紀白浜：白良浜・アドベンチャーワールド＆崎】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える絶景とアドベンチャーワールドへの近さ部屋の窓から海が見えるので夕陽がみえてよかった。海にすぐ行けるのもいい。ご飯は普通でした。特別感がなかったし、種類も少なかった。アドベンチャーワールド…　2026-08-22 10:16:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える絶景とアドベンチャーワールドへの近さ部屋の窓から海が見えるので夕陽がみえてよかった。海にすぐ行けるのもいい。ご飯は普通でした。特別感がなかったし、種類も少なかった。アドベンチャーワールド…」
                   </blockquote>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観に驚くも食事とプールが大満足!オレンジ色のド派手な建物!なんか不安でしたが大当たりでした。スタッフも親切でセルフのお茶やご飯もやってくれました。1人でプールを貸し切りで満喫しました…　2026-08-26 09:34:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観に驚くも食事とプールが大満足!オレンジ色のド派手な建物!なんか不安でしたが大当たりでした。スタッフも親切でセルフのお茶やご飯もやってくれました。1人でプールを貸し切りで満喫しました…」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>24台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年恒例の楽しみ、変わらぬ綺麗さと気配り3回目の宿泊で毎年楽しみにしている宿の一つとなりました。オープン当初と変わらずきれいな館内、部屋もとても綺麗で気持ちよく過ごすことができました。ちょっとした…　2026-08-11 22:21:13投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=183409&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年恒例の楽しみ、変わらぬ綺麗さと気配り3回目の宿泊で毎年楽しみにしている宿の一つとなりました。オープン当初と変わらずきれいな館内、部屋もとても綺麗で気持ちよく過ごすことができました。ちょっとした…」
                   </blockquote>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　【20台】　　無料です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフさんの様子が少し気になったスタッフさん少しお疲れのようでしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-08-24 06:44:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフさんの様子が少し気になったスタッフさん少しお疲れのようでした」
                   </blockquote>
                 </div>
               </div>

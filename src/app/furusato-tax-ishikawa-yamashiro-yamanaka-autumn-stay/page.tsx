@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【石川・加賀温泉郷 山代温泉の総湯文化と紅葉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高、また来たい旅館大変満足した1日でした。夕食、朝食共に見栄えに味申し分ありません。朝食は胃にとてもやさしい味付け。お風呂もとても素敵でした。担当に付いてくれた…　2026-09-19 13:47:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高、また来たい旅館大変満足した1日でした。夕食、朝食共に見栄えに味申し分ありません。朝食は胃にとてもやさしい味付け。お風呂もとても素敵でした。担当に付いてくれた…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有あり。バイク向け屋根付きスペースも有あり。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.14 ／ 部屋 ★4.36 ／ 設備 ★4.26 ／ 風呂 ★4.55 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/11043?reviewId=33123479620440　2026-10-04 19:58:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料200台　※正面玄関へお越しください。スタッフが駐車場をご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.07 ／ 部屋 ★4.27 ／ 設備 ★4.12 ／ 風呂 ★4.31 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お茶菓子がなく貸切風呂に死骸、設備も不便部屋にお茶菓子がない温泉旅館は初めてだった。貸し切り風呂には大きいカエルの死骸が浮いていて、入れなかった。今どき、階段ばかりで車椅子用のスロープもなかった。…　2026-10-07 18:32:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お茶菓子がなく貸切風呂に死骸、設備も不便部屋にお茶菓子がない温泉旅館は初めてだった。貸し切り風呂には大きいカエルの死骸が浮いていて、入れなかった。今どき、階段ばかりで車椅子用のスロープもなかった。…」
                   </blockquote>
                 </div>
               </div>

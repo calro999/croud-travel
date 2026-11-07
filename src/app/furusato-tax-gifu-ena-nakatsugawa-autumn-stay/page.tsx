@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>５０台　予約不要　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付きのお部屋露天風呂付きのお部屋に宿泊しました。景色がとても素敵でした!ただ、お部屋の壁が薄いのか、廊下の声がかなり聞こえてきました。朝食、夕食はどちらもとても美味しかったです!夕食の…　2026-09-14 19:30:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付きのお部屋露天風呂付きのお部屋に宿泊しました。景色がとても素敵でした!ただ、お部屋の壁が薄いのか、廊下の声がかなり聞こえてきました。朝食、夕食はどちらもとても美味しかったです!夕食の…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「小さい子連れ家族旅行でしたが、食事の際、従業員の皆様がとても親切であったかいもてなしをしてくださり楽しくすごすことができました。ありがとうございました。クチコミの詳細はこちらか…　2026-09-19 17:18:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「小さい子連れ家族旅行でしたが、食事の際、従業員の皆様がとても親切であったかいもてなしをしてくださり楽しくすごすことができました。ありがとうございました。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>

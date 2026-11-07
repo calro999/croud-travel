@@ -541,7 +541,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.51 ／ 風呂 ★4.68 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-08 21:45:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良い」
                   </blockquote>
                 </div>
               </div>
@@ -563,7 +563,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の縁日と宝探しで子供も大満足子連れにオススメです。夜の縁日もホテル内なので、小さな子供がいても、わざわざどこかに行く必要も無く楽しめて良かったです。宝探しも楽しかったです。クチコミの詳細は…　2026-08-23 06:59:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の縁日と宝探しで子供も大満足子連れにオススメです。夜の縁日もホテル内なので、小さな子供がいても、わざわざどこかに行く必要も無く楽しめて良かったです。宝探しも楽しかったです。クチコミの詳細は…」
                   </blockquote>
                 </div>
               </div>
@@ -585,7 +585,7 @@ export default function SilverWeekGlampingKyushuFukuokaKumamotoPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【無料駐車場あり】100台・予約不要・当施設前の有料駐車場に停車後、駐車券を受付へお持ちください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族みんな、また行きたい!と言ってます(^^) 小3と中1の息子達と、初めてグランピングをしました。  下の子は軽度の知的障害があるため、お部屋にたくさんの幼児向けの遊具を用意してくださってい…　2026-08-24 18:12:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族みんな、また行きたい!と言ってます(^^) 小3と中1の息子達と、初めてグランピングをしました。  下の子は軽度の知的障害があるため、お部屋にたくさんの幼児向けの遊具を用意してくださってい…」
                   </blockquote>
                 </div>
               </div>

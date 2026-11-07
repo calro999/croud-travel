@@ -787,7 +787,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「喫煙所の臭い以外はコスパ最高な宿翌日のSUPイベント参加のため素泊まり1泊利用させて頂きました。各フロア廊下に喫煙所が有り、喫煙の習慣が無い人には臭いが気になった。。。そんな、室内設置…　2026-06-22 20:05:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「喫煙所の臭い以外はコスパ最高な宿翌日のSUPイベント参加のため素泊まり1泊利用させて頂きました。各フロア廊下に喫煙所が有り、喫煙の習慣が無い人には臭いが気になった。。。そんな、室内設置…」
                   </blockquote>
                 </div>
               </div>

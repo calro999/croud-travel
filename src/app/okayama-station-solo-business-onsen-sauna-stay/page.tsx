@@ -518,7 +518,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内機械式立体駐車場(高さ2.05ｍ)先着順1泊1,300円。満車の際は近隣駐車場をご案内致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.4 ／ 部屋 ★4.5 ／ 設備 ★4.5 ／ 風呂 ★4.57 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のサワラと温泉に満足、エレベーターは混雑岡山の出張は、空いていれば、ドーミーさんと決めています。朝食のサワラのお刺身美味しかったです。温泉も良かったです。少し気になった点は、エレベーターが2基…　2026-10-08 18:10:21投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=184280&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のサワラと温泉に満足、エレベーターは混雑岡山の出張は、空いていれば、ドーミーさんと決めています。朝食のサワラのお刺身美味しかったです。温泉も良かったです。少し気になった点は、エレベーターが2基…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣提携駐車場をご案内しております（1500円/泊）　満車時は近隣コインパーキングのご案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.18 ／ 部屋 ★4.33 ／ 設備 ★4.36 ／ 風呂 ★4.3 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と親切な接客、朝食のパンも絶品温泉もあり スタッフの接客も とても親切でした。朝食のパンがおいしかったです。また泊まりたいです。クチコミの詳細はこちらから　https://review.t…　2026-10-10 07:08:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と親切な接客、朝食のパンも絶品温泉もあり スタッフの接客も とても親切でした。朝食のパンがおいしかったです。また泊まりたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>・駐車場56台　1500円/1泊　・提携駐車場【タイムズ岡山下石井第2】88台　1400円/24時間</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.16 ／ 部屋 ★4.24 ／ 設備 ★4.24 ／ 風呂 ★4.23 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場の設備に不満、部屋は綺麗で快適大浴場が殺伐としています。部屋のお風呂を使用すれば良かったと後悔するほど。。大浴場の洗い場にタオルを置く場所が無い。濡れないように、高い場所に置きたいのに。…　2026-10-10 17:34:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場の設備に不満、部屋は綺麗で快適大浴場が殺伐としています。部屋のお風呂を使用すれば良かったと後悔するほど。。大浴場の洗い場にタオルを置く場所が無い。濡れないように、高い場所に置きたいのに。…」
                   </blockquote>
                 </div>
               </div>

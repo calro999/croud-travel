@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドヘッドの埃と連絡のつかない対応に不安黒いベッドヘッドが埃で全面真っ白でした。拭き残しなどというレベルではありませんでしたので、気づいてないのかもしれませんが、拭いたお風呂タオルは真っ黒に…　2026-08-06 08:01:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドヘッドの埃と連絡のつかない対応に不安黒いベッドヘッドが埃で全面真っ白でした。拭き残しなどというレベルではありませんでしたので、気づいてないのかもしれませんが、拭いたお風呂タオルは真っ黒に…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p>【歴史ある古刹で心を洗う】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.5 ／ 部屋 ★4.5 ／ 設備 ★4.5 ／ 風呂 ★4.33 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「8年ぶりの再訪、非日常の体験に大満足家族で泊まりました。以前にも、恵光院さんへ泊まらせもらったあ事があったので2回目になりますが、8年ぶりでした。すべてにおいての、気づかいやお部屋の凄さにもビ…　2026-10-05 14:43:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「8年ぶりの再訪、非日常の体験に大満足家族で泊まりました。以前にも、恵光院さんへ泊まらせもらったあ事があったので2回目になりますが、8年ぶりでした。すべてにおいての、気づかいやお部屋の凄さにもビ…」
                   </blockquote>
                 </div>
               </div>

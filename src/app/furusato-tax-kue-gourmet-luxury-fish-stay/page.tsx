@@ -683,7 +683,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。お部屋食だったため、周りを気にせず家族でゆっくり味わうことがで…　2026-08-21 21:22:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。お部屋食だったため、周りを気にせず家族でゆっくり味わうことがで…」
                   </blockquote>
                 </div>
               </div>
@@ -705,7 +705,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　【20台】　　無料です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフさんの様子が少し気になったスタッフさん少しお疲れのようでしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-08-24 06:44:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフさんの様子が少し気になったスタッフさん少しお疲れのようでした」
                   </blockquote>
                 </div>
               </div>
@@ -749,7 +749,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場20台。近隣レンタカー会社あり。電気自動車充電器あり。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋はゆったりだが食事の内容が残念ゆったりしたお部屋でくつろげました。お食事は予約の際選ぶのを間違えたのか、お弁当みたいなのが出て来て少しガッカリです。宿泊料金がまぁまぁしたので、食材が豊富にある…　2026-08-29 19:56:05投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=177048&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋はゆったりだが食事の内容が残念ゆったりしたお部屋でくつろげました。お食事は予約の際選ぶのを間違えたのか、お弁当みたいなのが出て来て少しガッカリです。宿泊料金がまぁまぁしたので、食材が豊富にある…」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場はございません。近隣の有料駐車場をご案内いたします。（徒歩3&amp;#12316;5分の場所）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.52 ／ 部屋 ★4.55 ／ 設備 ★4.26 ／ 風呂 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎の対応が親切で、部屋も清潔で快適ホテルのスタッフの方が港まで迎えに来てくださりとても助かりました。部屋も清潔で、まるで自分のアパートにいるようにゆったりすることができました。また、送迎の時に近…　2026-08-19 15:41:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=188157&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎の対応が親切で、部屋も清潔で快適ホテルのスタッフの方が港まで迎えに来てくださりとても助かりました。部屋も清潔で、まるで自分のアパートにいるようにゆったりすることができました。また、送迎の時に近…」
                   </blockquote>
                 </div>
               </div>

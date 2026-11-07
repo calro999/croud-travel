@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p>【黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…　2026-08-21 20:12:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p>【黒川温泉ひとり旅・入湯手形おこもり：渓流露天風呂・立】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.65 ／ 部屋 ★4.67 ／ 設備 ★4.58 ／ 風呂 ★4.72 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂が充実していて大満足、次は夫婦で!ほんと大満足の旅館でした。風呂がいっぱいあって楽しかった!家族五人で利用させてもらいましたが、次は夫婦で行きたい!クチコミの詳細はこちらから　https…　2026-10-04 12:43:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂が充実していて大満足、次は夫婦で!ほんと大満足の旅館でした。風呂がいっぱいあって楽しかった!家族五人で利用させてもらいましたが、次は夫婦で行きたい!」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.86 ／ 立地 ★4.89 ／ 部屋 ★4.79 ／ 設備 ★4.79 ／ 風呂 ★4.76 ／ 食事 ★4.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行でゆっくりと癒やされるおもてなし久し振りの家族旅行 ゆっくりと時間が過ぎる感じとおもてなしに癒されましたありがとうございました他の画像やクチコミの詳細はこちらから　https://…　2026-10-07 09:04:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族旅行でゆっくりと癒やされるおもてなし久し振りの家族旅行 ゆっくりと時間が過ぎる感じとおもてなしに癒されましたありがとうございました」
                   </blockquote>
                 </div>
               </div>

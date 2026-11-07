@@ -387,7 +387,7 @@ export default function Page() {
                   <p>【立ち上る湯けむりと濃密な硫黄の香り】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.23 ／ 部屋 ★4.15 ／ 設備 ★4.1 ／ 風呂 ★4.59 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「6回目の利用、敷布団以外は全て満足今回、6回目の宿泊です。敷布団が少し硬かったくらいで、その他は全て満足でした。また宿泊したいと思います。クチコミの詳細はこちらから　https…　2026-09-30 18:27:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「6回目の利用、敷布団以外は全て満足今回、6回目の宿泊です。敷布団が少し硬かったくらいで、その他は全て満足でした。また宿泊したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.13 ／ 部屋 ★4.43 ／ 設備 ★4.34 ／ 風呂 ★4.65 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くてベットも寝心地が良く快適でした。お風呂も清潔感があり、部屋から近くて何回も入りました。貸し切り露天風呂が宿から外に出て石段を上がるのですが下駄を借りて行くのですが雨で傘もさしていたし夜…　2026-10-02 16:21:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くてベットも寝心地が良く快適でした。お風呂も清潔感があり、部屋から近くて何回も入りました。貸し切り露天風呂が宿から外に出て石段を上がるのですが下駄を借りて行くのですが雨で傘もさしていたし夜…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.38 ／ 部屋 ★4.29 ／ 設備 ★4.21 ／ 風呂 ★4.63 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「息子夫婦とゆっくりまったり〜山奥にある小さなホテルという感じ。部屋数が少ないので、お風呂もお食事処も混雑せずに、ゆったり過ごせました。お風呂は乳白色で、ザ・温泉!露天風呂も最高でしたお夕飯は、…　2026-10-04 16:52:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「息子夫婦とゆっくりまったり〜山奥にある小さなホテルという感じ。部屋数が少ないので、お風呂もお食事処も混雑せずに、ゆったり過ごせました。お風呂は乳白色で、ザ・温泉!露天風呂も最高でしたお夕飯は、…」
                   </blockquote>
                 </div>
               </div>

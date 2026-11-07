@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【甘酸っぱい柚子・みかんの香りに包まれる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事…　2026-09-10 01:46:02投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=128473&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p>【甘酸っぱい柚子・みかんの香りに包まれる】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.79 ／ 部屋 ★3.85 ／ 設備 ★3.61 ／ 風呂 ★4.26 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さを感じさせない管理と温泉に満足古い施設と判断していたが古くてもきれいに管理され Goodに評価できました。温泉はうわさ通りで 良いお湯でした。      肌ざわり良くきれいで湯温も…　2026-10-07 19:31:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さを感じさせない管理と温泉に満足古い施設と判断していたが古くてもきれいに管理され Goodに評価できました。温泉はうわさ通りで 良いお湯でした。      肌ざわり良くきれいで湯温も…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【甘酸っぱい柚子・みかんの香りに包まれる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて 冷蔵庫下の床は捲れ上が…　2026-08-13 05:19:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて 冷蔵庫下の床は捲れ上が…」
                   </blockquote>
                 </div>
               </div>

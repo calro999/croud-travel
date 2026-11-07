@@ -772,7 +772,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（1,000円／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理が最高、子供も大満足の金沢旅行幼児連れの家族で一泊しました。ホスピタリティ溢れた接客がありがたかったです。部屋は掃除が行き届いており、水回りも綺麗で気持ちよく使えました。1番楽しみに…　2026-08-27 23:41:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理が最高、子供も大満足の金沢旅行幼児連れの家族で一泊しました。ホスピタリティ溢れた接客がありがたかったです。部屋は掃除が行き届いており、水回りも綺麗で気持ちよく使えました。1番楽しみに…」
                   </blockquote>
                 </div>
               </div>
@@ -794,7 +794,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>78台 1泊/1,300円【車高1.9ｍ　先着順・予約不可】提携P：立体1,500台 1泊/800円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.22 ／ 部屋 ★4.03 ／ 設備 ★4.04 ／ 風呂 ★4.13 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの接客も丁寧でお部屋も清潔感があってよかったのですがベッドのマットレスが柔らか過ぎて私には、少し寝ずらかったです。その他は、大満足でした。クチコミの詳細はこちらから　htt…　2026-10-10 23:00:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの接客も丁寧でお部屋も清潔感があってよかったのですがベッドのマットレスが柔らか過ぎて私には、少し寝ずらかったです。その他は、大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -816,7 +816,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>134台先着順　1泊1,000円(入庫より24時間)　大型車駐車可(要予約)　車椅子専用P有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜のラーメンサービスが嬉しい、行列必至夜にラーメンのサービスとっても嬉しい...長い行列出来るけどクチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-08-27 22:05:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜のラーメンサービスが嬉しい、行列必至夜にラーメンのサービスとっても嬉しい...長い行列出来るけど」
                   </blockquote>
                 </div>
               </div>
@@ -838,7 +838,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料提携駐車場：服部パーキング・Qパーキング　1200円（15時～翌10時途中出庫なし）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「えやこクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/167859?reviewId=33123479179370　2026-08-28 05:21:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「えやこ」
                   </blockquote>
                 </div>
               </div>

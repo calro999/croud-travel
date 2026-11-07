@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：30台・無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付きのお部屋を使わせて頂きました。夕食後、部屋へ戻り湯船に浸かり、そのまま布団でゴロゴロ出来るのは最高です。夕食は美味しくとてもボリュームがあります。お昼ご飯は控えめにする、もしくは抜…　2026-09-05 12:54:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付きのお部屋を使わせて頂きました。夕食後、部屋へ戻り湯船に浸かり、そのまま布団でゴロゴロ出来るのは最高です。夕食は美味しくとてもボリュームがあります。お昼ご飯は控えめにする、もしくは抜…」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日によって変わる温泉の熱さを楽しむ日によって温泉のお湯の熱さが変わるのも楽しみのひとつです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-08-29 13:46:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日によって変わる温泉の熱さを楽しむ日によって温泉のお湯の熱さが変わるのも楽しみのひとつです。」
                   </blockquote>
                 </div>
               </div>

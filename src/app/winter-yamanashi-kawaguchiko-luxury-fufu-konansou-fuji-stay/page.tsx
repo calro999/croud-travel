@@ -458,7 +458,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「目の前に河口湖の絶景部屋に入った途端、目の前が河口湖でロケーションは最高。あいにくの雨で富士山は見えませんでしたが、シルバーウィーク後半に親孝行ができて満足です。チェックイン後はロビーでワインなど…　2026-09-24 21:26:16投稿 つづきはこちら」
+                「目の前に河口湖の絶景部屋に入った途端、目の前が河口湖でロケーションは最高。あいにくの雨で富士山は見えませんでしたが、シルバーウィーク後半に親孝行ができて満足です。チェックイン後はロビーでワインなど… つづきはこちら」
               </div>
 
               <div className="pt-2">

@@ -454,7 +454,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>タワー式（車高155cm・タイヤ幅175cm以下）約40台　1泊1200円（15時~翌10時）先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「向かいにドンキがあり便利、朝食は二日同じ二泊利用させていただきました向かいにドンキがあるのもとても便利朝食は二日間同じメニューでしたクチコミの詳細はこちらから　https://re…　2026-08-22 18:29:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「向かいにドンキがあり便利、朝食は二日同じ二泊利用させていただきました向かいにドンキがあるのもとても便利朝食は二日間同じメニューでした」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1300円（税込）/泊15：00〜翌10：00　提携駐車場『栄Mパーキング』　※出し入別料金</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.04 ／ 部屋 ★4.04 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荷物預かりや朝食も良く、大満足の滞在まず、チェックイン前の荷物預かり、心良く預かって頂けました。部屋はシングルのでしたが、ベッド広めで良く眠られました。大浴場は、あまり大きなお風呂ではない…　2026-10-07 17:03:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荷物預かりや朝食も良く、大満足の滞在まず、チェックイン前の荷物預かり、心良く預かって頂けました。部屋はシングルのでしたが、ベッド広めで良く眠られました。大浴場は、あまり大きなお風呂ではない…」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　２０００円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.05 ／ 部屋 ★4.16 ／ 設備 ★4.08 ／ 風呂 ★3.98 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎月通う安定の定宿毎月利用してますが、安定の定宿ですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/180672?r…　2026-10-03 20:48:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎月通う安定の定宿毎月利用してますが、安定の定宿です」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.11 ／ 部屋 ★4.22 ／ 設備 ★4.18 ／ 風呂 ★4.16 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と無料サービスが充実、脱衣所は混雑気味大浴場があって嬉しかったです。ただ、脱衣所の作りのせいか、同タイミングに入っていた人と譲り合って利用する場面がありました。お風呂上がりのミニアイスサ…　2026-09-21 15:55:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と無料サービスが充実、脱衣所は混雑気味大浴場があって嬉しかったです。ただ、脱衣所の作りのせいか、同タイミングに入っていた人と譲り合って利用する場面がありました。お風呂上がりのミニアイスサ…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function NagoyaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>予約は承っておりません。先着順でのご案内です。　タワー型立体駐車場（制限あり）有料：1500円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.01 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝から豊富なメニューに大満足朝から豊富な食べ物は最高クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/70971?re…　2026-10-09 21:02:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝から豊富なメニューに大満足朝から豊富な食べ物は最高」
                   </blockquote>
                 </div>
               </div>

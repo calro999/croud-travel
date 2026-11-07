@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>109台の無料専用平面駐車場完備（先着順）/大型車も可能（有料・事前予約制）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で大浴場も満足、ゆっくり休めたゆっくり休めました!部屋も綺麗で大浴場も満足です!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-08-17 16:35:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で大浴場も満足、ゆっくり休めたゆっくり休めました!部屋も綺麗で大浴場も満足です!」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p>【出来立ての生ビールと名湯に酔いしれる】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.41 ／ 部屋 ★4.16 ／ 設備 ★4.05 ／ 風呂 ★4.33 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本海と積丹の絶景、食事と温泉に大満足日本海と積丹半島の見える部屋に大満足。夜景も素敵でした。温泉もお気に入りの湯温で温まりました。夕食は隣接の地ビール施設で楽しめ、朝食はタラコの食べ比べ、イカ刺…　2026-10-08 19:31:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本海と積丹の絶景、食事と温泉に大満足日本海と積丹半島の見える部屋に大満足。夜景も素敵でした。温泉もお気に入りの湯温で温まりました。夕食は隣接の地ビール施設で楽しめ、朝食はタラコの食べ比べ、イカ刺…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.99 ／ 部屋 ★3.86 ／ 設備 ★3.82 ／ 風呂 ★4.26 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食の料理内容が期待外れでした夕食のエサが悪かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/29716?rev…　2026-10-10 18:05:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食の料理内容が期待外れでした夕食のエサが悪かった」
                   </blockquote>
                 </div>
               </div>

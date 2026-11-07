@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　23台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と快適に過ごせ、心温まる思い出の旅柴犬を連れての初めての旅館宿泊でした。部屋の設備、防音、快適性や犬のための備品、部屋内での過ごし方などとても工夫されていて、快適な宿泊でした。家族も大満足…　2026-08-31 17:53:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と快適に過ごせ、心温まる思い出の旅柴犬を連れての初めての旅館宿泊でした。部屋の設備、防音、快適性や犬のための備品、部屋内での過ごし方などとても工夫されていて、快適な宿泊でした。家族も大満足…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【琵琶湖・おごと温泉と比叡山延暦寺の紅葉】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.59 ／ 部屋 ★4.62 ／ 設備 ★4.62 ／ 風呂 ★4.63 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1歳・3歳連れでも安心。子どもへの配慮と食事が良かったです1歳と3歳の子どもを連れて家族で宿泊しました。小さな子どもが2人いると、部屋での過ごし方や食事、お風呂など何かと気を遣いますが、こちらでは…　2026-10-10 16:34:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1歳・3歳連れでも安心。子どもへの配慮と食事が良かったです1歳と3歳の子どもを連れて家族で宿泊しました。小さな子どもが2人いると、部屋での過ごし方や食事、お風呂など何かと気を遣いますが、こちらでは…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４８台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「10年ぶりの再訪、今回も大満足の温泉旅館2回目です。10年程度前に両親と来て以来です。親が来られなくなり、娘も独り立ちしたので、夫婦での訪問でした。結論から言って、今回も花街道さんにして大満足…　2026-09-12 16:41:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「10年ぶりの再訪、今回も大満足の温泉旅館2回目です。10年程度前に両親と来て以来です。親が来られなくなり、娘も独り立ちしたので、夫婦での訪問でした。結論から言って、今回も花街道さんにして大満足…」
                   </blockquote>
                 </div>
               </div>

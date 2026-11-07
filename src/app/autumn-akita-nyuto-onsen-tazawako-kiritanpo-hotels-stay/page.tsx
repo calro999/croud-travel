@@ -454,7 +454,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p>【秋の乳頭温泉郷・田沢湖：ブナ原生林の黄金紅葉と名物き】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.5 ／ 部屋 ★4.34 ／ 設備 ★4.35 ／ 風呂 ★4.67 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大自然の温泉と美味しい地酒に大満足山奥の静かな温泉地大自然でゆっくりと温泉が楽しめるのが最高夕食のきりたんぽ鍋など多品種の食材を美味しく頂き満足地酒も美味しいクチコミの詳細はこちらから…　2026-10-02 16:59:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大自然の温泉と美味しい地酒に大満足山奥の静かな温泉地大自然でゆっくりと温泉が楽しめるのが最高夕食のきりたんぽ鍋など多品種の食材を美味しく頂き満足地酒も美味しい」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館正面、道路向かい側の春山第一駐車場に駐車し、そのままフロントへお越しください(無料・予約不要)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.55 ／ 部屋 ★4.75 ／ 設備 ★4.61 ／ 風呂 ★4.54 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/139459?reviewId=33123479645875　2026-10-07 01:39:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料／40台／予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4 ／ 部屋 ★4.49 ／ 設備 ★4.21 ／ 風呂 ★4.15 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「至れり尽くせりのサービスと温泉に感動大曲花火の為、8/29-30に1泊宿泊した。RakutenTravelに貼り付きずっと宿を探していて、偶々キャンセルが出たようで急いで予約した為、予約内容をあま…　2026-10-07 15:58:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「至れり尽くせりのサービスと温泉に感動大曲花火の為、8/29-30に1泊宿泊した。RakutenTravelに貼り付きずっと宿を探していて、偶々キャンセルが出たようで急いで予約した為、予約内容をあま…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★3.99 ／ 部屋 ★4.02 ／ 設備 ★4.01 ／ 風呂 ★4.09 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ライブキッチンのステーキが絶品、料理も大満足バイキングのお料理が美味しかった。口コミの通り、ライブキッチンのステーキの味が良く、他のお料理もちゃんと作られている内容で満足でした。クチコミの詳細…　2026-10-08 09:32:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ライブキッチンのステーキが絶品、料理も大満足バイキングのお料理が美味しかった。口コミの通り、ライブキッチンのステーキの味が良く、他のお料理もちゃんと作られている内容で満足でした。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function NyutoOnsenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★3.96 ／ 部屋 ★3.82 ／ 設備 ★3.78 ／ 風呂 ★4.05 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「比内地鶏と地元野菜が美味しくリピート確定ビュッフェが美味しい!夏に続けて2回目です。比内地鶏や地元野菜そのものが美味しい。また利用します!クチコミの詳細はこちらから　https:/…　2026-10-10 15:56:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「比内地鶏と地元野菜が美味しくリピート確定ビュッフェが美味しい!夏に続けて2回目です。比内地鶏や地元野菜そのものが美味しい。また利用します!」
                   </blockquote>
                 </div>
               </div>

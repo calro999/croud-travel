@@ -306,7 +306,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。コストはかか…　2026-08-20 17:16:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。コストはかか…」
                   </blockquote>
                 </div>
               </div>
@@ -328,7 +328,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（先着順）　1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレットペーパーの補充と対応に不満トイレットペーパーが無くなるという前代未聞の出来事がありました。予備は置いていない。フロントに電話をかけても一向に出ない。仕方ないので取りに行ったら…　2026-08-20 23:26:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレットペーパーの補充と対応に不満トイレットペーパーが無くなるという前代未聞の出来事がありました。予備は置いていない。フロントに電話をかけても一向に出ない。仕方ないので取りに行ったら…」
                   </blockquote>
                 </div>
               </div>
@@ -350,7 +350,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>（1泊1台）1,800円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地やサービスは抜群だが清掃面に難あり旅の最終日に国際通り目的で立地の良いJALホテルを選びました。立地、フロントの対応、荷物が送れる、タクシーの配車のスムーズさなどサービスは抜群。翌日の午前便の…　2026-08-14 14:05:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地やサービスは抜群だが清掃面に難あり旅の最終日に国際通り目的で立地の良いJALホテルを選びました。立地、フロントの対応、荷物が送れる、タクシーの配車のスムーズさなどサービスは抜群。翌日の午前便の…」
                   </blockquote>
                 </div>
               </div>
@@ -372,7 +372,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>電話・メールにてご予約下さい。メッセージでは受付致しません。満車時は近隣コイン駐車場をご利用下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「国際通りに近く便利だが朝食は残念外国の方が多かったです。朝食はおすすめしません(冷凍食品?)。それ以外は特に不満なく国際通りも近いので便利でした。クチコミの詳細はこちらから　https://r…　2026-08-29 12:32:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「国際通りに近く便利だが朝食は残念外国の方が多かったです。朝食はおすすめしません(冷凍食品?)。それ以外は特に不満なく国際通りも近いので便利でした。」
                   </blockquote>
                 </div>
               </div>
@@ -394,7 +394,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携のコインパーキングが1箇所ございます。詳しくはフロントまでお問い合わせ下さいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「デラックスツインは広くて快適、設備も充実デラックスツインに宿泊 前日はここがとれず別室の狭いツインに宿泊してたこともあり、広くて快適でした壁一面に絵が描かれてて、広い引き戸のクローゼット、洗面…　2026-07-17 00:39:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「デラックスツインは広くて快適、設備も充実デラックスツインに宿泊 前日はここがとれず別室の狭いツインに宿泊してたこともあり、広くて快適でした壁一面に絵が描かれてて、広い引き戸のクローゼット、洗面…」
                   </blockquote>
                 </div>
               </div>
@@ -416,7 +416,7 @@ export default function OkinawaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.11 ／ 部屋 ★3.73 ／ 設備 ★3.77 ／ 風呂 ★3.63 ／ 食事 ★3.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と清潔感、立地が素晴らしいスタッフの方が親切で気持ちが良いです。シャワールームとトイレの清潔感もバッチリです。また、ウェルカムドリンクのサービスが充実しています。夕方には泡盛3種類が…　2026-10-09 22:32:53投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=158644&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と清潔感、立地が素晴らしいスタッフの方が親切で気持ちが良いです。シャワールームとトイレの清潔感もバッチリです。また、ウェルカムドリンクのサービスが充実しています。夕方には泡盛3種類が…」
                   </blockquote>
                 </div>
               </div>

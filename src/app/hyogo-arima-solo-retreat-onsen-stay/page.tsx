@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p>【有馬温泉ひとり旅・金泉銀泉おこもり：日本最古の名湯・】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「タコ弁当とスタッフの配慮で快適な滞在素泊まりに弁当がつくプランでした。タコ弁当で売店の前にあるレンジを使用し温めおいしく頂きました。スタッフの方より快適に過ごせるよう時間の融通など配慮していただき…　2026-09-17 17:54:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「タコ弁当とスタッフの配慮で快適な滞在素泊まりに弁当がつくプランでした。タコ弁当で売店の前にあるレンジを使用し温めおいしく頂きました。スタッフの方より快適に過ごせるよう時間の融通など配慮していただき…」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：120台（無料・先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.48 ／ 部屋 ★4.49 ／ 設備 ★4.44 ／ 風呂 ★4.72 ／ 食事 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「両親と有馬温泉、食事と温泉に大満足「有馬温泉に行きたい」という高齢の両親を連れて利用しました。有馬温泉でも有名なお宿ということで選びましたが、どのスタッフの方もとても丁寧にご対応くださり、落ち着い…　2026-10-09 15:39:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「両親と有馬温泉、食事と温泉に大満足「有馬温泉に行きたい」という高齢の両親を連れて利用しました。有馬温泉でも有名なお宿ということで選びましたが、どのスタッフの方もとても丁寧にご対応くださり、落ち着い…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p>【有馬温泉ひとり旅・金泉銀泉おこもり：日本最古の名湯・】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.53 ／ 部屋 ★4.52 ／ 設備 ★4.36 ／ 風呂 ★4.62 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊勢海老のお刺身が絶品、金泉の温泉も最高夕食のお刺身(伊勢海老のお刺身)は、とても美味しかった!金泉の温泉は、良かった。クチコミの詳細はこちらから　https://review.trave…　2026-10-03 21:29:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊勢海老のお刺身が絶品、金泉の温泉も最高夕食のお刺身(伊勢海老のお刺身)は、とても美味しかった!金泉の温泉は、良かった。」
                   </blockquote>
                 </div>
               </div>

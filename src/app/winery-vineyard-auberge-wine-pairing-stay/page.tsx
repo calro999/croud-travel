@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５０台　無料　EV対応　普通充電器［交流 8ｋW］4基　１回1000円　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.67 ／ 部屋 ★4.75 ／ 設備 ★4.68 ／ 風呂 ★4.62 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「完璧な接客と料理、価格以上の価値ある体験立地、食事、温泉、スタッフの気配り、笑顔どれをとってもほぼ完璧でした。出すぎず、でも必要なときは横にいてくれる感覚。スタッフの都合より宿泊客がどう快適に過ご…　2026-10-09 10:01:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「完璧な接客と料理、価格以上の価値ある体験立地、食事、温泉、スタッフの気配り、笑顔どれをとってもほぼ完璧でした。出すぎず、でも必要なときは横にいてくれる感覚。スタッフの都合より宿泊客がどう快適に過ご…」
                   </blockquote>
                 </div>
               </div>

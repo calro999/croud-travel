@@ -633,7 +633,7 @@ export default function Page() {
                   <p>【日本三大松原＆白砂青松オーシャンビュー宿×ふるさと納】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。お部屋の洗面スペースだけ空調が無かっ…　2026-09-06 08:45:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気も料理も温泉も最高、接客も大満足お宿の雰囲気もお料理も温泉もとても良かったです。スタッフの皆さんも、到着から出発まで気持ち良い接客で大満足でした。お部屋の洗面スペースだけ空調が無かっ…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中居さんの案内が温かく、料理も美味しく満足今時はどのホテルに行っても受付後、鍵を渡されて自分で部屋を探すところが多いですが、こちらは中居さん?に案内していただきました。なんだか懐かしく、温かい…　2026-08-20 01:37:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中居さんの案内が温かく、料理も美味しく満足今時はどのホテルに行っても受付後、鍵を渡されて自分で部屋を探すところが多いですが、こちらは中居さん?に案内していただきました。なんだか懐かしく、温かい…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（400台）　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天気が曇りで富士山は見えなかったがそれでも部屋からの景色は最高でした、ご飯も非常に美味しかったです、また行きたいと思える良いホテルですクチコミの詳細はこちらから　https://review.tr…　2026-09-02 18:49:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天気が曇りで富士山は見えなかったがそれでも部屋からの景色は最高でした、ご飯も非常に美味しかったです、また行きたいと思える良いホテルです」
                   </blockquote>
                 </div>
               </div>

@@ -454,7 +454,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の一般コインパーキングのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.19 ／ 部屋 ★4.36 ／ 設備 ★4.38 ／ 風呂 ★4.48 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と温泉、大阪観光の常宿に決定部屋綺麗。温泉、サウナもあって、価格も良心的。去年の万博に続き利用しました。大阪観光の時は常宿認定してます。クチコミの詳細はこちらから　htt…　2026-10-11 00:21:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と温泉、大阪観光の常宿に決定部屋綺麗。温泉、サウナもあって、価格も良心的。去年の万博に続き利用しました。大阪観光の時は常宿認定してます。」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>２台、要電話予約、連泊利用不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.12 ／ 部屋 ★4.17 ／ 設備 ★4.17 ／ 風呂 ★4.02 ／ 食事 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが温泉と部屋の段差が不便ウエルカムドリンクや朝食が充実していました温泉は時間帯別で女性・男性が入替制19時から23時は女性専用で実質男性が温泉を使うことが難しいと感じました …　2026-10-06 22:56:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが温泉と部屋の段差が不便ウエルカムドリンクや朝食が充実していました温泉は時間帯別で女性・男性が入替制19時から23時は女性専用で実質男性が温泉を使うことが難しいと感じました …」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場はございません。周辺コインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.38 ／ 部屋 ★4.41 ／ 設備 ★4.37 ／ 風呂 ★4.36 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が便利で安価、また出張で利用したい立地が便利で、とても安価でまだ東京出張の際は利用させてください。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-10 21:10:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が便利で安価、また出張で利用したい立地が便利で、とても安価でまだ東京出張の際は利用させてください。」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（予約不要）170台 1,000円／24時間（車高制限2.1ｍ以下） バイク・自転車駐輪場なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.23 ／ 部屋 ★4.32 ／ 設備 ★4.27 ／ 風呂 ★4.45 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋と露天風呂が最高でしたお部屋も綺麗で清潔感があり良かったです。温泉には露天風呂もあり最高でした。また宿泊したいです。クチコミの詳細はこちらから　https://review…　2026-10-10 08:55:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋と露天風呂が最高でしたお部屋も綺麗で清潔感があり良かったです。温泉には露天風呂もあり最高でした。また宿泊したいです。」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function OsakaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ご宿泊当日12:00〜翌12:00迄3,000円 上記時間外は500円/30分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.71 ／ 部屋 ★4.73 ／ 設備 ★4.71 ／ 風呂 ★4.72 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮なサラダと気持ちいいお風呂に満足朝食のサラダの種類が多い上フレッシュで、普段苦手な私でも美味しく頂けました。お風呂もとても気持ちよかったです。接客対応は人によりけりでしたが、電話で子供…　2026-10-10 23:20:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮なサラダと気持ちいいお風呂に満足朝食のサラダの種類が多い上フレッシュで、普段苦手な私でも美味しく頂けました。お風呂もとても気持ちよかったです。接客対応は人によりけりでしたが、電話で子供…」
                   </blockquote>
                 </div>
               </div>

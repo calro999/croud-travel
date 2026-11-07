@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のあまりの古さにびっくりしました。スタッフさんは親切でした。ご飯も美味しく食べられました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-09-02 09:25:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のあまりの古さにびっくりしました。スタッフさんは親切でした。ご飯も美味しく食べられました。」
                   </blockquote>
                 </div>
               </div>

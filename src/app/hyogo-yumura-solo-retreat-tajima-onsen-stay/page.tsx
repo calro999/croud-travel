@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり（約80台）　電気自動車（EV）普通充電器を1台設置（要事前予約・ご宿泊者限定）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「老舗旅館って感じでお部屋に生花をいけて下さったり、仲居さんも親切で素晴らしかったです。夕飯も全部美味しくてお腹いっぱいになりました。朝食もご飯のお供が沢山で良かったです。温泉も堪能しました。少し気にな…　2026-08-18 21:18:10投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=19964&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「老舗旅館って感じでお部屋に生花をいけて下さったり、仲居さんも親切で素晴らしかったです。夕飯も全部美味しくてお腹いっぱいになりました。朝食もご飯のお供が沢山で良かったです。温泉も堪能しました。少し気にな…」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シックな空間と囲炉裏会席に大満足部屋をはじめ建物内はシックで落ち着いた佇まいで非常に素晴らしいと思いました。夕食の囲炉裏会席は他では体験出来ない楽しいものでした。また、大変美味しくいただきまし…　2026-08-22 17:36:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シックな空間と囲炉裏会席に大満足部屋をはじめ建物内はシックで落ち着いた佇まいで非常に素晴らしいと思いました。夕食の囲炉裏会席は他では体験出来ない楽しいものでした。また、大変美味しくいただきまし…」
                   </blockquote>
                 </div>
               </div>
@@ -574,7 +574,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>要予約(予約順30台)1泊1台770円（税込）･満車時徒歩７分契約駐車場・大型車両、二輪車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.82 ／ 立地 ★3.78 ／ 部屋 ★3.7 ／ 設備 ★3.68 ／ 風呂 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレの清掃が行き届いていないトイレ掃除してないみたいクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/2749?re…　2026-10-09 07:05:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレの清掃が行き届いていないトイレ掃除してないみたい」
                   </blockquote>
                 </div>
               </div>
@@ -596,7 +596,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…　2026-08-19 19:52:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
                   </blockquote>
                 </div>
               </div>
@@ -618,7 +618,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★4.02 ／ 風呂 ★4.01 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンは3段階、清掃やタオル交換は有料エアコンの温度設定なし3段階スイッチ。連泊時のタオルの取替えは別途料金。清掃はなし。川反の飲み屋は近い。駐車場はすぐ埋まるが、近隣にもコインパーキングは有る…　2026-10-08 08:32:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンは3段階、清掃やタオル交換は有料エアコンの温度設定なし3段階スイッチ。連泊時のタオルの取替えは別途料金。清掃はなし。川反の飲み屋は近い。駐車場はすぐ埋まるが、近隣にもコインパーキングは有る…」
                   </blockquote>
                 </div>
               </div>

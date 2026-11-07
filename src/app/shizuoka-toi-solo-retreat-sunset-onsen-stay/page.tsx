@@ -511,7 +511,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）※当館入口付近の道路が大変狭くなっておりますので、別途駐車場（徒歩1分）もご案内可能です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.08 ／ 部屋 ★4.77 ／ 設備 ★4.71 ／ 風呂 ★4.78 ／ 食事 ★4.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華なお刺身と綺麗な温泉に大満足お刺身が豪華ですごく美味しかった。お風呂も綺麗で最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-09-29 12:20:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豪華なお刺身と綺麗な温泉に大満足お刺身が豪華ですごく美味しかった。お風呂も綺麗で最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.65 ／ 部屋 ★4.54 ／ 設備 ★4.38 ／ 風呂 ★4.56 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「孫と過ごす和風旅館での寛ぎのひととき久方ぶりに孫の乳幼児共々和風旅館でゆっくり寛いですごしました。接客、料理、風呂もとても良かったと思います。クチコミの詳細はこちらから　https://r…　2026-10-10 14:25:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「孫と過ごす和風旅館での寛ぎのひととき久方ぶりに孫の乳幼児共々和風旅館でゆっくり寛いですごしました。接客、料理、風呂もとても良かったと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.46 ／ 部屋 ★4.26 ／ 設備 ★3.96 ／ 風呂 ★4.17 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フリーフローと立地は最高、設備と食事に改善の余地あり客室露天風呂付きのお部屋に2名で宿泊しました。良かった点と、次に泊まる方の参考になりそうな点を正直に書きます。一番良かったのは15:00…　2026-10-07 17:29:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フリーフローと立地は最高、設備と食事に改善の余地あり客室露天風呂付きのお部屋に2名で宿泊しました。良かった点と、次に泊まる方の参考になりそうな点を正直に書きます。一番良かったのは15:00…」
                   </blockquote>
                 </div>
               </div>

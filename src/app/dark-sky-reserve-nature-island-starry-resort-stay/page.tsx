@@ -355,7 +355,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（70台）　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海と空を望む絶景とプールで癒やされる台風の影響で急遽西表島から石垣島に退避することになり、2泊3日で予約させていただきました。中庭のプールと海との一体感がとても気持ちよかったです。また、新…　2026-08-30 21:59:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海と空を望む絶景とプールで癒やされる台風の影響で急遽西表島から石垣島に退避することになり、2泊3日で予約させていただきました。中庭のプールと海との一体感がとても気持ちよかったです。また、新…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルに駐車場のご用意はございませんので、近隣の有料コインパーキングをご利用下さいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高入り口は、ここ?と思いましたが、中に入ったらとても清潔感のある、おしゃれな内装でした。部屋のドアがへこんでいたのは気になりましたが、中は特に問題ありませんでした。フロントの方もとても親切…　2026-07-29 22:36:31投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=149092&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高入り口は、ここ?と思いましたが、中に入ったらとても清潔感のある、おしゃれな内装でした。部屋のドアがへこんでいたのは気になりましたが、中は特に問題ありませんでした。フロントの方もとても親切…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はございません。ホテルの隣に市営の駐車場がございます。(1時間100円、夜間1時間50円)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「至福の朝食部屋などは真新しい感じはしませんが、コスパを考えたらそれなりの感じです。朝食は最高です。沖縄料理を堪能できます。ブルーシールアイスもあり、満足ではなく大満足です。クチコミの詳細は…　2026-08-18 07:10:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「至福の朝食部屋などは真新しい感じはしませんが、コスパを考えたらそれなりの感じです。朝食は最高です。沖縄料理を堪能できます。ブルーシールアイスもあり、満足ではなく大満足です。クチコミの詳細は…」
                   </blockquote>
                 </div>
               </div>

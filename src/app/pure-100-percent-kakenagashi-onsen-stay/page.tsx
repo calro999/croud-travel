@@ -355,7 +355,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１５台収容。無料にてご用意致しております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は良いが設備や案内に不安あり料理、温泉は最高でした。でも別館の説明が雑だと思います。通常別館といえば割と近くにあるイメージでしたが、別館が多くある事を詳細に載せる必要があると思います。そ…　2026-08-07 21:47:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は良いが設備や案内に不安あり料理、温泉は最高でした。でも別館の説明が雑だと思います。通常別館といえば割と近くにあるイメージでしたが、別館が多くある事を詳細に載せる必要があると思います。そ…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘境のぬる湯と美味しい食事でゆったり満喫とても素敵な秘境宿です。温泉は混浴露天と混浴内湯、男女別内湯、女性専用露天と満載ぬる湯ですので1時間位は楽しめます。混浴も湯あみ着が300円でレ…　2026-08-04 00:40:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秘境のぬる湯と美味しい食事でゆったり満喫とても素敵な秘境宿です。温泉は混浴露天と混浴内湯、男女別内湯、女性専用露天と満載ぬる湯ですので1時間位は楽しめます。混浴も湯あみ着が300円でレ…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足なソロ温泉旅夕食・朝食共に丁度良くおいしかった。お風呂は最高でした。前から入ってみたかったお風呂だったので満足です!クチコミの詳細はこちらから　https://review.tra…　2026-08-18 19:20:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足なソロ温泉旅夕食・朝食共に丁度良くおいしかった。お風呂は最高でした。前から入ってみたかったお風呂だったので満足です!」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【自家源泉かけ流し100%の宿：加水なし・加温なし・循】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂は熱めで食事の飲み物は限定的お風呂は全体的にやや熱めです昔は川を渡ると露天風呂があったのか、今はシールで隠されていました食事の際の飲み物がほうじ茶と冷水のみでした至極一般的な宿と…　2026-08-14 23:09:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂は熱めで食事の飲み物は限定的お風呂は全体的にやや熱めです昔は川を渡ると露天風呂があったのか、今はシールで隠されていました食事の際の飲み物がほうじ茶と冷水のみでした至極一般的な宿と…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台　無料（車高が低い車や、大型車、車椅子利用時などは事前にご連絡ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.41 ／ 部屋 ★4.32 ／ 設備 ★4.28 ／ 風呂 ★4.48 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの風呂と部屋食に大満足お部屋にお風呂付、夕食と朝食があるプランでした。お風呂はすべて源泉掛け流しで、様々な形式のものがあります。食事も美味しかったです。夕食は部屋食で丁寧な…　2026-10-01 12:48:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの風呂と部屋食に大満足お部屋にお風呂付、夕食と朝食があるプランでした。お風呂はすべて源泉掛け流しで、様々な形式のものがあります。食事も美味しかったです。夕食は部屋食で丁寧な…」
                   </blockquote>
                 </div>
               </div>

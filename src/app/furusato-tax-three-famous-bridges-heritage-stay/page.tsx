@@ -683,7 +683,7 @@ export default function FurusatoFeaturePage() {
                   <p>【日本三名橋＆歴史遺産を望むリバーサイド名宿×ふるさと】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や露天風呂は良いがサービスに不満あり良い箇所は部屋の作り、特に柱、梁は素晴らしく、日本間も15畳の落ち着いた快適な部屋、露天風呂も良い!改良して欲しい箇所、特別室の(幸)に宿泊、歯ブラシ等…　2026-08-17 15:47:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や露天風呂は良いがサービスに不満あり良い箇所は部屋の作り、特に柱、梁は素晴らしく、日本間も15畳の落ち着いた快適な部屋、露天風呂も良い!改良して欲しい箇所、特別室の(幸)に宿泊、歯ブラシ等…」
                   </blockquote>
                 </div>
               </div>
@@ -705,7 +705,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.11 ／ 設備 ★4.07 ／ 風呂 ★4.27 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事のお給仕の方が大変親切でした食事のお給仕の方が大変親切でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13…　2026-10-08 10:36:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事のお給仕の方が大変親切でした食事のお給仕の方が大変親切でした」
                   </blockquote>
                 </div>
               </div>
@@ -727,7 +727,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　約80台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎の夜景が最高、食事も接客も満足とにかく夜景が最高でした!部屋からもラウンジからも展望温泉からも長崎の夜景が美しかったです。食事も美味しく、接客も丁寧でした。設備はリニューアルし…　2026-08-21 15:17:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎の夜景が最高、食事も接客も満足とにかく夜景が最高でした!部屋からもラウンジからも展望温泉からも長崎の夜景が美しかったです。食事も美味しく、接客も丁寧でした。設備はリニューアルし…」
                   </blockquote>
                 </div>
               </div>
@@ -749,7 +749,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>32台／1泊1,000円　※制限超、満車時は提携駐車場をご案内致します（1泊1,000円～）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「喫煙可でも爽やか、お風呂とトイレは別で快適喫煙可の部屋でしたが、白基調で爽やかに過ごせました。残念だったのは、空気清浄機が稼働すると棚の下の物に振動が伝わるみたいで音が凄かったので、…　2026-08-18 06:58:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「喫煙可でも爽やか、お風呂とトイレは別で快適喫煙可の部屋でしたが、白基調で爽やかに過ごせました。残念だったのは、空気清浄機が稼働すると棚の下の物に振動が伝わるみたいで音が凄かったので、…」
                   </blockquote>
                 </div>
               </div>
@@ -771,7 +771,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★4.12 ／ 部屋 ★3.87 ／ 設備 ★3.7 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。和室でベッ…　2026-10-08 14:40:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「直前割でお得に利用、大浴場と夜景を満喫急な法事で長崎に行くことになったため、比較的お手頃な値段で探したところ、直前割プランと楽天のクーポンで通常よりかなり安くなっており助かりました。和室でベッ…」
                   </blockquote>
                 </div>
               </div>
@@ -793,7 +793,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（地下駐車場 車高2.1Ｍまで)1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいていますクチコミの詳細…　2026-08-22 14:54:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔と広くて綺麗な部屋に満足スタッフの皆さんはいつもにこやかに対応してくださいますお部屋も広くてきれいで良心的なチャージですので何回も利用させていただいていますクチコミの詳細…」
                   </blockquote>
                 </div>
               </div>

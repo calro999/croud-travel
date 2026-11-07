@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【信州・出雲の名水で打つ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.41 ／ 部屋 ★4.37 ／ 設備 ★4.28 ／ 風呂 ★4.71 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、心も身体もリフレッシュ温泉は滞在中ずっと入れます。景色もよく露天風呂もあります。紅葉にはまだ早かったのですが、もうすぐ色付きそうなくらい朝晩冷えていました。温泉が好きな人にオス…　2026-10-10 20:36:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事に大満足、心も身体もリフレッシュ温泉は滞在中ずっと入れます。景色もよく露天風呂もあります。紅葉にはまだ早かったのですが、もうすぐ色付きそうなくらい朝晩冷えていました。温泉が好きな人にオス…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（一部、屋根有り） 100台 無料 予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.07 ／ 部屋 ★3.9 ／ 設備 ★3.79 ／ 風呂 ★4.19 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「徒歩圏内で便利、温泉巡りも楽しめて快適駅前からの送迎バスもあるが徒歩でも余裕でいける距離にあるのが魅力。また通常のチェックイン/チェックアウトも14:00-11:00なのでゆっくりしたい人には…　2026-10-02 08:40:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「徒歩圏内で便利、温泉巡りも楽しめて快適駅前からの送迎バスもあるが徒歩でも余裕でいける距離にあるのが魅力。また通常のチェックイン/チェックアウトも14:00-11:00なのでゆっくりしたい人には…」
                   </blockquote>
                 </div>
               </div>

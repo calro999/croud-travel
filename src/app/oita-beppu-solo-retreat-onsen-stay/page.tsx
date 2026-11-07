@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（500円／泊）予約不可・先着順。※トキハ駐車場は途中出庫不可・チェックイン時に駐車券を要提示</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧と赤ちゃん連れに優しい環境で大満足温泉好きな夫の誕生日に、夫婦と赤ちゃんの3人で宿泊しました。館内に2箇所温泉があり、朝と夕で男女入れ替えで2箇所とも楽しめたのに加えて、徒歩圏内の姉妹…　2026-08-17 07:33:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧と赤ちゃん連れに優しい環境で大満足温泉好きな夫の誕生日に、夫婦と赤ちゃんの3人で宿泊しました。館内に2箇所温泉があり、朝と夕で男女入れ替えで2箇所とも楽しめたのに加えて、徒歩圏内の姉妹…」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台（無料）お車はスタッフが駐車場までご移動しますので、玄関前にお着けください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高、お風呂の種類は少し物足りない夕食は部屋食でゆっくり食事ができました。料理はすき焼きやフグの刺身などとても美味しく、量もあったので大満足でした。朝食も和食でご飯は一人ひとり釜焚きでこちら…　2026-08-22 19:24:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高、お風呂の種類は少し物足りない夕食は部屋食でゆっくり食事ができました。料理はすき焼きやフグの刺身などとても美味しく、量もあったので大満足でした。朝食も和食でご飯は一人ひとり釜焚きでこちら…」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>82台　（ご宿泊のお客様は無料でご利用いただけます。）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.32 ／ 部屋 ★4.29 ／ 設備 ★4.11 ／ 風呂 ★4.23 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「年季はあるが清掃が行き届き食事も美味ホテルや部屋は正直年季を感じさせますが、清掃が行き届いており気持ちの良いものでした。遊園地に直結したホテルなのでバイクングの食事はあまり期待していませんでしたが…　2026-10-03 16:15:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「年季はあるが清掃が行き届き食事も美味ホテルや部屋は正直年季を感じさせますが、清掃が行き届いており気持ちの良いものでした。遊園地に直結したホテルなのでバイクングの食事はあまり期待していませんでしたが…」
                   </blockquote>
                 </div>
               </div>

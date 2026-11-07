@@ -399,7 +399,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>２２台収容可能な無料駐車場有。(要事前予約)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と川の景色で家族団らんお盆の時期の利用でしたが、貸切風呂があるせいか大浴場も混雑しておらず、ゆっくりと快適に利用することができました。今回は3世代での利用でした。まだ孫はいま…　2026-08-17 21:45:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と川の景色で家族団らんお盆の時期の利用でしたが、貸切風呂があるせいか大浴場も混雑しておらず、ゆっくりと快適に利用することができました。今回は3世代での利用でした。まだ孫はいま…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function LuxuryPremiumHubPage() {
                   <p>【全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.36 ／ 部屋 ★4.33 ／ 設備 ★4.17 ／ 風呂 ★4.49 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トラブルへの迅速な対応とスタッフの心遣い2泊3日お世話になりました。初日お部屋内のトラブルがありましたが、臨機応変に対応してくださいました。おかげさまで有意義な時間を過ごすことができました…　2026-09-23 12:55:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トラブルへの迅速な対応とスタッフの心遣い2泊3日お世話になりました。初日お部屋内のトラブルがありましたが、臨機応変に対応してくださいました。おかげさまで有意義な時間を過ごすことができました…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function LuxuryPremiumHubPage() {
                   <p>【全室離れ・源泉かけ流し露天風呂付き隠れ家宿：大人の静】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.53 ／ 部屋 ★4.52 ／ 設備 ★4.36 ／ 風呂 ★4.62 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊勢海老のお刺身が絶品、金泉の温泉も最高夕食のお刺身(伊勢海老のお刺身)は、とても美味しかった!金泉の温泉は、良かった。クチコミの詳細はこちらから　https://review.trave…　2026-10-03 21:29:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊勢海老のお刺身が絶品、金泉の温泉も最高夕食のお刺身(伊勢海老のお刺身)は、とても美味しかった!金泉の温泉は、良かった。」
                   </blockquote>
                 </div>
               </div>

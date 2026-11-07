@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…　2026-08-16 18:44:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…」
                   </blockquote>
                 </div>
               </div>
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                   <p>【大空を舞う感動体験】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…　2026-09-14 14:58:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…」
                   </blockquote>
                 </div>
               </div>
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.63 ／ 部屋 ★4.82 ／ 設備 ★4.81 ／ 風呂 ★4.81 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。今回たまたまキャンセル待ちで予約することが…　2026-09-30 11:57:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。今回たまたまキャンセル待ちで予約することが…」
                   </blockquote>
                 </div>
               </div>
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>乗用車約100台駐車可能。無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービス充実、焼き立てパンケーキが絶品とても綺麗で素敵なホテルです。時間帯ごとに無料のアルコール、ドリンク、軽食などがあります。客室も清潔でベッドも快適、中庭が綺麗で癒されました。私達の宿泊した棟…　2026-08-29 22:33:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービス充実、焼き立てパンケーキが絶品とても綺麗で素敵なホテルです。時間帯ごとに無料のアルコール、ドリンク、軽食などがあります。客室も清潔でベッドも快適、中庭が綺麗で癒されました。私達の宿泊した棟…」
                   </blockquote>
                 </div>
               </div>
@@ -877,7 +877,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.4 ／ 部屋 ★4.49 ／ 設備 ★4.43 ／ 風呂 ★4.23 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お気に入りの宿。2回目の訪問。今回も満足夕食のイタリアンコース、前菜からウニのパスタ、デザートまでとっても美味しかったです。が、量が多すぎて食後はお腹が苦しかった(笑)ウニが好きなのでウニパス…　2026-10-10 16:35:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お気に入りの宿。2回目の訪問。今回も満足夕食のイタリアンコース、前菜からウニのパスタ、デザートまでとっても美味しかったです。が、量が多すぎて食後はお腹が苦しかった(笑)ウニが好きなのでウニパス…」
                   </blockquote>
                 </div>
               </div>

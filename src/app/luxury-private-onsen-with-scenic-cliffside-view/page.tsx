@@ -787,7 +787,7 @@ export default function FeatureDetailPage() {
                   <p>【空と海にせり出すスリルと絶景】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と露天風呂に癒やされ、心身ともにリラックスお部屋からの景色がとてもきれいで、ゆっくり過ごすことができました。特に露天風呂が気持ちよく、温泉を楽しみながらリラックスできたのが良かったです。スタッ…　2026-09-15 17:41:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と露天風呂に癒やされ、心身ともにリラックスお部屋からの景色がとてもきれいで、ゆっくり過ごすことができました。特に露天風呂が気持ちよく、温泉を楽しみながらリラックスできたのが良かったです。スタッ…」
                   </blockquote>
                 </div>
               </div>
@@ -831,7 +831,7 @@ export default function FeatureDetailPage() {
                   <p>【空と海にせり出すスリルと絶景】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。特に温泉は本当に泉質が良く何…　2026-08-04 17:10:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。特に温泉は本当に泉質が良く何…」
                   </blockquote>
                 </div>
               </div>
@@ -875,7 +875,7 @@ export default function FeatureDetailPage() {
                   <p>【空と海にせり出すスリルと絶景】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高、料理も温泉も眺めも大満足コスパ最高すぎです 料理は美味しいし、お風呂も良い なんと言っても眺めが良いクチコミの詳細はこちらから　https://review.travel.raku…　2026-09-17 20:08:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高、料理も温泉も眺めも大満足コスパ最高すぎです 料理は美味しいし、お風呂も良い なんと言っても眺めが良い」
                   </blockquote>
                 </div>
               </div>

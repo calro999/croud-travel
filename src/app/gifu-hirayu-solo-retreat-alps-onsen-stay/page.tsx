@@ -454,7 +454,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.38 ／ 部屋 ★4.5 ／ 設備 ★4.55 ／ 風呂 ★4.76 ／ 食事 ★4.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のボリュームと貸切風呂の湯質に大満足夕食が食べきれないほどの量で、味付けも奇抜なものは無くても野菜の本来の味を引き出した馴染み深さもあるお味でした。お風呂は貸切風呂が無料で使用でき、湯の質…　2026-09-20 20:02:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のボリュームと貸切風呂の湯質に大満足夕食が食べきれないほどの量で、味付けも奇抜なものは無くても野菜の本来の味を引き出した馴染み深さもあるお味でした。お風呂は貸切風呂が無料で使用でき、湯の質…」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.33 ／ 部屋 ★4.33 ／ 設備 ★4.26 ／ 風呂 ★4.53 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨牛と温泉を満喫、女将さんの対応も素敵オクヒダバギーで平湯温泉街を散策したあと、飛騨牛増量プランの夕食を楽しみにチェックイン。期待通りのお肉とボリュームたっぷりの料理を美味しく頂き、満足しました…　2026-09-26 00:07:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨牛と温泉を満喫、女将さんの対応も素敵オクヒダバギーで平湯温泉街を散策したあと、飛騨牛増量プランの夕食を楽しみにチェックイン。期待通りのお肉とボリュームたっぷりの料理を美味しく頂き、満足しました…」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function ArticlePage() {
                   <p>【奥飛騨・平湯温泉ひとり旅・北アルプス秘湯おこもり：毎】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.36 ／ 部屋 ★4.18 ／ 設備 ★4.23 ／ 風呂 ★4.74 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切温泉でゆったり、山の幸の食事も最高温泉がとても良かったです。貸切なのでゆったりできました。食事も山の温泉宿らしく、とても素晴らしかった。クチコミの詳細はこちらから　https://re…　2026-10-10 21:29:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切温泉でゆったり、山の幸の食事も最高温泉がとても良かったです。貸切なのでゆったりできました。食事も山の温泉宿らしく、とても素晴らしかった。」
                   </blockquote>
                 </div>
               </div>

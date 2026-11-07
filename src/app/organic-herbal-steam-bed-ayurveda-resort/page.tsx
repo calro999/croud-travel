@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【本場アーユルヴェーダ＆ハーブ温活】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くて綺麗、温泉と利便性も抜群部屋も綺麗で広くて最高です。特に温泉が最高。全体的に清潔感があり、1階にコンビニやお土産屋もありとても便利。クチコミの詳細はこちらから　http…　2026-09-05 20:45:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くて綺麗、温泉と利便性も抜群部屋も綺麗で広くて最高です。特に温泉が最高。全体的に清潔感があり、1階にコンビニやお土産屋もありとても便利。」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p>【本場アーユルヴェーダ＆ハーブ温活】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックアウト時間の表記が分かりにくいチェックアウトが午前7時のプランであるとチェックインの際に初め知った。よく見ればたしかに予約画面には「チェックアウト7時。早めの出発でも味わえるスマートス…　2026-09-18 13:25:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックアウト時間の表記が分かりにくいチェックアウトが午前7時のプランであるとチェックインの際に初め知った。よく見ればたしかに予約画面には「チェックアウト7時。早めの出発でも味わえるスマートス…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台収容可・無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.49 ／ 部屋 ★4.42 ／ 設備 ★4.37 ／ 風呂 ★4.47 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も接客も素晴らしく、子供も大満足部屋も綺麗だったし接客も丁寧で夕食時の担当してくれた女性が子供にも優しくいい人でした。料理も美味しく7歳には子供会席、5歳にはお子様ランチで子供も美味しいと言っ…　2026-10-10 19:48:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理も接客も素晴らしく、子供も大満足部屋も綺麗だったし接客も丁寧で夕食時の担当してくれた女性が子供にも優しくいい人でした。料理も美味しく7歳には子供会席、5歳にはお子様ランチで子供も美味しいと言っ…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【本場アーユルヴェーダ＆ハーブ温活】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「緑に囲まれた落ち着く空間と親切なスタッフ緑に囲まれてとても落ち着く空間でした。カフェや温泉もあって、どこも清潔感があり、スタッフの方も親切です。また利用したいと思います。クチコミの詳細はこちら…　2026-07-30 13:08:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「緑に囲まれた落ち着く空間と親切なスタッフ緑に囲まれてとても落ち着く空間でした。カフェや温泉もあって、どこも清潔感があり、スタッフの方も親切です。また利用したいと思います。クチコミの詳細はこちら…」
                   </blockquote>
                 </div>
               </div>

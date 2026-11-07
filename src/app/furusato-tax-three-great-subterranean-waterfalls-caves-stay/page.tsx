@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>35台あり　無料　※自動車は２ｔ（６ｍ）までです。これ以上大きいお車は駐車できません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「和室のお部屋が広くて居心地が良かった。朝食の和定食もちょうどいいボリュームで、また味も美味しかった。セルフのコーヒーの豆の種類が2つあって嬉しかった。クチコミの詳細はこちらから　https…　2026-07-06 17:09:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「和室のお部屋が広くて居心地が良かった。朝食の和定食もちょうどいいボリュームで、また味も美味しかった。セルフのコーヒーの豆の種類が2つあって嬉しかった。」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　400台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの接客が良く、清潔感があり大満足フロントの接客もすごく良かったです!ホテルも、立派で清潔感があり、大変満足しました。又、泊まりに行きます!クチコミの詳細はこちらから　https:/…　2026-09-05 21:57:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの接客が良く、清潔感があり大満足フロントの接客もすごく良かったです!ホテルも、立派で清潔感があり、大変満足しました。又、泊まりに行きます!」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の席が固定で景観や周囲の環境が残念基本的に満足ですが、夕食と朝食が同じ席なのは、残念でした。座席によって景観が違いますし、うるさい人がまた隣にきてしまったのは、残念でした。クチコミの詳細は…　2026-08-21 23:06:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の席が固定で景観や周囲の環境が残念基本的に満足ですが、夕食と朝食が同じ席なのは、残念でした。座席によって景観が違いますし、うるさい人がまた隣にきてしまったのは、残念でした。クチコミの詳細は…」
                   </blockquote>
                 </div>
               </div>

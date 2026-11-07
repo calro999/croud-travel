@@ -454,7 +454,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（53台／無料／屋外／予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.49 ／ 部屋 ★4.72 ／ 設備 ★4.6 ／ 風呂 ★4.54 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて綺麗な部屋で心から癒されたお部屋が広くて綺麗でとても癒されました!!朝食は普通でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-09-19 21:26:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広くて綺麗な部屋で心から癒されたお部屋が広くて綺麗でとても癒されました!!朝食は普通でした。」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <p>【秋の箱根：仙石原すすき草原の黄金絨毯と強羅温泉にごり】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂があればもっと良かった露天風呂があれば、もっと良かったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/8…　2026-09-08 14:05:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂があればもっと良かった露天風呂があれば、もっと良かったです」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function HakoneSengokuharaAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有／満車の場合、有料駐車場にご案内いたします。駐輪場有／1泊1,000円頂戴いたします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.9 ／ 部屋 ★4.31 ／ 設備 ★3.93 ／ 風呂 ★3.66 ／ 食事 ★3.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然に囲まれた静かな環境で快適なひととき箱根仙石原の自然に囲まれた場所で、静かにゆっくり過ごすことができました。館内も落ち着いた雰囲気で、スタッフの方の対応も丁寧でした。お部屋やお風呂も特に気にな…　2026-10-05 23:11:39投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=196301&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然に囲まれた静かな環境で快適なひととき箱根仙石原の自然に囲まれた場所で、静かにゆっくり過ごすことができました。館内も落ち着いた雰囲気で、スタッフの方の対応も丁寧でした。お部屋やお風呂も特に気にな…」
                   </blockquote>
                 </div>
               </div>

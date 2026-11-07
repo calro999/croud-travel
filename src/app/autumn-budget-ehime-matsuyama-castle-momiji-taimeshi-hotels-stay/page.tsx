@@ -421,7 +421,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>自社および契約駐車場共1泊1200円。満車の場合は一般有料駐車場へのご案内とさせていただいております</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.21 ／ 部屋 ★4.1 ／ 設備 ★4.05 ／ 風呂 ★3.96 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待していた朝食の味は全体的に残念朝食を期待して予約しましたが、おすすめのタイめしがいまいち(ごはんも、タイも)で、他のおかずもいまいちでした。クチコミの詳細はこちらから　https://re…　2026-10-07 09:45:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待していた朝食の味は全体的に残念朝食を期待して予約しましたが、おすすめのタイめしがいまいち(ごはんも、タイも)で、他のおかずもいまいちでした。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携先駐車場の詳細は「アクセス・駐車場」→「提携駐車場」をご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.22 ／ 部屋 ★4.16 ／ 設備 ★4.15 ／ 風呂 ★4.36 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅や温泉へのアクセスが良く、朝食も美味JRの駅にも道後温泉にも路面電車一本でいける便利なロケーション。大浴場も深夜の清掃時間以外は入れるしのんびりできました。朝食も量的にちょうどよかったし、おいし…　2026-10-11 02:20:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅や温泉へのアクセスが良く、朝食も美味JRの駅にも道後温泉にも路面電車一本でいける便利なロケーション。大浴場も深夜の清掃時間以外は入れるしのんびりできました。朝食も量的にちょうどよかったし、おいし…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車800円／15:00〜10:00イン前やアウト後や連泊中の昼間の駐車は別途料金がかかります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.14 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.03 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のおかずが種類豊富で大満足朝食はおかずの種類が豊富で、どれも美味しかったです。いろいろなおかずを楽しめて、とても満足しました。クチコミの詳細はこちらから　https://review.tr…　2026-10-09 16:22:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のおかずが種類豊富で大満足朝食はおかずの種類が豊富で、どれも美味しかったです。いろいろなおかずを楽しめて、とても満足しました。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１部屋１台乗用車５００円／泊※2台目はお断りさせていただきます※５ｍ以上予約制9ｍ以上駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★3.99 ／ 部屋 ★4.26 ／ 設備 ★4.13 ／ 風呂 ★4.16 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「テレビで見て訪問、朝食の惣菜が豊富で美味がっちりマンデーを見て、泊まりました。朝食もたくさんの惣菜の種類もあり、美味しかったです。クチコミの詳細はこちらから　https://review.…　2026-10-08 08:18:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「テレビで見て訪問、朝食の惣菜が豊富で美味がっちりマンデーを見て、泊まりました。朝食もたくさんの惣菜の種類もあり、美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetMatsuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体 38台／先着順・予約不可／1泊（14:00〜翌11:00）1,200円（税込）／車高2.05m</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.42 ／ 部屋 ★4.49 ／ 設備 ★4.43 ／ 風呂 ★4.42 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地も部屋もサービスも良く、また利用したい立地もよく、お部屋も綺麗で、サービスも心地良く、満足しています。ぜひまた利用したいです!!クチコミの詳細はこちらから　https://review.t…　2026-10-10 16:13:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地も部屋もサービスも良く、また利用したい立地もよく、お部屋も綺麗で、サービスも心地良く、満足しています。ぜひまた利用したいです!!」
                   </blockquote>
                 </div>
               </div>

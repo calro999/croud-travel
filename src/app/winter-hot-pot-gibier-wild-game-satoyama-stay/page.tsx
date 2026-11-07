@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【滋味あふれる天然猪肉と特製味噌出汁】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3年連続で通うほどお気に入りの美人の湯お墓参りの帰りに、今年も寄らせてもらいました!気づけば3年連続です。大女将さんも女将さんも本当に愛嬌があって、いつも温かく迎えてくださるから、日頃の疲…　2026-08-15 11:38:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3年連続で通うほどお気に入りの美人の湯お墓参りの帰りに、今年も寄らせてもらいました!気づけば3年連続です。大女将さんも女将さんも本当に愛嬌があって、いつも温かく迎えてくださるから、日頃の疲…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.56 ／ 部屋 ★4.44 ／ 設備 ★4.38 ／ 風呂 ★4.48 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洞川温泉の風情と鮎料理、地酒に癒やされる行きたかった洞川温泉。初めて行きましたが、とても良かったです。宿も床の木の軋む音など、昔の宿の良さを感じました。鮎も美味しかったです。2階の部屋でしたが、通…　2026-10-06 09:15:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「洞川温泉の風情と鮎料理、地酒に癒やされる行きたかった洞川温泉。初めて行きましたが、とても良かったです。宿も床の木の軋む音など、昔の宿の良さを感じました。鮎も美味しかったです。2階の部屋でしたが、通…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.37 ／ 部屋 ★4.33 ／ 設備 ★4.28 ／ 風呂 ★4.51 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの大浴場と美味しいお粥大浴場の源泉掛け流しが良かったです。お粥は苦手なのですが、美味しくいただけました。クチコミの詳細はこちらから　https://review.travel.…　2026-09-20 17:13:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの大浴場と美味しいお粥大浴場の源泉掛け流しが良かったです。お粥は苦手なのですが、美味しくいただけました。」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【滋味あふれる天然猪肉と特製味噌出汁】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「珍しい食事に大満足、夜の街歩きも最高めずらしいお食事をいただけて満足です!夜に街をぶらぶらしましたが雰囲気がよかったですクチコミの詳細はこちらから　https://review.t…　2026-09-15 19:56:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「珍しい食事に大満足、夜の街歩きも最高めずらしいお食事をいただけて満足です!夜に街をぶらぶらしましたが雰囲気がよかったです」
                   </blockquote>
                 </div>
               </div>

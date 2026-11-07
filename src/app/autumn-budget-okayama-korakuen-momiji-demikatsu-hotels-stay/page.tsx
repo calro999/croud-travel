@@ -421,7 +421,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル１Ｆ(フロントは2F)　約20台収容　一泊800~1000円　高さ2.5m迄2t車も可　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★3.95 ／ 部屋 ★4.18 ／ 設備 ★3.99 ／ 風呂 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、床でくつろげる空間が最高岡山に用事があって、前回も泊まらせていただき朝食が記憶に残っていたので今回リピートしました。ベットではなく床でくつろげる空間よかったです。岡山駅から…　2026-10-05 17:38:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、床でくつろげる空間が最高岡山に用事があって、前回も泊まらせていただき朝食が記憶に残っていたので今回リピートしました。ベットではなく床でくつろげる空間よかったです。岡山駅から…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場1泊1000円（先着予約制）満車の場合は各提携駐車場へご案内致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.3 ／ 部屋 ★4.24 ／ 設備 ★4.13 ／ 風呂 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり快適、また利用したいきれいなホテルで清潔感もあり、良かったです。スタッフの対応も問題ありませんでした。機会があればまた利用したいと思います。他の画像やクチコミの詳細はこちらから　h…　2026-10-09 12:39:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり快適、また利用したいきれいなホテルで清潔感もあり、良かったです。スタッフの対応も問題ありませんでした。機会があればまた利用したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                   <p>【岡山：後楽園・烏城の秋紅葉と名物デミカツ丼】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーション最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/799?reviewId=331234790337…　2026-08-21 07:28:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーション最高でした」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル地下に有り　171台　24時間1,300円　事前予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.54 ／ 部屋 ★4.46 ／ 設備 ★4.4 ／ 風呂 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2度目の利用も大満足、また必ず来ます2度目の宿泊です。ホスピタリティ、立地、清潔さ全てとても良かったです。また、岡山に行く際は宿泊したいと思いますクチコミの詳細はこちらから　https://r…　2026-10-05 15:54:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2度目の利用も大満足、また必ず来ます2度目の宿泊です。ホスピタリティ、立地、清潔さ全てとても良かったです。また、岡山に行く際は宿泊したいと思います」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetOkayamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有：普通車９０台　無料　予約不可先着順　※渋川観光駐車場は２１時間無料（２１時間以降はお客様ご負担）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★4.16 ／ 部屋 ★3.93 ／ 設備 ★3.83 ／ 風呂 ★3.99 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は丁寧だが、ステーキの提供状態に難あり接客が丁寧でした。夕食のステーキは出来立てを取れればとても美味しいですが、、、しょうがなく少し時間が経っているのを頂くと硬くて美味しくありません。…　2026-10-08 18:37:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は丁寧だが、ステーキの提供状態に難あり接客が丁寧でした。夕食のステーキは出来立てを取れればとても美味しいですが、、、しょうがなく少し時間が経っているのを頂くと硬くて美味しくありません。…」
                   </blockquote>
                 </div>
               </div>

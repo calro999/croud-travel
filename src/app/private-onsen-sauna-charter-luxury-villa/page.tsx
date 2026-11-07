@@ -377,7 +377,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台（※一般車：先着制・無料／※大型車：予約制・有料1,500円税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鈴鹿サーキットに近く家族で楽しめた鈴鹿サーキットで遊ぶ為に家族で利用させてもらいました!!鈴鹿サーキットにも近く快適に過ごせました!!クチコミの詳細はこちらから　https://revie…　2026-08-22 16:06:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鈴鹿サーキットに近く家族で楽しめた鈴鹿サーキットで遊ぶ為に家族で利用させてもらいました!!鈴鹿サーキットにも近く快適に過ごせました!!」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>35台（無料、先着順、予約不可）※チェックアウト後の駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外宮近くで便利、フロントの対応も丁寧伊勢神宮外宮の近くという理由で選びました。部屋はビジネスホテルと同じくらい。ただトイレは古いタイプのチャンネルを回すような仕組みで、使いやすくはないかな。フ…　2026-08-22 16:33:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外宮近くで便利、フロントの対応も丁寧伊勢神宮外宮の近くという理由で選びました。部屋はビジネスホテルと同じくらい。ただトイレは古いタイプのチャンネルを回すような仕組みで、使いやすくはないかな。フ…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>55台（無料、先着順、長5ｍ×幅2.3ｍ以内）※毎年10月「上野天神祭」期間は駐車いただけません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.89 ／ 部屋 ★3.87 ／ 設備 ★3.76 ／ 風呂 ★3.71 ／ 食事 ★3.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心優しいホテルマンが多く、たいへんありがたかったです!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/743?revie…　2026-09-23 23:54:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心優しいホテルマンが多く、たいへんありがたかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約300台あり！ホテル建物周りおよび建物裏に有ります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が清潔でとても快適でした部屋が清潔でよかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/966?revie…　2026-08-22 17:55:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が清潔でとても快適でした部屋が清潔でよかった。」
                   </blockquote>
                 </div>
               </div>

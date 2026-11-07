@@ -306,7 +306,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高に美味しかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/37374?reviewId=3312347…　2026-08-29 21:28:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高に美味しかったです」
                   </blockquote>
                 </div>
               </div>
@@ -328,7 +328,7 @@ export default function MicroTouristHubPage() {
                   <p>【秋田・男鹿半島＆なまはげ・入道崎：北緯40度白黒灯台】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★3.93 ／ 部屋 ★4.01 ／ 設備 ★3.86 ／ 風呂 ★4.11 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「姉妹での古希祝い旅姉妹で古希祝いの旅行をしました。料理も美味しく思い出深いおもいでとなりました。お世話になりました。クチコミの詳細はこちらから　https://review.trave…　2026-10-10 14:04:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「姉妹での古希祝い旅姉妹で古希祝いの旅行をしました。料理も美味しく思い出深いおもいでとなりました。お世話になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -350,7 +350,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　800台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が気持ちよく朝食も楽しみでリピート温泉がとても気持ちよくリピートして利用してます。朝食の品数もあるのでとても楽しみにしています。クチコミの詳細はこちらから　https://review.t…　2026-08-21 16:07:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が気持ちよく朝食も楽しみでリピート温泉がとても気持ちよくリピートして利用してます。朝食の品数もあるのでとても楽しみにしています。」
                   </blockquote>
                 </div>
               </div>

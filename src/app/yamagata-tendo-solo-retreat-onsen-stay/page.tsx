@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃の行き届いた部屋と美味しい食事に満足清掃も行き届いており、素敵なお部屋でした。食事もボリュームがあり、美味しく頂きました。温泉もゆったりと入り、リフレッシュに最適なお宿でしたクチコミの詳細…　2026-08-22 09:42:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃の行き届いた部屋と美味しい食事に満足清掃も行き届いており、素敵なお部屋でした。食事もボリュームがあり、美味しく頂きました。温泉もゆったりと入り、リフレッシュに最適なお宿でしたクチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料200台・予約不要｜ホテル玄関前で荷下ろし後、当館から東に約130mの駐車場へご駐車ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.43 ／ 部屋 ★4.53 ／ 設備 ★4.47 ／ 風呂 ★4.54 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も満足。3歳と5歳の子供を連れて利用しました。ウェルカムドリンクや遊び場、絵本の貸し出し、お風呂後のヤクルトやアイスなどサービスが充実していてとても喜んで楽しく過ごすことができました…　2026-10-10 17:47:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も満足。3歳と5歳の子供を連れて利用しました。ウェルカムドリンクや遊び場、絵本の貸し出し、お風呂後のヤクルトやアイスなどサービスが充実していてとても喜んで楽しく過ごすことができました…」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p>【天童温泉ひとり旅・将棋駒と名湯おこもり：山寺立石寺パ】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.99 ／ 部屋 ★4.02 ／ 設備 ★3.85 ／ 風呂 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「展望風呂目当てで決めました市内に位置するので、昼間より夜の展望風呂が夜景が眺望できて綺麗です。泉質も良かったです。駐車場も玄関から近くで広く、部屋も清潔で料理も大変美味しくいただきました。ゆっ…　2026-09-27 14:14:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「展望風呂目当てで決めました市内に位置するので、昼間より夜の展望風呂が夜景が眺望できて綺麗です。泉質も良かったです。駐車場も玄関から近くで広く、部屋も清潔で料理も大変美味しくいただきました。ゆっ…」
                   </blockquote>
                 </div>
               </div>

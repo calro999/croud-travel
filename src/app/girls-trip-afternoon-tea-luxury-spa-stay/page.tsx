@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1滞在1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.48 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.3 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食をランチに変更でき、お土産も充実朝食をランチにも変更ができ、雨で予定が変わった私たちにはありがたかったです!!朝食にはないデザートなどもあり、人も朝食みたいに多くなかったので、ゆっくりでき…　2026-10-08 18:05:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食をランチに変更でき、お土産も充実朝食をランチにも変更ができ、雨で予定が変わった私たちにはありがたかったです!!朝食にはないデザートなどもあり、人も朝食みたいに多くなかったので、ゆっくりでき…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り238台500円（税込／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.74 ／ 部屋 ★4.7 ／ 設備 ★4.63 ／ 風呂 ★4.5 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からのロケーションが最高!部屋からのロケーションが最高でした!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1…　2026-10-08 18:38:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からのロケーションが最高!部屋からのロケーションが最高でした!」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊:無料　日帰りスパ：5時間まで無料、以降300円/h　※税込み</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.45 ／ 部屋 ★4.52 ／ 設備 ★4.38 ／ 風呂 ★4.32 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は丁寧だが一部改善の余地あり外国人の従業員の方々の接客や言葉遣いがとても丁寧で、安心して分からない事も聞く事ができました。ゲームセンターや射的の方を管理されている従業員の方々に…　2026-10-10 09:32:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は丁寧だが一部改善の余地あり外国人の従業員の方々の接客や言葉遣いがとても丁寧で、安心して分からない事も聞く事ができました。ゲームセンターや射的の方を管理されている従業員の方々に…」
                   </blockquote>
                 </div>
               </div>

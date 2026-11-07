@@ -838,7 +838,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　109台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗な館内と豊富な朝食、充電器完備で快適すごく綺麗なホテルでした朝食いただきましたが、種類も豊富で美味しくとても良かったです。お部屋に各種充電コードもあって助かりました。子供達と宿泊し…　2026-08-15 22:02:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗な館内と豊富な朝食、充電器完備で快適すごく綺麗なホテルでした朝食いただきましたが、種類も豊富で美味しくとても良かったです。お部屋に各種充電コードもあって助かりました。子供達と宿泊し…」
                   </blockquote>
                 </div>
               </div>
@@ -860,7 +860,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車40台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.33 ／ 部屋 ★4.28 ／ 設備 ★4.18 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と楽しむ旅、芋煮が最高でしたワンコと泊まれるホテルで探して遥々愛知県からお邪魔しました。ワンコ大好き仲居さんの振る舞いが犬にも人にもとてもフレンドリーで良かったです。ごはんと一緒に芋煮が出てき…　2026-10-09 20:53:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と楽しむ旅、芋煮が最高でしたワンコと泊まれるホテルで探して遥々愛知県からお邪魔しました。ワンコ大好き仲居さんの振る舞いが犬にも人にもとてもフレンドリーで良かったです。ごはんと一緒に芋煮が出てき…」
                   </blockquote>
                 </div>
               </div>

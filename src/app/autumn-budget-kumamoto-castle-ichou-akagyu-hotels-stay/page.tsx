@@ -421,7 +421,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場　46台（先着順） 1200円/泊 (全長5.05ｍ・車幅1.75ｍ・車高1.55ｍ迄）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張で1泊利用しました。客室の設備などは年数が経っている印象を受けますが、隅々まで清掃が行き届いており気持ちよく過ごせました。上通商店街や繁華街に近く、夜の食事に出かけるのにも非常に便利です。…　2026-08-20 12:31:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張で1泊利用しました。客室の設備などは年数が経っている印象を受けますが、隅々まで清掃が行き届いており気持ちよく過ごせました。上通商店街や繁華街に近く、夜の食事に出かけるのにも非常に便利です。…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場 地域最大級！駐車場可能台数140台！！　■午後15時～受付　■1泊550円（2輪車含む）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「旅彩の料理が絶品、熊本城観光の拠点に最適レストラン「旅彩」がとっても美味でした!馬刺しや鮮魚、郷土料理が沢山あり、落ち着いた空間です。熊本駅から少し距離がありアクセスに不安がありましたが、熊本…　2026-08-18 12:01:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「旅彩の料理が絶品、熊本城観光の拠点に最適レストラン「旅彩」がとっても美味でした!馬刺しや鮮魚、郷土料理が沢山あり、落ち着いた空間です。熊本駅から少し距離がありアクセスに不安がありましたが、熊本…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車１泊１０００円（税込）■完全予約制■満車の際は有料駐車場をご利用ください　バイク１泊２００円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.41 ／ 立地 ★3.4 ／ 部屋 ★3.18 ／ 設備 ★3.07 ／ 風呂 ★3.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが周辺に店がなく不便、バスは狭め電停の前で、立地は悪くないが、近くに店やコビニもなく不便と感じた、朝食のおにぎりを買い損ねて高級なモーニングを食べることになったのが残念。おにぎり1個分…　2026-10-09 17:38:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが周辺に店がなく不便、バスは狭め電停の前で、立地は悪くないが、近くに店やコビニもなく不便と感じた、朝食のおにぎりを買い損ねて高級なモーニングを食べることになったのが残念。おにぎり1個分…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平地３０台　普通車１０００円/１泊　大、中型車はスペースに応じて追加料金</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.73 ／ 立地 ★3.63 ／ 部屋 ★3.7 ／ 設備 ★3.62 ／ 風呂 ★3.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古く傘の貸し出しもなし設備が古い傘の貸し出しサービスが無いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-10-02 07:24:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古く傘の貸し出しもなし設備が古い傘の貸し出しサービスが無い」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetKumamotoHotelsPage() {
                   <p>【熊本：銀杏城の黄金イチョウと阿蘇あか牛】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…　2026-08-21 20:12:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…」
                   </blockquote>
                 </div>
               </div>

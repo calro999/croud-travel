@@ -525,7 +525,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>アミュプラザ大分※12時〜翌12時まで1,000円／途中出庫可／駐車券をフロントまでお持ちください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.63 ／ 部屋 ★4.57 ／ 設備 ★4.51 ／ 風呂 ★4.55 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂が最高に気持ちよかった露天風呂が良かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/147712?rev…　2026-10-09 17:11:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂が最高に気持ちよかった露天風呂が良かった」
                   </blockquote>
                 </div>
               </div>
@@ -547,7 +547,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>一律料金（ご1泊あたり1,000円）にてご利用頂けます。駐車場の入り口はプラン詳細をご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.39 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.21 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの眺めが最高でゆっくりくつろげる部屋からの眺め最高です。ゆっくりくつろげます。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-10-08 23:32:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの眺めが最高でゆっくりくつろげる部屋からの眺め最高です。ゆっくりくつろげます。」
                   </blockquote>
                 </div>
               </div>
@@ -569,7 +569,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場96台（先着順・車高制限等あり）14時〜翌朝11時1泊1,000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.28 ／ 部屋 ★4.36 ／ 設備 ★4.28 ／ 風呂 ★4.27 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回3人部屋を探してる時にこちらのホテルがヒットし、宿泊しました。まさかのトリプルベッド!親子3人大人の宿泊でしたが大満足です。お風呂は周辺の温泉を利用したため評価はしてませんが、とにかく清潔感いっぱ…　2026-10-10 21:03:33投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=70923&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回3人部屋を探してる時にこちらのホテルがヒットし、宿泊しました。まさかのトリプルベッド!親子3人大人の宿泊でしたが大満足です。お風呂は周辺の温泉を利用したため評価はしてませんが、とにかく清潔感いっぱ…」
                   </blockquote>
                 </div>
               </div>

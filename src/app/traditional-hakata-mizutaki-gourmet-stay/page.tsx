@@ -787,7 +787,7 @@ export default function FeatureDetailPage() {
                   <p>【博多名物・濃厚鶏白湯水炊き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅近くでセキュリティも安心、備品も充実博多駅からも徒歩圏内にあるホテルカードキー方式になっており、エレベーターもルームカードキーをかざすと宿泊階にしか止まらない仕組みになっている。おの…　2026-09-04 20:28:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅近くでセキュリティも安心、備品も充実博多駅からも徒歩圏内にあるホテルカードキー方式になっており、エレベーターもルームカードキーをかざすと宿泊階にしか止まらない仕組みになっている。おの…」
                   </blockquote>
                 </div>
               </div>
@@ -809,7 +809,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外/高さ制限無し）　7台　1980円（税込み/泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋を含めた設備はWEB掲載通りで期待外れはありませんでした。風呂はマイナスコメント多くありましたが十分に広く空いていました。フロントの方も親切に対応頂きました。朝食は大満足です。一点マイナスは廊下に…　2026-08-20 20:29:44投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=180583&quot; class=&quot;3clic」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋を含めた設備はWEB掲載通りで期待外れはありませんでした。風呂はマイナスコメント多くありましたが十分に広く空いていました。フロントの方も親切に対応頂きました。朝食は大満足です。一点マイナスは廊下に…」
                   </blockquote>
                 </div>
               </div>
@@ -831,7 +831,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１泊1台２，０００円（税込）14:30～翌12：30</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの臭いが気になるが全体的に満足気になったのは、物っ凄くユニットバスが臭かった点です。何が臭いのか分からず備え付けのスプレーをかけても、不快感は拭えなかった。手の届く範囲で、拭いて取れる…　2026-08-17 19:22:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの臭いが気になるが全体的に満足気になったのは、物っ凄くユニットバスが臭かった点です。何が臭いのか分からず備え付けのスプレーをかけても、不快感は拭えなかった。手の届く範囲で、拭いて取れる…」
                   </blockquote>
                 </div>
               </div>
@@ -853,7 +853,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 6台 ご宿泊者様は1泊1,500円(チェックアウトまで) 通常25分200円(最大料金無し)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂が少し狭く感じた風呂が狭かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/179590?reviewId=…　2026-08-22 17:01:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂が少し狭く感じた風呂が狭かった」
                   </blockquote>
                 </div>
               </div>
@@ -875,7 +875,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>タワー式22台：先着順 15時～11時30分 税込1500円現金のみ 入出庫不可(22時～7時)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は非常にきれいでサービスも良好館内も非常にきれいで、サービスも良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-08-11 21:59:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は非常にきれいでサービスも良好館内も非常にきれいで、サービスも良かったです。」
                   </blockquote>
                 </div>
               </div>

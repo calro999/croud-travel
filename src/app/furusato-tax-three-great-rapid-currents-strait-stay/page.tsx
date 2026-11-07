@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有３０台　無料　予約不要。当館まではアクセスページに掲載の写真付き道順をご覧ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手入れの行き届いた空間と充実したサービス建物自体はふるいようですが、手入れと管理が行き届いていて不便なく過ごせました。周りにあまり店や食事処がないので、立地があまりよくないのかもしれませんが、なる…　2026-08-20 06:12:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手入れの行き届いた空間と充実したサービス建物自体はふるいようですが、手入れと管理が行き届いていて不便なく過ごせました。周りにあまり店や食事処がないので、立地があまりよくないのかもしれませんが、なる…」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料平面駐車場59台（出入自由）／バイク屋根付／自転車客室持込可／大型車応相談</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.16 ／ 部屋 ★4.21 ／ 設備 ★4.14 ／ 風呂 ★4.18 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いが食事と寝心地に大満足思いつきの旅でお世話になりました。設備全体は古くて、廊下とか隣の音がすごく聞こえるけど、ベッドは最高の寝心地で、夜中に起きることはありませんでした食事も大変美味…　2026-10-04 21:41:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いが食事と寝心地に大満足思いつきの旅でお世話になりました。設備全体は古くて、廊下とか隣の音がすごく聞こえるけど、ベッドは最高の寝心地で、夜中に起きることはありませんでした食事も大変美味…」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p>【日本三大急潮＆豪快うず潮パノラマ・激流海峡オーシャン】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「唐戸市場に近く、豪華で綺麗な空間綺麗で豪華なホテルでした。唐戸市場にも近くて満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-09-05 18:36:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「唐戸市場に近く、豪華で綺麗な空間綺麗で豪華なホテルでした。唐戸市場にも近くて満足です。」
                   </blockquote>
                 </div>
               </div>

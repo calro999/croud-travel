@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：80台（無料・先着順・滞在中出し入れ自由）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.2 ／ 部屋 ★4.3 ／ 設備 ★4.13 ／ 風呂 ★4.33 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の窓から鬼怒川の打ち上げ花火を堪能鬼怒川の打ち上げ花火を部屋の窓から見ることができて、とても綺麗でしたクチコミの詳細はこちらから　https://review.travel.rakut…　2026-09-07 07:55:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の窓から鬼怒川の打ち上げ花火を堪能鬼怒川の打ち上げ花火を部屋の窓から見ることができて、とても綺麗でした」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…　2026-10-08 19:33:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／無料　（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.22 ／ 部屋 ★4.12 ／ 設備 ★4.01 ／ 風呂 ★4.3 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウェルカムベビーのプランで快適な家族旅行赤ちゃんと初めての旅行だったのでウェルカムベビーのプランで滞在しました。少し駅からありますが歩けない訳ではないので散歩がてら歩きました。赤ちゃん用の…　2026-09-23 05:39:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウェルカムベビーのプランで快適な家族旅行赤ちゃんと初めての旅行だったのでウェルカムベビーのプランで滞在しました。少し駅からありますが歩けない訳ではないので散歩がてら歩きました。赤ちゃん用の…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p>【栃木・鬼怒川温泉：渓谷美・鬼怒楯岩大吊橋＆ライン下り】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鬼怒川の絶景と創作料理、心温まる接客に感動クラブフロアのスイートの部屋に宿泊しました。部屋のお風呂、大きな窓から眼下に広がる鬼怒川の景観が素晴らしく、厳選された素材を使っての創作料理もとても美…　2026-07-16 20:30:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鬼怒川の絶景と創作料理、心温まる接客に感動クラブフロアのスイートの部屋に宿泊しました。部屋のお風呂、大きな窓から眼下に広がる鬼怒川の景観が素晴らしく、厳選された素材を使っての創作料理もとても美…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　80台(無料・予約不要)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.81 ／ 部屋 ★3.71 ／ 設備 ★3.64 ／ 風呂 ★3.8 ／ 食事 ★3.9</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大吊橋の夜景と飲み放題のコスパが最高ホテル近くの大吊橋のライトアップが良かった夕食のアルコール、ソフトドリンクの飲み放題のコスパがお得小鉢のお刺身が小さくもう少し大きくしてもらいたい…　2026-10-09 12:34:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大吊橋の夜景と飲み放題のコスパが最高ホテル近くの大吊橋のライトアップが良かった夕食のアルコール、ソフトドリンクの飲み放題のコスパがお得小鉢のお刺身が小さくもう少し大きくしてもらいたい…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.25 ／ 部屋 ★4.09 ／ 設備 ★3.98 ／ 風呂 ★4.12 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いですがごはんはおいしかったし、大変満足しておりますホテルとは関係ないですが、ホテルすぐ隣で花火があがったのも良かったクチコミの詳細はこちらから　https://review.travel…　2026-10-07 07:21:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いですがごはんはおいしかったし、大変満足しておりますホテルとは関係ないですが、ホテルすぐ隣で花火があがったのも良かった」
                   </blockquote>
                 </div>
               </div>

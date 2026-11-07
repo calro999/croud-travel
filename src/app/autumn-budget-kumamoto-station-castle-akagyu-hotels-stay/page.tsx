@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：トラストパークオークスタワーパーキング、アンピールパーキング、パスート24上通</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「熊本城を望む立地と細やかなサービスに感謝まず、被災の状況の中でしたが、予定通り宿泊ができ助かりました。ありがとうございました。1階にウェルカムドリンクがあり、暑い中で休息が取れました。連泊の際…　2026-08-03 22:54:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「熊本城を望む立地と細やかなサービスに感謝まず、被災の状況の中でしたが、予定通り宿泊ができ助かりました。ありがとうございました。1階にウェルカムドリンクがあり、暑い中で休息が取れました。連泊の際…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>JR熊本駅ビル第1駐車場 先着順1000円 （入庫から24時間）※時間内の入出庫可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.38 ／ 部屋 ★4.34 ／ 設備 ★4.3 ／ 風呂 ★4.29 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3年前を覚えていてくれた心遣いに感激3年前にも利用しましたが今回も利用させて頂きました。駅から近い事もあり便利でした。また3年前に利用した事も覚えていてくれて小さい心づかいが嬉しかったです。また熟…　2026-09-25 20:48:43投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=183439&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3年前を覚えていてくれた心遣いに感激3年前にも利用しましたが今回も利用させて頂きました。駅から近い事もあり便利でした。また3年前に利用した事も覚えていてくれて小さい心づかいが嬉しかったです。また熟…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場 地域最大級！駐車場可能台数140台！！　■午後15時～受付　■1泊550円（2輪車含む）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「旅彩の料理が絶品、熊本城観光の拠点に最適レストラン「旅彩」がとっても美味でした!馬刺しや鮮魚、郷土料理が沢山あり、落ち着いた空間です。熊本駅から少し距離がありアクセスに不安がありましたが、熊本…　2026-08-18 12:01:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「旅彩の料理が絶品、熊本城観光の拠点に最適レストラン「旅彩」がとっても美味でした!馬刺しや鮮魚、郷土料理が沢山あり、落ち着いた空間です。熊本駅から少し距離がありアクセスに不安がありましたが、熊本…」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車１泊１０００円（税込）■完全予約制■満車の際は有料駐車場をご利用ください　バイク１泊２００円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.41 ／ 立地 ★3.4 ／ 部屋 ★3.18 ／ 設備 ★3.07 ／ 風呂 ★3.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが周辺に店がなく不便、バスは狭め電停の前で、立地は悪くないが、近くに店やコビニもなく不便と感じた、朝食のおにぎりを買い損ねて高級なモーニングを食べることになったのが残念。おにぎり1個分…　2026-10-09 17:38:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は良いが周辺に店がなく不便、バスは狭め電停の前で、立地は悪くないが、近くに店やコビニもなく不便と感じた、朝食のおにぎりを買い損ねて高級なモーニングを食べることになったのが残念。おにぎり1個分…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場　46台（先着順） 1200円/泊 (全長5.05ｍ・車幅1.75ｍ・車高1.55ｍ迄）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張で1泊利用しました。客室の設備などは年数が経っている印象を受けますが、隅々まで清掃が行き届いており気持ちよく過ごせました。上通商店街や繁華街に近く、夜の食事に出かけるのにも非常に便利です。…　2026-08-20 12:31:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「出張で1泊利用しました。客室の設備などは年数が経っている印象を受けますが、隅々まで清掃が行き届いており気持ちよく過ごせました。上通商店街や繁華街に近く、夜の食事に出かけるのにも非常に便利です。…」
                   </blockquote>
                 </div>
               </div>

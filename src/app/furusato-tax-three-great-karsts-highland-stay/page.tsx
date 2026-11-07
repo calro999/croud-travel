@@ -413,7 +413,7 @@ export default function FurusatoUpgradedPage() {
                   <p>【日本三大カルストの白銀石灰岩パノラマと高原リゾート宿】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や露天風呂は良いがサービスに不満あり良い箇所は部屋の作り、特に柱、梁は素晴らしく、日本間も15畳の落ち着いた快適な部屋、露天風呂も良い!改良して欲しい箇所、特別室の(幸)に宿泊、歯ブラシ等…　2026-08-17 15:47:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や露天風呂は良いがサービスに不満あり良い箇所は部屋の作り、特に柱、梁は素晴らしく、日本間も15畳の落ち着いた快適な部屋、露天風呂も良い!改良して欲しい箇所、特別室の(幸)に宿泊、歯ブラシ等…」
                   </blockquote>
                 </div>
               </div>
@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中は険しいが景色とサービスは満点!辿り着くのに道路が工事中だったり、片側一車線道路からセンターラインがなくなって離合不可の道を経ての到着。しかし、部屋の設備やらサービスはピカイチ!もちろ…　2026-09-02 12:35:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中は険しいが景色とサービスは満点!辿り着くのに道路が工事中だったり、片側一車線道路からセンターラインがなくなって離合不可の道を経ての到着。しかし、部屋の設備やらサービスはピカイチ!もちろ…」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／1泊1,100円（税込・先着順）※ご予約は承っておりませんので予めご了承ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔、朝食が美味しくコスパ良し設備は古めでは有りますが、清潔感も有って不快感は無いです。朝食の種類が豊富で、とても美味しかったです。唯一、残念だったのが天井にホコリがこびりつ…　2026-09-05 10:28:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔、朝食が美味しくコスパ良し設備は古めでは有りますが、清潔感も有って不快感は無いです。朝食の種類が豊富で、とても美味しかったです。唯一、残念だったのが天井にホコリがこびりつ…」
                   </blockquote>
                 </div>
               </div>

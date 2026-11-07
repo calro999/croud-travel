@@ -421,7 +421,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：500円（1泊＝15：00から翌10：00）予約不可・出入別料金・台数制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.08 ／ 部屋 ★4.14 ／ 設備 ★4.09 ／ 風呂 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、朝食のサラダもたっぷり満足駅から近くとても便利。朝食は野菜サラダがたっぷりいただけて満足。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-07 11:41:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、朝食のサラダもたっぷり満足駅から近くとても便利。朝食は野菜サラダがたっぷりいただけて満足。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.97 ／ 部屋 ★4.06 ／ 設備 ★4 ／ 風呂 ★3.93 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内不足や朝食の品切れが目立ち残念岐阜駅から降りてホテルへの道のりの看板がなくて分かりづらい。チェックイン時間前に荷物を預かってもらう時は反対側から入ってしまいました。夜チェックイン時に人が多くて…　2026-10-04 17:43:01投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=187987&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内不足や朝食の品切れが目立ち残念岐阜駅から降りてホテルへの道のりの看板がなくて分かりづらい。チェックイン時間前に荷物を預かってもらう時は反対側から入ってしまいました。夜チェックイン時に人が多くて…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル提携駐車場P926　先着順1泊1000円(14:30〜翌11:30まで途中出庫無し）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.21 ／ 部屋 ★4.21 ／ 設備 ★4.09 ／ 風呂 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋は広く朝食も美味しいホテルは若干古いですが部屋も広く寝やすく朝食も美味しいので出張の際は毎回宿泊させて頂いております。クチコミの詳細はこちらから　https://review.…　2026-10-06 10:04:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋は広く朝食も美味しいホテルは若干古いですが部屋も広く寝やすく朝食も美味しいので出張の際は毎回宿泊させて頂いております。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.26 ／ 部屋 ★4.32 ／ 設備 ★4.2 ／ 風呂 ★4.16 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待を上回る料理と温泉、また来たい宿 私用で岐阜へ。 せっかくなので長良川沿いの宿で1泊する事にしました。 川原町の街巡で、のんびり時間をすごして宿へ。交通手段:  自家用車で長良川沿…　2026-10-08 12:38:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待を上回る料理と温泉、また来たい宿 私用で岐阜へ。 せっかくなので長良川沿いの宿で1泊する事にしました。 川原町の街巡で、のんびり時間をすごして宿へ。交通手段:  自家用車で長良川沿…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetGifuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携立体駐車場／44台／一泊（14時〜翌12時）1,200円税込／車高制限有／営業時間外入出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.38 ／ 部屋 ★4.48 ／ 設備 ★4.42 ／ 風呂 ★4.34 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な案内で飛騨牛を堪能駅が近いことで、夜の繁華街が活気に溢れていました。ホテルの人に夕食の美味しい店をお聞きしたところ、大変丁寧にA4サイズのマップを頂き説明してくれました。お…　2026-10-01 09:58:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な案内で飛騨牛を堪能駅が近いことで、夜の繁華街が活気に溢れていました。ホテルの人に夕食の美味しい店をお聞きしたところ、大変丁寧にA4サイズのマップを頂き説明してくれました。お…」
                   </blockquote>
                 </div>
               </div>

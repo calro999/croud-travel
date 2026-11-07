@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.35 ／ 部屋 ★4.21 ／ 設備 ★4.25 ／ 風呂 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めての万座温泉、泉質が最高でしたお風呂最高でした。初めての万座温泉でしたが、泉質、ほんとに良かったです。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-10-06 12:22:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めての万座温泉、泉質が最高でしたお風呂最高でした。初めての万座温泉でしたが、泉質、ほんとに良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.26 ／ 部屋 ★4.02 ／ 設備 ★3.98 ／ 風呂 ★4.58 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質は最高だが雨で露天風呂に行けず残念お風呂(泉質)最高~露天風呂が野外の離れたところにあり雨で行けなかったのが残念クチコミの詳細はこちらから　https://review.travel.…　2026-10-10 19:57:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質は最高だが雨で露天風呂に行けず残念お風呂(泉質)最高~露天風呂が野外の離れたところにあり雨で行けなかったのが残念」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p>【上信越高原・万座温泉ひとり旅・標高1800m雲上の白】 <strong>【駐車場・マイカー利用】</strong>有り  ５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃は行き届いているが夜は少し暑いホテルは古いものの、清掃はしっかりされていて良かった。場所がら冷房がなく扇風機はあるものの、若干、寝ていて暑かった。温泉は混浴もあり、少し離れたプリンスホテルの温…　2026-09-05 14:34:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃は行き届いているが夜は少し暑いホテルは古いものの、清掃はしっかりされていて良かった。場所がら冷房がなく扇風機はあるものの、若干、寝ていて暑かった。温泉は混浴もあり、少し離れたプリンスホテルの温…」
                   </blockquote>
                 </div>
               </div>

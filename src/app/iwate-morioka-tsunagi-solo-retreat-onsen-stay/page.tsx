@@ -452,7 +452,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.08 ／ 部屋 ★4.01 ／ 設備 ★3.91 ／ 風呂 ★4.31 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯質と食事が最高、連泊でまた訪れたい静かな場所でとても良いのですが、階段の歩く音だけが気になりました。お部屋は人によると思いますが古き良きもの、客室露天風呂の湯質は凄く良い。夕食はボリュームが…　2026-10-10 19:50:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯質と食事が最高、連泊でまた訪れたい静かな場所でとても良いのですが、階段の歩く音だけが気になりました。お部屋は人によると思いますが古き良きもの、客室露天風呂の湯質は凄く良い。夕食はボリュームが…」
                   </blockquote>
                 </div>
               </div>
@@ -474,7 +474,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.39 ／ 部屋 ★4.41 ／ 設備 ★3.97 ／ 風呂 ★4.16 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で快適な部屋とふかふかのお布団で快眠秋田駒ケ岳登山のため、盛岡ICから近い温泉宿ということに惹かれ、素泊まりで利用しました。清潔で、掃除がきちんとされていて、気持ちよく過ごせました。お布団もふ…　2026-10-06 20:33:53投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=182050&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で快適な部屋とふかふかのお布団で快眠秋田駒ケ岳登山のため、盛岡ICから近い温泉宿ということに惹かれ、素泊まりで利用しました。清潔で、掃除がきちんとされていて、気持ちよく過ごせました。お布団もふ…」
                   </blockquote>
                 </div>
               </div>
@@ -496,7 +496,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　10台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.7 ／ 部屋 ★3.81 ／ 設備 ★3.7 ／ 風呂 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂の塩素臭と布団の臭いが気になった女性のお風呂はとても気持ちよかったとのこと。男性の風呂は、入り口からプールのようなにおいがしていて...。風呂から上がった後は、体が塩素臭くなりました…　2026-09-23 21:51:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂の塩素臭と布団の臭いが気になった女性のお風呂はとても気持ちよかったとのこと。男性の風呂は、入り口からプールのようなにおいがしていて...。風呂から上がった後は、体が塩素臭くなりました…」
                   </blockquote>
                 </div>
               </div>

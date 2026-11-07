@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.6 ／ 部屋 ★4.57 ／ 設備 ★4.45 ／ 風呂 ★4.43 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです。クチコミの詳細はこちらから　…　2026-10-01 16:46:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです。」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　28台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奈良旅の定宿、静かな空間と朝食に癒される4回目の宿泊ですが、奈良旅の後はいつもココに決めています。ホテルはいつも静かで落ちつく空間です。旅で疲れた体を癒してくれます。朝食もホントに美味しいです。い…　2026-08-18 21:14:43投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=184470&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奈良旅の定宿、静かな空間と朝食に癒される4回目の宿泊ですが、奈良旅の後はいつもココに決めています。ホテルはいつも静かで落ちつく空間です。旅で疲れた体を癒してくれます。朝食もホントに美味しいです。い…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場の収容台数には限りがございます。お電話にてご予約を承っております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Excellent services provided at the hotel.Excellent services クチコミの詳細はこちらから　https://review.travel.…　2026-08-20 09:42:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Excellent services provided at the hotel.Excellent services 」
                   </blockquote>
                 </div>
               </div>

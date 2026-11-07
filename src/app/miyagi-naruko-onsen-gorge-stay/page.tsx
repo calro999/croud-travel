@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>施設前に無料駐車場あり。40台まで。予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの親切な対応に大変満足みなさん親切で大変満足しました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1…　2026-07-06 18:41:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの親切な対応に大変満足みなさん親切で大変満足しました。」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　先着順  バイク用車庫有り 無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクガレージ完備、温泉も料理も大満足東北ツーリングではいつも宿泊していましたが、7/29に2年ぶりの宿泊となりました。雨天でもシャッター付きのガレージにバイクを置かせていただけるのでありがた…　2026-08-16 21:27:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイクガレージ完備、温泉も料理も大満足東北ツーリングではいつも宿泊していましたが、7/29に2年ぶりの宿泊となりました。雨天でもシャッター付きのガレージにバイクを置かせていただけるのでありがた…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・鳴子温泉郷＆鳴子峡：日本屈指の多彩な泉質・紅葉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…　2026-09-12 11:02:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…」
                   </blockquote>
                 </div>
               </div>

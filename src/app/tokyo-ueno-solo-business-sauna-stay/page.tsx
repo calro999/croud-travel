@@ -476,7 +476,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し 近隣の駐車場をご案内致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.25 ／ 部屋 ★4.32 ／ 設備 ★4.31 ／ 風呂 ★4.35 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜鳴きそば美味しくいただきました。ありがとうございますクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/147711?re…　2026-09-30 06:58:02投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=147711&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜鳴きそば美味しくいただきました。ありがとうございます」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し※提携駐車場もございません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★3.73 ／ 部屋 ★3.77 ／ 設備 ★3.77 ／ 風呂 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「想定を超えたサウナと水風呂に大満足狭いながらも空間を有効活用されたお部屋で私は好きですね。お風呂も初見で「狭いな〜」と感じましたが、水風呂は14-5度、サウナもドライサウナで高温。ととのい椅子もち…　2026-09-11 15:36:28投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=162901&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「想定を超えたサウナと水風呂に大満足狭いながらも空間を有効活用されたお部屋で私は好きですね。お風呂も初見で「狭いな〜」と感じましたが、水風呂は14-5度、サウナもドライサウナで高温。ととのい椅子もち…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.13 ／ 部屋 ★3.93 ／ 設備 ★3.98 ／ 風呂 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カレーと立地は最高だが大浴場が不便カレーライス食べ放題とドリンク1杯付きがありがたい。ロケーションは繁華街の真ん中で最高。大浴場のロッカーが1個も空いてなく使い方も案内がなくわからなかった点がマイ…　2026-10-10 19:56:08投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=151138&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カレーと立地は最高だが大浴場が不便カレーライス食べ放題とドリンク1杯付きがありがたい。ロケーションは繁華街の真ん中で最高。大浴場のロッカーが1個も空いてなく使い方も案内がなくわからなかった点がマイ…」
                   </blockquote>
                 </div>
               </div>

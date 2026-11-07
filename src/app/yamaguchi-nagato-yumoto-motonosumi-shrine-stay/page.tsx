@@ -306,7 +306,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外駐車場有り（無料）、乗用車100台収容可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お値段相応夏休み旅行で、安かったので泊まらせてもらいました。やはり、お値段相応で、館内はかなり古く清潔にはされてますがあちこちに古さを感じました。大浴場はかなり広く清潔にはされてましたが、露天風呂…　2026-08-29 17:02:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お値段相応夏休み旅行で、安かったので泊まらせてもらいました。やはり、お値段相応で、館内はかなり古く清潔にはされてますがあちこちに古さを感じました。大浴場はかなり広く清潔にはされてましたが、露天風呂…」
                   </blockquote>
                 </div>
               </div>
@@ -328,7 +328,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り60台 普通車無料※大型は11,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内に瓦そばの名店があり夕食が絶品山口名物の瓦そば有名店「たかせ」が館内にあるので 夕食で利用しました。たいへん美味でした。クチコミの詳細はこちらから　https://review.trave…　2026-09-08 09:58:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内に瓦そばの名店があり夕食が絶品山口名物の瓦そば有名店「たかせ」が館内にあるので 夕食で利用しました。たいへん美味でした。」
                   </blockquote>
                 </div>
               </div>
@@ -350,7 +350,7 @@ export default function MicroTouristHubPage() {
                   <p>【山口・長門湯本温泉＆元乃隅神社：日本海望む123基赤】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…　2026-09-18 22:59:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…」
                   </blockquote>
                 </div>
               </div>

@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p>【天空の絶景ととのい体験】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。特に温泉は本当に泉質が良く何…　2026-08-04 17:10:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質は最高、スタッフの対応も親切口コミを見てホテル予約をしました。部屋の清掃が行き届いている、料理が美味しい、温泉が良い。概ねその通りで満足です。特に温泉は本当に泉質が良く何…」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p>【天空の絶景ととのい体験】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高、料理も温泉も眺めも大満足コスパ最高すぎです 料理は美味しいし、お風呂も良い なんと言っても眺めが良いクチコミの詳細はこちらから　https://review.travel.raku…　2026-09-17 20:08:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ最高、料理も温泉も眺めも大満足コスパ最高すぎです 料理は美味しいし、お風呂も良い なんと言っても眺めが良い」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場(60台)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.52 ／ 部屋 ★4.41 ／ 設備 ★4.24 ／ 風呂 ★4.48 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナ付きの部屋と露天風呂からの絶景サウナ付きの部屋、最高でした!部屋からは湖が見えなくて残念でしたけど、露天風呂からしっかりと湖を見ることが出来ました。露天風呂からの景色が絶景。男女入れ…　2026-10-03 17:41:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナ付きの部屋と露天風呂からの絶景サウナ付きの部屋、最高でした!部屋からは湖が見えなくて残念でしたけど、露天風呂からしっかりと湖を見ることが出来ました。露天風呂からの景色が絶景。男女入れ…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p>【天空の絶景ととのい体験】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…　2026-08-29 17:15:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…」
                   </blockquote>
                 </div>
               </div>

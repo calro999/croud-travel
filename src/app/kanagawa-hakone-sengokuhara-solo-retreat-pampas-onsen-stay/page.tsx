@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.88 ／ 部屋 ★4.82 ／ 設備 ★4.88 ／ 風呂 ★4.88 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしいお宿です家族のお誕生日のお祝いで初めて伺いました。おもてなし、お料理、雰囲気、温泉、全てが素晴らしいお宿でした。本当に素敵なひと時を過ごすことができ大満足です!また大切な日にお伺いさ…　2026-07-27 21:51:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしいお宿です家族のお誕生日のお祝いで初めて伺いました。おもてなし、お料理、雰囲気、温泉、全てが素晴らしいお宿でした。本当に素敵なひと時を過ごすことができ大満足です!また大切な日にお伺いさ…」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p>【箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり：黄金】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お料理が美味しくゆったり過ごせたけれど、台風時の電話対応が残念部屋:広々としていて、清潔感があり快適でした。8月初旬で暑い日だったため、冷たいお水が美味しかったです。お風呂:設備は古さを感じた…　2026-08-13 19:02:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お料理が美味しくゆったり過ごせたけれど、台風時の電話対応が残念部屋:広々としていて、清潔感があり快適でした。8月初旬で暑い日だったため、冷たいお水が美味しかったです。お風呂:設備は古さを感じた…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p>【箱根仙石原温泉ひとり旅・ススキ草原白濁おこもり：黄金】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂があればもっと良かった露天風呂があれば、もっと良かったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/8…　2026-09-08 14:05:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂があればもっと良かった露天風呂があれば、もっと良かったです」
                   </blockquote>
                 </div>
               </div>

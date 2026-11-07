@@ -377,7 +377,7 @@ export default function WomenSoloRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋根付きあり　収容台数36台　1部屋あたり1台までとさせていただいております</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★3.78 ／ 部屋 ★3.98 ／ 設備 ★3.84 ／ 風呂 ★4.11 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「学生に優しい価格で、また利用したい箱根湯本駅から少し遠いですが、学生に優しい価格で宿泊することができてよかったです。また次回も宿泊したいと思います。他の画像やクチコミの詳細はこちらから　h…　2026-10-06 11:20:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「学生に優しい価格で、また利用したい箱根湯本駅から少し遠いですが、学生に優しい価格で宿泊することができてよかったです。また次回も宿泊したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function WomenSoloRetreatHubPage() {
                   <p>【週末おこもり・読書＆ブックホテル：数万冊の本に囲まれ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…　2026-09-19 21:11:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上の素晴らしさで心身ともにリフレッシュ日頃の疲れを癒やすために宿泊しましたが、期待を大きく上回る素晴らしさでした。お部屋は清潔感があり広々としていて、到着時に用意していただいたウェルカム…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function WomenSoloRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい心遣いに感動、また訪れたい滞在中は、最初から最後までとても快適に過ごすことができました。子ども向けのサービスも充実していて、ミニ縁日ではスタッフの方と楽しくゲームをしたり、…　2026-08-19 14:26:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい心遣いに感動、また訪れたい滞在中は、最初から最後までとても快適に過ごすことができました。子ども向けのサービスも充実していて、ミニ縁日ではスタッフの方と楽しくゲームをしたり、…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function WomenSoloRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料／33台　※駐車可能車両サイズ：長さ5.0ｍ、車幅2.0ｍ以内　※トラック不可　※満車の場合有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「念願の部屋でマンガ三昧、接客も丁寧で大満足三月にも来ましたが、今回は念願の「文」部屋へ2連泊!部屋にテレビはありませんが、スマホで音楽流しながらマンガ三昧でき、良かったですアメニティや部屋…　2026-08-29 00:34:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「念願の部屋でマンガ三昧、接客も丁寧で大満足三月にも来ましたが、今回は念願の「文」部屋へ2連泊!部屋にテレビはありませんが、スマホで音楽流しながらマンガ三昧でき、良かったですアメニティや部屋…」
                   </blockquote>
                 </div>
               </div>

@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は貸切状態でゆっくり、素泊まりに最適素泊まり。平屋で部屋数が少ないからか温泉も人が少なくゆっくり入ってました。夕食は外で食べたけど近くには食堂が少なく車で探しました。温泉付きならト…　2026-08-12 11:57:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は貸切状態でゆっくり、素泊まりに最適素泊まり。平屋で部屋数が少ないからか温泉も人が少なくゆっくり入ってました。夕食は外で食べたけど近くには食堂が少なく車で探しました。温泉付きならト…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。室内に電話が無く、浴衣を交換するのにフロントまで出向かなくてはな…　2026-08-16 12:58:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが設備や温泉に不満あり食事は夜も朝も質・量共に良かったです。温泉は災害の影響で本来のものではないので残念でした。室内に電話が無く、浴衣を交換するのにフロントまで出向かなくてはな…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り、無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.89 ／ 部屋 ★4.04 ／ 設備 ★3.89 ／ 風呂 ★3.89 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アップグレードの心遣いと食事に感動予約した部屋よりグレードの高い部屋が空いていて、もとの料金でそちらに宿泊させていただきましたホテル内の調度品、どれも素晴らしかったです食事も手が込んで調理…　2026-10-06 09:12:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アップグレードの心遣いと食事に感動予約した部屋よりグレードの高い部屋が空いていて、もとの料金でそちらに宿泊させていただきましたホテル内の調度品、どれも素晴らしかったです食事も手が込んで調理…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋根付き駐車場10台（無料）　屋外駐車場あり、電気自動車用のコンセント2カ所有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は望めないが部屋も朝食も大満足泊まった部屋は景色は楽しめないですが、泊まる分には大変満足でした。朝食も美味しかったです。クチコミの詳細はこちらから　https://review.tra…　2026-09-07 20:43:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は望めないが部屋も朝食も大満足泊まった部屋は景色は楽しめないですが、泊まる分には大変満足でした。朝食も美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料  　　 駐車場でのトラブルには責任を負いかねます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.08 ／ 部屋 ★4.08 ／ 設備 ★3.9 ／ 風呂 ★4.2 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いがスタッフの工夫で良い滞在に施設は古くて空調や施錠等不便でしたが、スタッフの皆様様々工夫しておもてなししていただいてよき滞在となりました。ありがとうございました。クチコミの詳細はこち…　2026-10-08 08:14:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いがスタッフの工夫で良い滞在に施設は古くて空調や施錠等不便でしたが、スタッフの皆様様々工夫しておもてなししていただいてよき滞在となりました。ありがとうございました。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>

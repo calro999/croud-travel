@@ -363,7 +363,7 @@ export default function TohokuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>73台収容立体駐車場あり(1,500円／15：00～翌15：00)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔だが風呂の床とカーテンに難あり部屋は清潔で快適。風呂の床が滑りやすく危ない。シャワーカーテンがカビていて減点。脱衣場の床は清潔で快適。クチコミの詳細はこちらから　http…　2026-08-19 21:21:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔だが風呂の床とカーテンに難あり部屋は清潔で快適。風呂の床が滑りやすく危ない。シャワーカーテンがカビていて減点。脱衣場の床は清潔で快適。」
                   </blockquote>
                 </div>
               </div>
@@ -385,7 +385,7 @@ export default function TohokuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1120～1530円/泊：提携先により条件が異なります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「QRコードが読み取れず手動手続きが面倒自動チェックインのQRコードが読み取れず、手動でのチェックインがかえって面倒!クチコミの詳細はこちらから　https://review.travel.ra…　2026-08-22 20:20:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「QRコードが読み取れず手動手続きが面倒自動チェックインのQRコードが読み取れず、手動でのチェックインがかえって面倒!」
                   </blockquote>
                 </div>
               </div>
@@ -407,7 +407,7 @@ export default function TohokuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場142台完備。予約不要。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しくスタッフの対応も素晴らしいはじめて宿泊しました。ルートインは県内5箇所目です。いつも満足しています。今回、朝食が美味しいこと、そのスタッフの仕事ぶりがよかったことが印象に残りコメント…　2026-08-14 12:42:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しくスタッフの対応も素晴らしいはじめて宿泊しました。ルートインは県内5箇所目です。いつも満足しています。今回、朝食が美味しいこと、そのスタッフの仕事ぶりがよかったことが印象に残りコメント…」
                   </blockquote>
                 </div>
               </div>
@@ -429,7 +429,7 @@ export default function TohokuBudgetGuidePage() {
                   <p>【東北旅行 費用：2泊3日で仙台・松島・銀山温泉を巡る】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスと食事に大満足、温泉街の眺めも最高駅からの送迎、滞在中のサービス、食事、設備全てにおいて大満足の滞在でした。一点あげるとしたら、午前中に1Fのお風呂に入ったとき、火傷をするくらいお…　2026-07-29 11:16:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスと食事に大満足、温泉街の眺めも最高駅からの送迎、滞在中のサービス、食事、設備全てにおいて大満足の滞在でした。一点あげるとしたら、午前中に1Fのお風呂に入ったとき、火傷をするくらいお…」
                   </blockquote>
                 </div>
               </div>
@@ -451,7 +451,7 @@ export default function TohokuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届かず、食事も期待外れ設備が古いの仕方がないとして、とにかく全然掃除が出来ていなくてアレルギーが発症(   )ほこり、カビ、水垢...しっかり掃除されて下さい。ご飯は美味しくなく…　2026-08-26 16:13:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届かず、食事も期待外れ設備が古いの仕方がないとして、とにかく全然掃除が出来ていなくてアレルギーが発症(   )ほこり、カビ、水垢...しっかり掃除されて下さい。ご飯は美味しくなく…」
                   </blockquote>
                 </div>
               </div>
@@ -473,7 +473,7 @@ export default function TohokuBudgetGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気抜群の旅館で美味しい料理に大満足すごく雰囲気のある旅館でお料理も美味しかったです!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-08-24 10:00:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気抜群の旅館で美味しい料理に大満足すごく雰囲気のある旅館でお料理も美味しかったです!」
                   </blockquote>
                 </div>
               </div>

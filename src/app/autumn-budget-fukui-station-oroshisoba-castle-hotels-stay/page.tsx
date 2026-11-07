@@ -496,7 +496,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいホテルです食事が思ったより残念でした。味とかは問題ではなく、こちらの過大な期待のせいだと思いますが..あと、夏休みの子供キャンプ?なのか子供が多すぎて、バイキング取りづらかった。更に引率の…　2026-08-18 16:20:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいホテルです食事が思ったより残念でした。味とかは問題ではなく、こちらの過大な期待のせいだと思いますが..あと、夏休みの子供キャンプ?なのか子供が多すぎて、バイキング取りづらかった。更に引率の…」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.31 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「NiceGood service.Onsen was great.Relaxing and comfortable!クチコミの詳細はこちらから　https://review.trave…　2026-10-05 14:14:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「NiceGood service.Onsen was great.Relaxing and comfortable!」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　840円／泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。部屋などはよくあるビジネスホテルといった感じで良くも悪くもなく…　2026-08-16 23:55:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。部屋などはよくあるビジネスホテルといった感じで良くも悪くもなく…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂は最高だが夕食のタレが辛すぎた夕食のしゃぶしゃぶのタレがゴマだれとポン酢だったのですが、どちらも辛すぎて何もつけずに食べたほうがよかったです。部屋付き露天風呂はとても気持ちよくて良かっ…　2026-08-28 20:05:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂は最高だが夕食のタレが辛すぎた夕食のしゃぶしゃぶのタレがゴマだれとポン酢だったのですが、どちらも辛すぎて何もつけずに食べたほうがよかったです。部屋付き露天風呂はとても気持ちよくて良かっ…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function AutumnBudgetFukuiStationHotelsPage() {
                   <p>【福井駅前：越前おろしそば＆ソースカツ丼・福井城跡】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は期待外れ、朝食の和食は満足夕食はバイキングだったのですがネットの写真を見て良さそうに思ったのですが私的にはあんまりでした。朝食の和食の方が良かったです。クチコミの詳細はこちらから　htt…　2026-08-22 23:43:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は期待外れ、朝食の和食は満足夕食はバイキングだったのですがネットの写真を見て良さそうに思ったのですが私的にはあんまりでした。朝食の和食の方が良かったです。」
                   </blockquote>
                 </div>
               </div>

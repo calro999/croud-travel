@@ -355,7 +355,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オナ親切オナが明るく楽しい方で、近くの美味しいお店や観光ポイント等、いろいろ気軽に教えて頂けて助かりました。朝食も簡素ですがとても美味しかったです。野菜がもっとあるともっと嬉しいなと思います。…　2026-05-13 08:29:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オナ親切オナが明るく楽しい方で、近くの美味しいお店や観光ポイント等、いろいろ気軽に教えて頂けて助かりました。朝食も簡素ですがとても美味しかったです。野菜がもっとあるともっと嬉しいなと思います。…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…　2026-08-16 18:44:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５０台　無料　EV対応　普通充電器［交流 8ｋW］4基　１回1000円　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.67 ／ 部屋 ★4.75 ／ 設備 ★4.68 ／ 風呂 ★4.62 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「完璧な接客と料理、価格以上の価値ある体験立地、食事、温泉、スタッフの気配り、笑顔どれをとってもほぼ完璧でした。出すぎず、でも必要なときは横にいてくれる感覚。スタッフの都合より宿泊客がどう快適に過ご…　2026-10-09 10:01:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「完璧な接客と料理、価格以上の価値ある体験立地、食事、温泉、スタッフの気配り、笑顔どれをとってもほぼ完璧でした。出すぎず、でも必要なときは横にいてくれる感覚。スタッフの都合より宿泊客がどう快適に過ご…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【極上美食オーベルジュ温泉宿：ミシュラン星付きシェフ監】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夏の山人も最高、料理とスタッフに感動!3回目の山人春に予約しこの日のために色んな事を乗り越えてようやく辿り着いた山人お出迎えからチェックイン、お部屋、かけ流しのお風呂、そして夕食.....…　2026-08-08 21:55:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夏の山人も最高、料理とスタッフに感動!3回目の山人春に予約しこの日のために色んな事を乗り越えてようやく辿り着いた山人お出迎えからチェックイン、お部屋、かけ流しのお風呂、そして夕食.....…」
                   </blockquote>
                 </div>
               </div>

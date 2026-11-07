@@ -538,7 +538,7 @@ export default function Page() {
                   <p>【天然の清流へダイブ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングも美味しいし、サウナもお風呂も最高でした。また、行きたいです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-09-17 20:53:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングも美味しいし、サウナもお風呂も最高でした。また、行きたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【天然の清流へダイブ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある館内と温泉、美味しい食事に大満足建物自体は古かったですが、全体に清潔感があり、気持ち良く滞在できました。温泉もお湯がオーバーフローしていて気持ち良かったです。夕食もどれも綺麗に盛り付…　2026-09-17 17:55:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある館内と温泉、美味しい食事に大満足建物自体は古かったですが、全体に清潔感があり、気持ち良く滞在できました。温泉もお湯がオーバーフローしていて気持ち良かったです。夕食もどれも綺麗に盛り付…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古い老舗旅館ですが、綺麗に整備されており、特にお風呂がおススメ。大浴場でバスタオルを貸してもらえて、脱衣所で回収するので、部屋のタオルを持ち出さなくていいことが気に入っています。(ほとんどの宿泊施…　2026-08-22 12:43:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古い老舗旅館ですが、綺麗に整備されており、特にお風呂がおススメ。大浴場でバスタオルを貸してもらえて、脱衣所で回収するので、部屋のタオルを持ち出さなくていいことが気に入っています。(ほとんどの宿泊施…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【天然の清流へダイブ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本語が堪能なスタッフと心遣いに感謝スタッフは外国人でしたが、日本語がとてもお上手で、浴衣も夫と私のピッタリサイズを持って来て頂いて、気持ちよく過ごせました。クチコミの詳細はこちらから　htt…　2026-09-17 17:23:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日本語が堪能なスタッフと心遣いに感謝スタッフは外国人でしたが、日本語がとてもお上手で、浴衣も夫と私のピッタリサイズを持って来て頂いて、気持ちよく過ごせました。」
                   </blockquote>
                 </div>
               </div>

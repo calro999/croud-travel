@@ -324,7 +324,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が美味しい広くて部屋がわかりにくかったけどバイキングが美味しかった特に高齢者にはカートを貸してくださり一人で選ぶことができて良かったです 10名と大人数でしたが朝食には席を用意しておいてく…　2026-08-20 18:30:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が美味しい広くて部屋がわかりにくかったけどバイキングが美味しかった特に高齢者にはカートを貸してくださり一人で選ぶことができて良かったです 10名と大人数でしたが朝食には席を用意しておいてく…」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　到着順にご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.48 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.48 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの種類が豊富でアルコールも充実バイキングはたくさん種類があって食べきれないほどです秋刀魚のお寿司があって嬉しかったですアルコールフリーで満足ソラチが飲めたのが良かったです…　2026-10-08 21:11:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの種類が豊富でアルコールも充実バイキングはたくさん種類があって食べきれないほどです秋刀魚のお寿司があって嬉しかったですアルコールフリーで満足ソラチが飲めたのが良かったです…」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function MicroTouristHubPage() {
                   <p>【北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「An unexpectedly wonderful stay. We booked a lodge equipped with a compact kitchen. The onsen ameniti…　2026-08-15 22:51:24投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=10711&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「An unexpectedly wonderful stay. We booked a lodge equipped with a compact kitchen. The onsen ameniti…」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>40台（無料：予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える広い部屋と親切な対応に大満足海のみえる景色で部屋もとても広く綺麗でした。ドリンクコーナーには生ビールもあり、飲みすぎてしまいました。フロントの方も親切で、傘やiPhoneが調子悪かっ…　2026-08-10 07:08:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える広い部屋と親切な対応に大満足海のみえる景色で部屋もとても広く綺麗でした。ドリンクコーナーには生ビールもあり、飲みすぎてしまいました。フロントの方も親切で、傘やiPhoneが調子悪かっ…」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function MicroTouristHubPage() {
                   <p>【北海道・世界遺産知床ウトロ：オホーツク流氷・知床五湖】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「キンキの煮付けが最高に美味しかった!キンキが最高に美味しかった!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/20…　2026-08-16 14:14:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「キンキの煮付けが最高に美味しかった!キンキが最高に美味しかった!」
                   </blockquote>
                 </div>
               </div>

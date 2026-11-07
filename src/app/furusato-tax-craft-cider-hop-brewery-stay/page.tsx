@@ -582,7 +582,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場あり1泊（15時〜翌10時） 600円〜、到着順。■バイク：不可。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.87 ／ 立地 ★3.72 ／ 部屋 ★3.66 ／ 設備 ★3.67 ／ 風呂 ★3.69 ／ 食事 ★3.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1泊なら十分、長期滞在には不向き部屋がコンパクトなためスーツケースを持っての長期滞在にはむかないでも他は普通ですよ1泊とかなら全然ありですクチコミの詳細はこちらから　https:/…　2026-10-08 17:51:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1泊なら十分、長期滞在には不向き部屋がコンパクトなためスーツケースを持っての長期滞在にはむかないでも他は普通ですよ1泊とかなら全然ありです」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function FurusatoFeaturePage() {
                   <p>【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.83 ／ 部屋 ★3.89 ／ 設備 ★3.74 ／ 風呂 ★4.03 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔で食事も美味しく満足設備は多少古い感じはしますが、十分綺麗に行き届いた感じになっております。食事も十分でおいしかったです。また機会がありましたら伺いたいと思います。大変満足いたし…　2026-09-30 21:14:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔で食事も美味しく満足設備は多少古い感じはしますが、十分綺麗に行き届いた感じになっております。食事も十分でおいしかったです。また機会がありましたら伺いたいと思います。大変満足いたし…」
                   </blockquote>
                 </div>
               </div>
@@ -626,7 +626,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清掃が行き届き、素泊まりでも快適今回は朝が早かったため素泊まりにしましたが、いつも美味しい朝食をいただいています。年季の入った建物ではありますが、清掃は行き届いていますし駅も近く不便はありま…　2026-08-11 00:19:17投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=167781&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清掃が行き届き、素泊まりでも快適今回は朝が早かったため素泊まりにしましたが、いつも美味しい朝食をいただいています。年季の入った建物ではありますが、清掃は行き届いていますし駅も近く不便はありま…」
                   </blockquote>
                 </div>
               </div>
@@ -648,7 +648,7 @@ export default function FurusatoFeaturePage() {
                   <p>【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…　2026-10-10 17:17:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…」
                   </blockquote>
                 </div>
               </div>
@@ -670,7 +670,7 @@ export default function FurusatoFeaturePage() {
                   <p>【クラフトシードル＆ご当地ホップ醸造宿×ふるさと納税厳】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高遠湖の景色と温泉、スマートな接客に大満足高遠湖を臨むお部屋は、景色を眺めとてもリラックスすることができました。 美肌効果のある温泉はとっても気持ちよかったです。レストランは夕食 朝食ともに 、ち… 2026-08-26 21:43:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高遠湖の景色と温泉、スマートな接客に大満足高遠湖を臨むお部屋は、景色を眺めとてもリラックスすることができました。 美肌効果のある温泉はとっても気持ちよかったです。レストランは夕食 朝食ともに 、ち…」
                   </blockquote>
                 </div>
               </div>

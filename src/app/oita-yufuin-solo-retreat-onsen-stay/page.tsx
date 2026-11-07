@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と料理最高!また来たい宿温泉付きの部屋に泊まりました温泉の湯が最高でまた泊まりたいです料理も美味しくて量も多くとても満足しましたクチコミの詳細はこちらから　https://re…　2026-06-09 22:49:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と料理最高!また来たい宿温泉付きの部屋に泊まりました温泉の湯が最高でまた泊まりたいです料理も美味しくて量も多くとても満足しました」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>32台分の無料駐車場あり。予約不要です。（バスは要事前連絡）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.52 ／ 部屋 ★4.54 ／ 設備 ★4.35 ／ 風呂 ★4.59 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一生懸命な接客と温泉、無料サービスが充実従業員は海外の方が多いが、みんな一生懸命で丁寧に接客してくれました。部屋数も少なく宿泊客も少なかったので、温泉もゆったり入れました。談話室での習字書き放…　2026-09-18 01:23:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一生懸命な接客と温泉、無料サービスが充実従業員は海外の方が多いが、みんな一生懸命で丁寧に接客してくれました。部屋数も少なく宿泊客も少なかったので、温泉もゆったり入れました。談話室での習字書き放…」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p>【由布院温泉ひとり旅・由布岳望むおこもり：金鱗湖朝霧・】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事、お部屋の温泉共にとても良かったです。建物は多少古い感じはありましたが清掃は綺麗にされており、初めての湯布院の旅行がとても良い思い出になりました。またいつか機会があればお邪魔したいなと思う旅…　2026-08-13 12:00:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事、お部屋の温泉共にとても良かったです。建物は多少古い感じはありましたが清掃は綺麗にされており、初めての湯布院の旅行がとても良い思い出になりました。またいつか機会があればお邪魔したいなと思う旅…」
                   </blockquote>
                 </div>
               </div>

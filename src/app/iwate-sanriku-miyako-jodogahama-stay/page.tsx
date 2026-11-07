@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p>【岩手・三陸宮古＆浄土ヶ浜：極楽浄土の白い奇岩・青の洞】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。お食事は期待したほどではなく少し残念でしたが、朝の…　2026-09-04 23:43:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺めと朝日が最高、食事は少し残念部屋からの眺めが素晴らしく、とても贅沢な時間を過ごすことが出来ました。朝日も美しく良い思い出になりました。お食事は期待したほどではなく少し残念でしたが、朝の…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）／約４０台／完全先着順（予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入口が分離されていて気兼ねなく快適に過ごせたカプセルホテルですが、上段と下段の入口が完全に分離されていて、気遣いすることなく、快適に過ごせましたクチコミの詳細はこちらから　https://re…　2026-08-27 07:29:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入口が分離されていて気兼ねなく快適に過ごせたカプセルホテルですが、上段と下段の入口が完全に分離されていて、気遣いすることなく、快適に過ごせました」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　197台　（無料） 大型車駐車可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食開始がもう少し早いと助かる朝食開始が6時からだとありがたかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/vo…　2026-08-26 23:30:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食開始がもう少し早いと助かる朝食開始が6時からだとありがたかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　20台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さはあるが綺麗で昭和の雰囲気も良い古いが綺麗にされており、昭和感漂いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice…　2026-08-05 08:24:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さはあるが綺麗で昭和の雰囲気も良い古いが綺麗にされており、昭和感漂い」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>旅館横のガレージ、左50m拉麺屋空地、駅裏　看板有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしがすごい!今回2度目の宿泊でした。前回、switchのある大部屋に泊まり、子ども達が大喜びで、今回も同じ部屋を予約しました!なんと、switch2になっていて、子ども達大興奮でした!毎回…　2026-08-20 00:19:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしがすごい!今回2度目の宿泊でした。前回、switchのある大部屋に泊まり、子ども達が大喜びで、今回も同じ部屋を予約しました!なんと、switch2になっていて、子ども達大興奮でした!毎回…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に有り　１３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「記念日のサプライズと絶景風呂に大満足客室はシンプルで広々、ソファーも大きめでゆったり過ごせました。内風呂(浴槽も大きめでシャワー付き)の他に低温サウナ、屋外には露天風呂も付いており虫の音を聴き月を…　2026-08-25 10:15:09投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=148922&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「記念日のサプライズと絶景風呂に大満足客室はシンプルで広々、ソファーも大きめでゆったり過ごせました。内風呂(浴槽も大きめでシャワー付き)の他に低温サウナ、屋外には露天風呂も付いており虫の音を聴き月を…」
                   </blockquote>
                 </div>
               </div>

@@ -627,7 +627,7 @@ export default function Page() {
                   <p>【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが接客が丁寧で静かに過ごせたホテルは少し古いですが、ホテルの方の接客が丁寧で好感を持てました川沿いの静かな場所でゆっくり出来ましたクチコミの詳細はこちらから　https://re…　2026-08-14 17:56:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが接客が丁寧で静かに過ごせたホテルは少し古いですが、ホテルの方の接客が丁寧で好感を持てました川沿いの静かな場所でゆっくり出来ました」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　250台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★3.92 ／ 部屋 ★4.04 ／ 設備 ★4.13 ／ 風呂 ★4.4 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングとアメニティーが充実した温泉施設に大満足食事は夕食も朝食もバイキングでした 種類も豊富で、とっても美味しく大満足でした隣の温泉施設と部屋のアメニティーが充実してて、特に温泉施設は痒い…　2026-10-03 17:39:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングとアメニティーが充実した温泉施設に大満足食事は夕食も朝食もバイキングでした 種類も豊富で、とっても美味しく大満足でした隣の温泉施設と部屋のアメニティーが充実してて、特に温泉施設は痒い…」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p>【日本三大八幡宮＆厄除開運・勝運祈願の聖地巡礼宿×ふる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。クチコミの詳細はこちらから　https://review.tra…　2026-09-16 17:10:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。」
                   </blockquote>
                 </div>
               </div>

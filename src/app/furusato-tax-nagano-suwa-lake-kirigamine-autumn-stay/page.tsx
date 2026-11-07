@@ -583,7 +583,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料50台。バイク利用は屋根下確定。当館敷地内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早期予約でお得に、4社巡りツアーも大満足早期予約で割安で予約が取れました。老舗旅館らしい良さが接客や料理など随所に感じられました。地場野菜を多く使った食事は美味しく頂けました。特に気に入ったのは、…　2026-09-05 22:44:34投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=130095&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早期予約でお得に、4社巡りツアーも大満足早期予約で割安で予約が取れました。老舗旅館らしい良さが接客や料理など随所に感じられました。地場野菜を多く使った食事は美味しく頂けました。特に気に入ったのは、…」
                   </blockquote>
                 </div>
               </div>
@@ -605,7 +605,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（別敷地※屋外）無料※ご到着時一旦、当館の正面玄関前へお着けください。駐車場をご案内しております</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レイクビューの露天風呂と食事に大満足広々として綺麗な客室でゆったり過ごせました。温泉が2種の泉質があることと、レイクビューの露天風呂があることがこちらを選んだ理由でしたが、大満足でした。貸切露…　2026-09-05 12:19:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レイクビューの露天風呂と食事に大満足広々として綺麗な客室でゆったり過ごせました。温泉が2種の泉質があることと、レイクビューの露天風呂があることがこちらを選んだ理由でしたが、大満足でした。貸切露…」
                   </blockquote>
                 </div>
               </div>
@@ -627,7 +627,7 @@ export default function Page() {
                   <p>【長野・諏訪湖＆霧ヶ峰高原】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食がサラダ、ご飯のお供、ドリンクのみ、セルフでとれるサービスがあり、すごくよいシステムだなと思いました。夕食は部屋食にして、こちらは出来立てとは行きませんでしたが、ゆっくり食べることができました。…　2026-08-26 01:45:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食がサラダ、ご飯のお供、ドリンクのみ、セルフでとれるサービスがあり、すごくよいシステムだなと思いました。夕食は部屋食にして、こちらは出来立てとは行きませんでしたが、ゆっくり食べることができました。…」
                   </blockquote>
                 </div>
               </div>

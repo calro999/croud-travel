@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>ご宿泊者の方は無料でご利用頂けます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.08 ／ 部屋 ★3.92 ／ 設備 ★3.96 ／ 風呂 ★4.15 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内施設が充実しすぎて2泊したくなる魅力 到着とともに目に入る、玄関やロビーの広々とした美しい空間に癒されました。ロビー付近にある売店もよくあるお土産屋さんとは異なり、こだわりのあるお洒落なものを…　2026-10-10 17:04:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内施設が充実しすぎて2泊したくなる魅力 到着とともに目に入る、玄関やロビーの広々とした美しい空間に癒されました。ロビー付近にある売店もよくあるお土産屋さんとは異なり、こだわりのあるお洒落なものを…」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料（大型2台、普通車40台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事とコスパは最高、温泉がなくて残念お盆休みのツーリングで宿泊させて頂きました。食事が美味しかったのとコスパは最高でした。お風呂(温泉)が無く共同のシャワーのみだったのがちょっと残念でした。近場の…　2026-08-11 03:45:09投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=180135&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事とコスパは最高、温泉がなくて残念お盆休みのツーリングで宿泊させて頂きました。食事が美味しかったのとコスパは最高でした。お風呂(温泉)が無く共同のシャワーのみだったのがちょっと残念でした。近場の…」
                   </blockquote>
                 </div>
               </div>
@@ -674,7 +674,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓からゴルフ場が見えて大浴場も快適部屋は少し古ぼけてきてはいますが、広さは普通のビジネスホテルよりも若干広め。ただ窓の外は9H、18Hが目の前に見えるのでテンションが上がりますよ!大浴場で…　2026-07-20 16:33:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓からゴルフ場が見えて大浴場も快適部屋は少し古ぼけてきてはいますが、広さは普通のビジネスホテルよりも若干広め。ただ窓の外は9H、18Hが目の前に見えるのでテンションが上がりますよ!大浴場で…」
                   </blockquote>
                 </div>
               </div>

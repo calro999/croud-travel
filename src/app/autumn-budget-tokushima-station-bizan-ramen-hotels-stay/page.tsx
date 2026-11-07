@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場 先着順1泊(14時〜翌11時)1,000円／税込※車高2.0m以下・22時〜7時入庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.39 ／ 部屋 ★4.38 ／ 設備 ★4.31 ／ 風呂 ★4.29 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だがチェックインの説明が難解駅の眼の前で立地は最高でした。チェックイン時の説明が分かりづらかった。ホテル利用に慣れていない人には伝わらないかも...お部屋や設備はよかったです。…　2026-10-10 14:13:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だがチェックインの説明が難解駅の眼の前で立地は最高でした。チェックイン時の説明が分かりづらかった。ホテル利用に慣れていない人には伝わらないかも...お部屋や設備はよかったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内有料駐車場: 4台　先着順サイズ制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★3.93 ／ 設備 ★3.86 ／ 風呂 ★3.77 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが部屋が狭く期待外れ駅から近いのはわかっていたのでアパホテルの看板?探してついつい上を見上げましたが見えずGoogleマップを使って辿り着きました 駅からすぐでよかったのですが部屋がと…　2026-10-08 16:47:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが部屋が狭く期待外れ駅から近いのはわかっていたのでアパホテルの看板?探してついつい上を見上げましたが見えずGoogleマップを使って辿り着きました 駅からすぐでよかったのですが部屋がと…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用P(先着順)または提携P（平日･日祝：1000円、金土･祝前：1500円）※お盆期間除く</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4 ／ 部屋 ★4.22 ／ 設備 ★4.03 ／ 風呂 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の豪華さとスタッフの対応に大満足コメントを残さずいられないくらい最高のホテルでした!初めての口コミです。初の徳島市内にての宿泊でしたが、こちらを選んでよかったです。シックで落ち…　2026-10-08 08:10:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の豪華さとスタッフの対応に大満足コメントを残さずいられないくらい最高のホテルでした!初めての口コミです。初の徳島市内にての宿泊でしたが、こちらを選んでよかったです。シックで落ち…」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場先着30台1泊500円(15時〜翌10時)満車時は近隣の契約駐車場ご案内。バイクの駐輪不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.01 ／ 部屋 ★4.07 ／ 設備 ★4.02 ／ 風呂 ★3.92 ／ 食事 ★3.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な予約でも親切な対応で快適に過ごせた当日の夕方に急遽予約をしましたが問題なく泊まることができました。チェックイン時には親切にご説明していただき快適に過ごすことができました。ありがとうございました…　2026-09-24 20:44:59投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=108376&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な予約でも親切な対応で快適に過ごせた当日の夕方に急遽予約をしましたが問題なく泊まることができました。チェックイン時には親切にご説明していただき快適に過ごすことができました。ありがとうございました…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>15時〜翌日10時…1,000円／18時〜翌日9時…500円／時間外・途中出入1時間…300円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.11 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.84 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、南国感ある景色も素敵徳島駅もから近く繁華街も阿波踊り会館も徒歩圏内で利便性も良かった。窓からも南国間を感じれる風景が印象的クチコミの詳細はこちらから　https://revi…　2026-10-10 19:41:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、南国感ある景色も素敵徳島駅もから近く繁華街も阿波踊り会館も徒歩圏内で利便性も良かった。窓からも南国間を感じれる風景が印象的」
                   </blockquote>
                 </div>
               </div>

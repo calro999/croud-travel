@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　※予備駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋食と貸切風呂で家族水入らずの時間を満喫子連れだったので2食とも部屋食にして頂けたのですが、まわりを気にせずゆっくり食事ができてとても良かったです。6つの貸切風呂は携帯で空き状況を確認できた…　2026-08-16 08:01:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋食と貸切風呂で家族水入らずの時間を満喫子連れだったので2食とも部屋食にして頂けたのですが、まわりを気にせずゆっくり食事ができてとても良かったです。6つの貸切風呂は携帯で空き状況を確認できた…」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　50台　　1泊　　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。(金目の煮付けが最高でした)お風呂の設備に不備があり…　2026-08-29 13:21:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。(金目の煮付けが最高でした)お風呂の設備に不備があり…」
                   </blockquote>
                 </div>
               </div>
@@ -557,7 +557,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「連泊の食事はメニューが変わり大満足連泊させて頂きました。金目鯛コースでの予約でしたが、2日目のお料理のメニューは完全に変えてくださり、両日とも大変美味しかったです。お部屋でもくつろぐことができ…　2026-08-28 12:59:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「連泊の食事はメニューが変わり大満足連泊させて頂きました。金目鯛コースでの予約でしたが、2日目のお料理のメニューは完全に変えてくださり、両日とも大変美味しかったです。お部屋でもくつろぐことができ…」
                   </blockquote>
                 </div>
               </div>

@@ -626,7 +626,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（有料）　約1000台　駐車場2カ所　■予約不要　■二輪駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.3 ／ 部屋 ★4.2 ／ 設備 ★4.15 ／ 風呂 ★4.04 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーの排水音と朝食のメニューに不満部屋のシャーワ、水を出すとゴボゴボと。そこが1番気になりました。3泊で朝食ちょっと同じもの、飽きたかな。クチコミの詳細はこちらから　https://rev…　2026-09-23 16:05:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーの排水音と朝食のメニューに不満部屋のシャーワ、水を出すとゴボゴボと。そこが1番気になりました。3泊で朝食ちょっと同じもの、飽きたかな。」
                   </blockquote>
                 </div>
               </div>
@@ -648,7 +648,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル併設駐車場：14台（先着順）1泊/1.200円　　提携駐車場有：27時間/1,000円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、安定の東横INNクオリティに大満足駅近、チェックインアウト時の挨拶、南向きの部屋でしたが入室時にカーテンが閉じられエアコンが効いていて快適、そんな気遣い、清潔な部屋と水回り、十分なコン…　2026-07-27 23:43:02投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=167225&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、安定の東横INNクオリティに大満足駅近、チェックインアウト時の挨拶、南向きの部屋でしたが入室時にカーテンが閉じられエアコンが効いていて快適、そんな気遣い、清潔な部屋と水回り、十分なコン…」
                   </blockquote>
                 </div>
               </div>
@@ -670,7 +670,7 @@ export default function KorankeiAutumnLeavesAccessPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内無料駐車場あり※満車の場合は、第２無料駐車場（徒歩約5分）をフロントにてご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.01 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.03 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適、食事付きで立地も最高アジア大会中で、大会関係者やサポーターの方も泊まっていたようで混んでいましたがお部屋はきれいで過ごしやすかったです。近くにスーパーもあり、ちょっとした買い出しも出来て、地…　2026-09-22 17:48:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適、食事付きで立地も最高アジア大会中で、大会関係者やサポーターの方も泊まっていたようで混んでいましたがお部屋はきれいで過ごしやすかったです。近くにスーパーもあり、ちょっとした買い出しも出来て、地…」
                   </blockquote>
                 </div>
               </div>

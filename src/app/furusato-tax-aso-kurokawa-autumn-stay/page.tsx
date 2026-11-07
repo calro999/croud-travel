@@ -526,7 +526,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も従業員のアフターフォローも不快なもの就寝前に部屋にゴキブリが出現。フロントに電話すると殺虫剤を渡され、退散された...自ら殺虫剤をかけて死滅させた後、床に殺虫剤が付着したから拭き物を…　2026-08-22 14:34:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も従業員のアフターフォローも不快なもの就寝前に部屋にゴキブリが出現。フロントに電話すると殺虫剤を渡され、退散された...自ら殺虫剤をかけて死滅させた後、床に殺虫剤が付着したから拭き物を…」
                   </blockquote>
                 </div>
               </div>
@@ -570,7 +570,7 @@ export default function Page() {
                   <p>【阿蘇外輪山と大観峰の黄金ススキ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…　2026-08-21 20:12:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…」
                   </blockquote>
                 </div>
               </div>

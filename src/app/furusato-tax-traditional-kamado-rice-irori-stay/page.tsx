@@ -637,7 +637,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　無料　駐輪OK！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.24 ／ 部屋 ★4.51 ／ 設備 ★4.46 ／ 風呂 ★4.45 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理がとても美味しく大満足料理が大満足でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/4992?review…　2026-10-05 20:25:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理がとても美味しく大満足料理が大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -659,7 +659,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた離れと最高の朝食に大満足素晴らしい雰囲気の宿。アクセスも良い、離れは落ち着く。朝食は最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-07-31 09:02:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた離れと最高の朝食に大満足素晴らしい雰囲気の宿。アクセスも良い、離れは落ち着く。朝食は最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -703,7 +703,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台先着順無料　湯治部のご利用は第2駐車場をご利用ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.37 ／ 部屋 ★4.12 ／ 設備 ★4.11 ／ 風呂 ★4.64 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質と雰囲気が最高、体調も回復温泉の泉質と雰囲気が一番良かったです。温泉に入ったあと、血の巡りが良くなり、体調も良くなりました。クチコミの詳細はこちらから　https://review.…　2026-10-09 16:39:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質と雰囲気が最高、体調も回復温泉の泉質と雰囲気が一番良かったです。温泉に入ったあと、血の巡りが良くなり、体調も良くなりました。」
                   </blockquote>
                 </div>
               </div>
@@ -725,7 +725,7 @@ export default function FurusatoFeaturePage() {
                   <p>【古民家かまど炊きご飯＆囲炉裏郷土料理の宿×ふるさと納】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.83 ／ 部屋 ★3.89 ／ 設備 ★3.74 ／ 風呂 ★4.03 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔で食事も美味しく満足設備は多少古い感じはしますが、十分綺麗に行き届いた感じになっております。食事も十分でおいしかったです。また機会がありましたら伺いたいと思います。大変満足いたし…　2026-09-30 21:14:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古めだが清潔で食事も美味しく満足設備は多少古い感じはしますが、十分綺麗に行き届いた感じになっております。食事も十分でおいしかったです。また機会がありましたら伺いたいと思います。大変満足いたし…」
                   </blockquote>
                 </div>
               </div>

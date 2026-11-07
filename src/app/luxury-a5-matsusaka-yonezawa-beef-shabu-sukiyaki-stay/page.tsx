@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【とろける極上の霜降り】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.79 ／ 部屋 ★3.85 ／ 設備 ★3.61 ／ 風呂 ★4.26 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さを感じさせない管理と温泉に満足古い施設と判断していたが古くてもきれいに管理され Goodに評価できました。温泉はうわさ通りで 良いお湯でした。      肌ざわり良くきれいで湯温も…　2026-10-07 19:31:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さを感じさせない管理と温泉に満足古い施設と判断していたが古くてもきれいに管理され Goodに評価できました。温泉はうわさ通りで 良いお湯でした。      肌ざわり良くきれいで湯温も…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.37 ／ 部屋 ★4.33 ／ 設備 ★4.28 ／ 風呂 ★4.51 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの大浴場と美味しいお粥大浴場の源泉掛け流しが良かったです。お粥は苦手なのですが、美味しくいただけました。クチコミの詳細はこちらから　https://review.travel.…　2026-09-20 17:13:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの大浴場と美味しいお粥大浴場の源泉掛け流しが良かったです。お粥は苦手なのですが、美味しくいただけました。」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【とろける極上の霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理旅館の食事とアットホームな接客に大満足料理旅館は初めてでしたが、大人も子どももおいしく頂けました。接客もアットホームな感じで気さくにお話しできました。また三重に行く時は利用したいてす。クチ…　2026-08-16 09:37:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理旅館の食事とアットホームな接客に大満足料理旅館は初めてでしたが、大人も子どももおいしく頂けました。接客もアットホームな感じで気さくにお話しできました。また三重に行く時は利用したいてす。クチ…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【とろける極上の霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一人でも快適、食事や風呂も大満足一人でも宿泊できるのが良いです。一人部屋は普通ですが、食事、風呂、接客サービスなど、大変満足しました。クチコミの詳細はこちらから　https://review.…　2026-09-10 09:48:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一人でも快適、食事や風呂も大満足一人でも宿泊できるのが良いです。一人部屋は普通ですが、食事、風呂、接客サービスなど、大変満足しました。」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【とろける極上の霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の…　2026-08-15 22:55:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらずほこりだらけ設備は古く階段のアップダウンがあるので足の悪い方にはおすすめできません。その辺りは事前に調べればわかるので問題なかったのですが、清掃が全く行き届いておらず、共有の…」
                   </blockquote>
                 </div>
               </div>

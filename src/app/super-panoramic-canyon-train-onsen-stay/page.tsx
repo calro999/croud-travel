@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料 （トロッコ観光中もお預かりいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。プラレールと鉄道模型の鉄道部屋が…　2026-08-09 22:06:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。プラレールと鉄道模型の鉄道部屋が…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【風を感じる絶景トロッコ列車】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。どうしても鮎の塩焼きが食べたかったので、追加で注文させて頂き…　2026-09-07 21:01:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。どうしても鮎の塩焼きが食べたかったので、追加で注文させて頂き…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場15台有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の音と露天風呂で癒され、馬刺しも絶品心地よい川の流れ音が気持ちを落ち着けさせてくれます。露天風呂に入れば最高の癒しを得られます。料理は適度な量を多種提供していただけました。名物の「馬刺し」を追加…　2026-08-07 11:52:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「川の音と露天風呂で癒され、馬刺しも絶品心地よい川の流れ音が気持ちを落ち着けさせてくれます。露天風呂に入れば最高の癒しを得られます。料理は適度な量を多種提供していただけました。名物の「馬刺し」を追加…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【風を感じる絶景トロッコ列車】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.99 ／ 部屋 ★4.05 ／ 設備 ★3.88 ／ 風呂 ★4.11 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と日本のおもてなしに大満足広くて静かで、落ち着いた宿泊ができました。線状降水帯のためずっと雨で立山連峰は望めませんでしたが、晴れていれば綺麗に眺められたことでしょう。スタ…　2026-10-10 15:08:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と日本のおもてなしに大満足広くて静かで、落ち着いた宿泊ができました。線状降水帯のためずっと雨で立山連峰は望めませんでしたが、晴れていれば綺麗に眺められたことでしょう。スタ…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【風を感じる絶景トロッコ列車】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3月中旬に利用三連休で初めて洞川温泉へ行った際に利用させていただきました。施設は全体的に年季の入ったお宿でエントランスはキレイで畳のスリッパは履き心地が良かったです。構造上仕方ないのかもし…　2026-03-24 23:37:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3月中旬に利用三連休で初めて洞川温泉へ行った際に利用させていただきました。施設は全体的に年季の入ったお宿でエントランスはキレイで畳のスリッパは履き心地が良かったです。構造上仕方ないのかもし…」
                   </blockquote>
                 </div>
               </div>

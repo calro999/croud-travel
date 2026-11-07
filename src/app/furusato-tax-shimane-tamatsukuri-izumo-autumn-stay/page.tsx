@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.5 ／ 部屋 ★4.63 ／ 設備 ★4.61 ／ 風呂 ★4.63 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高級感があり、刺身のクオリティーが最高高級感もあり、刺身のクォリティーが高く大変おいしかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-10-08 14:35:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高級感があり、刺身のクオリティーが最高高級感もあり、刺身のクォリティーが高く大変おいしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　100台　　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂と食事に大満足、また伺いたい宿お風呂は内風呂、露天風呂共に広くゆっくりと入ることが出来ました。食事も夜は懐石、朝はバイキングでしたが、どちらも美味しく大変満足しました。スタッフの皆さ…　2026-08-17 14:16:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂と食事に大満足、また伺いたい宿お風呂は内風呂、露天風呂共に広くゆっくりと入ることが出来ました。食事も夜は懐石、朝はバイキングでしたが、どちらも美味しく大変満足しました。スタッフの皆さ…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p>【島根・玉造温泉と出雲大社「神在月」】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.43 ／ 部屋 ★4.34 ／ 設備 ★4.21 ／ 風呂 ★4.49 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉、温かいおもてなしに大満足静かで落ち着いた雰囲気の中、日常を忘れてゆっくり過ごすことができました。お料理は一品一品がとても美味しく、旅の楽しみがさらに増すような素敵な内容でした。…　2026-10-08 22:57:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉、温かいおもてなしに大満足静かで落ち着いた雰囲気の中、日常を忘れてゆっくり過ごすことができました。お料理は一品一品がとても美味しく、旅の楽しみがさらに増すような素敵な内容でした。…」
                   </blockquote>
                 </div>
               </div>

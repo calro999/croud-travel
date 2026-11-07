@@ -370,7 +370,7 @@ export default function HokkaidoBudgetGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場(先着順)／８０台１5００円（税込／泊）　平面駐車場(要予約)／２台１５００円(税込／泊)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある部屋と高級感あるエントランスお部屋の使い勝手が良かったです。コンパクトで、清潔感もありました。大浴場も空いてる時間に入ったので良かったです。ホテルのエントランスが高級感ありました。機会が…　2026-08-27 21:00:41投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=172398&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある部屋と高級感あるエントランスお部屋の使い勝手が良かったです。コンパクトで、清潔感もありました。大浴場も空いてる時間に入ったので良かったです。ホテルのエントランスが高級感ありました。機会が…」
                   </blockquote>
                 </div>
               </div>
@@ -414,7 +414,7 @@ export default function HokkaidoBudgetGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>１泊1,500円（先着順・予約不可）※詳細情報のその他欄をご確認下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.4 ／ 部屋 ★4.45 ／ 設備 ★4.38 ／ 風呂 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とフリーフローの質が最高受付の韓国人(?)の女性スタッフがとても親切で良かった。ありがとうございました。フリーフローのアルコールのクオリティーが高いと思います。余市のワインが飲め…　2026-09-30 21:28:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とフリーフローの質が最高受付の韓国人(?)の女性スタッフがとても親切で良かった。ありがとうございました。フリーフローのアルコールのクオリティーが高いと思います。余市のワインが飲め…」
                   </blockquote>
                 </div>
               </div>
@@ -436,7 +436,7 @@ export default function HokkaidoBudgetGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 90台 無料 予約不要 （マイクロバス・キャンピングカー可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「到着遅れにも的確な対応で夕食に間に合った8月7日に娘夫婦と4人で利用しました。函館着の最終便が50分ほど遅れたため、夕食時間ギリギリにホテルに到着しました。チェックインより先に食事に行くよう促され…　2026-08-14 19:10:22投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=151068&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「到着遅れにも的確な対応で夕食に間に合った8月7日に娘夫婦と4人で利用しました。函館着の最終便が50分ほど遅れたため、夕食時間ギリギリにホテルに到着しました。チェックインより先に食事に行くよう促され…」
                   </blockquote>
                 </div>
               </div>
@@ -458,7 +458,7 @@ export default function HokkaidoBudgetGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>青空駐車場200台以上完備★　1泊550円（税込）※トラック・バス等の大型車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの待ち時間が長く改善を希望チェックインが時間かかりすぎ、事前精算客優先専用、外国人の対応など再考されてはいかがですか?クチコミの詳細はこちらから　https://revie…　2026-08-29 18:56:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの待ち時間が長く改善を希望チェックインが時間かかりすぎ、事前精算客優先専用、外国人の対応など再考されてはいかがですか?」
                   </blockquote>
                 </div>
               </div>
@@ -480,7 +480,7 @@ export default function HokkaidoBudgetGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４２台　５００円（税込み／泊）　当日来館先着到着順のご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スープカレーと塩辛が絶品、また利用したい朝食のスープカレー目当てで宿泊しました。ホテルはバス停も市電にも近く、函館駅にも徒歩で行ける距離です。ホテルも部屋清潔で、快適に過ごせました。ウ…　2026-08-25 18:33:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スープカレーと塩辛が絶品、また利用したい朝食のスープカレー目当てで宿泊しました。ホテルはバス停も市電にも近く、函館駅にも徒歩で行ける距離です。ホテルも部屋清潔で、快適に過ごせました。ウ…」
                   </blockquote>
                 </div>
               </div>

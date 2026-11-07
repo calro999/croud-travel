@@ -315,7 +315,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　室数分　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「・車で行く人は結構道が狭いです。・歩きの方は坂がとにかくきついので注意が必要です。・ホテル内にエレベーターはありません。それでも素晴らしいホテルでした。おもてなしも素敵でしたし、客…　2026-08-04 07:40:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「・車で行く人は結構道が狭いです。・歩きの方は坂がとにかくきついので注意が必要です。・ホテル内にエレベーターはありません。それでも素晴らしいホテルでした。おもてなしも素敵でしたし、客…」
                   </blockquote>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と接客は最高、清掃面で少し残念お部屋の窓からの景色と海側露天風呂からの景色が最高でしたスタッフの方々の対応も穏やかでこちらもゆったりとした気分で過ごせました。子連れにも優しいサービスが…　2026-08-02 19:27:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と接客は最高、清掃面で少し残念お部屋の窓からの景色と海側露天風呂からの景色が最高でしたスタッフの方々の対応も穏やかでこちらもゆったりとした気分で過ごせました。子連れにも優しいサービスが…」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>同敷地内旅館建物沿い裏手に屋外駐車場有り　宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しさに大満足ご飯美味しかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/138065?review…　2026-08-16 22:53:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しさに大満足ご飯美味しかったです」
                   </blockquote>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function MicroTouristHubPage() {
                   <p>【静岡・伊豆下田＆白浜海岸：エメラルドの海・白浜大浜＆】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…　2026-08-29 17:15:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…」
                   </blockquote>
                 </div>
               </div>

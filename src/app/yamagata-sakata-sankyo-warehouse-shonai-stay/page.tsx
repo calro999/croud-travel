@@ -315,7 +315,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料【12台】、先着順でのご案内です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーナーが親切で飲食店も満足、立地は少し遠めオーナーがすごく親切で、紹介頂いた飲食店はどれも満足できました。ただ飲食店街から少し離れているのがマイナス面かも。湯舟は狭いですが、シャワー設備が多く、…　2026-07-05 12:22:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーナーが親切で飲食店も満足、立地は少し遠めオーナーがすごく親切で、紹介頂いた飲食店はどれも満足できました。ただ飲食店街から少し離れているのがマイナス面かも。湯舟は狭いですが、シャワー設備が多く、…」
                   </blockquote>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.09 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋は広く、海岸も近くて便利建物は古めですが部屋も広く清掃はしっかりされていました韓国系のオーナーなのか関連したグッズが廊下や部屋に置いてありました部屋は広くてゆったり使えます…　2026-09-19 06:26:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋は広く、海岸も近くて便利建物は古めですが部屋も広く清掃はしっかりされていました韓国系のオーナーなのか関連したグッズが廊下や部屋に置いてありました部屋は広くてゆったり使えます…」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「HOURAIの1111号室からの眺めは最高! お部屋からの景色はとにかく最高でした。夕日もバッチリ、朝の湯の浜は、全く波がなく雲が海に映るほどの穏やかで青く、美しいものでした。部屋食で、家族でのん…　2026-08-23 18:03:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「HOURAIの1111号室からの眺めは最高! お部屋からの景色はとにかく最高でした。夕日もバッチリ、朝の湯の浜は、全く波がなく雲が海に映るほどの穏やかで青く、美しいものでした。部屋食で、家族でのん…」
                   </blockquote>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　25台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓からの花火と心温まるお祝いに感激窓からの景色が最高です。当日浜辺で花火の打ち上げあり、部屋の窓から真ん前で見られました。歳祝いの衣装を借りる事が出来て、思いがけなくお祝いの日本酒も頂き、良い思い…　2026-08-15 21:32:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓からの花火と心温まるお祝いに感激窓からの景色が最高です。当日浜辺で花火の打ち上げあり、部屋の窓から真ん前で見られました。歳祝いの衣装を借りる事が出来て、思いがけなくお祝いの日本酒も頂き、良い思い…」
                   </blockquote>
                 </div>
               </div>

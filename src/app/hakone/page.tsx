@@ -260,7 +260,7 @@ export default function HakoneHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６５台　無料　予約不要　※屋根付駐車場あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。今回は当日に決めたので素泊まりでしたが次回はご飯付きで泊まりたいと思…　2026-08-21 12:30:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とにかく綺麗にしてる宿!とても良いお宿でした!スタッフの方は外国の方が多いですが皆、親切で対応バッチリです。今回は当日に決めたので素泊まりでしたが次回はご飯付きで泊まりたいと思…」
                   </blockquote>
                 </div>
               </div>
@@ -304,7 +304,7 @@ export default function HakoneHubPage() {
                   <p>【箱根温泉 完全計画ガイド 2026：1泊2日・2泊3】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が和室でリニューアルしてない部屋なので薄気味悪い感じの電気でメイクする時暗くて見にくかった。そしてご飯から戻ってきて部屋に入るとカビ臭くて窓開けないと無理だった。リニューアルしてある部屋にすれば良…　2026-08-22 23:21:06投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9669&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が和室でリニューアルしてない部屋なので薄気味悪い感じの電気でメイクする時暗くて見にくかった。そしてご飯から戻ってきて部屋に入るとカビ臭くて窓開けないと無理だった。リニューアルしてある部屋にすれば良…」
                   </blockquote>
                 </div>
               </div>
@@ -326,7 +326,7 @@ export default function HakoneHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　※チェックイン前は12時以降、翌日は12時迄利用可能（滞在時間外は、事前連絡要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.22 ／ 部屋 ★4.39 ／ 設備 ★4.29 ／ 風呂 ★4.38 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングと飲み放題が最高、温泉も充実朝食 夕食とバイキングが 素晴らしく、 とても美味しかった 。アルコール飲み放題 もつい ているので 飲んべいには 嬉しい 。スイーツも 美味しかった。併…　2026-10-10 11:53:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングと飲み放題が最高、温泉も充実朝食 夕食とバイキングが 素晴らしく、 とても美味しかった 。アルコール飲み放題 もつい ているので 飲んべいには 嬉しい 。スイーツも 美味しかった。併…」
                   </blockquote>
                 </div>
               </div>
@@ -348,7 +348,7 @@ export default function HakoneHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場10台分（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.15 ／ 部屋 ★4.42 ／ 設備 ★4.16 ／ 風呂 ★4.42 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気料理コンビニ懐石料理がとても美味しかったです。宿の廊下は全て畳なので、和の雰囲気を楽しめて良かったです。近くのコンビニが早めに閉まることだけがネックかも?クチコミの詳細はこち…　2026-10-06 23:58:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気料理コンビニ懐石料理がとても美味しかったです。宿の廊下は全て畳なので、和の雰囲気を楽しめて良かったです。近くのコンビニが早めに閉まることだけがネックかも?クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -370,7 +370,7 @@ export default function HakoneHubPage() {
                   <p>【箱根温泉 完全計画ガイド 2026：1泊2日・2泊3】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「箱根で最高の誕生日、また必ず行きたい宿私の誕生日のお祝いで家族でリフレッシュしようと予約しました。条件は『箱根』『露天風呂付』『朝夕ご飯部屋出し』小さな子供が2人居るため条件は外せず何件かの宿…　2026-07-29 20:55:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「箱根で最高の誕生日、また必ず行きたい宿私の誕生日のお祝いで家族でリフレッシュしようと予約しました。条件は『箱根』『露天風呂付』『朝夕ご飯部屋出し』小さな子供が2人居るため条件は外せず何件かの宿…」
                   </blockquote>
                 </div>
               </div>

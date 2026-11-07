@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【青や紫のグラデーション】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「猫たちが思い思いに過ごす姿に癒された猫が各々過ごしてて癒されたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/728…　2026-09-08 08:20:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「猫たちが思い思いに過ごす姿に癒された猫が各々過ごしてて癒された」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【青や紫のグラデーション】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ボリューム満点の夕食と貸切風呂に大満足お世話になりましたありがとうございました夕飯は ボリューム感あり 食べきれないほどでしたお風呂も いつでも 入浴出来ましたし 時間的に 貸切も可能…　2026-09-16 18:26:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ボリューム満点の夕食と貸切風呂に大満足お世話になりましたありがとうございました夕飯は ボリューム感あり 食べきれないほどでしたお風呂も いつでも 入浴出来ましたし 時間的に 貸切も可能…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【青や紫のグラデーション】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「テラスからの景色に癒やされ、また来たいとてもゆったりと過ごさせていただきました。部屋のテラスに座って、景色を見ていると時間を忘れるほどぼーっとできました。食事もとてもおいしいかったですが、唯一お米…　2026-09-04 06:47:07投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=138041&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「テラスからの景色に癒やされ、また来たいとてもゆったりと過ごさせていただきました。部屋のテラスに座って、景色を見ていると時間を忘れるほどぼーっとできました。食事もとてもおいしいかったですが、唯一お米…」
                   </blockquote>
                 </div>
               </div>

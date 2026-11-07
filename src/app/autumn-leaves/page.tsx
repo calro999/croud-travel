@@ -359,25 +359,25 @@ export default function AutumnLeavesOnsenPage() {
               <h4 className="text-sm font-bold text-stone-900">2. リーガロイヤルホテル大阪　ヴィニェット　コレクション　ｂｙ　ＩＨＧ（大阪府・★4.43）</h4>
               <p><strong>【特徴】</strong>2025年4月リブランドオープン。JR大阪駅より無料送迎＆USJへの予約制無料直行バス運行！</p>
               <p><strong>【交通・駐車場】</strong>JR大阪駅より無料バス有（15分間隔約15分）／国際会議場隣接／京阪「中之島」駅直結／USJへ予約制無料バスで約25分 ／ 駐車場：477台（予約不可・有料）※普通乗用車のみ、宿泊ご滞在中に限る。車高制限あり。</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「ビジネス利用には向かないと感じました国際会議に参加するため、会場に近いという理由でこちらを選びました。チェックインの際、部屋のアップグレードや会員登録を繰り返し勧められました。急いでいたの…　2026-10-10 12:21:03投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=103&quot; c」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「ビジネス利用には向かないと感じました国際会議に参加するため、会場に近いという理由でこちらを選びました。チェックインの際、部屋のアップグレードや会員登録を繰り返し勧められました。急いでいたの…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. ヒルトン成田（千葉県・★4.49）</h4>
               <p><strong>【特徴】</strong>成田空港を望む高台の緑豊かな1万坪の敷地には寛ぎの空間が広がります。</p>
               <p><strong>【交通・駐車場】</strong>成田空港及びJR成田駅東口より無料シャトルバスサービス有り ／ 駐車場：駐車場350台収容（屋内駐車場290台） ご宿泊者は24時間毎に500円でご利用いただけます。</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「素敵なホテルでした対応が素晴らしく、宿泊した部屋、食事、バーともに大変満足しました。家族の良い思い出となりました。有り難うございました。クチコミの詳細はこちらから　https://revi…　2026-10-05 20:46:30投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=107&quot; c」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「素敵なホテルでした対応が素晴らしく、宿泊した部屋、食事、バーともに大変満足しました。家族の良い思い出となりました。有り難うございました。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">4. リーガロイヤルホテル小倉（福岡県・★4.4）</h4>
               <p><strong>【特徴】</strong>【小倉駅直結♪徒歩3分とアクセス抜群！】 〜全室30平米以上〜14階以上の高層階〜</p>
               <p><strong>【交通・駐車場】</strong>JR小倉駅新幹線口から直結徒歩3分、JR博多駅から新幹線で約15分、福岡空港からも好アクセス。 ／ 駐車場：164台  1泊￥1600税込</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「駅に近くて移動がとても便利立地が良くて便利でした。サービスは申し分なしです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-10-10 18:01:10投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=111&quot; c」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「駅に近くて移動がとても便利立地が良くて便利でした。サービスは申し分なしです。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">5. ホテル日航プリンセス京都（京都府・★4.58）</h4>
               <p><strong>【特徴】</strong>＼2023年10月に15階、2025年3月に16階のリニューアルが完了！／</p>
               <p><strong>【交通・駐車場】</strong>地下鉄烏丸線四条駅⑤番出口より徒歩約３分。阪急烏丸駅より徒歩約５分。ＪＲ京都駅（烏丸中央口）より車で約５分 ／ 駐車場：有り 59台 1泊あたり2000円</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「四条駅近くで便利、朝食ビュッフェが絶品一回泊まったら絶対リピートしたくなるホテルだと思います。四条駅近くでコンビニもすぐそこにあります。何より朝食ビュッフェが美味しいです!クチコミの詳…　2026-09-16 20:24:57投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=166&quot; cla」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「四条駅近くで便利、朝食ビュッフェが絶品一回泊まったら絶対リピートしたくなるホテルだと思います。四条駅近くでコンビニもすぐそこにあります。何より朝食ビュッフェが美味しいです!クチコミの詳…」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全体的に満足できる内容でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1702?reviewId=33123479…　2026-09-12 07:47:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全体的に満足できる内容でした」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性用アメニティがなくて残念女性用のアメニティが無くて残念だったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/16…　2026-08-28 23:25:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性用アメニティがなくて残念女性用のアメニティが無くて残念だった」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Wi-Fiあれば...部屋にもWi-Fiが通ってれば、良かったです。お風呂も食事も堪能しました。クチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-09-14 17:06:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Wi-Fiあれば...部屋にもWi-Fiが通ってれば、良かったです。お風呂も食事も堪能しました。」
                   </blockquote>
                 </div>
               </div>

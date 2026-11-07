@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「魚料理とあら汁に大満足、トイレは故障中魚類は美味しかったです。最後に出たあら汁も出汁もよく美味しいいただけました。お腹いっぱいでした。トイレのウォシュレットが故障してましたが...。クチコ…　2026-08-13 17:27:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「魚料理とあら汁に大満足、トイレは故障中魚類は美味しかったです。最後に出たあら汁も出汁もよく美味しいいただけました。お腹いっぱいでした。トイレのウォシュレットが故障してましたが...。…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　フリー</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付きのお部屋に宿泊しましたが、部屋からのオーシャンビューが本当に素晴らしく、景色を眺めながらゆっくりと過ごすことができました。スタッフの皆さんの接客もとても丁寧で、終始気持ちよく過ごせ…　2026-08-21 09:20:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付きのお部屋に宿泊しましたが、部屋からのオーシャンビューが本当に素晴らしく、景色を眺めながらゆっくりと過ごすことができました。スタッフの皆さんの接客もとても丁寧で、終始気持ちよく過ごせ…」
                   </blockquote>
                 </div>
               </div>

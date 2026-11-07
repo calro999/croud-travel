@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 100台 （無料 ・ご予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセスもサービスも最高、花火も楽しめた30分に1回程度駅までのシャトルバスを出して下さっていたり、潮路亭まで送迎して下さったりと、特にアクセスに関してはとてもホスピタリティが行き届いており、炎天…　2026-07-27 22:11:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセスもサービスも最高、花火も楽しめた30分に1回程度駅までのシャトルバスを出して下さっていたり、潮路亭まで送迎して下さったりと、特にアクセスに関してはとてもホスピタリティが行き届いており、炎天…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順 カーナビ検索は０５９９－２５－５１５１で</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.53 ／ 部屋 ★4.36 ／ 設備 ★4.24 ／ 風呂 ★4.48 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古き良き温泉と朝食バイキングに大満足高齢の母と姪との女子旅でした、昭和の時代の古き良きリゾートホテルという感じで湯めぐりと名のつく3つあるお風呂の1つは閉まってましたがあとの2つの温泉で人も多くな…　2026-10-08 17:57:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古き良き温泉と朝食バイキングに大満足高齢の母と姪との女子旅でした、昭和の時代の古き良きリゾートホテルという感じで湯めぐりと名のつく3つあるお風呂の1つは閉まってましたがあとの2つの温泉で人も多くな…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有150台（無料）・電気自動車（EV・PHV）【EV充電エネチェンジ】</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.47 ／ 部屋 ★4.39 ／ 設備 ★4.24 ／ 風呂 ★4.33 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビュッフェも接客も最高、また行きたい宿すごくすごくよかったです。滞在中、ずっと素敵な楽しい気持ちでいられる宿でした。ビュッフェは何食べてもおいしいですし(特にアップルパイが美味しかったです…　2026-10-10 15:20:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビュッフェも接客も最高、また行きたい宿すごくすごくよかったです。滞在中、ずっと素敵な楽しい気持ちでいられる宿でした。ビュッフェは何食べてもおいしいですし(特にアップルパイが美味しかったです…」
                   </blockquote>
                 </div>
               </div>

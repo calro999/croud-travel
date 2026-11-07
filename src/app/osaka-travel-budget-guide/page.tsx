@@ -388,7 +388,7 @@ export default function OsakaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はございませんが、交通機関でのアクセスが便利です。日本橋駅から徒歩4分！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「狭いながらも立地良く清潔なホテルもの凄く狭い部屋でしたが、立地が良く、必要なものは揃っていて、掃除の行き届いたホテルでした。チェックインの時に対応してくれた方は外国籍の方でした。外出時にルーム…　2026-02-16 18:13:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「狭いながらも立地良く清潔なホテルもの凄く狭い部屋でしたが、立地が良く、必要なものは揃っていて、掃除の行き届いたホテルでした。チェックインの時に対応してくれた方は外国籍の方でした。外出時にルーム…」
                   </blockquote>
                 </div>
               </div>
@@ -432,7 +432,7 @@ export default function OsakaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>109台3500円（13:00〜翌13:00）予約不可※満車の場合は他の駐車場をご案内致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.64 ／ 部屋 ★4.56 ／ 設備 ★4.5 ／ 風呂 ★4.5 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パークから近く部屋も広くて大満足!とにかくパークからの近さが最高で年パスを持っている身からすると一旦部屋に戻るがすぐにそして簡単にできて最高だった!!洗面台も2個あったり、部屋のお風呂も綺麗で…　2026-10-10 21:59:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パークから近く部屋も広くて大満足!とにかくパークからの近さが最高で年パスを持っている身からすると一旦部屋に戻るがすぐにそして簡単にできて最高だった!!洗面台も2個あったり、部屋のお風呂も綺麗で…」
                   </blockquote>
                 </div>
               </div>
@@ -454,7 +454,7 @@ export default function OsakaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>2,800円/泊(13時～翌13時)、延長30分300円、現金のみ、予約不可※駐車台数制限あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と美味しい朝食で疲れが吹き飛ぶユニバで疲れた後、大浴場でゆっくり風呂に入れるのがすごくいい。おかげでスッキリ眠れた。荷物預かりもありがたい。そして何より朝食がすばらしい!ご飯が美味しいし、和…　2026-08-29 16:49:12投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=160809&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と美味しい朝食で疲れが吹き飛ぶユニバで疲れた後、大浴場でゆっくり風呂に入れるのがすごくいい。おかげでスッキリ眠れた。荷物預かりもありがたい。そして何より朝食がすばらしい!ご飯が美味しいし、和…」
                   </blockquote>
                 </div>
               </div>

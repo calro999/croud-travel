@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料です。【無料送迎あり】JR児島駅・JR倉敷より運行。事前要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもちゃ王国に行く際に宿泊させて頂きました。到着してからの丁寧な説明とウェルカムドリンクとお菓子も美味しく。お部屋もリニューアルされていてとても綺麗でした!朝食夕食共に大変おいしかったです!また宿…　2026-09-10 05:55:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもちゃ王国に行く際に宿泊させて頂きました。到着してからの丁寧な説明とウェルカムドリンクとお菓子も美味しく。お部屋もリニューアルされていてとても綺麗でした!朝食夕食共に大変おいしかったです!また宿…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>施設内、隣地に合計120台分の無料駐車場有（トラック・バス等の大型車は有料2000円／泊・要予約）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と広い駐車場、目の前のコンビニが便利大浴場と広めの駐車場がある上にLAWSONが目の前にありとても便利でした!!クチコミの詳細はこちらから　https://review.travel.r…　2026-09-14 19:10:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と広い駐車場、目の前のコンビニが便利大浴場と広めの駐車場がある上にLAWSONが目の前にありとても便利でした!!」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p>【岡山・倉敷美観地区の白壁紅葉＆鷲羽山】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーション最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/799?reviewId=331234790337…　2026-08-21 07:28:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーション最高でした」
                   </blockquote>
                 </div>
               </div>

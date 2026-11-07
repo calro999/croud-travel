@@ -454,7 +454,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　入庫から24時間で1500円　入出庫：7：00-22：00　大きさ制限あり　詳細はホテルへ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で迷わず到着、事前チェックインでスムーズ駅から見える場所にあったので、迷わず辿り着けました。午前中に荷物を預けに行ったのですがその際、「今日は予約が多いから事前チェックインを」と進めてくだ…　2026-08-29 21:09:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で迷わず到着、事前チェックインでスムーズ駅から見える場所にあったので、迷わず辿り着けました。午前中に荷物を預けに行ったのですがその際、「今日は予約が多いから事前チェックインを」と進めてくだ…」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>最大2台まで。電話予約受付（082-569-6433）高さ制限2ｍ以下　1泊1100円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.2 ／ 部屋 ★4.21 ／ 設備 ★4.12 ／ 風呂 ★4.09 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荷物を預けて身軽に観光、部屋のアメニティ希望チェックイン前でしたが、荷物を預かっていただいたおかげで予定の場所へ身軽で行くことができ、楽しい時間を過ごすことができました。大浴場にはありましたが…　2026-10-10 18:27:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「荷物を預けて身軽に観光、部屋のアメニティ希望チェックイン前でしたが、荷物を預かっていただいたおかげで予定の場所へ身軽で行くことができ、楽しい時間を過ごすことができました。大浴場にはありましたが…」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>鯉城ガレージ1泊1,200円税込(15時〜翌11時出入れなし）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.04 ／ 部屋 ★3.99 ／ 設備 ★4.03 ／ 風呂 ★4.27 ／ 食事 ★3.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美術館へのアクセス良中心部が近く、県立美術館に歩いて行くのに便利な立地でした。朝ごはんからカキフライあり満足でしたクチコミの詳細はこちらから　https://review.travel.rak…　2026-10-08 13:39:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美術館へのアクセス良中心部が近く、県立美術館に歩いて行くのに便利な立地でした。朝ごはんからカキフライあり満足でした」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>16台（先着順、予約不可）、【料金】入庫から24時間 1,500円【時間外】 30分につき200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、大浴場とコンパクトな部屋が快適部屋はキレイでアパホテルらしくコンパクトにまとまっている。大浴場があるのは嬉しくてホテルを選ぶ選択肢になるのですが、ホテルの大きさの割に少し小さいかな…　2026-08-28 15:50:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、大浴場とコンパクトな部屋が快適部屋はキレイでアパホテルらしくコンパクトにまとまっている。大浴場があるのは嬉しくてホテルを選ぶ選択肢になるのですが、ホテルの大きさの割に少し小さいかな…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function HiroshimaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【先着順】機械式立体駐車場18台 平面車椅子利用者用駐車場1台（1泊15時－翌11時 2,300円）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.24 ／ 部屋 ★4.39 ／ 設備 ★4.39 ／ 風呂 ★4.46 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や設備自体は素晴らしいんですが...。チェックインして最上階の温泉に直行して身体を洗っていると、全身タトゥーの男が身体を洗いもせずに浴槽に直行しており、気持ち悪くなって退散しました。…　2026-10-04 16:26:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋や設備自体は素晴らしいんですが...。チェックインして最上階の温泉に直行して身体を洗っていると、全身タトゥーの男が身体を洗いもせずに浴槽に直行しており、気持ち悪くなって退散しました。…」
                   </blockquote>
                 </div>
               </div>

@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外駐車場有り（無料）、乗用車100台収容可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お値段相応夏休み旅行で、安かったので泊まらせてもらいました。やはり、お値段相応で、館内はかなり古く清潔にはされてますがあちこちに古さを感じました。大浴場はかなり広く清潔にはされてましたが、露天風呂…　2026-08-29 17:02:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お値段相応夏休み旅行で、安かったので泊まらせてもらいました。やはり、お値段相応で、館内はかなり古く清潔にはされてますがあちこちに古さを感じました。大浴場はかなり広く清潔にはされてましたが、露天風呂…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p>【山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高夕食がとても美味しかった。お刺身も牛肉ステーキも最高。会津娘というお酒を注文してこれまた最高。お風呂も綺麗で良かったですクチコミの詳細はこちらから　https://review.…　2026-09-12 10:52:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高夕食がとても美味しかった。お刺身も牛肉ステーキも最高。会津娘というお酒を注文してこれまた最高。お風呂も綺麗で良かったです」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>25台（無料）／予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.73 ／ 立地 ★4.56 ／ 部屋 ★4.7 ／ 設備 ★4.43 ／ 風呂 ★4.28 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフが全員日本人で清潔感があり快適スタッフさんが全員日本人で今時珍しく、ゆったり過ごせました。隅々まで清潔感がありました。クチコミの詳細はこちらから　https://review.trav…　2026-10-07 01:24:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフが全員日本人で清潔感があり快適スタッフさんが全員日本人で今時珍しく、ゆったり過ごせました。隅々まで清潔感がありました。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女子旅に最適、料理も温泉も大満足!女子旅には最高の宿でした。お食事も夏野菜満載の工夫を凝らしてありどれも美味しかったです。接客のスタッフの方も感じが良く心地良かった。貸切風呂も中々風情があり気持ち…　2026-07-20 17:26:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女子旅に最適、料理も温泉も大満足!女子旅には最高の宿でした。お食事も夏野菜満載の工夫を凝らしてありどれも美味しかったです。接客のスタッフの方も感じが良く心地良かった。貸切風呂も中々風情があり気持ち…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【山口・萩＆長門湯本温泉：維新の城下町・川床テラス＆元】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…　2026-09-18 22:59:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…」
                   </blockquote>
                 </div>
               </div>

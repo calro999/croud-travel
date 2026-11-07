@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>800円/浜田市営道分山立体駐車場利用</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4 ／ 部屋 ★3.97 ／ 設備 ★3.88 ／ 風呂 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「和朝食がとても美味しかった和朝食が美味しかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/431?revie…　2026-10-09 16:26:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「和朝食がとても美味しかった和朝食が美味しかったです」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1200円（15時から翌10時まで）。平面駐車場、ゲート自動開閉で40台収容。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.23 ／ 部屋 ★4.37 ／ 設備 ★4.29 ／ 風呂 ★4.26 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松江駅近くで便利、アメニティや朝食も満足松江・出雲旅行で一泊しました。松江駅から近く、とても便利です。今回女性専用フロアに宿泊しましたが、ベッドも広く、アメニティやドライヤーなどの設備もよ…　2026-10-06 07:27:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松江駅近くで便利、アメニティや朝食も満足松江・出雲旅行で一泊しました。松江駅から近く、とても便利です。今回女性専用フロアに宿泊しましたが、ベッドも広く、アメニティやドライヤーなどの設備もよ…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料14台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.25 ／ 部屋 ★4.36 ／ 設備 ★4.23 ／ 風呂 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスと食事内容に対し割高に感じた世界遺産登録の温泉街との事でしたが、街並みはともかく、宿は競合も少ないのか「サービス+食事」に比べて高額に感じました。 何度も緊急性の無い電話がかかってきた…　2026-10-05 08:03:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスと食事内容に対し割高に感じた世界遺産登録の温泉街との事でしたが、街並みはともかく、宿は競合も少ないのか「サービス+食事」に比べて高額に感じました。 何度も緊急性の無い電話がかかってきた…」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>50台（無料）／予約不要／広々とした平面駐車場完備（大型車両収容可能）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.09 ／ 部屋 ★4.2 ／ 設備 ★4.12 ／ 風呂 ★4.04 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「そば御膳が美味しくコスパも最高そば御膳が美味しくコスパも良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice…　2026-10-07 12:34:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「そば御膳が美味しくコスパも最高そば御膳が美味しくコスパも良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台（普通車）　800円(税込）／泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.33 ／ 部屋 ★4.26 ／ 設備 ★4.19 ／ 風呂 ★4.15 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地元食材が豊富な朝食バイキングに大満足朝食バイキングが充実していました。味もたいへん良し、地元食材の品揃えも豊富。クチコミの詳細はこちらから　https://review.travel.rak…　2026-10-08 16:46:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地元食材が豊富な朝食バイキングに大満足朝食バイキングが充実していました。味もたいへん良し、地元食材の品揃えも豊富。」
                   </blockquote>
                 </div>
               </div>

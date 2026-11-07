@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　平地15台(乗用車)　無料 ★EV(電気自動車)充電スタンド有り★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食と接客が期待外れで残念正直言って夕食も期待外れで 女将さんの対応もイマイチ微妙 次はないかなクチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-08-18 17:54:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食と接客が期待外れで残念正直言って夕食も期待外れで 女将さんの対応もイマイチ微妙 次はないかな」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　105台　無料　※障がい者スペースは要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カブトムシカブトムシをオス・メスペアで頂き、息子が喜んで今も飼育しています。海は荒れていましたが、プールで沢山遊べました。ありがとう御座いました。クチコミの詳細はこちらから　https…　2026-09-05 17:07:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カブトムシカブトムシをオス・メスペアで頂き、息子が喜んで今も飼育しています。海は荒れていましたが、プールで沢山遊べました。ありがとう御座いました。」
                   </blockquote>
                 </div>
               </div>
@@ -674,7 +674,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　89台分　無料　（先着順）　満車時は有料駐車場のご案内（料金はお客様ご負担となります）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、朝食は少し時間をずらすのがコツ敦賀訪問時は常宿にしています。駅に近く、コンビニやスーパーも徒歩圏内にあり非常に便利な立地です。設備は少し古めですが、清掃はこまめに行われていて清潔感はあ…　2026-08-27 16:28:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、朝食は少し時間をずらすのがコツ敦賀訪問時は常宿にしています。駅に近く、コンビニやスーパーも徒歩圏内にあり非常に便利な立地です。設備は少し古めですが、清掃はこまめに行われていて清潔感はあ…」
                   </blockquote>
                 </div>
               </div>

@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は豪勢だが布団や設備に難あり煎餅布団が気に入らなかったが食事が豪勢で妻は食べきれずにかなり残したのが残念朝食のおかずに鯖の塩焼きがあったが自分は万歳だったが、妻はアレルギーのため食べられず…　2026-08-30 12:13:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は豪勢だが布団や設備に難あり煎餅布団が気に入らなかったが食事が豪勢で妻は食べきれずにかなり残したのが残念朝食のおかずに鯖の塩焼きがあったが自分は万歳だったが、妻はアレルギーのため食べられず…」
                   </blockquote>
                 </div>
               </div>
@@ -674,7 +674,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが料理は美味しく接客も丁寧お世話になりました。建物が古くて仕方ないですが部屋から機械音のような音がたびたびしていました。でも部屋はきれいでしたし、お料理も美味しかったです。ありがとう…　2026-08-17 12:19:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが料理は美味しく接客も丁寧お世話になりました。建物が古くて仕方ないですが部屋から機械音のような音がたびたびしていました。でも部屋はきれいでしたし、お料理も美味しかったです。ありがとう…」
                   </blockquote>
                 </div>
               </div>

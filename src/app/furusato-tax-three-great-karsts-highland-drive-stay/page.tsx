@@ -633,7 +633,7 @@ export default function Page() {
                   <p>【日本三大カルスト台地＆絶景スカイドライブ宿×ふるさと】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗だが虫の出現と朝食の不備が残念長門に行く前泊として利用しました。2歳と5歳の子どもを連れて行きました。部屋は綺麗でしたが、子どもが少し大きな声を出すと外にまで聞こえるので気を遣いました。…　2026-08-17 19:26:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗だが虫の出現と朝食の不備が残念長門に行く前泊として利用しました。2歳と5歳の子どもを連れて行きました。部屋は綺麗でしたが、子どもが少し大きな声を出すと外にまで聞こえるので気を遣いました。…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中は険しいが景色とサービスは満点!辿り着くのに道路が工事中だったり、片側一車線道路からセンターラインがなくなって離合不可の道を経ての到着。しかし、部屋の設備やらサービスはピカイチ!もちろ…　2026-09-02 12:35:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道中は険しいが景色とサービスは満点!辿り着くのに道路が工事中だったり、片側一車線道路からセンターラインがなくなって離合不可の道を経ての到着。しかし、部屋の設備やらサービスはピカイチ!もちろ…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　83台　無料　先着順（予約不可）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.04 ／ 部屋 ★4.01 ／ 設備 ★3.97 ／ 風呂 ★4.01 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富で割引や特典も充実朝食バイキングが豊富ですね。ホテル公式アプリから予約なら、ソフトドリンク無料コインが頂けます。JAF会員なので割引を活用してポンタポイントもありがたいですね…　2026-09-19 19:37:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富で割引や特典も充実朝食バイキングが豊富ですね。ホテル公式アプリから予約なら、ソフトドリンク無料コインが頂けます。JAF会員なので割引を活用してポンタポイントもありがたいですね…」
                   </blockquote>
                 </div>
               </div>

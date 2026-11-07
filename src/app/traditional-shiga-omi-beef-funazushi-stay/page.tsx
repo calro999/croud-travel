@@ -513,7 +513,7 @@ export default function FeaturePage() {
                   <p>【極上近江牛ステーキ＆伝統鮒ずし：琵琶湖の恵みと名湯】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.59 ／ 部屋 ★4.62 ／ 設備 ★4.62 ／ 風呂 ★4.63 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1歳・3歳連れでも安心。子どもへの配慮と食事が良かったです1歳と3歳の子どもを連れて家族で宿泊しました。小さな子どもが2人いると、部屋での過ごし方や食事、お風呂など何かと気を遣いますが、こちらでは…　2026-10-10 16:34:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1歳・3歳連れでも安心。子どもへの配慮と食事が良かったです1歳と3歳の子どもを連れて家族で宿泊しました。小さな子どもが2人いると、部屋での過ごし方や食事、お風呂など何かと気を遣いますが、こちらでは…」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function FeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レイクビューのお部屋とあたたかい接客に感動!ひとり旅で利用させていただきました。おごと温泉駅から炎天下を歩いて宿に向かったのですが、到着したとき汗びっしょりだった私を見て、ご主人があたたかい言…　2026-07-30 17:45:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レイクビューのお部屋とあたたかい接客に感動!ひとり旅で利用させていただきました。おごと温泉駅から炎天下を歩いて宿に向かったのですが、到着したとき汗びっしょりだった私を見て、ご主人があたたかい言…」
                   </blockquote>
                 </div>
               </div>
@@ -557,7 +557,7 @@ export default function FeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>タワー式（車高155cm・タイヤ幅175cm以下）約40台　1泊1200円（15時~翌10時）先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「向かいにドンキがあり便利、朝食は二日同じ二泊利用させていただきました向かいにドンキがあるのもとても便利朝食は二日間同じメニューでしたクチコミの詳細はこちらから　https://re…　2026-08-22 18:29:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「向かいにドンキがあり便利、朝食は二日同じ二泊利用させていただきました向かいにドンキがあるのもとても便利朝食は二日間同じメニューでした」
                   </blockquote>
                 </div>
               </div>
@@ -579,7 +579,7 @@ export default function FeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料 (満車となりましたら徒歩3〜4分の第二駐車場となります）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.04 ／ 部屋 ★4.05 ／ 設備 ★4.07 ／ 風呂 ★4.04 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウェルカムドリンクのビールと朝食に満足ウェルカムドリンクでビールが選べるのがうれしいです。瓶から缶に変わったのは残念ですが。朝食バイキングは混雑することなくスムーズに食べることが出来ました…　2026-10-06 13:49:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ウェルカムドリンクのビールと朝食に満足ウェルカムドリンクでビールが選べるのがうれしいです。瓶から缶に変わったのは残念ですが。朝食バイキングは混雑することなくスムーズに食べることが出来ました…」
                   </blockquote>
                 </div>
               </div>
@@ -601,7 +601,7 @@ export default function FeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料の提携駐車場1か所（事前予約不可）。詳細はホテルにお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.94 ／ 立地 ★3.89 ／ 部屋 ★3.74 ／ 設備 ★3.67 ／ 風呂 ★3.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが空調の音が気になった仕事で初めて利用しました。場所は仕事先からも近く地下鉄駅からも近いので問題無いでしたが、部屋の空調が個別のエアコンではなくて、風量調整や温度調整が出来ないし、…　2026-09-07 17:10:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが空調の音が気になった仕事で初めて利用しました。場所は仕事先からも近く地下鉄駅からも近いので問題無いでしたが、部屋の空調が個別のエアコンではなくて、風量調整や温度調整が出来ないし、…」
                   </blockquote>
                 </div>
               </div>

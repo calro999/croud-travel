@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋も食事も温泉も最高、また妻と行きますオープンしたばかりの「心」というスイートルームに宿泊しました。お部屋、お食事、温泉、全て最高でした。また妻と行きます。クチコミの詳細はこちらか…　2026-08-29 21:15:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋も食事も温泉も最高、また妻と行きますオープンしたばかりの「心」というスイートルームに宿泊しました。お部屋、お食事、温泉、全て最高でした。また妻と行きます。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p>【東伊豆・稲取温泉ひとり旅・太平洋インフィニティ絶景お】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…　2026-08-29 17:15:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「間近で見る花火と美味しい食事に大満足部屋から海と花火が見たくて花火が近くて上がる日で予約しました。半露天の角部屋にグレードアップしていただき、間近で花火が見れて嬉しかったです。建物は年季が入ってい…」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　有料・無料あり　有料駐車場は要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を望む露天風呂に大満足とにかく、ロケーションが最高です。海が目の前で、露天風呂から眺める大海原と波の音が最高でした。大浴場からの眺めも最高で、アメニティーやドライヤー、カールアイロンもありとても…　2026-08-25 16:36:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を望む露天風呂に大満足とにかく、ロケーションが最高です。海が目の前で、露天風呂から眺める大海原と波の音が最高でした。大浴場からの眺めも最高で、アメニティーやドライヤー、カールアイロンもありとても…」
                   </blockquote>
                 </div>
               </div>

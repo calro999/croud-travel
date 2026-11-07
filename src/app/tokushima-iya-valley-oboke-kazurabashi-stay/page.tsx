@@ -315,7 +315,7 @@ export default function MicroTouristHubPage() {
                   <p>【徳島・祖谷渓＆大歩危・かずら橋：日本三大秘境・スリル】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…　2026-09-05 22:04:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り120台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「邪馬台国阿波説探訪邪馬台国阿波説探訪に丁度良い温泉ホテルでした。近くに上一宮大粟神社や雨乞の滝もあり、日本の田舎の夏を満喫致しました。又、邪馬台国阿波説探訪に是非訪れたいと思っております。有難うご…　2026-08-25 13:49:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「邪馬台国阿波説探訪邪馬台国阿波説探訪に丁度良い温泉ホテルでした。近くに上一宮大粟神社や雨乞の滝もあり、日本の田舎の夏を満喫致しました。又、邪馬台国阿波説探訪に是非訪れたいと思っております。有難うご…」
                   </blockquote>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　3０台　1000円（税込み／泊）　　但し、阿波踊り期間中は￥3000です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リノベーションはされているものの施設の老朽化・埃や汚れ等も気になりました。敷き布団はマットレスは無く薄めの物が1枚なので腰痛持ちには辛いです。ただ、金額・立地・職員の対応には満足なので金額…　2026-08-28 13:56:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リノベーションはされているものの施設の老朽化・埃や汚れ等も気になりました。敷き布団はマットレスは無く薄めの物が1枚なので腰痛持ちには辛いです。ただ、金額・立地・職員の対応には満足なので金額…」
                   </blockquote>
                 </div>
               </div>

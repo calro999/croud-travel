@@ -260,7 +260,7 @@ export default function OsakaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は便利で館内は静か、接客も丁寧大阪でのライブ帰りに1人1泊しました。お初天神通りの入口入って、直ぐ左手にあり分かりやすく大阪駅からも便利な立地です。周りが居酒屋やバーが沢山ある飲み屋街の為…　2026-08-17 16:46:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は便利で館内は静か、接客も丁寧大阪でのライブ帰りに1人1泊しました。お初天神通りの入口入って、直ぐ左手にあり分かりやすく大阪駅からも便利な立地です。周りが居酒屋やバーが沢山ある飲み屋街の為…」
                   </blockquote>
                 </div>
               </div>
@@ -282,7 +282,7 @@ export default function OsakaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4台　2,000円／日 （先着順）※ご宿泊以外に関しましてはホテルにお問合せください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレバス別で快適、大阪駅へのアクセスも抜群トイレバス別が決め手で予約しました!浴槽も大きめでゆったりと湯船に浸かれて疲れた身体を癒せました夜も静かに休めたし、大阪駅までのアクセスもよくまた利用し…　2026-08-08 12:40:33投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=181504&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレバス別で快適、大阪駅へのアクセスも抜群トイレバス別が決め手で予約しました!浴槽も大きめでゆったりと湯船に浸かれて疲れた身体を癒せました夜も静かに休めたし、大阪駅までのアクセスもよくまた利用し…」
                   </blockquote>
                 </div>
               </div>
@@ -304,7 +304,7 @@ export default function OsakaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順24時間1500円(高155cm幅185㎝長505㎝重1.6ｔ未満)入出庫7：00～22：00</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食最高朝食が大変美味しかったです。3つの時間帯が選べるが、1番早い時間は空いてておすすめです。とにかく美味しいです。うめきたにも近いので、とても良い立地です。クチコミの詳細はこちらから　…　2026-08-22 12:22:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食最高朝食が大変美味しかったです。3つの時間帯が選べるが、1番早い時間は空いてておすすめです。とにかく美味しいです。うめきたにも近いので、とても良い立地です。」
                   </blockquote>
                 </div>
               </div>
@@ -326,7 +326,7 @@ export default function OsakaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>￥2,000（税込）／泊　宿泊者専用。台数 16台。（先着順）　入出庫不可時間 22時～翌朝7時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く大阪出張の定宿、YouTube非対応立地がとても良いので大阪出張時は定宿です。YouTubeが見れないのが難点です。クチコミの詳細はこちらから　https://review.trav…　2026-08-22 17:57:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く大阪出張の定宿、YouTube非対応立地がとても良いので大阪出張時は定宿です。YouTubeが見れないのが難点です。」
                   </blockquote>
                 </div>
               </div>
@@ -348,7 +348,7 @@ export default function OsakaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.33 ／ 部屋 ★4.31 ／ 設備 ★4.26 ／ 風呂 ★4.23 ／ 食事 ★3.93</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東梅田駅すぐで便利、新しく綺麗な部屋立地は、東梅田駅よりすぐです。ホワイティうめだの地下からホテルに行けるのでとても便利。お部屋は、できて3ヶ月なのでとてもキレイ。ただ眺めはありません。泊まること…　2026-10-09 16:32:55投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=198933&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東梅田駅すぐで便利、新しく綺麗な部屋立地は、東梅田駅よりすぐです。ホワイティうめだの地下からホテルに行けるのでとても便利。お部屋は、できて3ヶ月なのでとてもキレイ。ただ眺めはありません。泊まること…」
                   </blockquote>
                 </div>
               </div>
@@ -370,7 +370,7 @@ export default function OsakaHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でチェックアウトも遅く助かりました駅からも近く、チェックアウトの時間も遅めで助かりましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-08-20 16:50:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でチェックアウトも遅く助かりました駅からも近く、チェックアウトの時間も遅めで助かりました」
                   </blockquote>
                 </div>
               </div>

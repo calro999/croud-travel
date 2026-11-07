@@ -347,7 +347,7 @@ export default function OkinawaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場36台（内ハイルーフ8台）／1,500円税込（1泊：14時〜翌11時）／先着順（予約不可）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.25 ／ 部屋 ★4.28 ／ 設備 ★4.19 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの案内不足とデスクの清掃不備自動チェックイン機が並んでいたのでそこで待っていたら、後から来た外国人はフロントでチェックインに呼ばれた。なので当方もフロントに行こうとしたら機械に並ぶよう…　2026-10-08 11:30:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックインの案内不足とデスクの清掃不備自動チェックイン機が並んでいたのでそこで待っていたら、後から来た外国人はフロントでチェックインに呼ばれた。なので当方もフロントに行こうとしたら機械に並ぶよう…」
                   </blockquote>
                 </div>
               </div>
@@ -369,7 +369,7 @@ export default function OkinawaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　124台　１泊１台1,000円（最大2,000円）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オープンしてすぐだったのでとても綺麗でした!プールライン時の鴨肉がとても美味しかった!大浴場は小さめですが、とても綺麗です。夜ご飯はつけなかったですが、歩いて行ける距離に居酒屋が数軒あるので全く問題な…　2026-08-26 19:39:26投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=198402&quot; class=&quot;3clic」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オープンしてすぐだったのでとても綺麗でした!プールライン時の鴨肉がとても美味しかった!大浴場は小さめですが、とても綺麗です。夜ご飯はつけなかったですが、歩いて行ける距離に居酒屋が数軒あるので全く問題な…」
                   </blockquote>
                 </div>
               </div>
@@ -435,7 +435,7 @@ export default function OkinawaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（先着順）　1泊1台1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレットペーパーの補充と対応に不満トイレットペーパーが無くなるという前代未聞の出来事がありました。予備は置いていない。フロントに電話をかけても一向に出ない。仕方ないので取りに行ったら…　2026-08-20 23:26:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレットペーパーの補充と対応に不満トイレットペーパーが無くなるという前代未聞の出来事がありました。予備は置いていない。フロントに電話をかけても一向に出ない。仕方ないので取りに行ったら…」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function OkinawaTravelBudgetPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有＊予約制＊1泊1,000円(税込)、2026年2月から￥1200円に改定</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。コストはかか…　2026-08-20 17:16:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパの外出や清掃方法の改善を希望海外のお客様が館内で履くスリッパのまま外出されていました。入り口のスーツケースのタイヤを拭くタオルが乾いたタオルで拭けている気がしませんでした。コストはかか…」
                   </blockquote>
                 </div>
               </div>

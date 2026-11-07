@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p>【紫の絨毯が広がる夏の富良野】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足です。夜ご飯のお肉が美味しかったです。スタッフの方の対応も良く、笑顔で対応してくれました。ウェルカムドリンクや、ポップコーンなど置いてあり、嬉しかったです。お部屋のゴミ箱に袋が設置…　2026-08-26 17:43:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足です。夜ご飯のお肉が美味しかったです。スタッフの方の対応も良く、笑顔で対応してくれました。ウェルカムドリンクや、ポップコーンなど置いてあり、嬉しかったです。お部屋のゴミ箱に袋が設置…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（もちろんハイルーフ車もOK）　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子どもに優しい宿。大人だけでの宿泊は...?スキー場の目の前で駐車スペースも広々でした。激安宿ではないため、外国人観光客も少なかったように感じました。遊び場コーナー・手持ち花火や縁日のサー…　2026-08-18 22:28:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子どもに優しい宿。大人だけでの宿泊は...?スキー場の目の前で駐車スペースも広々でした。激安宿ではないため、外国人観光客も少なかったように感じました。遊び場コーナー・手持ち花火や縁日のサー…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　390台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待外れな点もあったけど...もろもろ満足5階の部屋に3泊しました。高台にあるので眺めを期待していたのですが、木々とうっすら山が見える程度。少し残念でした。洗面台コーナーが狭いので仕方がないのです…　2026-09-05 15:11:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待外れな点もあったけど...もろもろ満足5階の部屋に3泊しました。高台にあるので眺めを期待していたのですが、木々とうっすら山が見える程度。少し残念でした。洗面台コーナーが狭いので仕方がないのです…」
                   </blockquote>
                 </div>
               </div>

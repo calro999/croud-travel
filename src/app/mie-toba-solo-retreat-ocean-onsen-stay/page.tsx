@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内係をはじめ、全体のサービスが最高!案内係の対応をはじめ、全体のサービスが良かったです!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-08-30 07:42:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内係をはじめ、全体のサービスが最高!案内係の対応をはじめ、全体のサービスが良かったです!」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順 カーナビ検索は０５９９－２５－５１５１で</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.53 ／ 部屋 ★4.36 ／ 設備 ★4.24 ／ 風呂 ★4.48 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古き良き温泉と朝食バイキングに大満足高齢の母と姪との女子旅でした、昭和の時代の古き良きリゾートホテルという感じで湯めぐりと名のつく3つあるお風呂の1つは閉まってましたがあとの2つの温泉で人も多くな…　2026-10-08 17:57:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古き良き温泉と朝食バイキングに大満足高齢の母と姪との女子旅でした、昭和の時代の古き良きリゾートホテルという感じで湯めぐりと名のつく3つあるお風呂の1つは閉まってましたがあとの2つの温泉で人も多くな…」
                   </blockquote>
                 </div>
               </div>

@@ -306,7 +306,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　無料  予約不要　但し大型車の場合は予約が必要になります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく立地も良いが隣室の音が響く夕飯、とても美味しかったです(^_^)。海岸線に近く観光スポットへのアクセスも良好。部屋の壁が薄いのか隣室の声が聞こえて来るのがマイナス。クチコ…　2026-08-22 19:51:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しく立地も良いが隣室の音が響く夕飯、とても美味しかったです(^_^)。海岸線に近く観光スポットへのアクセスも良好。部屋の壁が薄いのか隣室の声が聞こえて来るのがマイナス。…」
                   </blockquote>
                 </div>
               </div>
@@ -328,7 +328,7 @@ export default function MicroTouristHubPage() {
                   <p>【三重・熊野＆尾鷲・鬼ヶ城：世界遺産鬼ヶ城・獅子岩＆熊】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋のアップグレードに母も大喜び母の療養をするための旅行でした。お部屋のランクをご厚意で上げていただき、本当にゆっくりできました。母もとても喜んでいて、完治した際はまた宿泊したいと思います。… 2026-09-05 14:21:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋のアップグレードに母も大喜び母の療養をするための旅行でした。お部屋のランクをご厚意で上げていただき、本当にゆっくりできました。母もとても喜んでいて、完治した際はまた宿泊したいと思います。…」
                   </blockquote>
                 </div>
               </div>
@@ -350,7 +350,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野生の鹿に子供も大喜び、炭火の干物も絶品景色など野生のシカがいてのどかでした!野生の鹿がいたのは子供が喜んでました!朝ごはんの干物を炭火で焼くのはとても美味しかったです!クチコミの詳細…　2026-08-08 20:23:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「野生の鹿に子供も大喜び、炭火の干物も絶品景色など野生のシカがいてのどかでした!野生の鹿がいたのは子供が喜んでました!朝ごはんの干物を炭火で焼くのはとても美味しかったです!クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>

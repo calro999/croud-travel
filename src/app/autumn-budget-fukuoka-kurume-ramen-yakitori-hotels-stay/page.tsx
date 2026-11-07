@@ -421,7 +421,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【ニューウエダ駐車場】営業時間:1泊(14時〜翌朝11時) 800円※24時間営業(下記注意事項参照</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.21 ／ 部屋 ★3.91 ／ 設備 ★3.81 ／ 風呂 ★3.87</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食付きは嬉しいが施設やトイレは古め朝が付いてて嬉しかったが、やや施設は古い感じトイレもちょっと残念な感じサービスはよかったと思いましたクチコミの詳細はこちらから　https://re…　2026-10-07 16:57:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食付きは嬉しいが施設やトイレは古め朝が付いてて嬉しかったが、やや施設は古い感じトイレもちょっと残念な感じサービスはよかったと思いました」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.86 ／ 部屋 ★4.16 ／ 設備 ★4.09 ／ 風呂 ★3.97 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で朝食も混雑なく快適綺麗なホテルでした朝食も混んでなく、ゆっくり食べることができましたクチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-10-04 20:54:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で朝食も混雑なく快適綺麗なホテルでした朝食も混んでなく、ゆっくり食べることができました」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　車高制限：185cm　１泊1,200円■先着順■満車時は近隣のコインパーキングをご案内します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.13 ／ 部屋 ★4.28 ／ 設備 ★4.16 ／ 風呂 ★4.25 ／ 食事 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「久留米で一番のお気に入り、また利用したい久留米で一番好きなホテルです。清潔感のある部屋です。外の木に止まっているムクドリがうるさいですが、追い払えないですかね。クチコミの詳細はこちらから　ht…　2026-10-09 17:51:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「久留米で一番のお気に入り、また利用したい久留米で一番好きなホテルです。清潔感のある部屋です。外の木に止まっているムクドリがうるさいですが、追い払えないですかね。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>60台有(無料）：必ずご準備いたしますので、スタッフにお問い合わせください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.32 ／ 部屋 ★4.48 ／ 設備 ★4.42 ／ 風呂 ★4.33 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感と丁寧な対応でゆっくり過ごせた清潔感のあるお部屋と、ホテルの方の丁寧な対応で非常にゆっくり過ごさせていただきました。立地はJR、西鉄どちらの駅から離れており、歩けますがちょっと大変です。…　2026-09-29 23:47:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感と丁寧な対応でゆっくり過ごせた清潔感のあるお部屋と、ホテルの方の丁寧な対応で非常にゆっくり過ごさせていただきました。立地はJR、西鉄どちらの駅から離れており、歩けますがちょっと大変です。…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetKurumeHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>５６台（立体駐車場）　　　５００円/泊　　先着順　　高さ制限あり（2ｍまで）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.04 ／ 部屋 ★4.08 ／ 設備 ★3.96 ／ 風呂 ★3.96 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と清潔な部屋でぐっすり快眠周囲の騒音が全く気にならなかったので静かに過ごせました。部屋の嫌な臭いもなく清潔感が感じられたので良く眠れました。朝食会場は狭かったですが部屋で食べたい…　2026-10-05 22:57:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と清潔な部屋でぐっすり快眠周囲の騒音が全く気にならなかったので静かに過ごせました。部屋の嫌な臭いもなく清潔感が感じられたので良く眠れました。朝食会場は狭かったですが部屋で食べたい…」
                   </blockquote>
                 </div>
               </div>

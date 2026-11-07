@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>今治港に専用駐車場10台有(無料) ※馬島へは自家用車での入島はできません(今治港から無料送迎有)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室感があり快適、アメニティも充実グランピング側に宿泊すると少し不便が多いですが、個室感を味わえて快適に過ごせました。トイレやお風呂の時にホテル棟へ行かないといけないので雨だと大変かなと思いま…　2026-08-19 12:42:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室感があり快適、アメニティも充実グランピング側に宿泊すると少し不便が多いですが、個室感を味わえて快適に過ごせました。トイレやお風呂の時にホテル棟へ行かないといけないので雨だと大変かなと思いま…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　10台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自転車を室内保管でき、料理と接客も最高自転車旅行で2回目の使用でした。自転車を室内保管して頂けるので助かります。料理はアコウと鯛の刺身が絶品でした。そして中居さんのさっちゃんもw今…　2026-07-29 18:47:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自転車を室内保管でき、料理と接客も最高自転車旅行で2回目の使用でした。自転車を室内保管して頂けるので助かります。料理はアコウと鯛の刺身が絶品でした。そして中居さんのさっちゃんもw今…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場　100台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと海の幸に大満足予約した部屋よりグレードアップした和洋室を準備してくださったおかげで広く気持ち良く使わせて頂きました。お料理も海の幸をふんだんに使ってあり大変満足しました。近く…　2026-08-22 18:53:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のグレードアップと海の幸に大満足予約した部屋よりグレードアップした和洋室を準備してくださったおかげで広く気持ち良く使わせて頂きました。お料理も海の幸をふんだんに使ってあり大変満足しました。近く…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約必要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.76 ／ 部屋 ★4.47 ／ 設備 ★4.35 ／ 風呂 ★4.65 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし…　2026-05-26 16:06:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　有料：1泊につき1,000円/1台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く、夕食と朝食も最高!立地もよく、夕食と朝食は最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1…　2026-08-22 15:26:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く、夕食と朝食も最高!立地もよく、夕食と朝食は最高でした。」
                   </blockquote>
                 </div>
               </div>

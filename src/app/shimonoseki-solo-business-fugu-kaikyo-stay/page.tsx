@@ -542,7 +542,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1500円先着順。満車時は提携先を案内(1泊1,300円）※ご連泊利用は、アウト日まで取り置き可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.42 ／ 部屋 ★4.46 ／ 設備 ★4.48 ／ 風呂 ★4.56 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングのビーフシチューはお肉が大きく、量も多くまた、スープ共々味も濃く美味しかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-09 20:00:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングのビーフシチューはお肉が大きく、量も多くまた、スープ共々味も濃く美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -564,7 +564,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場をご案内させていただきます</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.25 ／ 部屋 ★4.17 ／ 設備 ★4.15 ／ 風呂 ★4.18 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗なお部屋と美味しいふぐ料理に大満足お部屋は綺麗でふぐを使ったお料理も美味しく満足できました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-10-08 20:10:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗なお部屋と美味しいふぐ料理に大満足お部屋は綺麗でふぐを使ったお料理も美味しく満足できました。」
                   </blockquote>
                 </div>
               </div>
@@ -586,7 +586,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用P＝600円（16台）二輪車300円※先着順／タイムズ下関駅西口駐車場500円＝約120台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.95 ／ 部屋 ★3.77 ／ 設備 ★3.71 ／ 風呂 ★3.86 ／ 食事 ★3.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は最高、サウナの改善を希望久しぶりに利用させてもらいました。いつも1ヶ月に1回は行かしてもらってたのですが、今回は半年ぶりくらいでした。相変わらずフロントやスタ…　2026-10-10 19:20:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は最高、サウナの改善を希望久しぶりに利用させてもらいました。いつも1ヶ月に1回は行かしてもらってたのですが、今回は半年ぶりくらいでした。相変わらずフロントやスタ…」
                   </blockquote>
                 </div>
               </div>

@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>約300台（屋外／宿泊者無料）※正面玄関へお越しください。係が駐車場へご案内させていただきます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.48 ／ 部屋 ★4.61 ／ 設備 ★4.6 ／ 風呂 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しかったー!ホテルのスタッフ皆さんが素晴らしい接客。お部屋は綺麗に清掃されている。お風呂も心地よい。温度もよい。清潔感あり。食事は巨人軍の高評価があり期待して伺いました。期待通り、…　2026-10-10 21:20:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しかったー!ホテルのスタッフ皆さんが素晴らしい接客。お部屋は綺麗に清掃されている。お風呂も心地よい。温度もよい。清潔感あり。食事は巨人軍の高評価があり期待して伺いました。期待通り、…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>３０台　　【無料・予約不要】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。一人…　2026-09-10 03:11:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。一人…」
                   </blockquote>
                 </div>
               </div>

@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　1室につき1台無料　（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.57 ／ 部屋 ★4.42 ／ 設備 ★4.26 ／ 風呂 ★4.39 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓から宮古島の景色を感じられて最高窓からの眺めは宮古島を感じられてよかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-10-09 10:50:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓から宮古島の景色を感じられて最高窓からの眺めは宮古島を感じられてよかったです」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場なし。近くのコインパーキングをご案内中。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.4 ／ 部屋 ★4.27 ／ 設備 ★4.07 ／ 風呂 ★3.88 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「クロミちゃんの部屋は快適、椅子があれば完璧おまかせプランでクロミちゃんの部屋に案内していただきました。総じて清潔感があり、現代的な部屋で満足です。 お風呂場にはバスタブがなかったので旅の疲…　2026-10-01 10:15:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「クロミちゃんの部屋は快適、椅子があれば完璧おまかせプランでクロミちゃんの部屋に案内していただきました。総じて清潔感があり、現代的な部屋で満足です。 お風呂場にはバスタブがなかったので旅の疲…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７７台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★4.09 ／ 部屋 ★4.07 ／ 設備 ★3.96 ／ 風呂 ★3.96 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2泊とまりました。今回は、レンタカーを利用したので、駐車場が無料でとめられてありがたかったです。朝食バイキングも、適量で美味しかったです。ホテル目の前に、散歩できるような公園があって私も散…　2026-10-08 18:14:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2泊とまりました。今回は、レンタカーを利用したので、駐車場が無料でとめられてありがたかったです。朝食バイキングも、適量で美味しかったです。ホテル目の前に、散歩できるような公園があって私も散…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有(無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.28 ／ 部屋 ★4.26 ／ 設備 ★4.05 ／ 風呂 ★4.16 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ドリンクやおつまみの食べ飲み放題に大満足家族旅行で初めて宿泊しました。お酒含めたドリンクやおつまみ、お菓子の食べ飲み放題の時間があって、子供と一緒に楽しめました。特に申し分のないホテルでした。、…　2026-10-09 16:32:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ドリンクやおつまみの食べ飲み放題に大満足家族旅行で初めて宿泊しました。お酒含めたドリンクやおつまみ、お菓子の食べ飲み放題の時間があって、子供と一緒に楽しめました。特に申し分のないホテルでした。、…」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　18台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.67 ／ 部屋 ★4.8 ／ 設備 ★4.8 ／ 風呂 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と迅速な対応で快適な時間部屋も広々していて、清掃も行き届いていて、ゆっくりとくつろげました!ウォーターサーバーの水が足りなくなると、フロントに電話するとすぐに補充してもらえて…　2026-10-02 17:13:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と迅速な対応で快適な時間部屋も広々していて、清掃も行き届いていて、ゆっくりとくつろげました!ウォーターサーバーの水が足りなくなると、フロントに電話するとすぐに補充してもらえて…」
                   </blockquote>
                 </div>
               </div>

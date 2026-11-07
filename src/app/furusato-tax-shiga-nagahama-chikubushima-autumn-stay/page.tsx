@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【滋賀・北びわ湖 長浜城下町の紅葉とパワースポット竹生】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋付き露天風呂と心温まるおもてなし各部屋に信楽焼の温泉露天風呂がついています。シャワールームと繋がって露天風呂スペースとしては少し狭いですが、1人でお湯を楽しむには丁度良いです。館内畳敷なの… 2026-07-21 19:37:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋付き露天風呂と心温まるおもてなし各部屋に信楽焼の温泉露天風呂がついています。シャワールームと繋がって露天風呂スペースとしては少し狭いですが、1人でお湯を楽しむには丁度良いです。館内畳敷なの…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p>【滋賀・北びわ湖 長浜城下町の紅葉とパワースポット竹生】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても素敵なお宿でした。温泉も気持ち良く料理も美味しかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/8796…　2026-09-19 16:37:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても素敵なお宿でした。温泉も気持ち良く料理も美味しかったです。」
                   </blockquote>
                 </div>
               </div>

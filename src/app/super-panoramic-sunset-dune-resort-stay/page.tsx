@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り７０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「紅ズワイガニとアワビが絶品!紅ズワイガニ、アワビがおいしい。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/8778…　2026-08-17 20:16:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「紅ズワイガニとアワビが絶品!紅ズワイガニ、アワビがおいしい。」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有（100台・予約不要）バイクも可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた客層と細やかなおもてなしに感動西村屋招月庭はファミリー向けと記載がありましたが、客層がかなり良いと感じました。日本人、外国人の割合は半々くらいに思いましたが、みなさんとにかく落ち着いてい…　2026-08-22 20:40:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた客層と細やかなおもてなしに感動西村屋招月庭はファミリー向けと記載がありましたが、客層がかなり良いと感じました。日本人、外国人の割合は半々くらいに思いましたが、みなさんとにかく落ち着いてい…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>70台（出し入れ自由）　普通車500円/1泊　二輪車500円/1泊　大型車2,000円/1泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.08 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.21 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は快適、朝食の地元ヨーグルトも美味大浴場はとても気持ちいいですね。朝食も大変美味しくてヨーグルトなど地元のカップヨーグルトで良かったです。クチコミの詳細はこちらから　https://re…　2026-10-10 19:17:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は快適、朝食の地元ヨーグルトも美味大浴場はとても気持ちいいですね。朝食も大変美味しくてヨーグルトなど地元のカップヨーグルトで良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【黄金色に輝く風紋と日本海の夕陽】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1週間でリピートするほど大満足の定宿毎度毎度毎度毎度の定宿!いつもお世話になっております。前の週にプライベート(夏休み)でも訪れて、1週間でのリピート。それでもそれでも大満足のGRクオリティはシン…　2026-09-18 15:45:29投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=176748&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1週間でリピートするほど大満足の定宿毎度毎度毎度毎度の定宿!いつもお世話になっております。前の週にプライベート(夏休み)でも訪れて、1週間でのリピート。それでもそれでも大満足のGRクオリティはシン…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【黄金色に輝く風紋と日本海の夕陽】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングと温泉は良いが設備に難ありバイキングは朝、夜ともボリュームもありよかったのですが、鳥取といえば二十世紀梨と思うのですが、全然でてなかったのでそこは残念です。部屋はレトロな感じでした。トイ…　2026-09-09 18:25:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングと温泉は良いが設備に難ありバイキングは朝、夜ともボリュームもありよかったのですが、鳥取といえば二十世紀梨と思うのですが、全然でてなかったのでそこは残念です。部屋はレトロな感じでした。トイ…」
                   </blockquote>
                 </div>
               </div>

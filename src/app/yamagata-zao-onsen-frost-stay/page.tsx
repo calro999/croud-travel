@@ -324,7 +324,7 @@ export default function MicroTouristHubPage() {
                   <p>【山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…　2026-08-15 21:48:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function MicroTouristHubPage() {
                   <p>【山形・蔵王温泉：樹氷スノーモンスター・強酸性硫黄泉＆】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応に感謝1歳と5歳の子どもを連れて宿泊しました。とにかくスタッフの皆さんが子どもたちに優しく、たくさん声をかけて可愛がってくださったことがとても嬉しかったです。子連れでも安心…　2026-09-08 13:07:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応に感謝1歳と5歳の子どもを連れて宿泊しました。とにかくスタッフの皆さんが子どもたちに優しく、たくさん声をかけて可愛がってくださったことがとても嬉しかったです。子連れでも安心…」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車40台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.33 ／ 部屋 ★4.28 ／ 設備 ★4.18 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と楽しむ旅、芋煮が最高でしたワンコと泊まれるホテルで探して遥々愛知県からお邪魔しました。ワンコ大好き仲居さんの振る舞いが犬にも人にもとてもフレンドリーで良かったです。ごはんと一緒に芋煮が出てき…　2026-10-09 20:53:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と楽しむ旅、芋煮が最高でしたワンコと泊まれるホテルで探して遥々愛知県からお邪魔しました。ワンコ大好き仲居さんの振る舞いが犬にも人にもとてもフレンドリーで良かったです。ごはんと一緒に芋煮が出てき…」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「蔵王温泉と山形牛、お米も美味しく大満足蔵王温泉初めてでしたが最高でした。温泉が最高によかった。ホテルのスタッフさん笑顔でとても感じよく、夕飯の山形牛なども美味しく、お米が美味い。朝食も種類豊富で、…　2026-08-17 08:34:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「蔵王温泉と山形牛、お米も美味しく大満足蔵王温泉初めてでしたが最高でした。温泉が最高によかった。ホテルのスタッフさん笑顔でとても感じよく、夕飯の山形牛なども美味しく、お米が美味い。朝食も種類豊富で、…」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順 第１駐車場（自動消雪）は建物の目の前　蔵王温泉バスターミナル随時送迎</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族風呂や食事など子連れに優しく大満足1歳児連れで連泊しました。予約不要の家族風呂で周りに気兼ねなくゆっくり入浴できました。温泉で日頃の肩こりなどがほぐれました。ウェルカム・モーニングサー…　2026-08-06 01:18:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族風呂や食事など子連れに優しく大満足1歳児連れで連泊しました。予約不要の家族風呂で周りに気兼ねなくゆっくり入浴できました。温泉で日頃の肩こりなどがほぐれました。ウェルカム・モーニングサー…」
                   </blockquote>
                 </div>
               </div>

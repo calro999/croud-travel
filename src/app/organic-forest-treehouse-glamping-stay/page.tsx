@@ -695,7 +695,7 @@ export default function FeatureDetailPage() {
                   <p>【子どもの頃の夢を叶える】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.78 ／ 部屋 ★4.78 ／ 設備 ★4.71 ／ 風呂 ★4.69 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「動物たちと焚き火に癒やされる最高の時間動物たちが自由に暮らしている感じがとても心地よい。グランピング初めてで、火の起こし方とかもわからないなりに、着火剤もたくさん用意してあり、虫除けスプレーなども…　2026-08-01 17:11:48投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=184655&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「動物たちと焚き火に癒やされる最高の時間動物たちが自由に暮らしている感じがとても心地よい。グランピング初めてで、火の起こし方とかもわからないなりに、着火剤もたくさん用意してあり、虫除けスプレーなども…」
                   </blockquote>
                 </div>
               </div>
@@ -717,7 +717,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　宿泊者専用（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ローストビーフが絶品、設備が広々で快適ローストビーフ最高でした!!部屋数よりも各設備が広めなのでゆっくりのんびり過ごせます!!脱衣所も広々!ロビーも広々!カラオケ部屋も広々!お…　2026-08-17 22:54:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ローストビーフが絶品、設備が広々で快適ローストビーフ最高でした!!部屋数よりも各設備が広めなのでゆっくりのんびり過ごせます!!脱衣所も広々!ロビーも広々!カラオケ部屋も広々!お…」
                   </blockquote>
                 </div>
               </div>
@@ -739,7 +739,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供が遊べて部屋も広く、サウナも最高!子供が沢山遊べた!部屋も広くて良かった!サウナも良かった!クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-08-18 10:07:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供が遊べて部屋も広く、サウナも最高!子供が沢山遊べた!部屋も広くて良かった!サウナも良かった!」
                   </blockquote>
                 </div>
               </div>
@@ -761,7 +761,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1台500円/泊　平面駐車場で24時間出し入れ自由、最大34台(予約不可・1部屋に付き1台まで)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.92 ／ 部屋 ★4.33 ／ 設備 ★4.47 ／ 風呂 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宿泊の3日くらい前にメールが届き事前チェックインの登録をしたので現地ではスムーズにチェックインできました。19時まではスタッフさんもいるようでボードゲームの貸し出しもその時間までならできるそうです…　2026-09-26 18:17:14投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=165006&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宿泊の3日くらい前にメールが届き事前チェックインの登録をしたので現地ではスムーズにチェックインできました。19時まではスタッフさんもいるようでボードゲームの貸し出しもその時間までならできるそうです…」
                   </blockquote>
                 </div>
               </div>

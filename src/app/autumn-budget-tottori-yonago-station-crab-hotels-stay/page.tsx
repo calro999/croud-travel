@@ -496,7 +496,7 @@ export default function AutumnBudgetYonagoStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約40台【有料1台800円/泊】隣接：弥生町有料駐車場・日本交通立体駐車場　満車時近隣案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.12 ／ 部屋 ★4.01 ／ 設備 ★3.93 ／ 風呂 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でアクセス抜群、朝食も美味しく快適出張のたびにこちらに宿泊しています。駅前にあるのでアクセスもよく、スタッフの方も親切で、お部屋も清潔感があります。朝食は1階の居酒屋さん?でバイキング…　2026-10-06 14:31:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でアクセス抜群、朝食も美味しく快適出張のたびにこちらに宿泊しています。駅前にあるのでアクセスもよく、スタッフの方も親切で、お部屋も清潔感があります。朝食は1階の居酒屋さん?でバイキング…」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetYonagoStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場３０台（予約不可の先着順）。１泊５００円（税込み）高さ制限2ｍ。途中入出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.07 ／ 部屋 ★4.07 ／ 設備 ★4.04 ／ 風呂 ★3.91 ／ 食事 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「便利な立地客室は広くありませんがひとりで泊まるには充分です。近くに飲食店もたくさんあり便利です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-10-10 08:48:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「便利な立地客室は広くありませんがひとりで泊まるには充分です。近くに飲食店もたくさんあり便利です。」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetYonagoStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　870円/泊（午後２時〜翌朝10時迄・その前後１時間220円）先着順。バス・大型車は要確認</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★4.08 ／ 部屋 ★3.9 ／ 設備 ★3.83 ／ 風呂 ★3.77 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日予約でもフロントの対応が丁寧当日でも予約取れたし、フロントの対応も良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-09-23 23:51:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日予約でもフロントの対応が丁寧当日でも予約取れたし、フロントの対応も良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetYonagoStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　車70台（700円/1泊）、大型バス1台駐車可（詳細はホテルへお問い合わせください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.03 ／ 部屋 ★3.98 ／ 設備 ★3.9 ／ 風呂 ★3.89 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅からも近く、部屋も綺麗で快適でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/108324?reviewId=3…　2026-10-08 18:21:47投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=108324&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅からも近く、部屋も綺麗で快適でした。」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function AutumnBudgetYonagoStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３台（1000円/1泊）　先着順　※満車の場合は、お近くの駐車場をご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔でパンが絶品、駐車場は少し難あり部屋は清潔で真新しく設備も整っていたので快適に過ごせました。お風呂はビジネスホテルによくある大きさでしたが、米子や鳥取では当たり前なのか洗顔が置か…　2026-08-14 19:46:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔でパンが絶品、駐車場は少し難あり部屋は清潔で真新しく設備も整っていたので快適に過ごせました。お風呂はビジネスホテルによくある大きさでしたが、米子や鳥取では当たり前なのか洗顔が置か…」
                   </blockquote>
                 </div>
               </div>

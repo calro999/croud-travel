@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　６９台　料金無料　先着順。　２トン車以上の車、バス、２輪車、特殊車両は事前予約必要。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.15 ／ 部屋 ★4.05 ／ 設備 ★4.04 ／ 風呂 ★4.09 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても快適で過ごしやすかったたいへん過ごしやすかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/29897?…　2026-10-07 16:33:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても快適で過ごしやすかったたいへん過ごしやすかったです」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携の駐車場はございません。 ホテル近隣のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.94 ／ 部屋 ★3.96 ／ 設備 ★4.04 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ重視の旅に最適、大浴場とサウナが快適急遽思い立った旅行で利用しました。この系列はどこも壁が薄く、慣れない人には不満があるかもですが、知っていて泊まる分にはコスパ良く、利用しやすい宿だと思いま…　2026-09-30 10:12:01投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=193298&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ重視の旅に最適、大浴場とサウナが快適急遽思い立った旅行で利用しました。この系列はどこも壁が薄く、慣れない人には不満があるかもですが、知っていて泊まる分にはコスパ良く、利用しやすい宿だと思いま…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備　（大型トラック・工事車両・バス駐車可能）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.75 ／ 部屋 ★3.69 ／ 設備 ★3.62 ／ 風呂 ★3.54 ／ 食事 ★3.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの匂いが気になるがコーヒーは美味ユニットバスの酸っぱいような匂いが気になりました。ルームサービスのカップ用ドリップコーヒーはおいしかったです。クチコミの詳細はこちらから　h…　2026-10-01 02:54:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの匂いが気になるがコーヒーは美味ユニットバスの酸っぱいような匂いが気になりました。ルームサービスのカップ用ドリップコーヒーはおいしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　１泊330円（税込）　先着順となります</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★3.77 ／ 部屋 ★3.79 ／ 設備 ★3.69 ／ 風呂 ★3.67 ／ 食事 ★3.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「グラスの貸し出し対応が迅速で助かった部屋にグラスが常備されていればもっとよかった。缶ビールやお酒の氷割を飲むときに便利。しかしフロントに言ったら一つ用意してくれた。美味しく部屋で飲めました。ク…　2026-09-24 21:02:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「グラスの貸し出し対応が迅速で助かった部屋にグラスが常備されていればもっとよかった。缶ビールやお酒の氷割を飲むときに便利。しかしフロントに言ったら一つ用意してくれた。美味しく部屋で飲めました。ク…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り(先着順、出入れ不可）35台無料　満車時は八日町中央パーキングも無料（翌朝10時半迄）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.91 ／ 立地 ★3.82 ／ 部屋 ★3.72 ／ 設備 ★3.68 ／ 風呂 ★3.71 ／ 食事 ★3.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応が良く、ロケーションも最高フロント対応が良く、ロケーションも良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-10-08 04:14:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応が良く、ロケーションも最高フロント対応が良く、ロケーションも良い」
                   </blockquote>
                 </div>
               </div>

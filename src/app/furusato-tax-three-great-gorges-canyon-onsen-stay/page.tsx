@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切温泉、清津峡への好立地ご飯がとっても美味しかったです。貸切温泉も最高でした!お薬師さんの温泉もとても良かったです!清津峡入口まで徒歩2分ぐらいかな?クチコミの詳細はこ…　2026-08-20 16:02:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切温泉、清津峡への好立地ご飯がとっても美味しかったです。貸切温泉も最高でした!お薬師さんの温泉もとても良かったです!清津峡入口まで徒歩2分ぐらいかな?クチコミの詳細はこ…」
                   </blockquote>
                 </div>
               </div>
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.02 ／ 部屋 ★4.09 ／ 設備 ★3.94 ／ 風呂 ★4.21 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…　2026-10-10 22:25:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…」
                   </blockquote>
                 </div>
               </div>
@@ -819,7 +819,7 @@ export default function FurusatoFeaturePage() {
                   <p>【日本三大峡谷＆巨岩奇勝パノラマ露天風呂宿×ふるさと納】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広い和室と露天風呂、昭和の雰囲気に癒やされるいつも出張となれば狭い部屋で泊まるだけだったが、ここのホテルは最高でした。広い和室に熱めの風呂*。しかも露天風呂やサウナまであって良き。ホテルの雰囲気は…　2026-08-28 00:18:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広い和室と露天風呂、昭和の雰囲気に癒やされるいつも出張となれば狭い部屋で泊まるだけだったが、ここのホテルは最高でした。広い和室に熱めの風呂*。しかも露天風呂やサウナまであって良き。ホテルの雰囲気は…」
                   </blockquote>
                 </div>
               </div>
@@ -841,7 +841,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料 （トロッコ観光中もお預かりいたします）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。プラレールと鉄道模型の鉄道部屋が…　2026-08-09 22:06:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昭和の雰囲気と鉄道部屋に子供が大喜び設備は所々歴史が感じられましたが、とても雰囲気が良く、所々で古き良き昭和を感じました。お部屋からトロッコ電車も観られました。プラレールと鉄道模型の鉄道部屋が…」
                   </blockquote>
                 </div>
               </div>
@@ -863,7 +863,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り・4０台・無料・先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.67 ／ 部屋 ★4.49 ／ 設備 ★4.4 ／ 風呂 ★4.65 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境でゆっくり過ごせて満足少し、寒く、紅葉がもう少しだった、以外は、団体客や子供の騒々しさはなく、満足です。クチコミの詳細はこちらから　https://review.travel.rak…　2026-10-07 17:41:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境でゆっくり過ごせて満足少し、寒く、紅葉がもう少しだった、以外は、団体客や子供の騒々しさはなく、満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -885,7 +885,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>140台の無料駐車スペースがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバイキングを満喫、日本酒の演出も最高電車からホテルが見えましたおかげで迷わずホテルへ行けましたロビーからの景色も良くフリードリンクでゆっくり過ごせましたマッサージチェアもありました…　2026-09-11 09:24:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバイキングを満喫、日本酒の演出も最高電車からホテルが見えましたおかげで迷わずホテルへ行けましたロビーからの景色も良くフリードリンクでゆっくり過ごせましたマッサージチェアもありました…」
                   </blockquote>
                 </div>
               </div>

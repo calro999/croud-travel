@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p>【広島・尾道＆しまなみ海道向島：千光寺坂の街・猫の細道】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと料理が最高、清掃も完璧こちらの旅館が1番の楽しみで来ました。まず、クチコミ通りロケーションが素晴らしくお料理も大変美味しかったです。フロントさんの接客も丁寧でおはようございますや…　2026-08-19 12:52:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと料理が最高、清掃も完璧こちらの旅館が1番の楽しみで来ました。まず、クチコミ通りロケーションが素晴らしくお料理も大変美味しかったです。フロントさんの接客も丁寧でおはようございますや…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料。 敷地内にはございません。約400ｍ離れた場所にございます。スタッフでご移動かご誘導します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事がすごく美味しかったです。品のある味つけ、盛り付け。鯛づくしでなかでも鯛しゃぶと鯛茶漬けは最高に美味しかった。お部屋もステキで、お風呂もよかったです。他の画像やクチコミの詳細はこちら…　2026-08-16 09:44:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事がすごく美味しかったです。品のある味つけ、盛り付け。鯛づくしでなかでも鯛しゃぶと鯛茶漬けは最高に美味しかった。お部屋もステキで、お風呂もよかったです。他の画像やクチコミの詳細はこちら…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　３０台。　※トラックや大型バスなどは有料。（要事前相談）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり中心部へも徒歩圏内で大満足綺麗で中心部まで徒歩圏内とロケーションも適度で非常に満足でした。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-08-14 09:05:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり中心部へも徒歩圏内で大満足綺麗で中心部まで徒歩圏内とロケーションも適度で非常に満足でした。」
                   </blockquote>
                 </div>
               </div>

@@ -496,7 +496,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　隣接駐車場１７台(無料)　他、近隣に提携駐車場有(無料)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.44 ／ 部屋 ★4.65 ／ 設備 ★4.57 ／ 風呂 ★4.49 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アロマや温泉、ラウンジなどコスパ最高至れり尽くせりで 安眠のためのアロマオイルなどや、温泉や、ラウンジの無料サービスなどコスパ良く今後も、利用したいホテルでした。クチコミの詳細はこちらから…　2026-10-06 19:44:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アロマや温泉、ラウンジなどコスパ最高至れり尽くせりで 安眠のためのアロマオイルなどや、温泉や、ラウンジの無料サービスなどコスパ良く今後も、利用したいホテルでした。」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　390台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待外れな点もあったけど...もろもろ満足5階の部屋に3泊しました。高台にあるので眺めを期待していたのですが、木々とうっすら山が見える程度。少し残念でした。洗面台コーナーが狭いので仕方がないのです…　2026-09-05 15:11:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待外れな点もあったけど...もろもろ満足5階の部屋に3泊しました。高台にあるので眺めを期待していたのですが、木々とうっすら山が見える程度。少し残念でした。洗面台コーナーが狭いので仕方がないのです…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台 （ハイルーフ車もOK）　無料　予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.18 ／ 部屋 ★4.08 ／ 設備 ★4.07 ／ 風呂 ★3.99 ／ 食事 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富良野に行くならここ、次もまた利用します富良野に行くときは、必ずここです。清潔感もあり、コーヒーなども部屋に置かれていますので、ゆっくりくつろげます。また、次ももちろん、ここです!クチコミの詳…　2026-10-05 16:54:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富良野に行くならここ、次もまた利用します富良野に行くときは、必ずここです。清潔感もあり、コーヒーなども部屋に置かれていますので、ゆっくりくつろげます。また、次ももちろん、ここです!クチコミの詳…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                   <p>【富良野：秋の収穫祭・ふらのワイン＆丘陵紅葉】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足です。夜ご飯のお肉が美味しかったです。スタッフの方の対応も良く、笑顔で対応してくれました。ウェルカムドリンクや、ポップコーンなど置いてあり、嬉しかったです。お部屋のゴミ箱に袋が設置…　2026-08-26 17:43:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足です。夜ご飯のお肉が美味しかったです。スタッフの方の対応も良く、笑顔で対応してくれました。ウェルカムドリンクや、ポップコーンなど置いてあり、嬉しかったです。お部屋のゴミ箱に袋が設置…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function AutumnBudgetFuranoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（もちろんハイルーフ車もOK）　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子どもに優しい宿。大人だけでの宿泊は...?スキー場の目の前で駐車スペースも広々でした。激安宿ではないため、外国人観光客も少なかったように感じました。遊び場コーナー・手持ち花火や縁日のサー…　2026-08-18 22:28:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子どもに優しい宿。大人だけでの宿泊は...?スキー場の目の前で駐車スペースも広々でした。激安宿ではないため、外国人観光客も少なかったように感じました。遊び場コーナー・手持ち花火や縁日のサー…」
                   </blockquote>
                 </div>
               </div>

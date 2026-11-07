@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【海と空に溶け込むインフィニティプール＆展望温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は綺麗で楽しめたが、食事と対応に不満グランピングの食事の写真がよく撮られすぎていて、実物を見てガッカリでした。味もイマイチでした。また、事前にカード決済済だったのに、追いかけられて支払…　2026-09-19 19:31:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は綺麗で楽しめたが、食事と対応に不満グランピングの食事の写真がよく撮られすぎていて、実物を見てガッカリでした。味もイマイチでした。また、事前にカード決済済だったのに、追いかけられて支払…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>北谷アメリカンビレッジ近くのホテルに隣接の自走式立体駐車場無料　250台収容可能！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は綺麗で満足、お風呂の混雑状況が知りたいスタッフさんも優しく、施設も綺麗でした!ただ、お風呂に関して、プールの利用客でシャワーが埋まっていたり、脱衣場のロッカーが下の方しか空いていなか…　2026-08-21 08:21:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は綺麗で満足、お風呂の混雑状況が知りたいスタッフさんも優しく、施設も綺麗でした!ただ、お風呂に関して、プールの利用客でシャワーが埋まっていたり、脱衣場のロッカーが下の方しか空いていなか…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【海と空に溶け込むインフィニティプール＆展望温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…　2026-09-14 14:58:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　24台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手間のかかった料理とスタッフの気遣いに感動手間のかかった料理 堪能させて頂きましたスタッフの方々の気遣いも素晴らしかったですクチコミの詳細はこちらから　https://review.tra…　2026-08-09 12:27:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手間のかかった料理とスタッフの気遣いに感動手間のかかった料理 堪能させて頂きましたスタッフの方々の気遣いも素晴らしかったです」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【海と空に溶け込むインフィニティプール＆展望温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は最高だが朝食の海鮮には期待外れホスピタリティはさすが!という感じだった。ただ、朝ごはんが少し期待外れだった。温泉宿に来たなら旨い海鮮を朝から食べたいと思ってしまいました。クチコミの詳…　2026-09-16 20:07:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は最高だが朝食の海鮮には期待外れホスピタリティはさすが!という感じだった。ただ、朝ごはんが少し期待外れだった。温泉宿に来たなら旨い海鮮を朝から食べたいと思ってしまいました。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>

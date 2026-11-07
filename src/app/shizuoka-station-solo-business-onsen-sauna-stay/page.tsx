@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料・先着順（予約不可）・満車の際は近隣の有料駐車場をご利用いただきます。（料金お客様負担）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.46 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.56 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全体的な設備や接客は静岡市内のビジネスホテルでは群を抜いています。気になったのは食事面です。朝食のクオリティが以前と比較すると落ちたと感じます。品数は相変わらず豊富ですが、一品あたりの食材のグレー…　2026-10-10 21:59:19投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=179192&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全体的な設備や接客は静岡市内のビジネスホテルでは群を抜いています。気になったのは食事面です。朝食のクオリティが以前と比較すると落ちたと感じます。品数は相変わらず豊富ですが、一品あたりの食材のグレー…」
                   </blockquote>
                 </div>
               </div>
@@ -577,7 +577,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台有。1,430円（税込／泊）・先着順（予約不可）※満車の場合は、周辺パーキングご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静岡駅近で温泉も魅力、また利用したい静岡駅からすぐの好ロケーションで、温泉大浴場もあるということで今回利用させて頂きました。温泉はとても良かったのですが、やっぱりちょっと狭く、洗い場が5つくら…　2026-08-17 12:32:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静岡駅近で温泉も魅力、また利用したい静岡駅からすぐの好ロケーションで、温泉大浴場もあるということで今回利用させて頂きました。温泉はとても良かったのですが、やっぱりちょっと狭く、洗い場が5つくら…」
                   </blockquote>
                 </div>
               </div>
@@ -599,7 +599,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.56 ／ 立地 ★3.33 ／ 部屋 ★3.42 ／ 設備 ★3.34 ／ 風呂 ★3.52 ／ 食事 ★3.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。駅から遠いのとコンビニや飲…　2026-09-23 03:28:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。駅から遠いのとコンビニや飲…」
                   </blockquote>
                 </div>
               </div>
@@ -621,7 +621,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>70台、無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.1 ／ 設備 ★3.92 ／ 風呂 ★4.19 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量も調整しやすく、お風呂も快適食事もテーブルにセットされてるもの+バイキングなので自分で食べる量を調節できるのが良いです。露天風呂は熱めと温めに分かれてるので熱いの苦手な私には嬉しかった…　2026-10-10 08:45:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量も調整しやすく、お風呂も快適食事もテーブルにセットされてるもの+バイキングなので自分で食べる量を調節できるのが良いです。露天風呂は熱めと温めに分かれてるので熱いの苦手な私には嬉しかった…」
                   </blockquote>
                 </div>
               </div>
@@ -643,7 +643,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-25 17:00:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でした」
                   </blockquote>
                 </div>
               </div>

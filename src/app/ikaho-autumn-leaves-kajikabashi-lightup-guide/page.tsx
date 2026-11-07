@@ -634,7 +634,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.79 ／ 立地 ★3.7 ／ 部屋 ★3.64 ／ 設備 ★3.49 ／ 風呂 ★3.71 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。そして、なんと言っても、部屋にある露天風呂…　2026-10-10 20:57:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。そして、なんと言っても、部屋にある露天風呂…」
                   </blockquote>
                 </div>
               </div>
@@ -656,7 +656,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台（無料） ※迷われる方が多いので事前に当館HP「交通アクセス」をご覧くださいませ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂の景色と脱衣所の構造が残念南館【ビューバス(温泉)付和洋室】(和室+ツイン)301お部屋自体は清潔感あってよかったのですが、部屋風呂が少しがっかりでした。部屋風呂からの景色…　2026-08-28 11:53:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂の景色と脱衣所の構造が残念南館【ビューバス(温泉)付和洋室】(和室+ツイン)301お部屋自体は清潔感あってよかったのですが、部屋風呂が少しがっかりでした。部屋風呂からの景色…」
                   </blockquote>
                 </div>
               </div>
@@ -678,7 +678,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　250台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くて温泉も良いが清掃と備品に難あり部屋は広くてよかったが枕カバーが臭かったー温泉もよかったが髪の毛がたくさん落ちていたーメイク落としがなかった。クチコミの詳細はこちらから　http…　2026-08-29 06:47:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くて温泉も良いが清掃と備品に難あり部屋は広くてよかったが枕カバーが臭かったー温泉もよかったが髪の毛がたくさん落ちていたーメイク落としがなかった。」
                   </blockquote>
                 </div>
               </div>
@@ -700,7 +700,7 @@ export default function IkahoAutumnLeavesGuidePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館より離れた場所にございます。午後1時より案内開始となります。一度玄関前にお越しください。（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.89 ／ 立地 ★3.99 ／ 部屋 ★3.87 ／ 設備 ★3.74 ／ 風呂 ★3.99 ／ 食事 ★3.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋はとても広く清潔感がありました。夕食は食べ放題でアルコールも飲めてとても良かったです。露天風呂は少し湯がぬるめでしたが、とても綺麗でした。伊香保の観光名所もすぐ近くで立地もとてもいいと…　2026-10-10 19:49:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋はとても広く清潔感がありました。夕食は食べ放題でアルコールも飲めてとても良かったです。露天風呂は少し湯がぬるめでしたが、とても綺麗でした。伊香保の観光名所もすぐ近くで立地もとてもいいと…」
                   </blockquote>
                 </div>
               </div>

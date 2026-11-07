@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　屋内60台　お車、バイクのお客様は旅館の正面までお越し下さい。係がご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と美味しい食事に大満足の旅前日に特別警報が出ていたので行くかギリギリまで悩み、被害状況など宿に確認し、当日伺いましたが行って大正解の宿でした!(お電話で状況を確認した時もとても丁寧に教…　2026-08-29 22:33:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と美味しい食事に大満足の旅前日に特別警報が出ていたので行くかギリギリまで悩み、被害状況など宿に確認し、当日伺いましたが行って大正解の宿でした!(お電話で状況を確認した時もとても丁寧に教…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.47 ／ 部屋 ★4.37 ／ 設備 ★4.16 ／ 風呂 ★4.38 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「氷見駅までバスで送迎していただきホテルに行きました。チェックイン時間になっていませんでしたが、チェックインしていただきお部屋にも入らせてもらいました。ホテルのフロントの方の説明が丁寧でわかりや…　2026-10-10 09:49:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「氷見駅までバスで送迎していただきホテルに行きました。チェックイン時間になっていませんでしたが、チェックインしていただきお部屋にも入らせてもらいました。ホテルのフロントの方の説明が丁寧でわかりや…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　300台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と静かな環境で心から落ち着けた露天風呂付きの温泉に入れ、客室や通路も静かで落ち着けました。また利用したいホテルです。クチコミの詳細はこちらから　https://review.tra…　2026-08-13 10:53:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と静かな環境で心から落ち着けた露天風呂付きの温泉に入れ、客室や通路も静かで落ち着けました。また利用したいホテルです。」
                   </blockquote>
                 </div>
               </div>

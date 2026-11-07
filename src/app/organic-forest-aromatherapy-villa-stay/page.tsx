@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p>【天然精油の香りで深呼吸。ヒノキ・スギ精油アロマスパス】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.41 ／ 部屋 ★4.39 ／ 設備 ★4.23 ／ 風呂 ★4.14 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜景と広々とした部屋、朝食に満足お部屋の大きな窓から夜景がとっても綺麗見えました。直前で予約したので部屋の広さは期待していなかったのですが、天井が高く広々していて予想以上に良かったです。た…　2026-10-04 20:48:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜景と広々とした部屋、朝食に満足お部屋の大きな窓から夜景がとっても綺麗見えました。直前で予約したので部屋の広さは期待していなかったのですが、天井が高く広々していて予想以上に良かったです。た…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場10台有（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.47 ／ 部屋 ★4.24 ／ 設備 ★4.35 ／ 風呂 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事が最高、鮎の美味しさに感動!大変お世話になりました。温泉は無色透明なんだけど、入るとツルツルして気持ちよかったです。食事と地酒美味しかったです。今まで鮎は苦手で食べることができませんでし…　2026-08-12 11:19:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事が最高、鮎の美味しさに感動!大変お世話になりました。温泉は無色透明なんだけど、入るとツルツルして気持ちよかったです。食事と地酒美味しかったです。今まで鮎は苦手で食べることができませんでし…」
                   </blockquote>
                 </div>
               </div>

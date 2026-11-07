@@ -251,7 +251,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「こだわり抜かれた空間と細やかなサービスに感動お部屋のつくりや建物もセンスがあり、とてもオシャレで快適で高級感がありました。スタッフの方たちのサービスもきめ細かく、気持ちよく過ごせました。すべてにお…　2026-09-19 10:06:31投稿 つづきはこちら」
+                「こだわり抜かれた空間と細やかなサービスに感動お部屋のつくりや建物もセンスがあり、とてもオシャレで快適で高級感がありました。スタッフの方たちのサービスもきめ細かく、気持ちよく過ごせました。すべてにお… つづきはこちら」
               </div>
 
               <div className="pt-2">
@@ -320,7 +320,7 @@ export default function LuxuryStayPage() {
 
               <div className="bg-slate-50 p-4 rounded-xl border-l-4 border-amber-500 text-xs md:text-sm text-slate-600 italic mb-6">
                 <span className="font-bold text-slate-700 not-italic block mb-1">宿泊者のクチコミ体験談</span>
-                「お部屋のお風呂と美しい食事に大満足とてもステキな贅沢お宿でした。お部屋のお風呂は何度も入り満喫しました食事もどれも美しい盛り付けだけでなく、お味も美味でした。満喫・満腹・大満足でした。…　2026-09-09 14:38:59投稿 つづきはこちら」
+                「お部屋のお風呂と美しい食事に大満足とてもステキな贅沢お宿でした。お部屋のお風呂は何度も入り満喫しました食事もどれも美しい盛り付けだけでなく、お味も美味でした。満喫・満腹・大満足でした。… つづきはこちら」
               </div>
 
               <div className="pt-2">

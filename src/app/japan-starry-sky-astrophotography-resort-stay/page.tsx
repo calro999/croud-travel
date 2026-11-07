@@ -333,7 +333,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の育成が行き届いており、また来たい昨年に続いて2度目の宿泊。サービスも決して過剰でなく、平日の宿泊であったためかゆったりと時間を過ごすことができた。昨年は、外国人の従業員とのコミュニケーショ…　2026-08-14 14:14:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の育成が行き届いており、また来たい昨年に続いて2度目の宿泊。サービスも決して過剰でなく、平日の宿泊であったためかゆったりと時間を過ごすことができた。昨年は、外国人の従業員とのコミュニケーショ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…　2026-08-31 17:21:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮な地元野菜とラウンジでの寛ぎに大満足バイキングのサラダが地元のお野菜をふんだんに使っていて、新鮮で美味しかったです。他の肉や魚のお料理も美味しかったです。館内のコーヒー、紅茶の飲み物は…　2026-08-28 16:43:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新鮮な地元野菜とラウンジでの寛ぎに大満足バイキングのサラダが地元のお野菜をふんだんに使っていて、新鮮で美味しかったです。他の肉や魚のお料理も美味しかったです。館内のコーヒー、紅茶の飲み物は…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が気持ち良い旧棟のほうで利用しました。難点を先に述べれば、二階建てなのでなんとかなりましたが、エレベーターがないので手持ちで荷物を上げなければなりません。また、部屋の壁が結構薄く、お隣がに…　2026-08-21 13:55:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が気持ち良い旧棟のほうで利用しました。難点を先に述べれば、二階建てなのでなんとかなりましたが、エレベーターがないので手持ちで荷物を上げなければなりません。また、部屋の壁が結構薄く、お隣がに…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function ScenicViewHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　先着順（4台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクティビティ拠点に最適、寝るだけなら十分上原港から5分、アクティビティの拠点にぴったりです。ただし、お部屋は清潔ですが眺望もなくベッド以外の寛いだり食事をとるスペースも無いので、寝に帰るだけです…　2026-08-22 06:07:05投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=183909&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクティビティ拠点に最適、寝るだけなら十分上原港から5分、アクティビティの拠点にぴったりです。ただし、お部屋は清潔ですが眺望もなくベッド以外の寛いだり食事をとるスペースも無いので、寝に帰るだけです…」
                   </blockquote>
                 </div>
               </div>

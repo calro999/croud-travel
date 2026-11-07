@@ -400,31 +400,31 @@ export default function FurusatoUpgradedPage() {
               <h4 className="text-sm font-bold text-stone-900">1. ホテル日航大阪（大阪府・★4.51）</h4>
               <p><strong>【特徴】</strong>大阪メトロ「心斎橋駅」直結！道頓堀まで徒歩約9分！観光・ビジネスに大変便利な立地です。</p>
               <p><strong>【交通・駐車場】</strong>大阪メトロ御堂筋線、長堀鶴見緑地線「心斎橋駅」8番出口直結、梅田、難波、京セラドームなど主要エリアへ抜群のアクセスです。 ／ 駐車場：有り　 ご宿泊のお客様は１泊 3000円（12：00～翌12：00まで）にて利用可能！　１６０台</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「お部屋のグレードアップに感激!とても良いお部屋にグレードアップして下さって夢のようでしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-08-21 22:10:54投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=167&quot; c」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「お部屋のグレードアップに感激!とても良いお部屋にグレードアップして下さって夢のようでした」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">2. 湯元「花乃井」スーパーホテル大阪天然温泉（大阪府・★4.4）</h4>
               <p><strong>【特徴】</strong>【2024年2月14日】リニューアルオープン！本物の天然温泉とオートロウリュ付きサウナをご体感下さい</p>
               <p><strong>【交通・駐車場】</strong>地下鉄中央線・千日前線【阿波座駅】出口⑨右へ徒歩約5分/JR【大阪駅】大阪市営バス88系天保山行「土佐堀三丁目」下車 ／ 駐車場：近隣の一般コインパーキングのご案内となります。</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「清潔な部屋と温泉、大阪観光の常宿に決定部屋綺麗。温泉、サウナもあって、価格も良心的。去年の万博に続き利用しました。大阪観光の時は常宿認定してます。クチコミの詳細はこちらから　htt…　2026-10-11 00:21:07投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=217&quot; class」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「清潔な部屋と温泉、大阪観光の常宿に決定部屋綺麗。温泉、サウナもあって、価格も良心的。去年の万博に続き利用しました。大阪観光の時は常宿認定してます。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. 関空温泉ホテルガーデンパレス（大阪府・★4.46）</h4>
               <p><strong>【特徴】</strong>天然温泉大浴場と旬の食材で季節を彩る食事～あなたの思い出、大切な人、記憶に心の軌跡に</p>
               <p><strong>【交通・駐車場】</strong>関西空港からホテル（運休中）　ホテルから関西空港（無料バスあり）　最寄り駅からホテル間（無料送迎バスあり：～２０時まで） ／ 駐車場：普通車550円／トラック7mまで1100円／中型バス8mまで2200円／中・大型バス9m～3300円</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「ホテルの接客が最高です。早い時間に関西空港まで行かなければならなく、1人でもあたたかいご対応で、関西空港まで送迎していただきました。感謝です。温泉も広く旅の疲れがとれる最高の温泉でした。枕元にコンセン…　2026-08-16 20:49:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「ホテルの接客が最高です。早い時間に関西空港まで行かなければならなく、1人でもあたたかいご対応で、関西空港まで送迎していただきました。感謝です。温泉も広く旅の疲れがとれる最高の温泉でした。枕元にコンセン…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">4. 道後温泉　ホテルパティオ・ドウゴ（愛媛県・★4.4）</h4>
               <p><strong>【特徴】</strong>道後温泉本館に一番近いヨーロピアンホテル　”HOTEL PATIO DOGO”</p>
               <p><strong>【交通・駐車場】</strong>先ずは道後温泉本館を目指して下さい。ホテルは道後温泉本館の北側真向かい。温泉とホテルの間にある石畳の道へお入り下さい。 ／ 駐車場：■先着順（予約不可）隣接の立体と屋外平面（かなり急な坂の上）約50台。1泊1台に付き800円。</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「建物は古いが掃除が行き届きリラックスできたホテルは古いが、掃除が行き届いていて良かったリラックス出来たクチコミの詳細はこちらから　https://review.travel.rakuten…　2026-10-09 09:38:16投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=226&quot; c」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「建物は古いが掃除が行き届きリラックスできたホテルは古いが、掃除が行き届いていて良かったリラックス出来た」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">5. ホテルメトロポリタン（東京都・★4.4）</h4>
               <p><strong>【特徴】</strong>～やすらぎと華やぎが出会う場所～JR東日本グループのホテルとして、皆さまお越しをお待ちしております。</p>
               <p><strong>【交通・駐車場】</strong>池袋駅西口より徒歩３分、東京駅より地下鉄で17分、羽田空港へのリムジンバス（有料）がホテル正面玄関にて発着します。 ／ 駐車場：有　1泊につき1台  3,000円</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「マットレスが快適すぎて早々に寝落ち女子会で利用しました。ホテルのお部屋もベッドも寝心地よく最高でした。そして遅くまでゆっくり話そうと約束していた私なのに...。21時半にマットレスの気…　2026-08-28 18:10:34投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=388&quot; cla」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「マットレスが快適すぎて早々に寝落ち女子会で利用しました。ホテルのお部屋もベッドも寝心地よく最高でした。そして遅くまでゆっくり話そうと約束していた私なのに...。21時半にマットレスの気…」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

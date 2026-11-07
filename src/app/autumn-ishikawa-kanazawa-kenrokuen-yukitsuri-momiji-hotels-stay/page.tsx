@@ -454,7 +454,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場50台／料金1泊1台1,000円／24時間入出庫可／高さ制限2.1ｍ未満</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…　2026-09-04 17:39:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光に最適な立地と郷土料理に大満足とにかくロケーションが観光に最適、施設は便利であって欲しいところはすべて新しく(ランドリーの洗濯機は洗剤自動投入など)、とても清潔で、一方で調度品や装飾などは古き…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function KanazawaKenrokuenAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順(76台)　1泊1,500円　長さ:5300㎜　全幅:1940㎜　高さ:2000㎜</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂とサウナは最高、部屋の湿気が残念お風呂、サウナとっても良かったです!ただ、安いプランだったからかも知れませんが、部屋の湿気がすごくてベタついた感じがあり少しカビ臭く感じてしまいました。立地や…　2026-08-28 09:45:54投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182423&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂とサウナは最高、部屋の湿気が残念お風呂、サウナとっても良かったです!ただ、安いプランだったからかも知れませんが、部屋の湿気がすごくてベタついた感じがあり少しカビ臭く感じてしまいました。立地や…」
                   </blockquote>
                 </div>
               </div>

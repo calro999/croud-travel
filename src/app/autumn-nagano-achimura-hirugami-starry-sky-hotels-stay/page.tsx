@@ -445,7 +445,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p>【秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.47 ／ 風呂 ★4.64 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事、温泉に大満足!特に良かった所は・スタッフの対応が、感じが良くて、分かり易く説明でした・夕食が現地素材で、味付けが私にピッタリ合い美味しい・温泉が家族風呂でアルカリ…　2026-10-10 21:22:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事、温泉に大満足!特に良かった所は・スタッフの対応が、感じが良くて、分かり易く説明でした・夕食が現地素材で、味付けが私にピッタリ合い美味しい・温泉が家族風呂でアルカリ…」
                   </blockquote>
                 </div>
               </div>
@@ -467,7 +467,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.18 ／ 部屋 ★4.22 ／ 設備 ★4.22 ／ 風呂 ★4.42 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広いお風呂と豊富な朝食、朝市も満喫お風呂が広くてのびのび入れました。朝食バイキングのメニューが豊富で良かったです。昼神朝市にも行けて良かったです。クチコミの詳細はこちらから　https…　2026-10-10 16:42:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広いお風呂と豊富な朝食、朝市も満喫お風呂が広くてのびのび入れました。朝食バイキングのメニューが豊富で良かったです。昼神朝市にも行けて良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -489,7 +489,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：４０台（無料）ホテルの前と後にご用意がございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。スタッフさんはみなさんとても温かく、すれ違う方みなさん笑顔で挨拶をして…　2026-09-10 15:22:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かいおもてなしと美味しい料理に大満足主人のお誕生日でお世話になりました。とても素敵なおもてなしをありがとうございました。スタッフさんはみなさんとても温かく、すれ違う方みなさん笑顔で挨拶をして…」
                   </blockquote>
                 </div>
               </div>
@@ -511,7 +511,7 @@ export default function AchimuraHirugamiAutumnPage() {
                   <p>【秋の阿智村・昼神温泉：日本一の星空ナイトツアーと美肌】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また行きたくなるお宿です。すごく接客態度が良く、ホスピタリティの高いお宿です。「夜の星空観測」は是非とも行くべき。いい企画だと思いました。クチコミの詳細はこちらから　https://rev…　2026-08-28 19:32:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また行きたくなるお宿です。すごく接客態度が良く、ホスピタリティの高いお宿です。「夜の星空観測」は是非とも行くべき。いい企画だと思いました。」
                   </blockquote>
                 </div>
               </div>

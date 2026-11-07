@@ -333,7 +333,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場１泊2,000円(15台分)高さ２．３ｍ以下まで（要電話予約）満車時は近隣駐車場案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「希望通りの部屋変更と快適なマットレス久しぶりの宿泊でしたが、希望通り部屋を変更していただけていました。マットレスも良かったです。クチコミの詳細はこちらから　https://review.tra…　2026-08-14 08:08:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「希望通りの部屋変更と快適なマットレス久しぶりの宿泊でしたが、希望通り部屋を変更していただけていました。マットレスも良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宿泊税が明細にしっかり記載されていた今回は宿泊税を明細にしっかり入れた領収書をもらえました。ご対応をありがとうございます。クチコミの詳細はこちらから　https://review.travel…　2026-08-29 07:47:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宿泊税が明細にしっかり記載されていた今回は宿泊税を明細にしっかり入れた領収書をもらえました。ご対応をありがとうございます。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>要電話予約　契約駐車場15台2000円。満車時は近隣駐車場案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「街の中心部に位置し、仙台駅まで徒歩数分でした。立地は大変満足でした。しかしながら、立体駐車場が隣にありますが、少しでも大きな車だと入れず、付近のコインパーキングに止める羽目になります。実際、車幅190…　2026-08-29 17:06:46投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=50926&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「街の中心部に位置し、仙台駅まで徒歩数分でした。立地は大変満足でした。しかしながら、立体駐車場が隣にありますが、少しでも大きな車だと入れず、付近のコインパーキングに止める羽目になります。実際、車幅190…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台（青空駐車）　無料　大型バス・トラックなど歓迎（建物向かって右側スペース）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応は良いが運営面に不安ありフロントの方の穏やかな対応に癒されました。一方で、領収書の宛名が違っていたり、飲んでいないドリンクの料金を求められそうになったり、運営大丈夫かと感じる瞬間もあ…　2026-08-23 16:48:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応は良いが運営面に不安ありフロントの方の穏やかな対応に癒されました。一方で、領収書の宛名が違っていたり、飲んでいないドリンクの料金を求められそうになったり、運営大丈夫かと感じる瞬間もあ…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。スタッフの方の対応も素…　2026-08-20 21:54:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。スタッフの方の対応も素…」
                   </blockquote>
                 </div>
               </div>

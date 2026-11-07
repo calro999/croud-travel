@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【悠久の歴史と祈りの道を歩く】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「縁側で癒やされたが、離れの部屋はジメジメ秋雨前線の影響で雨続きでしたが、幸い宿泊中は、天気に恵まれどろ川温泉を楽しむことが出来ました。お宿の方はとても良い方達ばかりで、ゆっくり滞在出来まし…　2026-09-15 13:05:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「縁側で癒やされたが、離れの部屋はジメジメ秋雨前線の影響で雨続きでしたが、幸い宿泊中は、天気に恵まれどろ川温泉を楽しむことが出来ました。お宿の方はとても良い方達ばかりで、ゆっくり滞在出来まし…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【悠久の歴史と祈りの道を歩く】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.55 ／ 部屋 ★4.4 ／ 設備 ★3.94 ／ 風呂 ★4.59 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と温泉、丁寧な接客に大満足趣があり、立地も最高、お風呂も本当によかったです。仲居さんたちもフランクでありながらも丁寧でした。また伺いたいと思います。クチコミの詳細はこちらか…　2026-09-15 17:48:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と温泉、丁寧な接客に大満足趣があり、立地も最高、お風呂も本当によかったです。仲居さんたちもフランクでありながらも丁寧でした。また伺いたいと思います。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【悠久の歴史と祈りの道を歩く】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「白良浜に近く朝食も最高、来年もまた行きたいここ数年、夏に利用させて頂いてます。白良浜からも近く海から出ても直ぐですし、ハマギンザへも歩いて直ぐ。部屋も広くてキレイ。スタッフの方々の接客も気持ちが良…　2026-09-19 22:52:00投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=144560&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「白良浜に近く朝食も最高、来年もまた行きたいここ数年、夏に利用させて頂いてます。白良浜からも近く海から出ても直ぐですし、ハマギンザへも歩いて直ぐ。部屋も広くてキレイ。スタッフの方々の接客も気持ちが良…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。お部屋食だったため、周りを気にせず家族でゆっくり味わうことがで…　2026-08-21 21:22:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。お部屋食だったため、周りを気にせず家族でゆっくり味わうことがで…」
                   </blockquote>
                 </div>
               </div>

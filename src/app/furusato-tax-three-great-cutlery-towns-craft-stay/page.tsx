@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　165台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の利用も大満足、朝食も美味しく快適2回目の利用です。変わらず安心して宿泊出来ました。朝食のバイキングも満足出来る内容とクオリティでした。施設、客室も綺麗で宿泊価格に対して満足感は充分…　2026-08-29 16:50:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の利用も大満足、朝食も美味しく快適2回目の利用です。変わらず安心して宿泊出来ました。朝食のバイキングも満足出来る内容とクオリティでした。施設、客室も綺麗で宿泊価格に対して満足感は充分…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　840円／泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。部屋などはよくあるビジネスホテルといった感じで良くも悪くもなく…　2026-08-16 23:55:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。部屋などはよくあるビジネスホテルといった感じで良くも悪くもなく…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊１台につき￥1500（予約不可）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.44 ／ 部屋 ★4.35 ／ 設備 ★4.21 ／ 風呂 ★4.15 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近くで便利、コストパフォーマンスの良いホテル26階のツインの部屋を用意して頂きました。部屋は非常に広くゆったりして、くつろげました。風呂はジェットバス付でしたが、故障しており使用不可でした。建物…　2026-10-04 14:18:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近くで便利、コストパフォーマンスの良いホテル26階のツインの部屋を用意して頂きました。部屋は非常に広くゆったりして、くつろげました。風呂はジェットバス付でしたが、故障しており使用不可でした。建物…」
                   </blockquote>
                 </div>
               </div>

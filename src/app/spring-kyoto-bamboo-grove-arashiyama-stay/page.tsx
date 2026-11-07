@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　要予約。最寄りICは大原野IC(花筏まで１５分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.48 ／ 部屋 ★4.2 ／ 設備 ★3.98 ／ 風呂 ★4.14 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂と食事に大満足、最高の思い出に9月11日に5名で宿泊させて頂きました。部屋も綺麗で女性陣の部屋には風呂付きで予約したのですが話を聞くとかなり良い部屋風呂だったみたく大浴場には一度も行かず部…　2026-09-28 20:04:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋風呂と食事に大満足、最高の思い出に9月11日に5名で宿泊させて頂きました。部屋も綺麗で女性陣の部屋には風呂付きで予約したのですが話を聞くとかなり良い部屋風呂だったみたく大浴場には一度も行かず部…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【竹林の小径と渡月橋の風情。嵐山温泉＆極上京懐石を味わ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.26 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.35 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て…　2026-09-17 02:13:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工夫された食事と露天風呂付きの広い部屋お食事内容が大変工夫されていました。お味も見た目の美しさも量も種類も満足にいただきました。露天風呂付きお部屋でしたが、広く落ち着いた雰囲気で湯量もたっぷり出て…」
                   </blockquote>
                 </div>
               </div>

@@ -614,7 +614,7 @@ export default function Page() {
                   <p>【日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大…　2026-09-05 19:42:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大…」
                   </blockquote>
                 </div>
               </div>
@@ -636,7 +636,7 @@ export default function Page() {
                   <p>【日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂とトイレ別は良いが清掃と接客に難ありお風呂とトイレ別が嬉しかったけど、水周りの清掃が今ひとつ朝ご飯まだ残ってるのに下げられそうになったクチコミの詳細はこちらから　https://re…　2026-08-21 18:55:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂とトイレ別は良いが清掃と接客に難ありお風呂とトイレ別が嬉しかったけど、水周りの清掃が今ひとつ朝ご飯まだ残ってるのに下げられそうになった」
                   </blockquote>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function Page() {
                   <p>【日本三大ガラス工芸の町＆光の芸術・切子の輝きと風雅名】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大きな窓からの景色と美味しい朝食に大満足部屋の窓が大きく、景色も素晴らしい、朝食ビュッフェもとても美味しかったですスタッフのホスピタリティも最高ですこちらのホテルを選んで本当に良か… 2026-09-05 22:24:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大きな窓からの景色と美味しい朝食に大満足部屋の窓が大きく、景色も素晴らしい、朝食ビュッフェもとても美味しかったですスタッフのホスピタリティも最高ですこちらのホテルを選んで本当に良か…」
                   </blockquote>
                 </div>
               </div>

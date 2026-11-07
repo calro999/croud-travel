@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣コインパーキングをご利用ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.44 ／ 部屋 ★4.47 ／ 設備 ★4.44 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。朝食は無料で付いていたので、あまり期待はしていなかったんですが、焼きたてのパンやおかずも思ってた…　2026-10-10 22:46:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。朝食は無料で付いていたので、あまり期待はしていなかったんですが、焼きたてのパンやおかずも思ってた…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順800円~1,100円車種により異なります。満車時とワゴン、バイクは徒歩圏内の提携先へご案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.22 ／ 部屋 ★4.11 ／ 設備 ★4.13 ／ 風呂 ★4.26 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは品数豊富、お風呂も満足クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/50750?reviewId=3312…　2026-10-10 18:52:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは品数豊富、お風呂も満足」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣のコインパーキングをご利用下さいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★3.9 ／ 部屋 ★4.06 ／ 設備 ★4.06 ／ 風呂 ★4.14 ／ 食事 ★3.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水回りが清潔でコンセントも近く便利トイレとお風呂が別れてて清潔感良かったです!!!ベッドの近くにもコンセントがあったので見ながら充電できます!クチコミの詳細はこちらから　https://rev…　2026-10-02 11:22:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水回りが清潔でコンセントも近く便利トイレとお風呂が別れてて清潔感良かったです!!!ベッドの近くにもコンセントがあったので見ながら充電できます!」
                   </blockquote>
                 </div>
               </div>

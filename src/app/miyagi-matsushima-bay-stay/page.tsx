@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火の配慮が嬉しく素敵な夜を過ごせた家族旅行で利用しました。子どもに花火をいただきましたが、夕飯との兼ね合いでできそうにないねと子どもと話しといたところ、花火の時間を延長しますと言っていただけ…　2026-08-22 22:23:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火の配慮が嬉しく素敵な夜を過ごせた家族旅行で利用しました。子どもに花火をいただきましたが、夕飯との兼ね合いでできそうにないねと子どもと話しといたところ、花火の時間を延長しますと言っていただけ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…　2026-08-24 12:26:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　４０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事が最高、脱衣所の清掃に改善希望部屋からの景色がとても綺麗でした。部屋とバス・トイレも清潔でした。夕飯はお刺身が美味しかったです。 脱衣所は狭く、混んでるときは大変だなとおもいました。ドラ…　2026-08-21 10:36:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事が最高、脱衣所の清掃に改善希望部屋からの景色がとても綺麗でした。部屋とバス・トイレも清潔でした。夕飯はお刺身が美味しかったです。 脱衣所は狭く、混んでるときは大変だなとおもいました。ドラ…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５０台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が美味しく、また利用したいと思える宿食事が美味しく全体的に素晴らしいホテルでした。毎年宮城に行くのでまた利用したいと思います。クチコミの詳細はこちらから　https://review.tr…　2026-08-13 10:09:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が美味しく、また利用したいと思える宿食事が美味しく全体的に素晴らしいホテルでした。毎年宮城に行くのでまた利用したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１0台　5分程のところに桜荘臨時駐車場も有りマイクロバス等もとめられます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい料理と海辺の散歩で心身ともに癒やされたお料理もとても美味しく、宿の方も良い方で素晴らしい旅になりました。夕方に海辺を散歩しましたが、とても美しく心も体も癒されました。クチコミの詳細はこ…　2026-08-12 16:37:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい料理と海辺の散歩で心身ともに癒やされたお料理もとても美味しく、宿の方も良い方で素晴らしい旅になりました。夕方に海辺を散歩しましたが、とても美しく心も体も癒されました。クチコミの詳細はこ…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・日本三景松島：松島湾260島パノラマ・瑞巌寺＆】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宝石ご飯が絶品、松島湾を望む足湯も最高夕飯のコース料理で「宝石ご飯」がとても美味しかったです。足湯をしながら松島湾を眺められるところも良かったです。温泉の温度も熱すぎず、露天風呂も気持ちよく入れま…　2026-08-20 21:39:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「宝石ご飯が絶品、松島湾を望む足湯も最高夕飯のコース料理で「宝石ご飯」がとても美味しかったです。足湯をしながら松島湾を眺められるところも良かったです。温泉の温度も熱すぎず、露天風呂も気持ちよく入れま…」
                   </blockquote>
                 </div>
               </div>

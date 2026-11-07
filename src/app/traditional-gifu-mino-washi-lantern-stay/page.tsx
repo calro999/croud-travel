@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p>【美濃和紙あかりの町並みと清流鵜飼い。長良川温泉＆飛騨】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と景色に癒され、丁寧な接客に感動!お食事が、夕食も朝食も、見た目もキレイでとても美味しかったです。お部屋も綺麗で、見える景色も、雄大な山と川が見えて、とても癒されました。鵜飼の景色は、篝火や屋…　2026-08-26 15:38:07投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=144969&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と景色に癒され、丁寧な接客に感動!お食事が、夕食も朝食も、見た目もキレイでとても美味しかったです。お部屋も綺麗で、見える景色も、雄大な山と川が見えて、とても癒されました。鵜飼の景色は、篝火や屋…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車150台　バス１５台　(無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事に感動、鵜飼いも近く大満足露天風呂付の部屋で眺めも最高でした。スタッフの接待も心地よく良い時間が流れました。食事も十分に豪華で美味しかったです。長良川の鵜飼い船のリば…　2026-08-29 10:14:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事に感動、鵜飼いも近く大満足露天風呂付の部屋で眺めも最高でした。スタッフの接待も心地よく良い時間が流れました。食事も十分に豪華で美味しかったです。長良川の鵜飼い船のリば…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「せんべい布団家族4人で利用しました。食事やサービスは普通、建物や設備が古いのは許容範囲。しかし、せんべい布団は有り得ない。眠れない地獄の時間を過ごし、深夜にふと気付いて押入を覗くと、そこにはマット…　2026-08-23 17:41:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「せんべい布団家族4人で利用しました。食事やサービスは普通、建物や設備が古いのは許容範囲。しかし、せんべい布団は有り得ない。眠れない地獄の時間を過ごし、深夜にふと気付いて押入を覗くと、そこにはマット…」
                   </blockquote>
                 </div>
               </div>

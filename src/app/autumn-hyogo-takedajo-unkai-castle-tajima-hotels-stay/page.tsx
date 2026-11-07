@@ -498,7 +498,7 @@ export default function TakedaCastleAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4 ／ 部屋 ★4.56 ／ 設備 ★4.47 ／ 風呂 ★4.2 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家庭的で明るい対応に癒やされ、快適な時間家庭的で明るい対応で、快適に過ごせました。また利用したいと思いますクチコミの詳細はこちらから　https://review.travel.rakuten…　2026-09-28 09:37:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家庭的で明るい対応に癒やされ、快適な時間家庭的で明るい対応で、快適に過ごせました。また利用したいと思います」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function TakedaCastleAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　6台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「竹田城観光に便利、食事も温泉も大満足竹田駅が近く、バスで竹田城へ行くのに便利だった。寺町通りも風情があり、散歩がてら楽しんだ。お宿は広々として清潔感もあり、のんびりくつろげました。お風呂は…　2026-08-12 16:55:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「竹田城観光に便利、食事も温泉も大満足竹田駅が近く、バスで竹田城へ行くのに便利だった。寺町通りも風情があり、散歩がてら楽しんだ。お宿は広々として清潔感もあり、のんびりくつろげました。お風呂は…」
                   </blockquote>
                 </div>
               </div>

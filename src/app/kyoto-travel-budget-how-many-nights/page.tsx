@@ -434,7 +434,7 @@ export default function KyotoNightsGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>当ホテルには駐車場、及び提携駐車場がございません。公共交通機関でご来館をお勧めいたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都駅直結でアクセス抜群、静かな部屋で快適学生時代を過ごした京都で久しぶりに泊まることになり、はじめてのホテルを予約しました。京都駅に近く、地下通路から直接アクセスできるのも助かりました。担当者の…　2026-08-21 18:39:06投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=153230&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都駅直結でアクセス抜群、静かな部屋で快適学生時代を過ごした京都で久しぶりに泊まることになり、はじめてのホテルを予約しました。京都駅に近く、地下通路から直接アクセスできるのも助かりました。担当者の…」
                   </blockquote>
                 </div>
               </div>
@@ -456,7 +456,7 @@ export default function KyotoNightsGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し。近隣のコインパーキングでは１日あたり1000円前後です</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜食や朝食が美味しく、観光にも便利な立地夜食のお茶漬けサービスがとても良いです。朝のカレーもとても美味しかったです。立地条件も良く、清潔感もある部屋で快適に過ごせました。京都駅も近いで…　2026-08-18 17:30:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜食や朝食が美味しく、観光にも便利な立地夜食のお茶漬けサービスがとても良いです。朝のカレーもとても美味しかったです。立地条件も良く、清潔感もある部屋で快適に過ごせました。京都駅も近いで…」
                   </blockquote>
                 </div>
               </div>
@@ -478,7 +478,7 @@ export default function KyotoNightsGuide() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　2,000円(1泊)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「系列店と比較してしまい満足できなかった前日に別府の同系列のホテルに宿泊し大変素晴らしかったので......。どうしても比較してしまい良い評価が出来ませんでした。クチコミの詳細はこちらから　ht…　2026-08-26 14:24:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「系列店と比較してしまい満足できなかった前日に別府の同系列のホテルに宿泊し大変素晴らしかったので......。どうしても比較してしまい良い評価が出来ませんでした。」
                   </blockquote>
                 </div>
               </div>

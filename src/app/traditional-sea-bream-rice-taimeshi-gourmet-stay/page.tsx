@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り２５台　料金：1,000円（税込／泊）お車でご来館の際は一度玄関前にお越しください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性陣、みんな平気なの?熱海到着が遅くなるため食事は無理と素泊まり。素泊まりならビジネスホテルでも良かったけどせっかく熱海に来たんだから温泉に入りたくて宿泊しました。夜大浴場?に入り翌朝露…　2026-08-07 13:10:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性陣、みんな平気なの?熱海到着が遅くなるため食事は無理と素泊まり。素泊まりならビジネスホテルでも良かったけどせっかく熱海に来たんだから温泉に入りたくて宿泊しました。夜大浴場?に入り翌朝露…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【愛媛・明石・鳴門の極上天然真鯛】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「白良浜に近く朝食も最高、来年もまた行きたいここ数年、夏に利用させて頂いてます。白良浜からも近く海から出ても直ぐですし、ハマギンザへも歩いて直ぐ。部屋も広くてキレイ。スタッフの方々の接客も気持ちが良…　2026-09-19 22:52:00投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=144560&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「白良浜に近く朝食も最高、来年もまた行きたいここ数年、夏に利用させて頂いてます。白良浜からも近く海から出ても直ぐですし、ハマギンザへも歩いて直ぐ。部屋も広くてキレイ。スタッフの方々の接客も気持ちが良…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【愛媛・明石・鳴門の極上天然真鯛】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…　2026-09-18 22:59:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【愛媛・明石・鳴門の極上天然真鯛】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの心温まる対応と温泉に大満足旅館に到着して同伴の方が乗り物酔いで体調崩してしまい困っていたところ、フロントの方に酔い止め薬を頂いてほんと助かりました。良いお湯の温泉で温まったうえに心温まる…　2026-09-18 22:48:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの心温まる対応と温泉に大満足旅館に到着して同伴の方が乗り物酔いで体調崩してしまい困っていたところ、フロントの方に酔い止め薬を頂いてほんと助かりました。良いお湯の温泉で温まったうえに心温まる…」
                   </blockquote>
                 </div>
               </div>

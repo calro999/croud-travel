@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【透明な水面を滑るレイクカヌー＆SUP】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.19 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.35 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観は少し古く感じますが、館内はとても清潔に整えられていて、お部屋もキレイで快適に過ごす事ができました。電車での旅でしたので、駅から送迎バスがあって助かりました。クチコミの詳細はこちらから…　2026-10-06 18:12:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観は少し古く感じますが、館内はとても清潔に整えられていて、お部屋もキレイで快適に過ごす事ができました。電車での旅でしたので、駅から送迎バスがあって助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.32 ／ 部屋 ★4.12 ／ 設備 ★4.09 ／ 風呂 ★4.19 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事や温泉は惜しいが部屋は綺麗で快適チェックインが遅くなり、ウェルカムドリンクなどは楽しめませんでした。夕飯のビュッフェの料理はきちんと作られていましたが、冷めていてあまり美味しくありませんで…　2026-10-04 22:58:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事や温泉は惜しいが部屋は綺麗で快適チェックインが遅くなり、ウェルカムドリンクなどは楽しめませんでした。夕飯のビュッフェの料理はきちんと作られていましたが、冷めていてあまり美味しくありませんで…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場 約30台／電気自動車充電スタンド／河口湖駅⇔無料送迎</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★3.98 ／ 部屋 ★4.1 ／ 設備 ★4.12 ／ 風呂 ★4.08 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂がとても綺麗で、お湯加減がとてもよく、きもちよかったです。館内も綺麗でスタッフさんも全員とても親切で優しいです。車での送迎も大変助かりました。また伺いたいと思います。クチコミの詳…　2026-10-01 13:26:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂がとても綺麗で、お湯加減がとてもよく、きもちよかったです。館内も綺麗でスタッフさんも全員とても親切で優しいです。車での送迎も大変助かりました。また伺いたいと思います。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【透明な水面を滑るレイクカヌー＆SUP】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.24 ／ 部屋 ★4.03 ／ 設備 ★3.88 ／ 風呂 ★4.03 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は露天風呂と温度別の風呂がいくつかあり、クレンジングや洗顔もあったので良かったしかし、ドライヤーにホコリが溜まっており清掃が行き届いていないと感じた古さが感じられが、特に問題もなく泊まれた…　2026-09-30 10:05:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は露天風呂と温度別の風呂がいくつかあり、クレンジングや洗顔もあったので良かったしかし、ドライヤーにホコリが溜まっており清掃が行き届いていないと感じた古さが感じられが、特に問題もなく泊まれた…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【透明な水面を滑るレイクカヌー＆SUP】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの親切な対応と充実した共有施設チェックインの際からスタッフの方が親切でした^ ^卓球台やウォーターサーバも共有施設にあり、良かったです。クチコミの詳細はこちらから　https://re…　2026-09-14 12:08:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの親切な対応と充実した共有施設チェックインの際からスタッフの方が親切でした^ ^卓球台やウォーターサーバも共有施設にあり、良かったです。」
                   </blockquote>
                 </div>
               </div>

@@ -505,7 +505,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順36台　700円（税込み/泊）　満車の場合は隣接の提携駐車場へご案内致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.41 ／ 部屋 ★4.44 ／ 設備 ★4.38 ／ 風呂 ★4.29 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が断トツで素晴らしく大満足山形駅から程近く、問題はないが繁華街(飲み屋街)からは駅の反対側になるので夜遊びメインの方には不向きかも。それを補って余りある朝食の素晴らしさ。今まで泊ったことのある…　2026-10-09 19:24:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が断トツで素晴らしく大満足山形駅から程近く、問題はないが繁華街(飲み屋街)からは駅の反対側になるので夜遊びメインの方には不向きかも。それを補って余りある朝食の素晴らしさ。今まで泊ったことのある…」
                   </blockquote>
                 </div>
               </div>
@@ -527,7 +527,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通・ハイルーフ各16台（先着順）1,200円/泊（税込）※満車時は近隣提携外駐車場をご利用ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.53 ／ 部屋 ★4.57 ／ 設備 ★4.54 ／ 風呂 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「前回同様、部屋が綺麗でとても快適部屋がとにかく綺麗でした。前回も今回もとても気持ちよく止まれました。ほかのホテルはいけませんね。クチコミの詳細はこちらから　https://review.tra…　2026-10-10 11:56:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「前回同様、部屋が綺麗でとても快適部屋がとにかく綺麗でした。前回も今回もとても気持ちよく止まれました。ほかのホテルはいけませんね。」
                   </blockquote>
                 </div>
               </div>
@@ -549,7 +549,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>72台　普通車600円・大型車1000円　先着順（大型車は事前予約制）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.13 ／ 部屋 ★4.14 ／ 設備 ★4.17 ／ 風呂 ★4.1 ／ 食事 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋もお風呂も快適でスタッフも親切部屋もお風呂もよかったです。スタッフの方達も親切でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-10-10 12:55:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋もお風呂も快適でスタッフも親切部屋もお風呂もよかったです。スタッフの方達も親切でした。」
                   </blockquote>
                 </div>
               </div>
@@ -571,7 +571,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　計102台　平面1,000円/日・立体600円/日　先着順・予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★4.13 ／ 部屋 ★3.95 ／ 設備 ★3.89 ／ 風呂 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の係員とフロントの対応に不満何度も宿泊させていただいていますが、毎回駐車場の係の方の対応が悪すぎます。ずっと思ってましたが今回クチコミ書かせていただきました。また今回はフロントの方の…　2026-10-02 19:17:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の係員とフロントの対応に不満何度も宿泊させていただいていますが、毎回駐車場の係の方の対応が悪すぎます。ずっと思ってましたが今回クチコミ書かせていただきました。また今回はフロントの方の…」
                   </blockquote>
                 </div>
               </div>

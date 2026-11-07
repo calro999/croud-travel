@@ -400,31 +400,31 @@ export default function FurusatoUpgradedPage() {
               <h4 className="text-sm font-bold text-stone-900">1. フルーツパーク富士屋ホテル（山梨県・★4.59）</h4>
               <p><strong>【特徴】</strong>小高い丘のホテルからは富士山などの山々を望む大パノラマと、宝石のような夜景・星空を四季折々楽しめます</p>
               <p><strong>【交通・駐車場】</strong>ＪＲ中央線山梨市駅から車で7分。 ／ 駐車場：有り</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「また訪れたい場所ワイナリー巡り目的で家族と宿泊しました。残念ながら当日は曇りで、富士山は一部しか眺められませんでしたが、ホテルからの夜景は素晴らしく、周辺も自然豊かで、リラックスした時間を過ごせま…　2026-08-31 16:32:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=12」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「また訪れたい場所ワイナリー巡り目的で家族と宿泊しました。残念ながら当日は曇りで、富士山は一部しか眺められませんでしたが、ホテルからの夜景は素晴らしく、周辺も自然豊かで、リラックスした時間を過ごせま…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">2. 熱川温泉　熱川プリンスホテル（静岡県・★4.51）</h4>
               <p><strong>【特徴】</strong>【星4.5】個性豊かな12の湯船と天空露天風呂、 空と海との一体感が味わえる魅力が光る贅沢宿！</p>
               <p><strong>【交通・駐車場】</strong>東京駅から乗換なしでスムーズ♪直通電車「踊り子号」を利用すれば、最短1時間40分で到着！伊豆熱川駅徒歩10分。送迎有 ／ 駐車場：有り　　50台　　1泊　　無料</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。(金目の煮付けが最高でした)お風呂の設備に不備があり…　2026-08-29 13:21:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1222」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「温泉とプールを満喫、金目の煮付けも最高湯量が豊富でお風呂の種類も多く温泉自体は良いと思います。食事も味付けが濃くなくて最後まで楽しめました。(金目の煮付けが最高でした)お風呂の設備に不備があり…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. 南房総白浜　割烹旅館　清都（きよと）（千葉県・★4.52）</h4>
               <p><strong>【特徴】</strong>雄大な太平洋の水平線を一望。南房総の新鮮な山海の幸を使った味覚自慢の宿。夕・朝食ともお部屋食でどうぞ</p>
               <p><strong>【交通・駐車場】</strong>JR内房線館山駅から車で20分。車の場合、首都圏からはアクアライン＆富津館山道路経由で約100分 ／ 駐車場：有り　12台　無料</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「割烹旅館の絶品料理と温泉に大満足2023年から今回で3回目の宿泊です。毎回、主人の誕生日のお祝いで利用させて頂いております。(こちらの宿はとても良かったのですが、昨年は浮気性な私が別の宿を予約して…　2026-08-21 20:11:45投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=12」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「割烹旅館の絶品料理と温泉に大満足2023年から今回で3回目の宿泊です。毎回、主人の誕生日のお祝いで利用させて頂いております。(こちらの宿はとても良かったのですが、昨年は浮気性な私が別の宿を予約して…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">4. オリエンタルホテル東京ベイ（千葉県・★4.42）</h4>
               <p><strong>【特徴】</strong>東京ディズニーリゾート(R)へ１駅３分。パートナーホテル・シャトルも常時運行！館内にローソンもあり</p>
               <p><strong>【交通・駐車場】</strong>JR京葉線新浦安駅直結徒歩約1分。東京ディズニーリゾート(R)へはパートナーホテル・シャトル【予約不要】で約15分。 ／ 駐車場：IN日正午〜OUT日正午まで1泊3000円〜※2泊目以降1泊1000円毎追加。その他時間500円/h</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「広い部屋と子供向け施設が充実、リピ決定!とても広い部屋で過ごしやすかったです。孫たちはフロント横の動くスクリーン(スペースラボのような)にはまってしまい大喜びでした。ウェルカムラウンジのお菓子にも…　2026-10-10 21:34:42投稿」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「広い部屋と子供向け施設が充実、リピ決定!とても広い部屋で過ごしやすかったです。孫たちはフロント横の動くスクリーン(スペースラボのような)にはまってしまい大喜びでした。ウェルカムラウンジのお菓子にも…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">5. 天津小湊温泉　城崎の源泉の湯　宿中屋（千葉県・★4.54）</h4>
               <p><strong>【特徴】</strong>2024年3月リニューアル</p>
               <p><strong>【交通・駐車場】</strong>ＪＲ外房線安房小湊駅から車で５分。 ／ 駐車場：有り　４０台 宿泊のお客様は無料です</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「おもてなしと美味しい魚料理に感激!女将の直筆のお手紙、チェックインの時にお茶とお菓子が出るなどおもてなしが行き届いていて心地よいです。お食事が夕食朝食ともにお魚をふんだんに使ったとても美味しいお料…　2026-09-30 13:59:44投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=12」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「おもてなしと美味しい魚料理に感激!女将の直筆のお手紙、チェックインの時にお茶とお菓子が出るなどおもてなしが行き届いていて心地よいです。お食事が夕食朝食ともにお魚をふんだんに使ったとても美味しいお料…」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

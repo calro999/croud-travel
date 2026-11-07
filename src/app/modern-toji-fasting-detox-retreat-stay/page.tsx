@@ -333,7 +333,7 @@ export default function WellnessRetreatHubPage() {
                   <p>【現代版プチ湯治＆ファスティング宿：デトックス・薬膳料】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…　2026-09-12 11:02:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ファスティングで体調改善、母娘で大満足胃腸を休めることを目的に「ファスティング」が体験できるホテルを探していたところ、ホテルクアビオと出会いました。料金はやや高めですが、ファスティングによって得ら…　2026-08-23 17:53:40投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=143278&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ファスティングで体調改善、母娘で大満足胃腸を休めることを目的に「ファスティング」が体験できるホテルを探していたところ、ホテルクアビオと出会いました。料金はやや高めですが、ファスティングによって得ら…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「懐かしくてホッコリする素朴な宿とってもローカルな感じのお宿でした。自販機もなくクーラーボックスに入って飲み物が売ってました。笑ビール冷えてました!何か凄く良いと言う感じではありませんが…　2026-08-19 21:49:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「懐かしくてホッコリする素朴な宿とってもローカルな感じのお宿でした。自販機もなくクーラーボックスに入って飲み物が売ってました。笑ビール冷えてました!何か凄く良いと言う感じではありませんが…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function WellnessRetreatHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　90台　無料、まずは当館玄関前にお越しください、お車のキーはお預かりしております。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.43 ／ 部屋 ★4.33 ／ 設備 ★4.24 ／ 風呂 ★4.67 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長時間滞在と温泉、食事に大満足!チェックイン14:30、チェックアウト11:00には驚きました。たっぷり温泉に入りたい身にはありがたいサービスです。4回、入れました。泉質は申し分ないです。温泉…　2026-10-10 21:42:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長時間滞在と温泉、食事に大満足!チェックイン14:30、チェックアウト11:00には驚きました。たっぷり温泉に入りたい身にはありがたいサービスです。4回、入れました。泉質は申し分ないです。温泉…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function WellnessRetreatHubPage() {
                   <p>【現代版プチ湯治＆ファスティング宿：デトックス・薬膳料】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.6 ／ 部屋 ★4.6 ／ 設備 ★4.52 ／ 風呂 ★4.69 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内ツアーで歴史を学び有意義なひととき歴史ある宿で館内ツアーもあり建物や過去の時代の詳しい説明があり有意義な時間を過ごせました。クチコミの詳細はこちらから　https://review.tra…　2026-10-05 05:10:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内ツアーで歴史を学び有意義なひととき歴史ある宿で館内ツアーもあり建物や過去の時代の詳しい説明があり有意義な時間を過ごせました。」
                   </blockquote>
                 </div>
               </div>

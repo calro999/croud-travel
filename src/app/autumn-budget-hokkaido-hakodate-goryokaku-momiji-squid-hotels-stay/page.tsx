@@ -421,7 +421,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　※２０２４年５月１日より新規予約分から１泊１台５００円　（大型車両はご連絡下さい）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.06 ／ 部屋 ★4.26 ／ 設備 ★4.11 ／ 風呂 ★3.99 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しく価格も満足、部屋は狭めサービスの朝食は手作りで美味しかったので、満足です。接客も悪くなかったですが、部屋が狭かったのでキャリーバッグの扱いがしにくかったです。お風呂はもう少し…　2026-10-10 22:55:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しく価格も満足、部屋は狭めサービスの朝食は手作りで美味しかったので、満足です。接客も悪くなかったですが、部屋が狭かったのでキャリーバッグの扱いがしにくかったです。お風呂はもう少し…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1階が12台（先着順）他に第2、第3駐車場がございます。お車の出し入れは自由です。1泊500円/台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.34 ／ 部屋 ★4.43 ／ 設備 ★4.31 ／ 風呂 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「函館駅近で駐車場完備、落ち着いた環境函館駅近くでホテルの駐車場もあり立地条件はいいかと思います。また繁華街から少し離れているので落ち着いて過ごせます。クチコミの詳細はこちらから　https…　2026-09-24 15:12:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「函館駅近で駐車場完備、落ち着いた環境函館駅近くでホテルの駐車場もあり立地条件はいいかと思います。また繁華街から少し離れているので落ち着いて過ごせます。」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台700円（先着順）　近隣有料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.19 ／ 部屋 ★4.31 ／ 設備 ★4.22 ／ 風呂 ★4.24 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で温泉と豪華な朝食バイキングを満喫黒松内町へ行く用事があり、青森から来る方と函館北斗駅で待ち合わせ。駅に隣接しているこちらのホテルだったので、移動の負担もなく、そのままスムーズにチェックイン…　2026-10-08 19:13:28投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=160793&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で温泉と豪華な朝食バイキングを満喫黒松内町へ行く用事があり、青森から来る方と函館北斗駅で待ち合わせ。駅に隣接しているこちらのホテルだったので、移動の負担もなく、そのままスムーズにチェックイン…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊 800円（立体駐車場14台・先着順）事前予約不可　近隣に有料駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.32 ／ 部屋 ★4.4 ／ 設備 ★4.31 ／ 風呂 ★4.26 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスマン向け安パイホテル立地が良くビジネスマンにとって必要十分な設備がある安定したホテルです。個人的に有線LANがあるのがありがたいです。朝食のカレーが美味しいです。クチコミの詳細…　2026-10-05 11:19:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスマン向け安パイホテル立地が良くビジネスマンにとって必要十分な設備がある安定したホテルです。個人的に有線LANがあるのがありがたいです。朝食のカレーが美味しいです。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetHakodateHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆1泊 800円（先着順）地下（10台）屋外（40台）※バイク500円　バス・トラック2400円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.35 ／ 部屋 ★4.35 ／ 設備 ★4.29 ／ 風呂 ★4.34 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「安定のホテル法華クラブいつも通りのサービス、フロントの対応、朝食と出張のひと時を癒されました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-10-05 12:00:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「安定のホテル法華クラブいつも通りのサービス、フロントの対応、朝食と出張のひと時を癒されました。」
                   </blockquote>
                 </div>
               </div>

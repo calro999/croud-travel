@@ -355,7 +355,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に離れに泊まりました。直前に人数変更があったり、当日、到着予定時刻がズレて夕食開始時間も変更していただきましたが、笑顔で対応してくださいました。ありがとうございました。ご飯は、量もあ…　2026-07-30 10:45:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に離れに泊まりました。直前に人数変更があったり、当日、到着予定時刻がズレて夕食開始時間も変更していただきましたが、笑顔で対応してくださいました。ありがとうございました。ご飯は、量もあ…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り45台/無料（EV充電スポット2ヶ所）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「炉端焼とロボット接客に子供も大満足家族4人で避暑目的でお得に泊まれる宿を探していたところ、夕飯の炉端焼に惹かれて予約しました。建物自体は古いのですが、趣味のよい小物も多く、趣あるホテルといった…　2026-08-25 01:10:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「炉端焼とロボット接客に子供も大満足家族4人で避暑目的でお得に泊まれる宿を探していたところ、夕飯の炉端焼に惹かれて予約しました。建物自体は古いのですが、趣味のよい小物も多く、趣あるホテルといった…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【古民家一棟貸し・蔵サウナの宿：築100年再生邸宅・プ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「滝の見える景色と丁寧な料理に大満足滝の見えるお部屋の景色がとてもよく、静かに快適に過ごせました。ご飯も丁寧に作られており、宿のサービスもとても良かったです。クチコミの詳細はこちらから　http…　2026-09-07 11:33:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「滝の見える景色と丁寧な料理に大満足滝の見えるお部屋の景色がとてもよく、静かに快適に過ごせました。ご飯も丁寧に作られており、宿のサービスもとても良かったです。」
                   </blockquote>
                 </div>
               </div>

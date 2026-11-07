@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.42 ／ 立地 ★4.48 ／ 部屋 ★4.14 ／ 設備 ★4.02 ／ 風呂 ★4.53 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事とスタッフの優しさに和むご飯が美味しいスタッフさんも、優しくて和みましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-10-08 00:46:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事とスタッフの優しさに和むご飯が美味しいスタッフさんも、優しくて和みました」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　10台　無料　（７台目以降はつめこみ駐車です）　当日は１３時から駐車可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.52 ／ 立地 ★3.48 ／ 部屋 ★3.67 ／ 設備 ★3.48 ／ 風呂 ★3.92 ／ 食事 ★3.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場が熱すぎて入れず、価格に見合わない内容大浴場のお湯が熱過ぎて、温度を下げる方法もなく、入るのを諦めました。いくら草津温泉でも、熱ければ良いというわけではないと思います。その他でも総じ…　2026-09-25 16:08:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場が熱すぎて入れず、価格に見合わない内容大浴場のお湯が熱過ぎて、温度を下げる方法もなく、入るのを諦めました。いくら草津温泉でも、熱ければ良いというわけではないと思います。その他でも総じ…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.23 ／ 部屋 ★4.23 ／ 設備 ★4.05 ／ 風呂 ★4.64</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高、朝食も程よい満足感温泉は横綱でした。朝食も程よい感じでした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-21 20:20:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高、朝食も程よい満足感温泉は横綱でした。朝食も程よい感じでした。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に４０台 無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.22 ／ 部屋 ★4.37 ／ 設備 ★4.33 ／ 風呂 ★4.63 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リフォームされた綺麗な館内と二種の源泉西の河原公園の近くにあります。草津温泉に旅行した際に宿泊しました。夕食なし朝食のみのプランです。歴史ある建物ですが、中はリフォームされていて大…　2026-09-07 21:56:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リフォームされた綺麗な館内と二種の源泉西の河原公園の近くにあります。草津温泉に旅行した際に宿泊しました。夕食なし朝食のみのプランです。歴史ある建物ですが、中はリフォームされていて大…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り8台(1組に付き1台/無料)※午後1時より駐車可能。当館前に到着後お電話ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.14 ／ 部屋 ★4.17 ／ 設備 ★4.1 ／ 風呂 ★4.44 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古民家の温かさとトロトロの温泉に癒やされる古民家の中庭みたいなところから入っていきます。温かいお迎えしてくれました。お風呂も3種類貸切で檜のにおりが心地よかったです。お湯も化粧水みたいなトロミがあ…　2026-09-16 19:30:51投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=108634&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古民家の温かさとトロトロの温泉に癒やされる古民家の中庭みたいなところから入っていきます。温かいお迎えしてくれました。お風呂も3種類貸切で檜のにおりが心地よかったです。お湯も化粧水みたいなトロミがあ…」
                   </blockquote>
                 </div>
               </div>

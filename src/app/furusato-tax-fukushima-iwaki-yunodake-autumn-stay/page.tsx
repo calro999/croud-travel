@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 90台 無料 先着順 *ただし４トン車以上の大型車は有料となります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「仙台牛と名物料理に大満足、温泉も最高夕食に仙台牛の食べ比べや福島名物のメヒカリなどボリュームも多く豪華で美味しくいただきました。温泉の香りも良く癒されました。クチコミの詳細はこちらから　h…　2026-09-15 08:33:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「仙台牛と名物料理に大満足、温泉も最高夕食に仙台牛の食べ比べや福島名物のメヒカリなどボリュームも多く豪華で美味しくいただきました。温泉の香りも良く癒されました。」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通乗用車タイプ28台、無料、道路を挟んで旅館の向かい側。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.38 ／ 部屋 ★4.22 ／ 設備 ★4.19 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は良かったが混雑時のマナーが残念素泊まりで利用しました。宿泊当日にマラソン大会が開催されるとのことで、フロントから「ランナーの方が温泉を利用するため、混み合う可能性がある」と説明を受け…　2026-09-25 07:05:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は良かったが混雑時のマナーが残念素泊まりで利用しました。宿泊当日にマラソン大会が開催されるとのことで、フロントから「ランナーの方が温泉を利用するため、混み合う可能性がある」と説明を受け…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適に過ごせました以前は和室に宿泊しましたが、今回はリニューアルした部屋を利用しました。上階だったこともあり、空が見えて木々とのバランスが良く開放的でした。子供がいたからか夕食は個室で対応して頂き…　2026-09-18 07:42:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適に過ごせました以前は和室に宿泊しましたが、今回はリニューアルした部屋を利用しました。上階だったこともあり、空が見えて木々とのバランスが良く開放的でした。子供がいたからか夕食は個室で対応して頂き…」
                   </blockquote>
                 </div>
               </div>

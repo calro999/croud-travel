@@ -421,7 +421,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料 有り 45台※大型車（2トントラック以上）をご利用の際は、事前にお電話でお問い合わせください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★3.79 ／ 部屋 ★4.13 ／ 設備 ★3.88 ／ 風呂 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コンテナの雨音は響くが気にならず快適チェックイン時にアメニティのところに耳栓が大量にあり不思議に思ったが宿泊して謎が解けた。当日、大粒の雨が降っていたがコンテナは音が反響するようで気になる…　2026-10-02 20:04:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コンテナの雨音は響くが気にならず快適チェックイン時にアメニティのところに耳栓が大量にあり不思議に思ったが宿泊して謎が解けた。当日、大粒の雨が降っていたがコンテナは音が反響するようで気になる…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場100台分有り（無料）先着順にて ※大型車は要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.26 ／ 部屋 ★4.26 ／ 設備 ★4.29 ／ 風呂 ★4.22 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また予約します。接客、清掃、満足です。ただ、もう少し朝食の品数が増えると最高です。お世話になりました。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-04 03:12:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また予約します。接客、清掃、満足です。ただ、もう少し朝食の品数が増えると最高です。お世話になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★3.81 ／ 部屋 ★3.88 ／ 設備 ★3.87 ／ 風呂 ★4.37 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質がとても良かった温泉が良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/145010?revi…　2026-10-09 05:06:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質がとても良かった温泉が良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　800〜1000円（税込／泊）満車時は徒歩5分の提携コインパーキングへのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★3.99</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアウィーヴとリファ完備で快適な空間プレミアムプラスルームに1泊しましたが、ベッドもピローもエアウィーブで快適でした!リファのドライヤーとカールアイロンも良かったですね。お部屋は清潔感がありも…　2026-10-08 00:30:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアウィーヴとリファ完備で快適な空間プレミアムプラスルームに1泊しましたが、ベッドもピローもエアウィーブで快適でした!リファのドライヤーとカールアイロンも良かったですね。お部屋は清潔感がありも…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　全お部屋分24台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.23 ／ 立地 ★4.08 ／ 部屋 ★4.24 ／ 設備 ★4.28 ／ 風呂 ★4.32 ／ 食事 ★3.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カラオケ付きの部屋と美味しい朝食に大満足カラオケが付いている部屋で、楽しませて頂きました。朝食も思っていたよりちゃんとしていて「簡易的だと思っていたら」美味しくてビックリしました。私は和食定食、子…　2026-10-08 20:57:28投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=198009&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カラオケ付きの部屋と美味しい朝食に大満足カラオケが付いている部屋で、楽しませて頂きました。朝食も思っていたよりちゃんとしていて「簡易的だと思っていたら」美味しくてビックリしました。私は和食定食、子…」
                   </blockquote>
                 </div>
               </div>

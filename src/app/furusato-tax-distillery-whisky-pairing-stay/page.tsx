@@ -683,7 +683,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5台　1500円（1泊1台分）　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食とワイン、おしゃれな空間で小樽を満喫朝食のモーニングハイティーのクオリティがとても高く、大満足でした。また、夕方にはワインバーのサービスを無料で利用でき、小樽や富良野のワインをゆっくりと楽しむ…　2026-08-25 11:03:50投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=172337&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食とワイン、おしゃれな空間で小樽を満喫朝食のモーニングハイティーのクオリティがとても高く、大満足でした。また、夕方にはワインバーのサービスを無料で利用でき、小樽や富良野のワインをゆっくりと楽しむ…」
                   </blockquote>
                 </div>
               </div>
@@ -705,7 +705,7 @@ export default function FurusatoFeaturePage() {
                   <p>【国産ウイスキー蒸溜所＆銘酒ペアリング宿×ふるさと納税】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大…　2026-09-05 19:42:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バーと朝食に大満足、また利用したいホテル内のバーがすごくよかったです。お酒が好きな主人との旅行でしたので、こちらのホテルを選ばせていただきました。朝食もおいしくフロントの女性の方の対応も大…」
                   </blockquote>
                 </div>
               </div>
@@ -727,7 +727,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　45台　1500円（税込／１泊）　先着順（事前予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく快適オープンして3年程度のため新しくてきれいです。客室のベッドは高め、下にスーツケースが入る仕様。硬めのマットレスです。朝食はパンやサラダ、フルーツなどのほかにバラちらしなどの魚介、オハ…　2026-08-29 17:39:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「新しく快適オープンして3年程度のため新しくてきれいです。客室のベッドは高め、下にスーツケースが入る仕様。硬めのマットレスです。朝食はパンやサラダ、フルーツなどのほかにバラちらしなどの魚介、オハ…」
                   </blockquote>
                 </div>
               </div>
@@ -771,7 +771,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も景色も最高農園ホテルということで食事(野菜と果物)をかなり期待していましたが、私たちにはイマイチでした。美味しくない訳ではありません。こちらが勝手にハードルを上げて宿泊を楽しみにしていたので…　2026-08-27 01:09:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も景色も最高農園ホテルということで食事(野菜と果物)をかなり期待していましたが、私たちにはイマイチでした。美味しくない訳ではありません。こちらが勝手にハードルを上げて宿泊を楽しみにしていたので…」
                   </blockquote>
                 </div>
               </div>

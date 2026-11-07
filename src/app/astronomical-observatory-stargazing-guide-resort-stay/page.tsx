@@ -333,7 +333,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…　2026-08-31 17:21:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台まで　屋外　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.7 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.73 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天風呂は残念だが接客には満足露天ぶろ付きの部屋に宿泊させていただいたのですが部屋の泉質が大浴場の泉質より薄くガッカリ。仕方ないので大浴場で我慢をした次第です。それ以外は仲居さんの気遣いサー…　2026-10-07 00:44:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天風呂は残念だが接客には満足露天ぶろ付きの部屋に宿泊させていただいたのですが部屋の泉質が大浴場の泉質より薄くガッカリ。仕方ないので大浴場で我慢をした次第です。それ以外は仲居さんの気遣いサー…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要 【EV・PHEV用の充電器1台あり(普通充電200V)】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の育成が行き届いており、また来たい昨年に続いて2度目の宿泊。サービスも決して過剰でなく、平日の宿泊であったためかゆったりと時間を過ごすことができた。昨年は、外国人の従業員とのコミュニケーショ…　2026-08-14 14:14:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の育成が行き届いており、また来たい昨年に続いて2度目の宿泊。サービスも決して過剰でなく、平日の宿泊であったためかゆったりと時間を過ごすことができた。昨年は、外国人の従業員とのコミュニケーショ…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>宿泊者普通車駐車場無料。中型車以上1台2200円（事前予約）。いずれも先着順チェックイン〜アウト迄</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★3.98 ／ 部屋 ★4.04 ／ 設備 ★3.98 ／ 風呂 ★4.29 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と展望、食事と温泉に大満足部屋、設備とも清潔で気持ちよく過ごせた。窓からの展望もよく静かでゆっくり休めた。食事は美味しく量も丁度よかった。泉質は化粧水いらず。接客は過不足なく、全般に不満…　2026-10-08 17:22:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と展望、食事と温泉に大満足部屋、設備とも清潔で気持ちよく過ごせた。窓からの展望もよく静かでゆっくり休めた。食事は美味しく量も丁度よかった。泉質は化粧水いらず。接客は過不足なく、全般に不満…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.54 ／ 風呂 ★4.64 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は良いが露天風呂の視線が気になる食事は大変良かったです。従業員の方々の対応も良かった。客室露天風呂付きの部屋でしたが、他の部屋から見える。あまり温泉の湯という感じもしない。ク…　2026-10-09 14:02:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は良いが露天風呂の視線が気になる食事は大変良かったです。従業員の方々の対応も良かった。客室露天風呂付きの部屋でしたが、他の部屋から見える。あまり温泉の湯という感じもしない。ク…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７0台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は美味しいがエアコンの効きが悪く暑い料理は美味しかった。部屋のエアコンが通路側のベッドにまで届かなくて暑くて飛び起きました。クチコミの詳細はこちらから　https://review.tra…　2026-08-29 18:46:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は美味しいがエアコンの効きが悪く暑い料理は美味しかった。部屋のエアコンが通路側のベッドにまで届かなくて暑くて飛び起きました。」
                   </blockquote>
                 </div>
               </div>

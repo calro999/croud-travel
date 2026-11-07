@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【採れたて無農薬野菜とローカルガストロノミー】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.44 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.18 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて…　2026-08-23 12:23:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.5 ／ 部屋 ★4.45 ／ 設備 ★4.41 ／ 風呂 ★4.59 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事が満足、立地も良い宿一泊二食のプランで利用しました。それでこのお値段はお安いと思います。小さめですが、内湯も温泉で24h入れますし。夕食も朝食もお腹いっぱいです。夕食時は、おしな…　2026-06-21 16:43:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と食事が満足、立地も良い宿一泊二食のプランで利用しました。それでこのお値段はお安いと思います。小さめですが、内湯も温泉で24h入れますし。夕食も朝食もお腹いっぱいです。夕食時は、おしな…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【採れたて無農薬野菜とローカルガストロノミー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事…　2026-09-10 01:46:02投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=128473&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足素泊りで宿泊しました。まずは源泉掛け流しの湯が良いですね。貸切風呂の利用もできて大満足。ご家族経営かと思いますが、皆さんとても親切で接客も素晴らしい。次回は食事…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【採れたて無農薬野菜とローカルガストロノミー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯は最高、夕食はボリューム満点お湯はとても良い。夕飯の量が多すぎて食べきれない。仙台牛も美味しかった。クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-09-06 17:03:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯は最高、夕食はボリューム満点お湯はとても良い。夕飯の量が多すぎて食べきれない。仙台牛も美味しかった。」
                   </blockquote>
                 </div>
               </div>

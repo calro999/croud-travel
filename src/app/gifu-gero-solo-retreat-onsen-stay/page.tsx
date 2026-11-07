@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料(一部プランにより有料もあり)　バイク専用屋根付き駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.38 ／ 部屋 ★4.39 ／ 設備 ★4.35 ／ 風呂 ★4.49 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「仲居さんの笑顔と日本語対応、料理も絶品仲居さんの対応が良い外国人の仲居さんもおられるが日本語も上手で笑顔で対応してくれます。料理がおいしかったクチコミの詳細はこちらから　https:/…　2026-10-05 21:19:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「仲居さんの笑顔と日本語対応、料理も絶品仲居さんの対応が良い外国人の仲居さんもおられるが日本語も上手で笑顔で対応してくれます。料理がおいしかった」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.12 ／ 部屋 ★4.22 ／ 設備 ★4.06 ／ 風呂 ★4.26 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も五つ星、全てが快適で大満足お食事、もてなし、清潔さ、お風呂全て快適で綺麗で申し分ないです。案内も対応も五つ星です!お部屋担当の方にはとても親切にして頂きました。ありがと…　2026-10-01 13:00:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客も五つ星、全てが快適で大満足お食事、もてなし、清潔さ、お風呂全て快適で綺麗で申し分ないです。案内も対応も五つ星です!お部屋担当の方にはとても親切にして頂きました。ありがと…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>18台／無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.55 ／ 部屋 ★4.67 ／ 設備 ★4.5 ／ 風呂 ★4.61 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「上品な接客と美味しい料理で大満足スタッフさんの対応も上品で、お値段以上です。料理も美味しく満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-09-20 13:11:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「上品な接客と美味しい料理で大満足スタッフさんの対応も上品で、お値段以上です。料理も美味しく満足です。」
                   </blockquote>
                 </div>
               </div>

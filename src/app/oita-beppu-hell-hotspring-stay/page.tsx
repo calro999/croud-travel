@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と嬉しい心遣いに大満足とても過ごしやすいお宿でした。従業員の方が皆さん親切で明るくて良かったです子供には嬉しい、アイスとジュースも頂けました。朝食のみのプランだったので、夕飯を食べに…　2026-08-21 17:56:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と嬉しい心遣いに大満足とても過ごしやすいお宿でした。従業員の方が皆さん親切で明るくて良かったです子供には嬉しい、アイスとジュースも頂けました。朝食のみのプランだったので、夕飯を食べに…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と癒しの猫、温泉も満喫夕食も朝食もとても美味しく、地元の食材を楽しめました。看板猫ちゃんたちも本当に可愛くて、頭を撫でさせてくれたり、自分から膝の上に来てくれたりして、とても癒され…　2026-05-11 10:45:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と癒しの猫、温泉も満喫夕食も朝食もとても美味しく、地元の食材を楽しめました。看板猫ちゃんたちも本当に可愛くて、頭を撫でさせてくれたり、自分から膝の上に来てくれたりして、とても癒され…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１２台　無料　予約制</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鉄輪の温泉を独り占め、親切な対応に感謝湯気があちらこちらから立ち昇る鉄輪の中で、スタッフさんも皆様親切にして下さいました。温泉は深夜、早朝にも利用できたのも嬉しかたです。多くの方が宿泊され…　2026-08-19 07:53:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鉄輪の温泉を独り占め、親切な対応に感謝湯気があちらこちらから立ち昇る鉄輪の中で、スタッフさんも皆様親切にして下さいました。温泉は深夜、早朝にも利用できたのも嬉しかたです。多くの方が宿泊され…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　1泊550円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と綺麗な室内、愛犬と快適な時間親切な接客でした。室内も綺麗で、犬とお泊まりできてよかったです。また利用したいです。クチコミの詳細はこちらから　https://review.t…　2026-08-16 16:54:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と綺麗な室内、愛犬と快適な時間親切な接客でした。室内も綺麗で、犬とお泊まりできてよかったです。また利用したいです。」
                   </blockquote>
                 </div>
               </div>

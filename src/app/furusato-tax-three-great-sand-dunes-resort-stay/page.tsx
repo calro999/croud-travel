@@ -636,7 +636,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場80台分完備。当館をご利用のお客様はいつでも駐車いただけます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンが効かず、清掃が行き届いていない部屋のエアコンが冷えず部屋の外の方が涼しかった。テーブルの上に綿埃が多く、電話や電気スタンドを動かすとホコリが舞い上がった。食事に使うので拭き掃除をして…　2026-08-21 11:57:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンが効かず、清掃が行き届いていない部屋のエアコンが冷えず部屋の外の方が涼しかった。テーブルの上に綿埃が多く、電話や電気スタンドを動かすとホコリが舞い上がった。食事に使うので拭き掃除をして…」
                   </blockquote>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function FurusatoFeaturePage() {
                   <p>【日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…　2026-09-19 17:22:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…」
                   </blockquote>
                 </div>
               </div>
@@ -680,7 +680,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　バス10台　乗用車70台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、眺望に大満足大変丁寧な接客で嬉しくなりました。夜ご飯も朝ごはんもとても美味しくお腹いっぱいになりました。お部屋の眺めも大変よかったです。ウェルカムドリンクが子供たちは…　2026-08-29 20:38:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、眺望に大満足大変丁寧な接客で嬉しくなりました。夜ご飯も朝ごはんもとても美味しくお腹いっぱいになりました。お部屋の眺めも大変よかったです。ウェルカムドリンクが子供たちは…」
                   </blockquote>
                 </div>
               </div>
@@ -702,7 +702,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 無料※駐車場利用不可プランにご注意 ※駐車場は全長5m以下の普通車のみ トラック・バス駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「焼き立てパンと天然温泉を満喫、ツインがないのは残念無料の朝食はありがたいです、特に、焼き立てのベーカリーはとても美味しく頂きました。そして、天然温泉があるのは最高の贅沢ですね。ただ、ツインの部…　2026-09-04 17:53:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「焼き立てパンと天然温泉を満喫、ツインがないのは残念無料の朝食はありがたいです、特に、焼き立てのベーカリーはとても美味しく頂きました。そして、天然温泉があるのは最高の贅沢ですね。ただ、ツインの部…」
                   </blockquote>
                 </div>
               </div>
@@ -724,7 +724,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２9台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.17 ／ 部屋 ★4.26 ／ 設備 ★4.27 ／ 風呂 ★4.31 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全国展開の安心感があり、どこでも快適ルートインのホテルは色んな場所にあるので他の所も使ったことがある安心感があります。クチコミの詳細はこちらから　https://review.travel.r…　2026-10-09 21:20:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全国展開の安心感があり、どこでも快適ルートインのホテルは色んな場所にあるので他の所も使ったことがある安心感があります。」
                   </blockquote>
                 </div>
               </div>
@@ -746,7 +746,7 @@ export default function FurusatoFeaturePage() {
                   <p>【日本三大砂丘＆雄大パノラマ・砂の絶景リゾート宿×ふる】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で過ごしやすく、とても素敵なお宿素敵なお宿でした。清潔でとても過ごしやすかったです!ありがとうございました。クチコミの詳細はこちらから　https://review.travel.…　2026-08-17 20:39:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で過ごしやすく、とても素敵なお宿素敵なお宿でした。清潔でとても過ごしやすかったです!ありがとうございました。」
                   </blockquote>
                 </div>
               </div>

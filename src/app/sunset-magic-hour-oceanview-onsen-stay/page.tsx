@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★3.8 ／ 部屋 ★4.3 ／ 設備 ★4.16 ／ 風呂 ★3.79 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日急に温泉が調子悪く変更して頂いた、同金額で、料理旅館夕日ヶ浦に変更して頂いた、温泉風呂付きで、料理も大変美味しいかったです、海もお部屋も大きく、前日夕方8時くらいのネット予約にも関わらず…　2026-09-29 16:38:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日急に温泉が調子悪く変更して頂いた、同金額で、料理旅館夕日ヶ浦に変更して頂いた、温泉風呂付きで、料理も大変美味しいかったです、海もお部屋も大きく、前日夕方8時くらいのネット予約にも関わらず…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有（予約不要）　※館内の階段を迂回する非常口での入館も出来ますのでご希望の方はお伝え下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.7 ／ 部屋 ★4.77 ／ 設備 ★4.78 ／ 風呂 ★4.8 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供用料理の配慮が嬉しく、また来年も利用したい子連れで宿泊しましたが、子供用の料理を用意して頂けたりと楽しく過ごすことができました。また来年も利用させて頂きたいです。クチコミの詳細はこちらから…　2026-10-06 16:58:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供用料理の配慮が嬉しく、また来年も利用したい子連れで宿泊しましたが、子供用の料理を用意して頂けたりと楽しく過ごすことができました。また来年も利用させて頂きたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.62 ／ 部屋 ★4.56 ／ 設備 ★4.46 ／ 風呂 ★4.36 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を一望できる絶景と美味しい料理に大満足夕日が浦の奥の方なので、静かでゆっくり出来ました。部屋からは海が一望できて、最高の眺めでした。屋上テラスからの眺めも良く、天気が良ければ最高の夕日が…　2026-10-04 19:52:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海を一望できる絶景と美味しい料理に大満足夕日が浦の奥の方なので、静かでゆっくり出来ました。部屋からは海が一望できて、最高の眺めでした。屋上テラスからの眺めも良く、天気が良ければ最高の夕日が…」
                   </blockquote>
                 </div>
               </div>

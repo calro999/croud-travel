@@ -570,7 +570,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「停電時の案内がなく不安、対応に改善を望む部屋やロケーション最高に良かったです。子どもたちも大満足でした。しかし夜の11時頃に停電があり、その時ちょうど温泉に入っていたのですが、放送や案内など一切な…　2026-08-29 08:36:39投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=128423&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「停電時の案内がなく不安、対応に改善を望む部屋やロケーション最高に良かったです。子どもたちも大満足でした。しかし夜の11時頃に停電があり、その時ちょうど温泉に入っていたのですが、放送や案内など一切な…」
                   </blockquote>
                 </div>
               </div>
@@ -592,7 +592,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>18台の無料駐車場有り／ご予約不要／他臨時駐車場有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.98 ／ 立地 ★4.83 ／ 部屋 ★4.93 ／ 設備 ★4.76 ／ 風呂 ★4.62 ／ 食事 ★4.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に幸せな時間を過ごせました本当に幸せでした。それに尽きます。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/18…　2026-10-08 21:03:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に幸せな時間を過ごせました本当に幸せでした。それに尽きます。」
                   </blockquote>
                 </div>
               </div>
@@ -614,7 +614,7 @@ export default function SilverWeekGlampingWithDogsPetsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　ご予約不要　※テント横まで車を横付けできます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉の泉質も大満足でした食事は大変良かったです。近くの温泉の泉質も良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-08-20 17:19:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉の泉質も大満足でした食事は大変良かったです。近くの温泉の泉質も良かったです。」
                   </blockquote>
                 </div>
               </div>

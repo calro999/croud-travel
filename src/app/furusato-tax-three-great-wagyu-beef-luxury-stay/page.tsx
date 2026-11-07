@@ -406,25 +406,25 @@ export default function FurusatoUpgradedPage() {
               <h4 className="text-sm font-bold text-stone-900">2. 神戸ベイシェラトンホテル＆タワーズ（・★4.47）</h4>
               <p><strong>【特徴】</strong></p>
               <p><strong>【交通・駐車場】</strong>ＪＲ「住吉駅」→六甲ライナー「アイランドセンター駅」から徒歩1分。ＪＲ「三ノ宮駅」から直通バスで２０分。駐車場無料。 ／ 駐車場：有り</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「温泉と食事、スタッフの対応に大満足温泉があり、食事も美味しく、スタッフ皆さんのホスピタリティも抜群でした。家族でゆっくり滞在できて大変良かったです。クチコミの詳細はこちらから　https://…　2026-09-19 21:23:24投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1524」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「温泉と食事、スタッフの対応に大満足温泉があり、食事も美味しく、スタッフ皆さんのホスピタリティも抜群でした。家族でゆっくり滞在できて大変良かったです。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. ホテルゲートイン鹿児島（ＨＯＴＥＬ　ＧＡＴＥ　ＩＮ　ＫＡＧＯＳＨＩＭＡ）（鹿児島県・★4.52）</h4>
               <p><strong>【特徴】</strong>【全室ReFa完備】天文館へ徒歩5分！街歩きの後は半露天風呂で整うご褒美時間♪女子旅・カップル旅に◎</p>
               <p><strong>【交通・駐車場】</strong>■ＪＲ鹿児島中央駅より市電７分/天文館通下車徒歩５分　　■鹿児島ＩＣ～車２０分　　■空港シャトルバス/天文館下車徒歩５分 ／ 駐車場：提携駐車場：センテラスパーキング・丸屋第一駐車場</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「お土産付きプランがとても良かったお土産プラン良かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1527?rev…　2026-10-03 16:29:11投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1527」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「お土産付きプランがとても良かったお土産プラン良かった」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">4. 横浜ベイシェラトンホテル＆タワーズ（神奈川県・★4.58）</h4>
               <p><strong>【特徴】</strong>横浜駅西口から徒歩１分。添い寝12歳まで無料！ビジネス・観光・コンサートへ最適／マリオットグループ</p>
               <p><strong>【交通・駐車場】</strong>JR・私鉄 横浜駅徒歩1分(直結)。新横浜駅から地下鉄11分、品川駅からＪＲ20分。羽田空港よりリムジンYCAT迄30分 ／ 駐車場：有り（駐車台数には限りがあります）　１９００円／泊（税込）</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「駅直結で便利、朝食も美味しくまた利用したい15時チェックインが遅れて17時になりましたとっても残念でした沢山歩いていたので 少し横になって休みたかったから仕方ないのかもしれないですが。…　2026-08-17 15:52:55投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1598&quot; cl」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「駅直結で便利、朝食も美味しくまた利用したい15時チェックインが遅れて17時になりましたとっても残念でした沢山歩いていたので 少し横になって休みたかったから仕方ないのかもしれないですが。…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">5. 北茨城ロハス　磯原シーサイドホテル（茨城県・★4.46）</h4>
               <p><strong>【特徴】</strong>常陸灘と星空パノラマの癒し　屋上露天風呂オープン！早朝の日の出、夜は満天星空をお楽しみいただけます♪</p>
               <p><strong>【交通・駐車場】</strong>北茨城ＩＣ車10分・磯原駅車で約5分・高萩駅車で約20分・大津港駅より車で約10分。東京から約2.5時間 ／ 駐車場：有り６０台 無料（普通車）　大型バス可(要予約)　＊不法改造車の駐車はお断りさせて頂きます。</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「オーシャンビューと絶品料理に大満足!オーシャンビューのお部屋で、朝日もバッチリ見れました!展望風呂にも窓があり、海が見えます。屋上のお風呂からも海が見え、夜には星も。夕食はフュージョン料理っていう…　2026-09-25 23:29:14投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=16」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「オーシャンビューと絶品料理に大満足!オーシャンビューのお部屋で、朝日もバッチリ見れました!展望風呂にも窓があり、海が見えます。屋上のお風呂からも海が見え、夜には星も。夕食はフュージョン料理っていう…」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

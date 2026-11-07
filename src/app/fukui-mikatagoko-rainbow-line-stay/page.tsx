@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p>【福井・三方五湖＆レインボーライン：天空テラス・五色水】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は期待外れ、朝食の和食は満足夕食はバイキングだったのですがネットの写真を見て良さそうに思ったのですが私的にはあんまりでした。朝食の和食の方が良かったです。クチコミの詳細はこちらから　htt…　2026-08-22 23:43:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は期待外れ、朝食の和食は満足夕食はバイキングだったのですがネットの写真を見て良さそうに思ったのですが私的にはあんまりでした。朝食の和食の方が良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p>【福井・三方五湖＆レインボーライン：天空テラス・五色水】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!花火大会は残念でしたが、来て良かったです!…　2026-08-14 13:16:34投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=142842&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶品夕食とオーシャンビューに大満足!夕食の絶品コース最高すぎました!何を食べても全部美味しかったです!作ってくれた方の手間と愛情をたっぷり受け取りました!花火大会は残念でしたが、来て良かったです!…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順の無料駐車場（100台）お体の不自由なお客様には駐車場の確保も致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂は最高だが夕食のタレが辛すぎた夕食のしゃぶしゃぶのタレがゴマだれとポン酢だったのですが、どちらも辛すぎて何もつけずに食べたほうがよかったです。部屋付き露天風呂はとても気持ちよくて良かっ…　2026-08-28 20:05:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂は最高だが夕食のタレが辛すぎた夕食のしゃぶしゃぶのタレがゴマだれとポン酢だったのですが、どちらも辛すぎて何もつけずに食べたほうがよかったです。部屋付き露天風呂はとても気持ちよくて良かっ…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【福井・三方五湖＆レインボーライン：天空テラス・五色水】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「わんこファーストで設備も充実、料理も絶品わんこファースト。ラウンジも館内もわんこファーストです。 街歩きは歩道がせまくて歩きづらいのですが、街歩きマップがあって、楽しめました。 お部屋に露天があり…　2026-08-19 20:02:09投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=160944&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「わんこファーストで設備も充実、料理も絶品わんこファースト。ラウンジも館内もわんこファーストです。 街歩きは歩道がせまくて歩きづらいのですが、街歩きマップがあって、楽しめました。 お部屋に露天があり…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉に大満足、Wi-Fi接続は改善希望リーズナブルなのに夕食、朝食の味、量ともに文句無しでした!お風呂も露天風呂があり非常に満足でした。部屋は広く必要な設備は揃っておりますが、唯一Wi-Fi…　2026-08-11 21:50:24投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=161184&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉に大満足、Wi-Fi接続は改善希望リーズナブルなのに夕食、朝食の味、量ともに文句無しでした!お風呂も露天風呂があり非常に満足でした。部屋は広く必要な設備は揃っておりますが、唯一Wi-Fi…」
                   </blockquote>
                 </div>
               </div>

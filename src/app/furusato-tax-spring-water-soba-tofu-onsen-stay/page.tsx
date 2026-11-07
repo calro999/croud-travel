@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料　（駐車場スペース１区画を超える中型・大型車の駐車をご遠慮頂いております。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の補充が早く、大浴場からの絶景に満足朝ごはん美味しかったです!補充も早く、食べたいと思ったものが食べられる印象!そして大浴場からの河口湖も絶景でした!天気があまり良くなかったのですけど…　2026-08-18 18:11:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の補充が早く、大浴場からの絶景に満足朝ごはん美味しかったです!補充も早く、食べたいと思ったものが食べられる印象!そして大浴場からの河口湖も絶景でした!天気があまり良くなかったのですけど…」
                   </blockquote>
                 </div>
               </div>
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料です</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何もかもが最高で大満足!何もかも最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/72707?reviewI…　2026-08-27 08:52:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何もかもが最高で大満足!何もかも最高でした」
                   </blockquote>
                 </div>
               </div>
@@ -819,7 +819,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　6台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.3 ／ 部屋 ★4.19 ／ 設備 ★4.24 ／ 風呂 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ジメジメした清潔感とバスルームの悪臭雨続きの9月だったのでやむを得ないかとは思うものの、宿全体がジメジメして清潔感にかけていた。特に部屋のバスルームには下水の悪臭が漂いとても使える状態ではなかった…　2026-10-05 22:29:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ジメジメした清潔感とバスルームの悪臭雨続きの9月だったのでやむを得ないかとは思うものの、宿全体がジメジメして清潔感にかけていた。特に部屋のバスルームには下水の悪臭が漂いとても使える状態ではなかった…」
                   </blockquote>
                 </div>
               </div>
@@ -841,7 +841,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋根付き駐車場10台（無料）　屋外駐車場あり、電気自動車用のコンセント2カ所有り</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は望めないが部屋も朝食も大満足泊まった部屋は景色は楽しめないですが、泊まる分には大変満足でした。朝食も美味しかったです。クチコミの詳細はこちらから　https://review.tra…　2026-09-07 20:43:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は望めないが部屋も朝食も大満足泊まった部屋は景色は楽しめないですが、泊まる分には大変満足でした。朝食も美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -863,7 +863,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが朝ごはんが最高に美味しい設備や建物は古いですが、朝ごはんが美味しくて最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-09-10 21:28:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが朝ごはんが最高に美味しい設備や建物は古いですが、朝ごはんが美味しくて最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -885,7 +885,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　平面駐車場　６３台　無料 ※2t車を超える中型車・大型車の駐車はお断りしています。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格は高めだが、それ以外は最高価格が観光価格でビジネスには少し辛いかなぁそれ以外は最高です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-08-12 08:35:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格は高めだが、それ以外は最高価格が観光価格でビジネスには少し辛いかなぁそれ以外は最高です。」
                   </blockquote>
                 </div>
               </div>

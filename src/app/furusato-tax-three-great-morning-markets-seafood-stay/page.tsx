@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.72 ／ 部屋 ★4.48 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。クチコミの詳細はこち…　2026-10-10 18:01:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　105台　無料　※障がい者スペースは要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カブトムシカブトムシをオス・メスペアで頂き、息子が喜んで今も飼育しています。海は荒れていましたが、プールで沢山遊べました。ありがとう御座いました。クチコミの詳細はこちらから　https…　2026-09-05 17:07:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「カブトムシカブトムシをオス・メスペアで頂き、息子が喜んで今も飼育しています。海は荒れていましたが、プールで沢山遊べました。ありがとう御座いました。」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着２５台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい魚と丁寧な接客、駅近で安心感抜群魚祭の魚が美味しかった接客が良くおすすめですね駅近、交番近 朝市にも歩けとても安心できましたクチコミの詳細はこちらから　https:…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい魚と丁寧な接客、駅近で安心感抜群魚祭の魚が美味しかった接客が良くおすすめですね駅近、交番近 朝市にも歩けとても安心できました」
                   </blockquote>
                 </div>
               </div>

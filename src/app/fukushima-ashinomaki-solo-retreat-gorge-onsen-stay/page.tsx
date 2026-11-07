@@ -529,7 +529,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.59 ／ 部屋 ★4.56 ／ 設備 ★4.48 ／ 風呂 ★4.56 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、おもてなしと温泉に大満足料理がとても美味しく、おもてなしも良かったです。お風呂も良かった。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-10-09 14:06:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理が美味しく、おもてなしと温泉に大満足料理がとても美味しく、おもてなしも良かったです。お風呂も良かった。」
                   </blockquote>
                 </div>
               </div>
@@ -551,7 +551,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「細やかな配慮と防災への備えに安心感入浴後の冷たいお水や電気ポットの脇に差し水用の容器があったりと、細部にわたり配慮が見えました。夜、非常階段の扉の点検もして回るなど、災害の備えも心がけており、…　2026-08-24 16:28:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「細やかな配慮と防災への備えに安心感入浴後の冷たいお水や電気ポットの脇に差し水用の容器があったりと、細部にわたり配慮が見えました。夜、非常階段の扉の点検もして回るなど、災害の備えも心がけており、…」
                   </blockquote>
                 </div>
               </div>
@@ -573,7 +573,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.96 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が充実し、駐車場も多くて便利飛び込みでの素泊まりしました。宿泊面での設備は充実しており部屋にあるコーヒーマシンを使わせていただきました。周囲に駐車場も多く存在して訪問しやすいです。クチコミ…　2026-10-06 19:50:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が充実し、駐車場も多くて便利飛び込みでの素泊まりしました。宿泊面での設備は充実しており部屋にあるコーヒーマシンを使わせていただきました。周囲に駐車場も多く存在して訪問しやすいです。…」
                   </blockquote>
                 </div>
               </div>
@@ -595,7 +595,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>約80台無料駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.16 ／ 部屋 ★4.13 ／ 設備 ★4 ／ 風呂 ★4.03 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最上川と鳥海山を望む絶景、また来ます3泊しました...8階の部屋で、最上川が綺麗に見えました...6月に宿泊した際は「出羽富士(鳥海山)」が見える同じ8階の反対側でした...また、お世話になります…　2026-10-10 00:43:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最上川と鳥海山を望む絶景、また来ます3泊しました...8階の部屋で、最上川が綺麗に見えました...6月に宿泊した際は「出羽富士(鳥海山)」が見える同じ8階の反対側でした...また、お世話になります…」
                   </blockquote>
                 </div>
               </div>
@@ -617,7 +617,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（宿泊者無料/先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。建物は古くて年季が入ってま…　2026-08-26 03:29:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。建物は古くて年季が入ってま…」
                   </blockquote>
                 </div>
               </div>

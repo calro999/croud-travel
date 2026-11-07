@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場80台分完備。当館をご利用のお客様はいつでも駐車いただけます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンが効かず、清掃が行き届いていない部屋のエアコンが冷えず部屋の外の方が涼しかった。テーブルの上に綿埃が多く、電話や電気スタンドを動かすとホコリが舞い上がった。食事に使うので拭き掃除をして…　2026-08-21 11:57:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンが効かず、清掃が行き届いていない部屋のエアコンが冷えず部屋の外の方が涼しかった。テーブルの上に綿埃が多く、電話や電気スタンドを動かすとホコリが舞い上がった。食事に使うので拭き掃除をして…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料大駐車場　バス２０台・乗用車１００台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が素晴らしくまた泊まりたい到着時はホテル外観に時代を感じさせるものだったのでちょっと心配したが、フロントスタッフの素晴らしい対応で心配も吹き飛んだ。スタッフの良さはフロントだけでなく…　2026-08-21 17:16:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が素晴らしくまた泊まりたい到着時はホテル外観に時代を感じさせるものだったのでちょっと心配したが、フロントスタッフの素晴らしい対応で心配も吹き飛んだ。スタッフの良さはフロントだけでなく…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　バス10台　乗用車70台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、眺望に大満足大変丁寧な接客で嬉しくなりました。夜ご飯も朝ごはんもとても美味しくお腹いっぱいになりました。お部屋の眺めも大変よかったです。ウェルカムドリンクが子供たちは…　2026-08-29 20:38:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と美味しい食事、眺望に大満足大変丁寧な接客で嬉しくなりました。夜ご飯も朝ごはんもとても美味しくお腹いっぱいになりました。お部屋の眺めも大変よかったです。ウェルカムドリンクが子供たちは…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの方がいい方が多く、設備、アメニティも種類も数もちょうどいいので、いつも利用しています。いつも、ありがとうございます。クチコミの詳細はこちらから　https://review.travel…　2026-08-18 20:19:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの方がいい方が多く、設備、アメニティも種類も数もちょうどいいので、いつも利用しています。いつも、ありがとうございます。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングが美味しくて食べ過ぎた!夕食・朝食ともにバイキング形式でした。すべてとても美味しかったです。食べ過ぎてしまい体重オーバーになってしまいました!?クチコミの詳細はこちらから　htt…　2026-08-17 16:35:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングが美味しくて食べ過ぎた!夕食・朝食ともにバイキング形式でした。すべてとても美味しかったです。食べ過ぎてしまい体重オーバーになってしまいました!?」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場56台／無料・先着順。満車時は近隣案内、詳細はフロント（0867-66-7550）まで</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く快適、ベッドは少し小さめ家族で一泊利用しました。シンプルで過ごしやすかったです。小学生の子供と一緒に寝るには、ややベッドは小さく感じました。立地も便利良く、フロントの方々の対…　2026-08-23 00:54:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く快適、ベッドは少し小さめ家族で一泊利用しました。シンプルで過ごしやすかったです。小学生の子供と一緒に寝るには、ややベッドは小さく感じました。立地も便利良く、フロントの方々の対…」
                   </blockquote>
                 </div>
               </div>

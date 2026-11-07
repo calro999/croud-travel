@@ -525,7 +525,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：なし　併設の宇都宮テラス駐車場：24時間毎最大料金 上層1,100円、下層1,300円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.57 ／ 部屋 ★4.54 ／ 設備 ★4.44 ／ 風呂 ★4.49 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「見晴らしの良いロビーと朝食の美味しさに感動ロビーが13階、12階以下が客室という少し変わったつくり。チェックインすべくエレベーターを降りたら明るく見晴らしのいいロビーが広がっていて、気分が上がりま…　2026-10-10 22:45:47投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=184376&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「見晴らしの良いロビーと朝食の美味しさに感動ロビーが13階、12階以下が客室という少し変わったつくり。チェックインすべくエレベーターを降りたら明るく見晴らしのいいロビーが広がっていて、気分が上がりま…」
                   </blockquote>
                 </div>
               </div>
@@ -547,7 +547,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場無し（提携駐車場あり・有料・詳しくはプラン詳細をご覧ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.41 ／ 部屋 ★4.4 ／ 設備 ★4.35 ／ 風呂 ★4.26 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても綺麗な部屋で快適でした。ジムもあり、朝食も美味しかったです。他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-10-09 20:15:47投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=136222&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても綺麗な部屋で快適でした。ジムもあり、朝食も美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -569,7 +569,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>58台(全高1.55m迄の制限あり)1泊1100円/泊 先着順。入庫不可時は徒歩5分の駐車場を案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.25 ／ 部屋 ★4.1 ／ 設備 ★3.99 ／ 風呂 ★3.92 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しく、設備は古く空調が寒め朝食は美味しく、レモン牛乳や、コーヒー牛乳など他では珍しいジュース類もたくさんありました。部屋も綺麗でしたが、全体的に設備が古い印象で、エアコン一括調整だっ…　2026-10-08 08:25:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は美味しく、設備は古く空調が寒め朝食は美味しく、レモン牛乳や、コーヒー牛乳など他では珍しいジュース類もたくさんありました。部屋も綺麗でしたが、全体的に設備が古い印象で、エアコン一括調整だっ…」
                   </blockquote>
                 </div>
               </div>

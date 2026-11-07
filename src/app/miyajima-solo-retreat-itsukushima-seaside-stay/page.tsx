@@ -563,7 +563,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：4台。島内は交通規制がございますので、できるだけ宮島口の有料駐車場をご利用下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.75 ／ 立地 ★4.77 ／ 部屋 ★4.63 ／ 設備 ★4.68 ／ 風呂 ★4.43 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事に大満足!部屋から厳島神社の大鳥居が見えるので、雰囲気はバッチリ!屋上からのサンセットも素敵でした。中でもお食事が美味しくて、牡蠣の西京味噌焼きは絶品。宮島島で食べ歩きしすぎない…　2026-10-05 07:08:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お食事に大満足!部屋から厳島神社の大鳥居が見えるので、雰囲気はバッチリ!屋上からのサンセットも素敵でした。中でもお食事が美味しくて、牡蠣の西京味噌焼きは絶品。宮島島で食べ歩きしすぎない…」
                   </blockquote>
                 </div>
               </div>
@@ -585,7 +585,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.78 ／ 立地 ★4.65 ／ 部屋 ★4.57 ／ 設備 ★4.43 ／ 風呂 ★4.7 ／ 食事 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/145390?reviewId=33123479563978　2026-09-29 16:08:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>
@@ -607,7 +607,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　55台　到着日の15時〜出立日の正午まで無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.4 ／ 部屋 ★4.21 ／ 設備 ★4.12 ／ 風呂 ★4.06 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅で利用しました。2日泊まればよかったと思うくらい、宮島までのフェリーは近いし、朝ごはんも美味しく、スタッフの方も親切でした!クチコミの詳細はこちらから　https://review.tra…　2026-10-08 22:36:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅で利用しました。2日泊まればよかったと思うくらい、宮島までのフェリーは近いし、朝ごはんも美味しく、スタッフの方も親切でした!」
                   </blockquote>
                 </div>
               </div>

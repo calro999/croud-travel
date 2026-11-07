@@ -511,7 +511,7 @@ export default function ArticlePage() {
                   <p>【信州の鎌倉・別所温泉ひとり旅・信州最古の名湯おこもり】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.48 ／ 部屋 ★4.71 ／ 設備 ★4.66 ／ 風呂 ★4.63 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。昨年は時期が少し早くてお目にかかれず残念な思いをしたので、今年は是非にと思い松…　2026-10-07 19:42:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松茸料理と源泉かけ流しの温泉に大満足いつもは蓼科高原に泊まるので、このあたりが松茸の産地だということを昨年知りました。昨年は時期が少し早くてお目にかかれず残念な思いをしたので、今年は是非にと思い松…」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場。お車は当方にて移動いたします。玄関に直接お越しくださいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日が最高の旅行に...夫の誕生日旅行で長野へ。別所温泉は初めてで、口コミで良さそうだったこちらの旅館を利用させていただきました。清潔な館内、見晴らしの良いお風呂、美味しくてボリュームたっぷ…　2026-08-29 23:07:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日が最高の旅行に...夫の誕生日旅行で長野へ。別所温泉は初めてで、口コミで良さそうだったこちらの旅館を利用させていただきました。清潔な館内、見晴らしの良いお風呂、美味しくてボリュームたっぷ…」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆約３０台分の無料駐車場あり◆全室Wi－Fi完備◆全室禁煙（喫煙室あり）◆当地で最大湯量の天然温泉</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.55 ／ 部屋 ★4.49 ／ 設備 ★4.29 ／ 風呂 ★4.52 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境とレトロな温泉、食事に課題あり別所温泉の駅から歩ける距離で、温泉街から少し離れていて静かで敷地も広く、趣きと歴史ある建物で、落ち着きます。温泉もステンドグラスのレトロな内装で個性…　2026-10-10 21:02:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境とレトロな温泉、食事に課題あり別所温泉の駅から歩ける距離で、温泉街から少し離れていて静かで敷地も広く、趣きと歴史ある建物で、落ち着きます。温泉もステンドグラスのレトロな内装で個性…」
                   </blockquote>
                 </div>
               </div>

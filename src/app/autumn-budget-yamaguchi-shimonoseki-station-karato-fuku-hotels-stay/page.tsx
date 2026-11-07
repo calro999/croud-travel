@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　14時から10時　700円~1100円（税込み／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.88 ／ 立地 ★3.91 ／ 部屋 ★3.91 ／ 設備 ★3.83 ／ 風呂 ★3.83 ／ 食事 ★3.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜、廊下で部屋のドアを開けっぱなしで大声でしゃべらないで欲しいものですフロントの方々の対応は親切でしたが、韓国人の団体が廊下で部屋のドアをあけたままずっとしゃべっていて、うるさくて眠れませんでした…　2026-10-05 16:54:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜、廊下で部屋のドアを開けっぱなしで大声でしゃべらないで欲しいものですフロントの方々の対応は親切でしたが、韓国人の団体が廊下で部屋のドアをあけたままずっとしゃべっていて、うるさくて眠れませんでした…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場先着順（普通車700円〜）／大型車事前電話予約必須￥1400〜￥2800</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★3.88 ／ 部屋 ★3.81 ／ 設備 ★3.71 ／ 風呂 ★3.62 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待どおり期待どおりのロケーション・朝食で料金以上の満足感がありました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-10-09 16:01:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待どおり期待どおりのロケーション・朝食で料金以上の満足感がありました。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>シーモール下関駐車場 　ご一泊500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.82 ／ 部屋 ★3.66 ／ 設備 ★3.59 ／ 風呂 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ダブルで広くて快適、禁煙で満足の部屋部屋を選ばないプランでしたが、ダブルで広くて快適でした。禁煙でもあり満足ですクチコミの詳細はこちらから　https://review.travel.raku…　2026-10-10 16:55:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ダブルで広くて快適、禁煙で満足の部屋部屋を選ばないプランでしたが、ダブルで広くて快適でした。禁煙でもあり満足です」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>600円/日　ご宿泊予約時に備考欄に記載ください。※記載がない場合はお取りできません。ご了承ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.08 ／ 部屋 ★4.15 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が広くて快適でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/9134?reviewId=3312347967…　2026-10-09 14:53:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が広くて快適でした。」
                   </blockquote>
                 </div>
               </div>

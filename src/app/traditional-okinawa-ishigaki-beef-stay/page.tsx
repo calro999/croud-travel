@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　1500円（税込み／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.24 ／ 部屋 ★4.29 ／ 設備 ★4.26 ／ 風呂 ★4.08 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一人旅でもおすすめ朝食は売りにしているだけあって、結構美味しかった。朝からテンションをあげられる。部屋に関してもベット下は埃だったが、客から見える範囲は清掃が非常に行き届いていた。また、部…　2026-09-28 11:57:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一人旅でもおすすめ朝食は売りにしているだけあって、結構美味しかった。朝からテンションをあげられる。部屋に関してもベット下は埃だったが、客から見える範囲は清掃が非常に行き届いていた。また、部…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順　5台　1500円（税込み／泊）※予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.25 ／ 部屋 ★4.11 ／ 設備 ★4.04 ／ 風呂 ★3.91 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が最高に美味しくて大満足!朝食が最高に美味しかったです!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1685…　2026-09-30 17:35:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が最高に美味しくて大満足!朝食が最高に美味しかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（299台/先着順）：宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リゾート感たっぷりのホテルで、小さなお子さんがいるご家庭には特におすすめです!プールやビーチなど、子どもたちと一緒に楽しめて、家族旅行の素敵な思い出になりました。食事については、少し好みが分か…　2026-08-20 22:19:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リゾート感たっぷりのホテルで、小さなお子さんがいるご家庭には特におすすめです!プールやビーチなど、子どもたちと一緒に楽しめて、家族旅行の素敵な思い出になりました。食事については、少し好みが分か…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>・24時間出し入れ自由な駐車場を無料駐車場を完備　※無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2泊3日で利用しました。悪かった点・チェックインをタブレットで行う。宿泊者の氏名を大きなディスプレイに表示させながら自身で入力を行うため、周囲の人に入力内容が丸見えである。また、入力履歴が残る…　2026-07-26 12:42:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2泊3日で利用しました。悪かった点・チェックインをタブレットで行う。宿泊者の氏名を大きなディスプレイに表示させながら自身で入力を行うため、周囲の人に入力内容が丸見えである。また、入力履歴が残る…」
                   </blockquote>
                 </div>
               </div>

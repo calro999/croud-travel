@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　65台　無料(移動はお客様自身でお願い致します。徒歩2〜3分の距離にございます。※送迎無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.53 ／ 部屋 ★4.5 ／ 設備 ★4.47 ／ 風呂 ★4.5 ／ 食事 ★4.57</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3回目の宿泊も大満足、料理も温泉も最高大好きな旅館で今回3回めの宿泊です。今回も素晴らしかったです。・アクセス修善寺温泉駅バス停の目の前で大変便利です。温泉街にも徒歩で行けます…　2026-09-21 17:09:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3回目の宿泊も大満足、料理も温泉も最高大好きな旅館で今回3回めの宿泊です。今回も素晴らしかったです。・アクセス修善寺温泉駅バス停の目の前で大変便利です。温泉街にも徒歩で行けます…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「7つの貸切風呂と海鮮料理に大満足貸切風呂が7個もあり、どのお風呂に入るか悩む楽しみがあり、名前にある通り湯めぐりが楽しめる宿でした。みんな貸切風呂に行くからか、大浴場に誰もおらず独り占めでき、贅沢…　2026-09-05 20:44:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「7つの貸切風呂と海鮮料理に大満足貸切風呂が7個もあり、どのお風呂に入るか悩む楽しみがあり、名前にある通り湯めぐりが楽しめる宿でした。みんな貸切風呂に行くからか、大浴場に誰もおらず独り占めでき、贅沢…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５９台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天気が今一つでも最後に富士山を一望できた天気が今一つでしたが、チェックアウト当日に富士山を一望出来て良かったです。クチコミの詳細はこちらから　https://review.travel.rak…　2026-09-11 23:37:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天気が今一つでも最後に富士山を一望できた天気が今一つでしたが、チェックアウト当日に富士山を一望出来て良かったです。」
                   </blockquote>
                 </div>
               </div>

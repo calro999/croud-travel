@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火と温泉、猫との触れ合いに大満足今回は塩原温泉の花火大会に合わせて宿泊しました。宿の前の道路をほんの少しだけ歩いた所から約30分間の花火を観る事ができて大満足でした。大きな花火大会ではなくても夏…　2026-08-11 21:13:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火と温泉、猫との触れ合いに大満足今回は塩原温泉の花火大会に合わせて宿泊しました。宿の前の道路をほんの少しだけ歩いた所から約30分間の花火を観る事ができて大満足でした。大きな花火大会ではなくても夏…」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　25台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.13 ／ 部屋 ★4.43 ／ 設備 ★4.34 ／ 風呂 ★4.65 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くてベットも寝心地が良く快適でした。お風呂も清潔感があり、部屋から近くて何回も入りました。貸し切り露天風呂が宿から外に出て石段を上がるのですが下駄を借りて行くのですが雨で傘もさしていたし夜…　2026-10-02 16:21:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広くてベットも寝心地が良く快適でした。お風呂も清潔感があり、部屋から近くて何回も入りました。貸し切り露天風呂が宿から外に出て石段を上がるのですが下駄を借りて行くのですが雨で傘もさしていたし夜…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　30台　無料（車高が低い車や、大型車、車椅子利用時などは事前にご連絡ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.41 ／ 部屋 ★4.32 ／ 設備 ★4.28 ／ 風呂 ★4.48 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの風呂と部屋食に大満足お部屋にお風呂付、夕食と朝食があるプランでした。お風呂はすべて源泉掛け流しで、様々な形式のものがあります。食事も美味しかったです。夕食は部屋食で丁寧な…　2026-10-01 12:48:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの風呂と部屋食に大満足お部屋にお風呂付、夕食と朝食があるプランでした。お風呂はすべて源泉掛け流しで、様々な形式のものがあります。食事も美味しかったです。夕食は部屋食で丁寧な…」
                   </blockquote>
                 </div>
               </div>

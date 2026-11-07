@@ -454,7 +454,7 @@ export default function YamaderaTendoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３００台ご用意しております。予約は、ご不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.5 ／ 部屋 ★4.63 ／ 設備 ★4.57 ／ 風呂 ★4.51 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一流のおもてなしと美味しい食事で家族との素敵な思い出今回は両親の金婚式・姉の銀婚式のお祝いで久しぶりに利用しました。こちらのお宿はどの従業員さんも笑顔が素敵で接客が素晴らしいです。チェックイン…　2026-10-06 01:40:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一流のおもてなしと美味しい食事で家族との素敵な思い出今回は両親の金婚式・姉の銀婚式のお祝いで久しぶりに利用しました。こちらのお宿はどの従業員さんも笑顔が素敵で接客が素晴らしいです。チェックイン…」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function YamaderaTendoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃の行き届いた部屋と美味しい食事に満足清掃も行き届いており、素敵なお部屋でした。食事もボリュームがあり、美味しく頂きました。温泉もゆったりと入り、リフレッシュに最適なお宿でしたクチコミの詳細…　2026-08-22 09:42:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃の行き届いた部屋と美味しい食事に満足清掃も行き届いており、素敵なお部屋でした。食事もボリュームがあり、美味しく頂きました。温泉もゆったりと入り、リフレッシュに最適なお宿でしたクチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function YamaderaTendoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の丁寧な対応に心から感謝今回初めて利用しました。他の温泉は、いろいろ行きましたが、ホテル従業員様の非常に丁寧なご対応に非常に気持ち良く、宿泊して過ごすことが出来、ありがとうございました。…　2026-09-03 15:38:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の丁寧な対応に心から感謝今回初めて利用しました。他の温泉は、いろいろ行きましたが、ホテル従業員様の非常に丁寧なご対応に非常に気持ち良く、宿泊して過ごすことが出来、ありがとうございました。…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function YamaderaTendoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料35台・予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心温まるおもてなしと最高の温泉と食事さくらんぼ狩り旅行in天童ほほえみの空湯船つるやさんに宿泊させて頂きました。当日、12:00頃天童駅に到着。王将果樹園さんの予約時間が13:00の為その…　2026-06-26 03:40:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心温まるおもてなしと最高の温泉と食事さくらんぼ狩り旅行in天童ほほえみの空湯船つるやさんに宿泊させて頂きました。当日、12:00頃天童駅に到着。王将果樹園さんの予約時間が13:00の為その…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function YamaderaTendoAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料200台・予約不要｜ホテル玄関前で荷下ろし後、当館から東に約130mの駐車場へご駐車ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.43 ／ 部屋 ★4.53 ／ 設備 ★4.47 ／ 風呂 ★4.54 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も満足。3歳と5歳の子供を連れて利用しました。ウェルカムドリンクや遊び場、絵本の貸し出し、お風呂後のヤクルトやアイスなどサービスが充実していてとても喜んで楽しく過ごすことができました…　2026-10-10 17:47:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も満足。3歳と5歳の子供を連れて利用しました。ウェルカムドリンクや遊び場、絵本の貸し出し、お風呂後のヤクルトやアイスなどサービスが充実していてとても喜んで楽しく過ごすことができました…」
                   </blockquote>
                 </div>
               </div>

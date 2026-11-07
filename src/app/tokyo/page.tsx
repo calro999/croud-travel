@@ -260,7 +260,7 @@ export default function TokyoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約制立体駐車場/1泊3000円 /入庫時間・車高制限有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日予約でしたが急な出張で当日限定お部屋お任せタイプで予約。一人で利用なんですが三人寝れる広さのお部屋に宿泊させていただき 仕事前にゆったりと過ごす事が出来ました。東京八重洲口から…　2026-08-21 16:42:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「当日予約でしたが急な出張で当日限定お部屋お任せタイプで予約。一人で利用なんですが三人寝れる広さのお部屋に宿泊させていただき 仕事前にゆったりと過ごす事が出来ました。東京八重洲口から…」
                   </blockquote>
                 </div>
               </div>
@@ -282,7 +282,7 @@ export default function TokyoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（286台）、\1800/泊（税込）　高さ2.1ｍ×幅2.0ｍ×長さ5.5ｍまでの車輌（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「双子連れでも広々快適、また利用したい0歳の双子を連れての宿泊。ベビーベッドのレンタルにも快く応じていただき、お部屋も広く快適でゆっくりすることができました。近くに寄った際はまたお邪魔したいと思…　2026-08-22 16:45:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「双子連れでも広々快適、また利用したい0歳の双子を連れての宿泊。ベビーベッドのレンタルにも快く応じていただき、お部屋も広く快適でゆっくりすることができました。近くに寄った際はまたお邪魔したいと思…」
                   </blockquote>
                 </div>
               </div>
@@ -304,7 +304,7 @@ export default function TokyoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>機械式立体駐車場有り（3,000円／1泊あたり）事前予約制</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセス良好で快適だが浴室の清掃が残念勝どき駅やバス停からも5分ほどで近くアクセスも良かったです。お部屋はすごく綺麗で、トイレとお風呂が分かれているところがとても良かったです。部屋着も上下に分…　2026-08-16 12:04:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アクセス良好で快適だが浴室の清掃が残念勝どき駅やバス停からも5分ほどで近くアクセスも良かったです。お部屋はすごく綺麗で、トイレとお風呂が分かれているところがとても良かったです。部屋着も上下に分…」
                   </blockquote>
                 </div>
               </div>
@@ -326,7 +326,7 @@ export default function TokyoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東京タワーが綺麗に見える今回は東京タワールームに宿泊しました。部屋に入ってすぐに窓から見える東京タワーにテンションが上がりました。内装もコンセプトルームだけあって、いい意味で東京タワー…　2026-08-17 14:01:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東京タワーが綺麗に見える今回は東京タワールームに宿泊しました。部屋に入ってすぐに窓から見える東京タワーにテンションが上がりました。内装もコンセプトルームだけあって、いい意味で東京タワー…」
                   </blockquote>
                 </div>
               </div>
@@ -348,7 +348,7 @@ export default function TokyoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場（高さ1.57ｍ、幅1.78m以下）1泊1,000円　2泊目以降一律1,500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広いお部屋とテーブルで子供たちとトランプ大会今回友人家族と一緒に遊びに来ました。 おまかせお部屋タイプグループ予約なので、ツインだったらいいのになぁと思っていたら 長いテーブルが付いている広いお部…　2026-08-20 02:35:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広いお部屋とテーブルで子供たちとトランプ大会今回友人家族と一緒に遊びに来ました。 おまかせお部屋タイプグループ予約なので、ツインだったらいいのになぁと思っていたら 長いテーブルが付いている広いお部…」
                   </blockquote>
                 </div>
               </div>
@@ -370,7 +370,7 @@ export default function TokyoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 5台 2500円（1泊） 要電話予約。提携駐車場なし。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秋葉原駅近でReFaのドライヤーも完備!推しのライブが東京であり2泊利用させて頂きました。秋葉原駅からも近く夜遅くの到着でも安心してホテルに向かえました落ち着いたシックな雰囲気がとても素敵…　2026-07-09 21:40:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「秋葉原駅近でReFaのドライヤーも完備!推しのライブが東京であり2泊利用させて頂きました。秋葉原駅からも近く夜遅くの到着でも安心してホテルに向かえました落ち着いたシックな雰囲気がとても素敵…」
                   </blockquote>
                 </div>
               </div>

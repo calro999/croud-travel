@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通乗用車タイプ28台、無料、道路を挟んで旅館の向かい側。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.38 ／ 部屋 ★4.22 ／ 設備 ★4.19 ／ 風呂 ★4.6 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は良かったが混雑時のマナーが残念素泊まりで利用しました。宿泊当日にマラソン大会が開催されるとのことで、フロントから「ランナーの方が温泉を利用するため、混み合う可能性がある」と説明を受け…　2026-09-25 07:05:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は良かったが混雑時のマナーが残念素泊まりで利用しました。宿泊当日にマラソン大会が開催されるとのことで、フロントから「ランナーの方が温泉を利用するため、混み合う可能性がある」と説明を受け…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.25 ／ 部屋 ★4.09 ／ 設備 ★3.98 ／ 風呂 ★4.12 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いですがごはんはおいしかったし、大変満足しておりますホテルとは関係ないですが、ホテルすぐ隣で花火があがったのも良かったクチコミの詳細はこちらから　https://review.travel…　2026-10-07 07:21:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いですがごはんはおいしかったし、大変満足しておりますホテルとは関係ないですが、ホテルすぐ隣で花火があがったのも良かった」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に４０台 無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.22 ／ 部屋 ★4.37 ／ 設備 ★4.33 ／ 風呂 ★4.63 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リフォームされた綺麗な館内と二種の源泉西の河原公園の近くにあります。草津温泉に旅行した際に宿泊しました。夕食なし朝食のみのプランです。歴史ある建物ですが、中はリフォームされていて大…　2026-09-07 21:56:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リフォームされた綺麗な館内と二種の源泉西の河原公園の近くにあります。草津温泉に旅行した際に宿泊しました。夕食なし朝食のみのプランです。歴史ある建物ですが、中はリフォームされていて大…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　余裕有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.33 ／ 部屋 ★4.5 ／ 設備 ★4.47 ／ 風呂 ★4.59 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーター特典がなく残念、食事と接客は満足リピーターです。前回までは毎回リピーター特典があり、特別感を感じられて嬉しかったのですが、今回はなく少しがっかりしました。でも、相変わらずご飯…　2026-10-10 19:42:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーター特典がなく残念、食事と接客は満足リピーターです。前回までは毎回リピーター特典があり、特別感を感じられて嬉しかったのですが、今回はなく少しがっかりしました。でも、相変わらずご飯…」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p>【湯けむりとカフェ＆カクテルの至福。絶景足湯テラス・足】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.45 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.53 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性への配慮が行き届き、一人旅でも快適女性目線でいろいろ配慮があって、また泊まりたいと思わせてくれるお宿でした。1人旅でしたが、他にも1人旅らしき方を数名お見かけしました。ごはんも、見た目…　2026-10-06 19:16:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性への配慮が行き届き、一人旅でも快適女性目線でいろいろ配慮があって、また泊まりたいと思わせてくれるお宿でした。1人旅でしたが、他にも1人旅らしき方を数名お見かけしました。ごはんも、見た目…」
                   </blockquote>
                 </div>
               </div>

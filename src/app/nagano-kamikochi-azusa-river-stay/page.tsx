@@ -324,7 +324,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の大正池も風情があり、食事も美味雨が降っていたので残念でしたが、部屋の窓から見える雨の大正池も良かったです。次は晴れてる時に泊まりたいです。夕食も朝食も美味しかったです。クチコミ…　2026-09-02 16:58:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の大正池も風情があり、食事も美味雨が降っていたので残念でしたが、部屋の窓から見える雨の大正池も良かったです。次は晴れてる時に泊まりたいです。夕食も朝食も美味しかったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　23台【無料】　徒歩3分の岩見平駐車場から上高地までバスで約20分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のホテルでした!1泊3人で宿泊しました。チェックなど、スタッフの方の説明に無駄がなく皆さん笑顔で気持ちがよかったです。朝、夕の食事が最高すぎました。量も味も大満足!一口ステーキがとても柔らかく…　2026-08-29 17:43:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のホテルでした!1泊3人で宿泊しました。チェックなど、スタッフの方の説明に無駄がなく皆さん笑顔で気持ちがよかったです。朝、夕の食事が最高すぎました。量も味も大満足!一口ステーキがとても柔らかく…」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「登山好きにはたまらない、おすすめの宿登山が趣味なのですが、同じく登山が趣味の方にはおすすめできる宿だと思います。クチコミの詳細はこちらから　https://review.travel.ra…　2026-08-10 12:24:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「登山好きにはたまらない、おすすめの宿登山が趣味なのですが、同じく登山が趣味の方にはおすすめできる宿だと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。食事もおいしいし、連…　2026-09-09 15:54:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。食事もおいしいし、連…」
                   </blockquote>
                 </div>
               </div>

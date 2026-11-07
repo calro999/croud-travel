@@ -324,7 +324,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ご宿泊者様は皆様駐車可能（場所は先着順・無料です。ご予約は承っておりません。ご了承下さいませ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「室内にノミがいて噛まれた。室内にノミがいて3箇所噛まれた。夏はもう泊まらん。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-08-22 23:49:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「室内にノミがいて噛まれた。室内にノミがいて3箇所噛まれた。夏はもう泊まらん。」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.46 ／ 部屋 ★4.6 ／ 設備 ★4.54 ／ 風呂 ★4.58 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高で大満足の旅今回、夫婦で宿泊させていただきましたが、到着から出発まで大変気持ちよく過ごすことができ、本当に大満足のお宿でした。何より印象に残ったのは、スタッフの皆さん…　2026-10-10 18:58:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高で大満足の旅今回、夫婦で宿泊させていただきましたが、到着から出発まで大変気持ちよく過ごすことができ、本当に大満足のお宿でした。何より印象に残ったのは、スタッフの皆さん…」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車料金：普通車1100円・二輪800円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔とアンパンマン布団で良い思い出宿のスタッフの皆様の笑顔が素敵で快適に過ごすことができました。初めての三世代旅行でしたが、アンパン布団も用意して頂き良い思い出になりました!!ク…　2026-08-29 19:41:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの笑顔とアンパンマン布団で良い思い出宿のスタッフの皆様の笑顔が素敵で快適に過ごすことができました。初めての三世代旅行でしたが、アンパン布団も用意して頂き良い思い出になりました!!ク…」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function MicroTouristHubPage() {
                   <p>【高知・四万十川＆沈下橋・足摺岬：日本最後の清流カヌー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と眺望は最高、お風呂は熱すぎて...海の見えるベッドのお部屋が満室、高齢者を連れて和室は少々不安もありながらの予約。しかしエレベーター降りてすぐの部屋で助かったのと、畳も綺麗で清潔感があり、掃…　2026-09-01 23:42:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と眺望は最高、お風呂は熱すぎて...海の見えるベッドのお部屋が満室、高齢者を連れて和室は少々不安もありながらの予約。しかしエレベーター降りてすぐの部屋で助かったのと、畳も綺麗で清潔感があり、掃…」
                   </blockquote>
                 </div>
               </div>

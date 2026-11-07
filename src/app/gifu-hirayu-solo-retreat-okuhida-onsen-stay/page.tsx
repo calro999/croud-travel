@@ -511,7 +511,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.13 ／ 部屋 ★4.28 ／ 設備 ★4.11 ／ 風呂 ★4.31 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は絶品で静かな環境、お風呂の湯量に難あり夕食は飛騨牛や岩魚の塩焼きなど、食べきれないほどおかずが豊富で、朝食も自家製ハチミツをつけて食べたクロワッサンは絶品。宿も全体的に静かで落ち着いており、…　2026-10-08 17:08:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は絶品で静かな環境、お風呂の湯量に難あり夕食は飛騨牛や岩魚の塩焼きなど、食べきれないほどおかずが豊富で、朝食も自家製ハチミツをつけて食べたクロワッサンは絶品。宿も全体的に静かで落ち着いており、…」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p>【奥飛騨・平湯温泉ひとり旅・北アルプス山懐の原生林秘湯】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.23 ／ 部屋 ★4.35 ／ 設備 ★3.95 ／ 風呂 ★4.22 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「囲炉裏料理と細やかな気遣いに癒やされる到着した際にたんぽぽコーヒーを出して頂いたのですが、甘さがあって飲みやすくてとても美味しかったです。お食事はまず夕食の際に囲炉裏で鮎の塩焼きと五平餅が焼か…　2026-10-04 16:09:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「囲炉裏料理と細やかな気遣いに癒やされる到着した際にたんぽぽコーヒーを出して頂いたのですが、甘さがあって飲みやすくてとても美味しかったです。お食事はまず夕食の際に囲炉裏で鮎の塩焼きと五平餅が焼か…」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨牛と白米は絶品、建物は古く防音に難あり従業員の方々はとても親切でした。昔ながらの宿と言った感じです。客室は2階でしたが、隣の部屋で動きがあると、わかるくらい揺れるし、音が聞こえました。…　2026-08-30 13:02:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飛騨牛と白米は絶品、建物は古く防音に難あり従業員の方々はとても親切でした。昔ながらの宿と言った感じです。客室は2階でしたが、隣の部屋で動きがあると、わかるくらい揺れるし、音が聞こえました。…」
                   </blockquote>
                 </div>
               </div>

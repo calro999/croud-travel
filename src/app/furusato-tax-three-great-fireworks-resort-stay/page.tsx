@@ -413,7 +413,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要 先着順  ※満車の際は近隣駐車場をご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が不便で精算の手間が惜しい提携駐車場の場所がホテル横に2軒あり、奥側とすぐには気づけなかった。一泊しただけで1500円程度手持ちキャッシュが無いと駐車場から出られず、両替が必要かつ、…　2026-08-29 20:32:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が不便で精算の手間が惜しい提携駐車場の場所がホテル横に2軒あり、奥側とすぐには気づけなかった。一泊しただけで1500円程度手持ちキャッシュが無いと駐車場から出られず、両替が必要かつ、…」
                   </blockquote>
                 </div>
               </div>
@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車　1泊1台：1,000円／予約不要／満車時は提携駐車場をご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長岡駅に近くビジネス利用に便利でした。朝食が美味しかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/2104?…　2026-09-05 13:52:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長岡駅に近くビジネス利用に便利でした。朝食が美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>300台有　無料(普通乗用車)　それ以外(中型車以上)の車は有料￥2200（電話にて要予約）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な予約にも快く対応、また利用したい急な予約でしたが、ご対応いただきましてありがとうございました。また茨城へ行く際には、金額もお手頃なので利用したいと思います。クチコミの詳細はこちらから　…　2026-09-05 10:01:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な予約にも快く対応、また利用したい急な予約でしたが、ご対応いただきましてありがとうございました。また茨城へ行く際には、金額もお手頃なので利用したいと思います。」
                   </blockquote>
                 </div>
               </div>

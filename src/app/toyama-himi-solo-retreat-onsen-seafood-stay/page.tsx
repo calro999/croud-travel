@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.63 ／ 部屋 ★4.53 ／ 設備 ★4.31 ／ 風呂 ★4.33 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「舟盛りと接客に大満足女子2人、舟盛りプランで宿泊。質も量も大満足。接客もとても良かった。部屋は古いけど、壁を綺麗な色に塗ったりエアコンも良いものを入れたりで良かった。清掃も行き届いてい…　2026-10-02 13:57:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「舟盛りと接客に大満足女子2人、舟盛りプランで宿泊。質も量も大満足。接客もとても良かった。部屋は古いけど、壁を綺麗な色に塗ったりエアコンも良いものを入れたりで良かった。清掃も行き届いてい…」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4.47 ／ 部屋 ★4.37 ／ 設備 ★4.16 ／ 風呂 ★4.38 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「氷見駅までバスで送迎していただきホテルに行きました。チェックイン時間になっていませんでしたが、チェックインしていただきお部屋にも入らせてもらいました。ホテルのフロントの方の説明が丁寧でわかりや…　2026-10-10 09:49:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「氷見駅までバスで送迎していただきホテルに行きました。チェックイン時間になっていませんでしたが、チェックインしていただきお部屋にも入らせてもらいました。ホテルのフロントの方の説明が丁寧でわかりや…」
                   </blockquote>
                 </div>
               </div>
@@ -557,7 +557,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　屋内60台　お車、バイクのお客様は旅館の正面までお越し下さい。係がご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と美味しい食事に大満足の旅前日に特別警報が出ていたので行くかギリギリまで悩み、被害状況など宿に確認し、当日伺いましたが行って大正解の宿でした!(お電話で状況を確認した時もとても丁寧に教…　2026-08-29 22:33:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切風呂と美味しい食事に大満足の旅前日に特別警報が出ていたので行くかギリギリまで悩み、被害状況など宿に確認し、当日伺いましたが行って大正解の宿でした!(お電話で状況を確認した時もとても丁寧に教…」
                   </blockquote>
                 </div>
               </div>

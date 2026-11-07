@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.71 ／ 部屋 ★4.78 ／ 設備 ★4.73 ／ 風呂 ★4.76 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2 度目の来訪2度目の来訪です。初めては夫と宿泊し全てが最高だったため、次回は娘も連れてきてあげたいと思い2人での宿泊でした。結果、大満足の旅となりました。接客はもちろん、お部屋も…　2026-09-23 20:35:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2 度目の来訪2度目の来訪です。初めては夫と宿泊し全てが最高だったため、次回は娘も連れてきてあげたいと思い2人での宿泊でした。結果、大満足の旅となりました。接客はもちろん、お部屋も…」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　50台　１泊　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客も食事も温泉も最高、また紹介したい宿シニア夫婦で 色々な温泉宿に泊まってますが、定山渓のふる川さんは大満足でした まず、従業員の方々が非常に感じがよく そしてお食事もお風呂も最高でした。強いて…　2026-09-12 17:25:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客も食事も温泉も最高、また紹介したい宿シニア夫婦で 色々な温泉宿に泊まってますが、定山渓のふる川さんは大満足でした まず、従業員の方々が非常に感じがよく そしてお食事もお風呂も最高でした。強いて…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１00台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.4 ／ 部屋 ★4.46 ／ 設備 ★4.42 ／ 風呂 ★4.45 ／ 食事 ★4.58</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日のお祝いに丁寧な対応で大満足恋人のお誕生日祝いで泊まりました。事前に誕生日ケーキをお願いしており、受け取りが夜中だったにも関わらず丁寧に対応していただきました。当初の受け取り時間よりも遅…　2026-10-07 17:57:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「誕生日のお祝いに丁寧な対応で大満足恋人のお誕生日祝いで泊まりました。事前に誕生日ケーキをお願いしており、受け取りが夜中だったにも関わらず丁寧に対応していただきました。当初の受け取り時間よりも遅…」
                   </blockquote>
                 </div>
               </div>

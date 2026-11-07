@@ -526,7 +526,7 @@ export default function ArticlePage() {
                   <p>【蔵王温泉ひとり旅・強酸性美肌の湯おこもり：大露天風呂】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…　2026-08-15 21:48:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピートしているが今回は少し残念な内容蔵王ではお気に入りのホテルで何度かリピートしております。今回は野天風呂が利用出来ず残念でした。料理もいつもに比べるとお米の味が落ちたように感じました。…」
                   </blockquote>
                 </div>
               </div>
@@ -548,7 +548,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,000円。先着順となります（予約不可）※大型車は駐車出来ません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★3.96 ／ 部屋 ★3.98 ／ 設備 ★3.86 ／ 風呂 ★3.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が充実し、駐車場も多くて便利飛び込みでの素泊まりしました。宿泊面での設備は充実しており部屋にあるコーヒーマシンを使わせていただきました。周囲に駐車場も多く存在して訪問しやすいです。クチコミ…　2026-10-06 19:50:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が充実し、駐車場も多くて便利飛び込みでの素泊まりしました。宿泊面での設備は充実しており部屋にあるコーヒーマシンを使わせていただきました。周囲に駐車場も多く存在して訪問しやすいです。…」
                   </blockquote>
                 </div>
               </div>
@@ -570,7 +570,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>約80台無料駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.18 ／ 立地 ★4.16 ／ 部屋 ★4.13 ／ 設備 ★4 ／ 風呂 ★4.03 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最上川と鳥海山を望む絶景、また来ます3泊しました...8階の部屋で、最上川が綺麗に見えました...6月に宿泊した際は「出羽富士(鳥海山)」が見える同じ8階の反対側でした...また、お世話になります…　2026-10-10 00:43:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最上川と鳥海山を望む絶景、また来ます3泊しました...8階の部屋で、最上川が綺麗に見えました...6月に宿泊した際は「出羽富士(鳥海山)」が見える同じ8階の反対側でした...また、お世話になります…」
                   </blockquote>
                 </div>
               </div>
@@ -592,7 +592,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台（宿泊者無料/先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。建物は古くて年季が入ってま…　2026-08-26 03:29:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「渓谷の涼風と絶品黒毛和牛、最高の温泉体験宿の立地・環境は避暑には最適で、盛夏の15時でも建物の中は気温22度しかなく、渓谷から涼しい風が入ってきて別天地のようでした。建物は古くて年季が入ってま…」
                   </blockquote>
                 </div>
               </div>

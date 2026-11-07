@@ -324,7 +324,7 @@ export default function MicroTouristHubPage() {
                   <p>【山梨・八ヶ岳＆清里高原：清里テラス・萌木の村＆八ヶ岳】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光地の情報不足、もっと工夫がほしい地元の観光地の詳細な情報にかけている。もっと楽しませるやり方があるのではないかと思う。クチコミの詳細はこちらから　https://review.travel…　2026-08-28 20:51:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光地の情報不足、もっと工夫がほしい地元の観光地の詳細な情報にかけている。もっと楽しませるやり方があるのではないかと思う。」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 乗用車179台　無料（先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供の遊び場が充実、また行きたい!とにかく子供の遊び場が充実しており、4歳1歳も大喜びで、滞在中はほとんど遊んでいました。親としては旅行の工程を色々考えていましたが、ここでの遊びが楽しすぎてなかな…　2026-09-05 16:42:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供の遊び場が充実、また行きたい!とにかく子供の遊び場が充実しており、4歳1歳も大喜びで、滞在中はほとんど遊んでいました。親としては旅行の工程を色々考えていましたが、ここでの遊びが楽しすぎてなかな…」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…　2026-08-31 17:21:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…」
                   </blockquote>
                 </div>
               </div>

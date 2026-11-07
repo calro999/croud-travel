@@ -782,7 +782,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　155台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。お部屋も清潔感があり、スタッフの方々の対応も丁寧で気持ちよ…　2026-09-05 21:16:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。お部屋も清潔感があり、スタッフの方々の対応も丁寧で気持ちよ…」
                   </blockquote>
                 </div>
               </div>
@@ -804,7 +804,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有 185台 2026年8月1日より有料となります。500円/1泊　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待していたサービスや清潔感に欠ける内容プールやプラネタリウムなど、館内の施設がほとんど追加料金制だったのが残念でした。駐車場も有料。この価格帯であれば、同程度の料金でオールインクルーシブのホテル…　2026-09-02 15:41:28投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=160835&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待していたサービスや清潔感に欠ける内容プールやプラネタリウムなど、館内の施設がほとんど追加料金制だったのが残念でした。駐車場も有料。この価格帯であれば、同程度の料金でオールインクルーシブのホテル…」
                   </blockquote>
                 </div>
               </div>
@@ -848,7 +848,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外150台有料：普通車1泊500円（大型要問合せ）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レイクビューとラウンジのお酒に感動レイクビューの部屋に宿泊しました!部屋は綺麗で景色も最高でした!夜のラウンジを利用しました。お酒の種類の多さに感動してついつい飲みすぎました!ただ、おつまみの…　2026-08-29 21:31:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レイクビューとラウンジのお酒に感動レイクビューの部屋に宿泊しました!部屋は綺麗で景色も最高でした!夜のラウンジを利用しました。お酒の種類の多さに感動してついつい飲みすぎました!ただ、おつまみの…」
                   </blockquote>
                 </div>
               </div>

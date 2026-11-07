@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一生懸命な接客と美味しい食事に大満足スタッフに在留生が多いが皆さんニコニコしてて大変気持ちいいし、接客も一生懸命で非常にもてなされた気分をいただきました。食事も美味しく山の中の宿らしいメニューです…　2026-08-24 19:32:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「一生懸命な接客と美味しい食事に大満足スタッフに在留生が多いが皆さんニコニコしてて大変気持ちいいし、接客も一生懸命で非常にもてなされた気分をいただきました。食事も美味しく山の中の宿らしいメニューです…」
                   </blockquote>
                 </div>
               </div>

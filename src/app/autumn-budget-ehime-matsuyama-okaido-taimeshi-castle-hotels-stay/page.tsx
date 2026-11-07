@@ -496,7 +496,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【駐車場】50台1000円(税込/泊)先着順【駐輪場】500円(税込/泊)　※旧館セカンドにてご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.91 ／ 立地 ★3.94 ／ 部屋 ★3.84 ／ 設備 ★3.79 ／ 風呂 ★3.9 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自動販売機に酒類がなくて残念自動販売機に酒類がなかったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/164470?…　2026-10-08 16:22:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自動販売機に酒類がなくて残念自動販売機に酒類がなかった」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>伊予鉄市駅西駐車場（レフ松山市駅から徒歩2分）（自走式立体駐車場 / 先着順）1,000円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.57 ／ 部屋 ★4.5 ／ 設備 ★4.46 ／ 風呂 ★4.46 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「みかんジュースとソフトクリームに大満足朝ごはんのみかんジュースのに比べが嬉しい。また『ウエルカムソフトクリーム』は初。普段食べないのにおかわりしちゃった。クチコミの詳細はこちらから　https…　2026-10-01 10:44:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「みかんジュースとソフトクリームに大満足朝ごはんのみかんジュースのに比べが嬉しい。また『ウエルカムソフトクリーム』は初。普段食べないのにおかわりしちゃった。」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>200台収容の駐車場【無料】バス駐車場についてはお問い合わせください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★3.98 ／ 部屋 ★4.13 ／ 設備 ★3.99 ／ 風呂 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓の汚れと備え付けの紙コップにがっかり窓の内側が手の跡だらけで汚かった。窓拭きしたことがないという感じでした。洗面所のコップが紙コップなのはまだしも、部屋のグラスやマグカップもなく、紙コップと…　2026-10-01 12:41:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓の汚れと備え付けの紙コップにがっかり窓の内側が手の跡だらけで汚かった。窓拭きしたことがないという感じでした。洗面所のコップが紙コップなのはまだしも、部屋のグラスやマグカップもなく、紙コップと…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約が必要です。普通車１泊 800円〜　※満車時は近隣コインPのご紹介となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.91 ／ 部屋 ★3.81 ／ 設備 ★3.72 ／ 風呂 ★3.63 ／ 食事 ★3.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「JR松山駅から徒歩圏内、静かでリーズナブル松山空港からバスで、JR松山駅まで行き、そこから歩いて2~3分と便利なところでした。部屋は古い感じでしたが、そんなに汚れもなく問題なく過ごせます。…　2026-10-05 17:01:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「JR松山駅から徒歩圏内、静かでリーズナブル松山空港からバスで、JR松山駅まで行き、そこから歩いて2~3分と便利なところでした。部屋は古い感じでしたが、そんなに汚れもなく問題なく過ごせます。…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function AutumnBudgetMatsuyamaOkaidoHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■先着順（予約不可）隣接の立体と屋外平面（かなり急な坂の上）約50台。1泊1台に付き800円。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.47 ／ 部屋 ★4.35 ／ 設備 ★4.26 ／ 風呂 ★4.28 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが掃除が行き届きリラックスできたホテルは古いが、掃除が行き届いていて良かったリラックス出来たクチコミの詳細はこちらから　https://review.travel.rakuten…　2026-10-09 09:38:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが掃除が行き届きリラックスできたホテルは古いが、掃除が行き届いていて良かったリラックス出来た」
                   </blockquote>
                 </div>
               </div>

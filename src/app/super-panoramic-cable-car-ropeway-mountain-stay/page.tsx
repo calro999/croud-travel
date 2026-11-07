@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　７４台　無料　事前のご連絡不要　空いてる区画スペースにお停めください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.43 ／ 部屋 ★4.32 ／ 設備 ★4.31 ／ 風呂 ★4.27 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の清掃不備とコンビニまでの距離が難点平日に泊まりましたがほとんど外国人観光客の方でした。部屋の広さは二人で荷物入れたらちょうどいいくらいでした。部屋の清掃なのですがパッと見は綺麗でした…　2026-10-10 23:50:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の清掃不備とコンビニまでの距離が難点平日に泊まりましたがほとんど外国人観光客の方でした。部屋の広さは二人で荷物入れたらちょうどいいくらいでした。部屋の清掃なのですがパッと見は綺麗でした…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>106台まで無料（平面・予約不要）、大型車（4トン以上クラス）は有料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.1 ／ 部屋 ★4.21 ／ 設備 ★4.17 ／ 風呂 ★4.16 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「インター近くで便利、大浴場とアワータイムが最高高速インター近くで便利。大浴場、露天風呂があり疲れが癒されます!アワータイムも最高!!クチコミの詳細はこちらから　https://revi…　2026-10-09 06:36:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「インター近くで便利、大浴場とアワータイムが最高高速インター近くで便利。大浴場、露天風呂があり疲れが癒されます!アワータイムも最高!!」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.49 ／ 部屋 ★4.35 ／ 設備 ★4.22 ／ 風呂 ★4.29 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。お風呂場は洗い場の排水が追いついていないのか?ザブザブと溜まっ…　2026-10-09 13:26:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格とサービスのバランスに少し不満あり所々、リニューアルされていました。が、人手が足りていないと感じる場面が何度もありました。お風呂場は洗い場の排水が追いついていないのか?ザブザブと溜まっ…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無。有料提携駐車場（お城下パーキング2番町、フラワーパーキング2番町など）をご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンプディングが安定の美味しさパンプディングが安定の美味しさでした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-08-29 19:22:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンプディングが安定の美味しさパンプディングが安定の美味しさでした。」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p>【雲の上の絶景ステイ】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。クマ騒動がありましたが、自然のなかでとても満足しています特に食事は本当に素晴らしかったですクチコミの詳細はこち…　2026-08-16 22:13:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。クマ騒動がありましたが、自然のなかでとても満足しています特に食事は本当に素晴らしかったですクチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>

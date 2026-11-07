@@ -526,7 +526,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★3.51 ／ 部屋 ★3.48 ／ 設備 ★3.22 ／ 風呂 ★3.5 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/72…　2026-09-17 19:41:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。」
                   </blockquote>
                 </div>
               </div>
@@ -548,7 +548,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 120台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、犬連れでも快適に過ごせる温泉宿施設は少し年季が入っていますが、隅々まで掃除が行き届いていて、とても清潔感があり、気持ちよく過ごすことができました。スタッフの皆さんも親切で温かく、とて…　2026-08-22 16:51:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、犬連れでも快適に過ごせる温泉宿施設は少し年季が入っていますが、隅々まで掃除が行き届いていて、とても清潔感があり、気持ちよく過ごすことができました。スタッフの皆さんも親切で温かく、とて…」
                   </blockquote>
                 </div>
               </div>

@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.6 ／ 部屋 ★4.6 ／ 設備 ★4.52 ／ 風呂 ★4.69 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内ツアーで歴史を学び有意義なひととき歴史ある宿で館内ツアーもあり建物や過去の時代の詳しい説明があり有意義な時間を過ごせました。クチコミの詳細はこちらから　https://review.tra…　2026-10-05 05:10:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内ツアーで歴史を学び有意義なひととき歴史ある宿で館内ツアーもあり建物や過去の時代の詳しい説明があり有意義な時間を過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉を堪能し、女将さんの想いに感銘を受けたその節はありがとうございました。全ての貸切風呂にも入ることができましたし、部屋の温泉にも入りたい時に入れましたし、本当に温泉を堪能することができました…　2026-09-06 19:13:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉を堪能し、女将さんの想いに感銘を受けたその節はありがとうございました。全ての貸切風呂にも入ることができましたし、部屋の温泉にも入りたい時に入れましたし、本当に温泉を堪能することができました…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。何もすることが…　2026-09-19 12:41:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。何もすることが…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p>【群馬・四万温泉＆奥四万湖：奇跡の四万ブルー・千と千尋】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回の角部屋でした。洗面所の窓がそのままでカーテンもなく外から丸見えな感じで嫌でした。 夕食は、バイキングで楽しんでいたねに、まだ食べ物があるのに下げられて不快でした。風呂上がりに牛乳、コ…　2026-08-29 19:56:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回の角部屋でした。洗面所の窓がそのままでカーテンもなく外から丸見えな感じで嫌でした。 夕食は、バイキングで楽しんでいたねに、まだ食べ物があるのに下げられて不快でした。風呂上がりに牛乳、コ…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館の目の前に5台ほど。もしくは当館の向かい側駐車場をご利用ください。無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お洒落で無駄のない空間、コスパも最高とても綺麗でお洒落なデザインのホテルでした。無駄なものがない。至れり尽くせりのサービスを期待している人にはちょっと物足りないかもしれないけど、私にはこれくらいが…　2026-08-25 17:13:29投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182402&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お洒落で無駄のない空間、コスパも最高とても綺麗でお洒落なデザインのホテルでした。無駄なものがない。至れり尽くせりのサービスを期待している人にはちょっと物足りないかもしれないけど、私にはこれくらいが…」
                   </blockquote>
                 </div>
               </div>

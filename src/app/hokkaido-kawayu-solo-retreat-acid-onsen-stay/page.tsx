@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p>【道東・川湯温泉ひとり旅・硫黄山pH1.7強酸性泉おこ】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.12 ／ 部屋 ★3.96 ／ 設備 ★3.78 ／ 風呂 ★4.18 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の質とスタッフの心遣いに大満足川湯温泉は本当に穴場で、温泉の質も良いのに宿泊料金がお値打ちなので驚きます。設備は昭和っぽい作りの温泉旅館ホテル、中年には懐かしい感じです。夕食の膳は多す…　2026-10-05 11:19:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の質とスタッフの心遣いに大満足川湯温泉は本当に穴場で、温泉の質も良いのに宿泊料金がお値打ちなので驚きます。設備は昭和っぽい作りの温泉旅館ホテル、中年には懐かしい感じです。夕食の膳は多す…」
                   </blockquote>
                 </div>
               </div>

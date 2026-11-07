@@ -49,7 +49,7 @@ export default function DynamicSidebar({ side }: DynamicSidebarProps) {
 
         <TravelBanner
           imageSrc="/images/rakuten_furusato_travel.png"
-          linkUrl="/campaigns"
+          linkUrl="/furusato"
           altText="楽天トラベル ふるさと納税クーポン"
         />
         <TravelBanner

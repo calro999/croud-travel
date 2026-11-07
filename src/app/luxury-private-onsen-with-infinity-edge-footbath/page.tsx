@@ -495,7 +495,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　24台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手間のかかった料理とスタッフの気遣いに感動手間のかかった料理 堪能させて頂きましたスタッフの方々の気遣いも素晴らしかったですクチコミの詳細はこちらから　https://review.tra…　2026-08-09 12:27:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手間のかかった料理とスタッフの気遣いに感動手間のかかった料理 堪能させて頂きましたスタッフの方々の気遣いも素晴らしかったです」
                   </blockquote>
                 </div>
               </div>
@@ -517,7 +517,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　余裕有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.33 ／ 部屋 ★4.5 ／ 設備 ★4.47 ／ 風呂 ★4.59 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーター特典がなく残念、食事と接客は満足リピーターです。前回までは毎回リピーター特典があり、特別感を感じられて嬉しかったのですが、今回はなく少しがっかりしました。でも、相変わらずご飯…　2026-10-10 19:42:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピーター特典がなく残念、食事と接客は満足リピーターです。前回までは毎回リピーター特典があり、特別感を感じられて嬉しかったのですが、今回はなく少しがっかりしました。でも、相変わらずご飯…」
                   </blockquote>
                 </div>
               </div>
@@ -539,7 +539,7 @@ export default function Page() {
                   <p>【水盤と空が一体化する】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「少し気になる点がありましたラウンジがあるのはありがたかったですが、席数が少ないのですぐいっぱいでした。部屋にめちゃくちゃ大きいムカデが出ました、、、(    )3歳の子供がいたので夜とか寝…　2026-09-19 14:44:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「少し気になる点がありましたラウンジがあるのはありがたかったですが、席数が少ないのですぐいっぱいでした。部屋にめちゃくちゃ大きいムカデが出ました、、、(    )3歳の子供がいたので夜とか寝…」
                   </blockquote>
                 </div>
               </div>
@@ -561,7 +561,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格に見合わない内容と子連れへの配慮不足が残念でした お盆直後に割引前85,000円(割引後約7万円)で宿泊しました。景色や温泉は良く、丁寧に対応してくださるスタッフもいらっしゃいましたが、人によ…　2026-08-22 15:28:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格に見合わない内容と子連れへの配慮不足が残念でした お盆直後に割引前85,000円(割引後約7万円)で宿泊しました。景色や温泉は良く、丁寧に対応してくださるスタッフもいらっしゃいましたが、人によ…」
                   </blockquote>
                 </div>
               </div>

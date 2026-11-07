@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>すべて無料です。 ただし隣接してません。 またご移動はご本人様にお願いしております</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.19 ／ 部屋 ★4.34 ／ 設備 ★4.29 ／ 風呂 ★4.51 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜中の騒音への対応がなく眠れず不満最悪でした!隣に泊まってるの外国の方が夜中の1時から4時まで内風呂で大きい声で話しまくって全く寝れませんでした。フロントに言ってもなんの対応もしてもらえず、チ…　2026-10-10 08:54:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夜中の騒音への対応がなく眠れず不満最悪でした!隣に泊まってるの外国の方が夜中の1時から4時まで内風呂で大きい声で話しまくって全く寝れませんでした。フロントに言ってもなんの対応もしてもらえず、チ…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【本格岩盤浴＆温活デトックス】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は少し重かったが、安定の満足感全体的には満足でしたが夕食の最後方で少し胸焼け...で食べきれなかったため星4とさせていただきました。黒川温泉の他の旅館にも今までかなり宿泊させて頂きましたが安心…　2026-08-31 21:47:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は少し重かったが、安定の満足感全体的には満足でしたが夕食の最後方で少し胸焼け...で食べきれなかったため星4とさせていただきました。黒川温泉の他の旅館にも今までかなり宿泊させて頂きましたが安心…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【本格岩盤浴＆温活デトックス】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美人の女将をはじめ老若男女のスタッフの皆さんの笑顔と気配りが素敵なお宿でした(    ` ) お料理もひとつひとつが丁寧に作られていてとても美味しく、夕食も朝食も完食しました! チェックイン時の上品な…　2026-09-16 22:06:19投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=56702&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美人の女将をはじめ老若男女のスタッフの皆さんの笑顔と気配りが素敵なお宿でした(    ` ) お料理もひとつひとつが丁寧に作られていてとても美味しく、夕食も朝食も完食しました! チェックイン時の上品な…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.31 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「NiceGood service.Onsen was great.Relaxing and comfortable!クチコミの詳細はこちらから　https://review.trave…　2026-10-05 14:14:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「NiceGood service.Onsen was great.Relaxing and comfortable!」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【本格岩盤浴＆温活デトックス】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高、食べ応え十分朝晩ともにお食事が良かったです。地元のものもあり、お肉もあり、食べ応えバッチリです。4人での食事ですが個室で、気兼ねなくのんびり食べることができました。部屋…　2026-09-10 11:56:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高、食べ応え十分朝晩ともにお食事が良かったです。地元のものもあり、お肉もあり、食べ応えバッチリです。4人での食事ですが個室で、気兼ねなくのんびり食べることができました。部屋…」
                   </blockquote>
                 </div>
               </div>

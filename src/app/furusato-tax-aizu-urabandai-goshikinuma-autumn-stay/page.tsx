@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.6 ／ 部屋 ★4.64 ／ 設備 ★4.5 ／ 風呂 ★4.52 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夫婦でゆっくり、温泉とフレンチに癒される日頃の疲れを癒しに夫婦で行きました。シルバープランで長めの滞在をさせていただき、こんなにもゆっくりとした時間を過ごせるとは幸せな事でした。夕食のクラ…　2026-10-03 09:18:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夫婦でゆっくり、温泉とフレンチに癒される日頃の疲れを癒しに夫婦で行きました。シルバープランで長めの滞在をさせていただき、こんなにもゆっくりとした時間を過ごせるとは幸せな事でした。夕食のクラ…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　69台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食時のドリンクフリー、フレンチのコースを予約。近隣施設はほとんどがビュッフェスタイルで、ゆっくり夕食を味わいたかったこと、館内にバーが設置されていることから当宿をチョイス。夕食は福島県の旬の食材が多…　2026-06-16 20:53:48投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=16368&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食時のドリンクフリー、フレンチのコースを予約。近隣施設はほとんどがビュッフェスタイルで、ゆっくり夕食を味わいたかったこと、館内にバーが設置されていることから当宿をチョイス。夕食は福島県の旬の食材が多…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>３５０台　無料　（予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いた清潔な部屋と庭の眺望部屋の掃除も申し分なく行き届いており、庭の眺望も良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-09-12 22:48:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いた清潔な部屋と庭の眺望部屋の掃除も申し分なく行き届いており、庭の眺望も良かったです。」
                   </blockquote>
                 </div>
               </div>

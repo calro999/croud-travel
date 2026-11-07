@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>併設有料駐車場有(1泊550円(込))。満車時は提携駐車場へご案内致します。大型車は要問合せ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が最高で快適に過ごせました快適に過ごせました。立地が大変善かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…　2026-08-26 21:18:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が最高で快適に過ごせました快適に過ごせました。立地が大変善かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台平面駐車場　普通車1泊500円 先着順・予約不可・大型車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「30年ぶりの弘前旅行、快適に過ごせた30年ぶりの弘前旅行でお世話になりました。ウェルカムコーヒーもあり、快適に過ごすことができました。クチコミの詳細はこちらから　https://revie…　2026-08-29 07:58:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「30年ぶりの弘前旅行、快適に過ごせた30年ぶりの弘前旅行でお世話になりました。ウェルカムコーヒーもあり、快適に過ごすことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（100台）：1泊500円　大型車：1泊 3,000円～6,000円　※全て税込、バイク不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レンタサイクルとアメニティが充実、ねぷたも満喫無料のレンタサイクルがあり、弘前城観光にとっても役立ちました。化粧水や乳液があるのも嬉しいサービスでした。弘前ねぷた祭りの時期で、ホテルの前の…　2026-08-20 13:00:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レンタサイクルとアメニティが充実、ねぷたも満喫無料のレンタサイクルがあり、弘前城観光にとっても役立ちました。化粧水や乳液があるのも嬉しいサービスでした。弘前ねぷた祭りの時期で、ホテルの前の…」
                   </blockquote>
                 </div>
               </div>

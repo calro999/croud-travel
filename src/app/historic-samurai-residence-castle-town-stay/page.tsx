@@ -516,7 +516,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.05 ／ 部屋 ★4.2 ／ 設備 ★4 ／ 風呂 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の卵かけご飯当日予約で朝食付きはラッキーでした。一晩中入れる人工温泉もひとりでゆっくり利用ができ旅の疲れもとれました。朝食は焼き魚しっかりとした鮭、新鮮な卵おすすめの卵かけご飯でい…　2026-09-10 13:53:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の卵かけご飯当日予約で朝食付きはラッキーでした。一晩中入れる人工温泉もひとりでゆっくり利用ができ旅の疲れもとれました。朝食は焼き魚しっかりとした鮭、新鮮な卵おすすめの卵かけご飯でい…」
                   </blockquote>
                 </div>
               </div>

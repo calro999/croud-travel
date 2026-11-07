@@ -659,7 +659,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…　2026-10-10 21:27:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…」
                   </blockquote>
                 </div>
               </div>
@@ -681,7 +681,7 @@ export default function FurusatoFeaturePage() {
                   <p>【絶景棚田＆日本の原風景里山温泉宿×ふるさと納税厳選ガ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「老朽化と光漏れが気になるが食事は美味全体的に老朽化が目立つ感じでした。部屋から街灯が差し込み、少し寝づらかった。ご飯は美味しかった。魚のフライがフワフワ。宿の人も優しかった。ク…　2026-08-23 18:06:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「老朽化と光漏れが気になるが食事は美味全体的に老朽化が目立つ感じでした。部屋から街灯が差し込み、少し寝づらかった。ご飯は美味しかった。魚のフライがフワフワ。宿の人も優しかった。ク…」
                   </blockquote>
                 </div>
               </div>
@@ -703,7 +703,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.72 ／ 部屋 ★4.48 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。クチコミの詳細はこち…　2026-10-10 18:01:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -725,7 +725,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有り（100台・無料・先着順）※先にフロントで「駐車券」を必ずお受取りの上、駐車願います</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える広い部屋で連泊に最適海沿いのタワーマンションに宿泊というなかなかできない環境で楽しめました。【眺望】14階でしたが海が見渡せました。夜景もそれなりに良かったですがのどかな場所なので明…　2026-08-29 17:21:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海が見える広い部屋で連泊に最適海沿いのタワーマンションに宿泊というなかなかできない環境で楽しめました。【眺望】14階でしたが海が見渡せました。夜景もそれなりに良かったですがのどかな場所なので明…」
                   </blockquote>
                 </div>
               </div>
@@ -747,7 +747,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り100台・無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.63 ／ 部屋 ★4.66 ／ 設備 ★4.62 ／ 風呂 ★4.61 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いた部屋と美味しい西洋コースいつも5階に宿泊。掃除が綺麗に行き届いて 気持ち良く過ごせました。今回は朝食有り 夕食なしなのでダイニングMAIWAIで 天ぷら、寿司、西洋コースを頼み…　2026-10-10 19:29:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いた部屋と美味しい西洋コースいつも5階に宿泊。掃除が綺麗に行き届いて 気持ち良く過ごせました。今回は朝食有り 夕食なしなのでダイニングMAIWAIで 天ぷら、寿司、西洋コースを頼み…」
                   </blockquote>
                 </div>
               </div>

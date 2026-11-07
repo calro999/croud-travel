@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　87台（敷地内自走式立体駐車場）　※制限あり（高さ制限2.1m）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂も朝食も接客も大満足のちょい旅お風呂も良い!朝食も良い!そしてスタッフも良い!とても良いちょい旅になりました。クチコミの詳細はこちらから　https://review.travel.ra…　2026-09-05 16:33:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂も朝食も接客も大満足のちょい旅お風呂も良い!朝食も良い!そしてスタッフも良い!とても良いちょい旅になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -674,7 +674,7 @@ export default function Page() {
                   <p>【日本三大急流＆爽快川下り舟と清流鮎グルメ宿×ふるさと】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/16280?reviewId=331…　2026-10-03 22:25:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!」
                   </blockquote>
                 </div>
               </div>

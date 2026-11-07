@@ -470,7 +470,7 @@ export default function Page() {
                   <p>【黄金の輝きと加賀百万石の雅】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.81 ／ 部屋 ★3.96 ／ 設備 ★3.73 ／ 風呂 ★3.97 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。楽天トラベルでは対応できない機…　2026-09-28 13:17:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。楽天トラベルでは対応できない機…」
                   </blockquote>
                 </div>
               </div>
@@ -492,7 +492,7 @@ export default function Page() {
                   <p>【黄金の輝きと加賀百万石の雅】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高、また来たい旅館大変満足した1日でした。夕食、朝食共に見栄えに味申し分ありません。朝食は胃にとてもやさしい味付け。お風呂もとても素敵でした。担当に付いてくれた…　2026-09-19 13:47:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も接客も最高、また来たい旅館大変満足した1日でした。夕食、朝食共に見栄えに味申し分ありません。朝食は胃にとてもやさしい味付け。お風呂もとても素敵でした。担当に付いてくれた…」
                   </blockquote>
                 </div>
               </div>
@@ -514,7 +514,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）３０台  ※正面玄関へお越しください。スタッフが駐車場へご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.56 ／ 部屋 ★4.5 ／ 設備 ★4.42 ／ 風呂 ★4.6 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も大満足、また利用したいお食事がとても美味しく、お風呂も2回入りました。また利用させていただきたいです!クチコミの詳細はこちらから　https://review.travel.r…　2026-10-10 23:07:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も温泉も大満足、また利用したいお食事がとても美味しく、お風呂も2回入りました。また利用させていただきたいです!」
                   </blockquote>
                 </div>
               </div>

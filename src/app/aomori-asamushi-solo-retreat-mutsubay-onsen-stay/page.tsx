@@ -529,7 +529,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台　宿泊者無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.6 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの工夫と三味線ライブが楽しい天ぷらを天丼にできたり、ソフトクリームをパフェにできたり、ただチョイスするだけのバイキングではなく好きなようやに変化できるのが楽しかったです。また、多くの口コ…　2026-10-05 21:14:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの工夫と三味線ライブが楽しい天ぷらを天丼にできたり、ソフトクリームをパフェにできたり、ただチョイスするだけのバイキングではなく好きなようやに変化できるのが楽しかったです。また、多くの口コ…」
                   </blockquote>
                 </div>
               </div>
@@ -551,7 +551,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順　ホテル駐車場・提携先駐車場は普通車1泊700円、満車の際は近隣有料駐車場をご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、清潔で最高!駅近で観光拠点として宿泊しました。便利良くて清潔で最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-09-06 13:39:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、清潔で最高!駅近で観光拠点として宿泊しました。便利良くて清潔で最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -573,7 +573,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場あり1泊（15時〜翌10時） 600円〜、到着順。■バイク：不可。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.87 ／ 立地 ★3.72 ／ 部屋 ★3.66 ／ 設備 ★3.67 ／ 風呂 ★3.69 ／ 食事 ★3.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1泊なら十分、長期滞在には不向き部屋がコンパクトなためスーツケースを持っての長期滞在にはむかないでも他は普通ですよ1泊とかなら全然ありですクチコミの詳細はこちらから　https:/…　2026-10-08 17:51:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1泊なら十分、長期滞在には不向き部屋がコンパクトなためスーツケースを持っての長期滞在にはむかないでも他は普通ですよ1泊とかなら全然ありです」
                   </blockquote>
                 </div>
               </div>
@@ -595,7 +595,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　70台　無料　予約不要　青空駐車場　トラック等大型車要予約　屋根のあるスペースはありません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲み屋街が近く部屋も広くて快適、対応に感謝ホテルの立地は田辺部神社の飲み屋街が近く、レトロな街並みは昭和にタイムスリップしたようだった。部屋が広くてのんびりできた。大浴場があったらもっと良かった。…　2026-08-29 15:54:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲み屋街が近く部屋も広くて快適、対応に感謝ホテルの立地は田辺部神社の飲み屋街が近く、レトロな街並みは昭和にタイムスリップしたようだった。部屋が広くてのんびりできた。大浴場があったらもっと良かった。…」
                   </blockquote>
                 </div>
               </div>
@@ -617,7 +617,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場・提携パラカ駐車場にて750円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.17 ／ 風呂 ★4.11 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、部屋も広くお風呂も快適青森駅や観光名所のアスパムにほど近くローソンも近くにあって便利な立地かと思います。ウエルカムドリンクでコーヒーとレモン主体の水も置いてあり(時間あり)好感が持てま…　2026-10-08 22:23:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、部屋も広くお風呂も快適青森駅や観光名所のアスパムにほど近くローソンも近くにあって便利な立地かと思います。ウエルカムドリンクでコーヒーとレモン主体の水も置いてあり(時間あり)好感が持てま…」
                   </blockquote>
                 </div>
               </div>

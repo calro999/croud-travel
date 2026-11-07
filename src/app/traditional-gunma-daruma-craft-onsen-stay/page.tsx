@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要　チェックイン前ご利用可能</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.13 ／ 部屋 ★4.4 ／ 設備 ★4.22 ／ 風呂 ★4.31 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅にやさしい伊香保で泊まってみたかった旅館のひとつ。旅館前の駐車場は一台ぶんのスペースが狭め。ひとり旅、ほったらかしプランは嬉しい。貸し切り風呂が多いお宿だからか、大浴場は2回入って2回とも…　2026-10-07 15:53:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅にやさしい伊香保で泊まってみたかった旅館のひとつ。旅館前の駐車場は一台ぶんのスペースが狭め。ひとり旅、ほったらかしプランは嬉しい。貸し切り風呂が多いお宿だからか、大浴場は2回入って2回とも…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。リピ…　2026-08-21 19:19:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。リピ…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p>【福を呼ぶ伝統工芸体験】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく貸切風呂でゆっくりできた また宿泊したい食事は夕食も朝食もおいしくいただきましたお風呂は4カ所すべてが貸し切りでゆっくり入浴できましたが、部屋のタブレットで空き情報が見られるだけ…　2026-09-06 17:04:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しく貸切風呂でゆっくりできた また宿泊したい食事は夕食も朝食もおいしくいただきましたお風呂は4カ所すべてが貸し切りでゆっくり入浴できましたが、部屋のタブレットで空き情報が見られるだけ…」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　・旅館前５～６台(入り口大変狭し)・少し離れた場所に３０台(送迎有り)　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊香保で一番、コスパ最高でまた泊まりたい赤城山登山の後泊で利用しました。伊香保温泉ではここにしか泊まらない、むしろ、ここの予約が取れた時しか泊まらない宿です。石段街すぐそば、駐車場は離れて…　2026-08-22 20:18:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「伊香保で一番、コスパ最高でまた泊まりたい赤城山登山の後泊で利用しました。伊香保温泉ではここにしか泊まらない、むしろ、ここの予約が取れた時しか泊まらない宿です。石段街すぐそば、駐車場は離れて…」
                   </blockquote>
                 </div>
               </div>

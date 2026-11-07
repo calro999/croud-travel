@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１６台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また行きたい宿見つけました夕食、朝食共凄く美味しく頂き、部屋も綺麗に掃除してあり大満足な家族旅行となりました。大型のワンボックスで行きましたが、ほんの数100mですが宿までの道が狭かったので、次回…　2026-06-30 00:26:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=163005&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また行きたい宿見つけました夕食、朝食共凄く美味しく頂き、部屋も綺麗に掃除してあり大満足な家族旅行となりました。大型のワンボックスで行きましたが、ほんの数100mですが宿までの道が狭かったので、次回…」
                   </blockquote>
                 </div>
               </div>
@@ -557,7 +557,7 @@ export default function ArticlePage() {
                   <p>【・11月秋の熊本黒川温泉ひとり旅・田の原川の紅葉と入】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「山河のねむの木と泉質が最高!とにかく山河さんのねむの木がお気に入りです。なかなか予約が取れないので早めにチェックしています。泉質も最高です。クチコミの詳細はこちらから　https://re…　2026-06-25 07:50:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「山河のねむの木と泉質が最高!とにかく山河さんのねむの木がお気に入りです。なかなか予約が取れないので早めにチェックしています。泉質も最高です。」
                   </blockquote>
                 </div>
               </div>

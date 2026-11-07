@@ -493,7 +493,7 @@ export default function Page() {
                   <p>【和漢薬草スチームサウナ＆薬膳養生】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自分を労わる体験とヘルシーな食事に満足瞑想や自分でできるお灸など、自分を労わる体験がとてもよかったです。また自分の状況に合わせたお茶も自由にブレンドして飲めたり、バスタオルやお水も自分もペースで頂…　2026-09-06 16:27:20投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=183550&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自分を労わる体験とヘルシーな食事に満足瞑想や自分でできるお灸など、自分を労わる体験がとてもよかったです。また自分の状況に合わせたお茶も自由にブレンドして飲めたり、バスタオルやお水も自分もペースで頂…」
                   </blockquote>
                 </div>
               </div>
@@ -515,7 +515,7 @@ export default function Page() {
                   <p>【和漢薬草スチームサウナ＆薬膳養生】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.45 ／ 部屋 ★4.54 ／ 設備 ★4.55 ／ 風呂 ★4.53 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性への配慮が行き届き、一人旅でも快適女性目線でいろいろ配慮があって、また泊まりたいと思わせてくれるお宿でした。1人旅でしたが、他にも1人旅らしき方を数名お見かけしました。ごはんも、見た目…　2026-10-06 19:16:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女性への配慮が行き届き、一人旅でも快適女性目線でいろいろ配慮があって、また泊まりたいと思わせてくれるお宿でした。1人旅でしたが、他にも1人旅らしき方を数名お見かけしました。ごはんも、見た目…」
                   </blockquote>
                 </div>
               </div>
@@ -559,7 +559,7 @@ export default function Page() {
                   <p>【和漢薬草スチームサウナ＆薬膳養生】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。夜は近江牛、朝は地元の佃煮や温泉玉子、海苔、点数をつける…　2026-09-18 06:39:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お客様ファーストで食事も美味しい90点の宿家族経営の旅館は、基本?って思う所が多い中なか、双葉荘はちゃんとお客様ファーストのいい旅館でした。夜は近江牛、朝は地元の佃煮や温泉玉子、海苔、点数をつける…」
                   </blockquote>
                 </div>
               </div>

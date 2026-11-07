@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館平面駐車場900円(予約不可)、近隣コインP500円〜</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.04 ／ 部屋 ★3.77 ／ 設備 ★3.67 ／ 風呂 ★3.64 ／ 食事 ★3.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが設備と価格のバランスが惜しい香川出張で利用しました。高松駅から徒歩4〜5分、すぐ近くにミニストップもあり立地は非常に便利です。スタッフの対応も丁寧で、部屋も清潔でした。ただ、…　2026-10-06 23:48:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが設備と価格のバランスが惜しい香川出張で利用しました。高松駅から徒歩4〜5分、すぐ近くにミニストップもあり立地は非常に便利です。スタッフの対応も丁寧で、部屋も清潔でした。ただ、…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場なし。ホテル目の前にコインパーキングあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.76 ／ 立地 ★4.18 ／ 部屋 ★4.18 ／ 設備 ★3.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で駅近、エレベーターなしが難点3階に宿泊しました。部屋はリフォーム済でキレイでしたが、エレベーターがなかったので荷物を運ぶのが大変でした。駅から近くてリーズナブルなので、また…　2026-09-30 06:19:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で駅近、エレベーターなしが難点3階に宿泊しました。部屋はリフォーム済でキレイでしたが、エレベーターがなかったので荷物を運ぶのが大変でした。駅から近くてリーズナブルなので、また…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し※近隣にコインパーキング多数あり！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.81 ／ 立地 ★3.96 ／ 部屋 ★3.88 ／ 設備 ★3.77 ／ 風呂 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフと分かりやすい案内スタッフの皆さんが親切で、案内が分かりやすい。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-06-02 10:54:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフと分かりやすい案内スタッフの皆さんが親切で、案内が分かりやすい。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　101台　1000円/泊　平置き7台(予約制)　　機械式：94台(先着順)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.26 ／ 部屋 ★4.38 ／ 設備 ★4.25 ／ 風呂 ★4.17 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、部屋もきれいで朝食も美味駅から近く便利でした。お部屋もきれいで朝食も美味しかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-09-28 18:30:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、部屋もきれいで朝食も美味駅から近く便利でした。お部屋もきれいで朝食も美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし。徒歩圏内に提携駐車場あり(予約不可)。フロントにて割引券販売 ※途中出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.4 ／ 部屋 ★4.47 ／ 設備 ★4.43 ／ 風呂 ★4.42 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、お風呂も広くて快適な空間瓦町駅からとても近く、周りが飲食街で夕食には困らない。新しいホテルで清潔で快適。風呂とトイレが別々なのも良い。お風呂はとても広く快適。ただ、洗面所がとても狭く使…　2026-10-09 06:45:31投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=181859&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、お風呂も広くて快適な空間瓦町駅からとても近く、周りが飲食街で夕食には困らない。新しいホテルで清潔で快適。風呂とトイレが別々なのも良い。お風呂はとても広く快適。ただ、洗面所がとても狭く使…」
                   </blockquote>
                 </div>
               </div>

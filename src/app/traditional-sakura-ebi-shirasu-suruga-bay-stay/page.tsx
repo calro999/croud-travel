@@ -516,7 +516,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.91 ／ 立地 ★4.49 ／ 部屋 ★4.88 ／ 設備 ★4.81 ／ 風呂 ★4.85 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…　2026-09-27 18:08:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p>【駿河湾の宝石】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事と広いお部屋で大満足!家族4人で宿泊しました。夕食は家族だけで食べられる個室のようなところで、順番に運んでいただいたのですが、大好きなお刺身はもちろんどれもとっても美味しかったです…　2026-08-21 17:23:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事と広いお部屋で大満足!家族4人で宿泊しました。夕食は家族だけで食べられる個室のようなところで、順番に運んでいただいたのですが、大好きなお刺身はもちろんどれもとっても美味しかったです…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…　2026-08-19 19:52:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【駿河湾の宝石】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしの接客からお食事、温泉、客室まで全てにおいて完璧でした。非常に快適な宿泊になりました、ありがとうございます。急遽予約しての宿泊で、前後の移動もありバタバタとした宿泊になってしまいまし…　2026-09-19 19:20:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしの接客からお食事、温泉、客室まで全てにおいて完璧でした。非常に快適な宿泊になりました、ありがとうございます。急遽予約しての宿泊で、前後の移動もありバタバタとした宿泊になってしまいまし…」
                   </blockquote>
                 </div>
               </div>

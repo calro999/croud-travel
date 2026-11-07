@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し（近隣コインパーキングをご利用ください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.44 ／ 部屋 ★4.47 ／ 設備 ★4.44 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。朝食は無料で付いていたので、あまり期待はしていなかったんですが、焼きたてのパンやおかずも思ってた…　2026-10-10 22:46:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料の朝食が種類豊富で美味しく大満足お部屋も受付もよかったけど、一番いいなと思ったのは朝食です。朝食は無料で付いていたので、あまり期待はしていなかったんですが、焼きたてのパンやおかずも思ってた…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し/周辺のコインパーキングをご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近く、周りにもお店が多くて便利駅から近く、周りにもお店が多い。部屋もシンプルで、Youtubeなども見れる。仕事で泊まるのみなら良い。少し汚れがあった気がする。クチコミの詳細…　2026-08-25 21:12:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近く、周りにもお店が多くて便利駅から近く、周りにもお店が多い。部屋もシンプルで、Youtubeなども見れる。仕事で泊まるのみなら良い。少し汚れがあった気がする。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊600円/1台（先着順予約不可)　満車時、提携駐車場（1泊1,200円）※出し入れ不可。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で周辺に飲食店も多く、館内も綺麗尾張一宮駅より数十メートルです。周りにいろんな居酒屋がございます。ホテルも綺麗で満足しました。クチコミの詳細はこちらから　https://review.tr…　2026-07-08 13:45:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で周辺に飲食店も多く、館内も綺麗尾張一宮駅より数十メートルです。周りにいろんな居酒屋がございます。ホテルも綺麗で満足しました。」
                   </blockquote>
                 </div>
               </div>

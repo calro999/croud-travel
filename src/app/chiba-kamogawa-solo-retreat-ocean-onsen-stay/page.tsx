@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客も料理も最高、三度目の利用で大満足仲井さんの接客、料理、お風呂のどれをとってもこの上ない満足感で旅にとてもホッとする優しい時間を過ごすことができました。三度目の宿泊でしたがまた泊まりたい、…　2026-09-19 13:29:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客も料理も最高、三度目の利用で大満足仲井さんの接客、料理、お風呂のどれをとってもこの上ない満足感で旅にとてもホッとする優しい時間を過ごすことができました。三度目の宿泊でしたがまた泊まりたい、…」
                   </blockquote>
                 </div>
               </div>
@@ -556,7 +556,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要　ホテルに向かって右手にございます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古く衛生面や防音に難あり流石に古すぎてカビ臭い下水くさい。お風呂の洗面とかも使いたくない感じ。待合の椅子とかボロボロで流石に変えた方がいい。温泉とのことだが塩素の匂い凄かった。…　2026-09-17 14:44:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古く衛生面や防音に難あり流石に古すぎてカビ臭い下水くさい。お風呂の洗面とかも使いたくない感じ。待合の椅子とかボロボロで流石に変えた方がいい。温泉とのことだが塩素の匂い凄かった。…」
                   </blockquote>
                 </div>
               </div>

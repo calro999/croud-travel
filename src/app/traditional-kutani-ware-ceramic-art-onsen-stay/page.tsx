@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p>【五彩の美に酔いしれる。九谷焼ギャラリー＆絵付け体験が】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.81 ／ 部屋 ★3.96 ／ 設備 ★3.73 ／ 風呂 ★3.97 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。楽天トラベルでは対応できない機…　2026-09-28 13:17:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスは満足だが準備不足が目立ち残念家族5人で宿泊しました。子供2人分はプラン通り無料でしたが、残り1人分は大人の半分(約1万)の追加料金が現地で支払い必要でした。楽天トラベルでは対応できない機…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有１００台　無料・予約不要　※正面玄関へお越しくださいませ、係がご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパがいいですね到着してまず、荘厳な造りで上品なお香が焚かれたロビーに癒されました。館内の説明をしながらお部屋まで案内してくれるのは昔はよくありましたが、今では貴重なサービスですね。気さくな方で…　2026-07-12 19:57:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパがいいですね到着してまず、荘厳な造りで上品なお香が焚かれたロビーに癒されました。館内の説明をしながらお部屋まで案内してくれるのは昔はよくありましたが、今では貴重なサービスですね。気さくな方で…」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料200台　※正面玄関へお越しください。スタッフが駐車場をご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.07 ／ 部屋 ★4.27 ／ 設備 ★4.12 ／ 風呂 ★4.31 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お茶菓子がなく貸切風呂に死骸、設備も不便部屋にお茶菓子がない温泉旅館は初めてだった。貸し切り風呂には大きいカエルの死骸が浮いていて、入れなかった。今どき、階段ばかりで車椅子用のスロープもなかった。…　2026-10-07 18:32:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お茶菓子がなく貸切風呂に死骸、設備も不便部屋にお茶菓子がない温泉旅館は初めてだった。貸し切り風呂には大きいカエルの死骸が浮いていて、入れなかった。今どき、階段ばかりで車椅子用のスロープもなかった。…」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★3.96 ／ 部屋 ★4.22 ／ 設備 ★4.04 ／ 風呂 ★4.26 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいねいつも利用させていただいております。なにか癒され 好きな旅館です。若女将 初めて接客して頂きましたが 熱心で、一生懸命で、何より雰囲気があたたかい。いいね。。食事、温泉にゆいては割愛…　2026-10-04 13:06:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いいねいつも利用させていただいております。なにか癒され 好きな旅館です。若女将 初めて接客して頂きましたが 熱心で、一生懸命で、何より雰囲気があたたかい。いいね。。食事、温泉にゆいては割愛…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…　2026-10-10 21:27:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…」
                   </blockquote>
                 </div>
               </div>

@@ -306,7 +306,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.23 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。ガヤガヤよりも大人の方が多い印象で静かにゆったり過ごせてよ…　2026-10-10 18:41:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。ガヤガヤよりも大人の方が多い印象で静かにゆったり過ごせてよ…」
                   </blockquote>
                 </div>
               </div>

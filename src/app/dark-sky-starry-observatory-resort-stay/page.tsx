@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.18 ／ 部屋 ★4.22 ／ 設備 ★4.22 ／ 風呂 ★4.42 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広いお風呂と豊富な朝食、朝市も満喫お風呂が広くてのびのび入れました。朝食バイキングのメニューが豊富で良かったです。昼神朝市にも行けて良かったです。クチコミの詳細はこちらから　https…　2026-10-10 16:42:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広いお風呂と豊富な朝食、朝市も満喫お風呂が広くてのびのび入れました。朝食バイキングのメニューが豊富で良かったです。昼神朝市にも行けて良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台まで　屋外　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.7 ／ 部屋 ★4.72 ／ 設備 ★4.76 ／ 風呂 ★4.73 ／ 食事 ★4.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天風呂は残念だが接客には満足露天ぶろ付きの部屋に宿泊させていただいたのですが部屋の泉質が大浴場の泉質より薄くガッカリ。仕方ないので大浴場で我慢をした次第です。それ以外は仲居さんの気遣いサー…　2026-10-07 00:44:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天風呂は残念だが接客には満足露天ぶろ付きの部屋に宿泊させていただいたのですが部屋の泉質が大浴場の泉質より薄くガッカリ。仕方ないので大浴場で我慢をした次第です。それ以外は仲居さんの気遣いサー…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p>【宇宙の神秘と満天の天の川】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.47 ／ 風呂 ★4.64 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事、温泉に大満足!特に良かった所は・スタッフの対応が、感じが良くて、分かり易く説明でした・夕食が現地素材で、味付けが私にピッタリ合い美味しい・温泉が家族風呂でアルカリ…　2026-10-10 21:22:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と食事、温泉に大満足!特に良かった所は・スタッフの対応が、感じが良くて、分かり易く説明でした・夕食が現地素材で、味付けが私にピッタリ合い美味しい・温泉が家族風呂でアルカリ…」
                   </blockquote>
                 </div>
               </div>

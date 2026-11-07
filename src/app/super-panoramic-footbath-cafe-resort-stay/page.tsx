@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【絶景足湯カフェ＆テラスBAR】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「隅々まで清潔に保たれていました清潔に保たれてました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/146144?r…　2026-09-18 11:11:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「隅々まで清潔に保たれていました清潔に保たれてました。」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【絶景足湯カフェ＆テラスBAR】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。クチコミの詳細はこちらから　https://review.tra…　2026-09-16 17:10:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近くて田舎者には分かり易くて大変良かったです。ウェルカムドリンクも最高でした。涼しくなってからも利用したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【絶景足湯カフェ＆テラスBAR】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Excellent View テラスや食堂からの眺めが素晴らしい。温泉も泉質が良く、気持ち良かったです。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-09-19 18:09:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Excellent View テラスや食堂からの眺めが素晴らしい。温泉も泉質が良く、気持ち良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【絶景足湯カフェ＆テラスBAR】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は最高、夕食は改善の余地あり台風が近づいていてお天気が心配でしたが、晴れ間があり景色を楽しむことができました。スタッフの方々は皆さま大変丁寧で感じがよかったです。ウェルカム…　2026-08-13 16:47:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は最高、夕食は改善の余地あり台風が近づいていてお天気が心配でしたが、晴れ間があり景色を楽しむことができました。スタッフの方々は皆さま大変丁寧で感じがよかったです。ウェルカム…」
                   </blockquote>
                 </div>
               </div>

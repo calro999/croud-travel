@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p>【糖度際立つ春メロン】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.44 ／ 部屋 ★4.61 ／ 設備 ★4.46 ／ 風呂 ★4.18 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて…　2026-08-23 12:23:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本当に全てのサービスが星5つ!!家族4人2泊3日でお世話になりました。館内・お部屋共に清潔に保たれており、床材がとても素敵でした。お風呂は家族風呂が無料で入ることができ、朝・夜とも入らせて…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【糖度際立つ春メロン】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ラウンジのドリンクバーと温泉の眺望が良かったチェックイン時のフロントの方がとても感じが良く、丁寧に対応してくださり好感が持てました。ロビーラウンジの椅子が座り心地良く、素敵な庭園を眺めながらゆ…　2026-08-28 23:49:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ラウンジのドリンクバーと温泉の眺望が良かったチェックイン時のフロントの方がとても感じが良く、丁寧に対応してくださり好感が持てました。ロビーラウンジの椅子が座り心地良く、素敵な庭園を眺めながらゆ…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も従業員のアフターフォローも不快なもの就寝前に部屋にゴキブリが出現。フロントに電話すると殺虫剤を渡され、退散された...自ら殺虫剤をかけて死滅させた後、床に殺虫剤が付着したから拭き物を…　2026-08-22 14:34:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋も従業員のアフターフォローも不快なもの就寝前に部屋にゴキブリが出現。フロントに電話すると殺虫剤を渡され、退散された...自ら殺虫剤をかけて死滅させた後、床に殺虫剤が付着したから拭き物を…」
                   </blockquote>
                 </div>
               </div>

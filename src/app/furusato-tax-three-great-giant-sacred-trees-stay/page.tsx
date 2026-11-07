@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４６台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの優しさと露天風呂に癒されるとても癒されるました!スタッフの方もとても優しくて嬉しかったです。温泉も最高に気持ちよかったです。露天風呂がかなり良かったです。クチコミの詳細は…　2026-08-29 21:51:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの優しさと露天風呂に癒されるとても癒されるました!スタッフの方もとても優しくて嬉しかったです。温泉も最高に気持ちよかったです。露天風呂がかなり良かったです。クチコミの詳細は…」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り120台（無料・先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「邪馬台国阿波説探訪邪馬台国阿波説探訪に丁度良い温泉ホテルでした。近くに上一宮大粟神社や雨乞の滝もあり、日本の田舎の夏を満喫致しました。又、邪馬台国阿波説探訪に是非訪れたいと思っております。有難うご…　2026-08-25 13:49:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「邪馬台国阿波説探訪邪馬台国阿波説探訪に丁度良い温泉ホテルでした。近くに上一宮大粟神社や雨乞の滝もあり、日本の田舎の夏を満喫致しました。又、邪馬台国阿波説探訪に是非訪れたいと思っております。有難うご…」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.65 ／ 部屋 ★4.39 ／ 設備 ★4.29 ／ 風呂 ★4.65 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質が最高で、また入りたくなる温泉ここまで泉質がいい温泉はなかなかない。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-10-09 21:25:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質が最高で、また入りたくなる温泉ここまで泉質がいい温泉はなかなかない。」
                   </blockquote>
                 </div>
               </div>

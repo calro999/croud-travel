@@ -614,7 +614,7 @@ export default function Page() {
                   <p>【日本三大そば＆打ち立て蕎麦の芳香・名水と門前宿×ふる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「馬刺し蕎麦と温泉を堪能して大満足晩ご飯は、馬刺し蕎麦が付いていて、地元メシが食べれて大満足でした。温泉も好きな時間に入れて大満足。クチコミの詳細はこちらから　https://review.…　2026-08-11 23:10:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「馬刺し蕎麦と温泉を堪能して大満足晩ご飯は、馬刺し蕎麦が付いていて、地元メシが食べれて大満足でした。温泉も好きな時間に入れて大満足。」
                   </blockquote>
                 </div>
               </div>
@@ -636,7 +636,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.5 ／ 部屋 ★4.63 ／ 設備 ★4.61 ／ 風呂 ★4.63 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高級感があり、刺身のクオリティーが最高高級感もあり、刺身のクォリティーが高く大変おいしかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-10-08 14:35:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高級感があり、刺身のクオリティーが最高高級感もあり、刺身のクォリティーが高く大変おいしかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function Page() {
                   <p>【日本三大そば＆打ち立て蕎麦の芳香・名水と門前宿×ふる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街がすぐ近くで移動に便利繁華街が近くで便利でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/80512?r…　2026-09-05 23:20:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街がすぐ近くで移動に便利繁華街が近くで便利でした。」
                   </blockquote>
                 </div>
               </div>

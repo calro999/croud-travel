@@ -434,7 +434,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり：隣接の複合施設駐車場NPCをご利用下さいませ。1台￥1,400(出し入れ自由）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.3 ／ 部屋 ★4.39 ／ 設備 ★4.43 ／ 風呂 ★4.53 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「街中にあり移動がとても便利街中にあり便利クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/153267?reviewI…　2026-10-10 09:53:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「街中にあり移動がとても便利街中にあり便利」
                   </blockquote>
                 </div>
               </div>
@@ -456,7 +456,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <p>【秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から徒歩圏内、朝食と大浴場に満足駅から少し歩くが徒歩圏内。朝食が美味しく、生卵がまだおいてるよいホテル。大浴場もよい。フロントの方々も、他の全国チェーンホテルより質が高い。富山の定宿クチコミ…　2026-09-19 15:48:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から徒歩圏内、朝食と大浴場に満足駅から少し歩くが徒歩圏内。朝食が美味しく、生卵がまだおいてるよいホテル。大浴場もよい。フロントの方々も、他の全国チェーンホテルより質が高い。富山の定宿…」
                   </blockquote>
                 </div>
               </div>
@@ -478,7 +478,7 @@ export default function ToyamaBudgetAutumnPage() {
                   <p>【秋の富山×格安：立山連峰の三段紅葉と富山湾の白えび・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5/11(月)に宿泊しました。ビジネスで利用し、私含めて3名3室利用の滞在でした。部屋は清掃が行き届いていて少し狭いながらも快適でした。夜鳴きそば/ラーメン や、大浴室前のアイス食べ放題は温泉上がりに…　2026-09-05 16:28:07投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=39202&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5/11(月)に宿泊しました。ビジネスで利用し、私含めて3名3室利用の滞在でした。部屋は清掃が行き届いていて少し狭いながらも快適でした。夜鳴きそば/ラーメン や、大浴室前のアイス食べ放題は温泉上がりに…」
                   </blockquote>
                 </div>
               </div>

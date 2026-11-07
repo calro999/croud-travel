@@ -333,7 +333,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.38 ／ 部屋 ★4.47 ／ 設備 ★4.51 ／ 風呂 ★4.68 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-08 21:45:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉がついているのでいつでも入浴できるのは良いサウナも良かったリフレッシュ出来るので良い」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　（有料EV充電器を２台設置。EV車でも安心してお越しください。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「慌ただしくのんびりできず、価格に見合わない内容宿までの道路がとても狭くて、こんな所に宿があるのかと思った。部屋食で、大浴場が全て貸し切りで、鍵が開いていたら自由に入れるという宿で、四カ所貸切風呂が…　2026-08-18 13:43:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「慌ただしくのんびりできず、価格に見合わない内容宿までの道路がとても狭くて、こんな所に宿があるのかと思った。部屋食で、大浴場が全て貸し切りで、鍵が開いていたら自由に入れるという宿で、四カ所貸切風呂が…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.91 ／ 立地 ★4.49 ／ 部屋 ★4.88 ／ 設備 ★4.81 ／ 風呂 ★4.85 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…　2026-09-27 18:08:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で料理も美味しく、おもてなしに感動歴史ある旅館なのに、掃除が行き届いてとても清潔でした。夕・朝食とも大変おいしく大満足でした。量はもう少し少な目でも十分かもしれません。おもてなしの心が、細やか…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。お部屋食だったため、周りを気にせず家族でゆっくり味わうことがで…　2026-08-21 21:22:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。お部屋食だったため、周りを気にせず家族でゆっくり味わうことがで…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function TargetAudienceHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本格フレンチと半露天風呂で最高の箱根旅本格フレンチがいただけるホテルというよりもレストランです。もちろんお部屋も半露天の温泉が備わっており、設備、広さ、美しさともに申し分ありません。料理は…　2026-08-11 23:00:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「本格フレンチと半露天風呂で最高の箱根旅本格フレンチがいただけるホテルというよりもレストランです。もちろんお部屋も半露天の温泉が備わっており、設備、広さ、美しさともに申し分ありません。料理は…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function TargetAudienceHubPage() {
                   <p>【大人のひとり温泉旅：お部屋食・客室露天風呂＆レイトア】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高だが接客に大きな不満ありお食事は文句なしですお部屋の掃除も入浴施設もまあまあの及第点かな。接客についてはマイナス50点ぐらい?お客様をもてなすという宿泊施設の原点というか基本がな…　2026-08-22 09:18:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高だが接客に大きな不満ありお食事は文句なしですお部屋の掃除も入浴施設もまあまあの及第点かな。接客についてはマイナス50点ぐらい?お客様をもてなすという宿泊施設の原点というか基本がな…」
                   </blockquote>
                 </div>
               </div>

@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車可能台数制限有。要予約。無料。１２月〜３月スタッドレスタイヤ必須。降雪時公道まで除雪できません！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★5 ／ 立地 ★4.91 ／ 部屋 ★4.89 ／ 設備 ★4.84 ／ 風呂 ★5 ／ 食事 ★4.95</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と手作りの食事が最高到着してすぐに、オーナーが優しく出迎えてくださいました。お部屋や共有スペースの調度品がおしゃれで雰囲気が良い。貸し切り露店風呂が2種類あります。順番制のため、…　2026-10-03 00:04:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と手作りの食事が最高到着してすぐに、オーナーが優しく出迎えてくださいました。お部屋や共有スペースの調度品がおしゃれで雰囲気が良い。貸し切り露店風呂が2種類あります。順番制のため、…」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>2か所有（第一駐車場2台、第二駐車場16台：計18台）先着順、無料。ご利用は備考欄にご記入ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.18 ／ 部屋 ★4.52 ／ 設備 ★4.43 ／ 風呂 ★4.48 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフと美味しい料理で大満足とても静かで、ゆっくり過ごすことができました。お料理も美味しくて、皆んな大満足でした。何より、従業員の方がとても親切で、質問しても丁寧に答えていただいた…　2026-10-10 19:57:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切なスタッフと美味しい料理で大満足とても静かで、ゆっくり過ごすことができました。お料理も美味しくて、皆んな大満足でした。何より、従業員の方がとても親切で、質問しても丁寧に答えていただいた…」
                   </blockquote>
                 </div>
               </div>

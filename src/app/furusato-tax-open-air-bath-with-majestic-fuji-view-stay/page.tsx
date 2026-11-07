@@ -637,7 +637,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場50台・河口湖駅からの無料送迎有・バイク専用の駐車場無・富士急ハイランドまで車で7分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.29 ／ 風呂 ★4.31 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富…　2026-10-06 19:19:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山が見えた瞬間に感動、料理も最高とても良いお部屋で最高でしたお部屋には浴衣や作務衣が全サイズ取り揃えてあり早速着替えてゆったりと過ごせましたお料理もどれも美味しく大満足でした富…」
                   </blockquote>
                 </div>
               </div>
@@ -659,7 +659,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　40台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は清潔で食事も豪華、家族で大満足娘夫婦と孫2人と息子、6人で利用させて頂きました。老舗の旅館と言う風情ですが、とても、館内も綺麗にされていて、気持ちよく、お風呂も清潔感があり、とてもいいお…　2026-08-22 10:24:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は清潔で食事も豪華、家族で大満足娘夫婦と孫2人と息子、6人で利用させて頂きました。老舗の旅館と言う風情ですが、とても、館内も綺麗にされていて、気持ちよく、お風呂も清潔感があり、とてもいいお…」
                   </blockquote>
                 </div>
               </div>
@@ -681,7 +681,7 @@ export default function FurusatoFeaturePage() {
                   <p>【富士山ビュー客室露天風呂宿×ふるさと納税厳選ガイド河】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…　2026-10-10 21:38:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…」
                   </blockquote>
                 </div>
               </div>
@@ -703,7 +703,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台有。1,430円（税込／泊）・先着順（予約不可）※満車の場合は、周辺パーキングご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静岡駅近で温泉も魅力、また利用したい静岡駅からすぐの好ロケーションで、温泉大浴場もあるということで今回利用させて頂きました。温泉はとても良かったのですが、やっぱりちょっと狭く、洗い場が5つくら…　2026-08-17 12:32:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静岡駅近で温泉も魅力、また利用したい静岡駅からすぐの好ロケーションで、温泉大浴場もあるということで今回利用させて頂きました。温泉はとても良かったのですが、やっぱりちょっと狭く、洗い場が5つくら…」
                   </blockquote>
                 </div>
               </div>
@@ -725,7 +725,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場128台（敷地内104台、第2駐車場24台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「障がい児への配慮と丁寧な対応に感謝障がいのある子供がある旨を伝えた所、お部屋の配慮をして頂きありがとうございました。とても疲れていましたが、インターから近いロケーションとチェックイン時の丁寧な…　2026-08-21 14:44:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「障がい児への配慮と丁寧な対応に感謝障がいのある子供がある旨を伝えた所、お部屋の配慮をして頂きありがとうございました。とても疲れていましたが、インターから近いロケーションとチェックイン時の丁寧な…」
                   </blockquote>
                 </div>
               </div>
@@ -747,7 +747,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は最高だが設備は古め食事が最高だった。従業員の対応も良かった。部屋や設備は古い。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-09-10 21:26:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は最高だが設備は古め食事が最高だった。従業員の対応も良かった。部屋や設備は古い。」
                   </blockquote>
                 </div>
               </div>

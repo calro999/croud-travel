@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…　2026-08-19 19:52:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルの近くに有り。６０台が駐車でき、無料です。先着順となっております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「猫と一緒に大満足、また利用したい2回目の利用です ペットオッケーなので猫同伴でお風呂も 食事も 大変満足でした また利用しますクチコミの詳細はこちらから　https://review.tr…　2026-08-16 16:39:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「猫と一緒に大満足、また利用したい2回目の利用です ペットオッケーなので猫同伴でお風呂も 食事も 大変満足でした また利用します」
                   </blockquote>
                 </div>
               </div>

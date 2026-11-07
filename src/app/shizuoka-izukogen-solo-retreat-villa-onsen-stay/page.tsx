@@ -511,7 +511,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.78 ／ 立地 ★4.69 ／ 部屋 ★4.67 ／ 設備 ★4.64 ／ 風呂 ★4.89 ／ 食事 ★4.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1日5組限定の細やかなサービスと絶景に感動今回2回目の利用です。1日5組限定ゆえのサービスの細やかさに大変満足しました。従業員の方のご対応も丁寧で気持ちがよかったです。特にご飯の満足度が高く、量も…　2026-10-08 17:31:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=128493&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1日5組限定の細やかなサービスと絶景に感動今回2回目の利用です。1日5組限定ゆえのサービスの細やかさに大変満足しました。従業員の方のご対応も丁寧で気持ちがよかったです。特にご飯の満足度が高く、量も…」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p>【東伊豆・伊豆高原ひとり旅・大室山と海一望おこもり：全】 <strong>【駐車場・マイカー利用】</strong>有り １０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.66 ／ 部屋 ★4.77 ／ 設備 ★4.63 ／ 風呂 ★4.69 ／ 食事 ★4.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最初に宿に入ったときの景色がとても良く、サービスにも大変満足でした!誕生日サプライズにとても喜んでもらいました!クチコミの詳細はこちらから　https://review.travel.raku…　2026-10-08 18:42:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最初に宿に入ったときの景色がとても良く、サービスにも大変満足でした!誕生日サプライズにとても喜んでもらいました!」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.1 ／ 風呂 ★4.3 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は素晴らしく、全体的に満足食事は夕食、朝食ともに美味しく頂きました。その際の外人スタッフの接客対応も素晴らしかったです。また出向のスタッフも親切で好印象を持ちました。部屋もきれいで満…　2026-10-09 21:25:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は素晴らしく、全体的に満足食事は夕食、朝食ともに美味しく頂きました。その際の外人スタッフの接客対応も素晴らしかったです。また出向のスタッフも親切で好印象を持ちました。部屋もきれいで満…」
                   </blockquote>
                 </div>
               </div>

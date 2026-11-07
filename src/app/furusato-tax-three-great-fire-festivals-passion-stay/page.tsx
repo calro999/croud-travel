@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>400台（無料）／駐車場はホテルより離れた場所にございます。詳しくは交通案内ページをご覧ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.41 ／ 部屋 ★4.18 ／ 設備 ★4.03 ／ 風呂 ★4.51 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質がとても良くて大満足クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/54556?reviewId=331234…　2026-10-10 16:50:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質がとても良くて大満足」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：（専用駐車場）18台　無料・（村営駐車場）1500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂も料理も最高、部屋から花火も鑑賞はじめての野沢温泉お風呂も貸し切り状態で、お部屋も綺麗で料理も最高でしたたまたま部屋から花火が見えて尚更良きタイミングでしたまたリピしたい、男性大浴場に鯉が居…　2026-08-22 19:05:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂も料理も最高、部屋から花火も鑑賞はじめての野沢温泉お風呂も貸し切り状態で、お部屋も綺麗で料理も最高でしたたまたま部屋から花火が見えて尚更良きタイミングでしたまたリピしたい、男性大浴場に鯉が居…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p>【日本三大火祭り＆燃え盛る情熱の伝統宿×ふるさと納税ガ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「祇園祭の丁寧な案内と静かな環境でリラックスたまたま祇園祭の期間にとまりました。フロントにお祭りの説明があり、フロントの方がとても丁寧に説明してくれました。京都市なのにしずかな場所にあるので、の… 2026-09-05 09:54:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「祇園祭の丁寧な案内と静かな環境でリラックスたまたま祇園祭の期間にとまりました。フロントにお祭りの説明があり、フロントの方がとても丁寧に説明してくれました。京都市なのにしずかな場所にあるので、の…」
                   </blockquote>
                 </div>
               </div>

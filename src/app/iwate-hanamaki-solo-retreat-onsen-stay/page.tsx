@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p>【岩手花巻温泉ひとり旅・宮沢賢治イーハトーブおこもり：】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…　2026-10-10 17:17:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　600台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適な設備と改善してほしい点が混在部屋に蜘蛛がぶら下がっていた。床の間にほこりあり。部屋でYouTubeが見れて、Wi-Fiも使えてかなり快適だった。宿泊者専用のタオルが浴場の…　2026-08-17 18:25:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適な設備と改善してほしい点が混在部屋に蜘蛛がぶら下がっていた。床の間にほこりあり。部屋でYouTubeが見れて、Wi-Fiも使えてかなり快適だった。宿泊者専用のタオルが浴場の…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　600台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯めぐりと美味しいバイキングに大満足!久しぶりの家族で遠出旅行でしたが、湯めぐりと美味しいバイキングに大満足でした!クチコミの詳細はこちらから　https://review.travel.ra…　2026-08-20 20:14:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯めぐりと美味しいバイキングに大満足!久しぶりの家族で遠出旅行でしたが、湯めぐりと美味しいバイキングに大満足でした!」
                   </blockquote>
                 </div>
               </div>

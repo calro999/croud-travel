@@ -381,7 +381,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有※倉敷国際ホテル駐車場（徒歩約5分）をご利用いただきます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全ての料理が美味しく大満足料理が全て美味しかったです他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/108…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全ての料理が美味しく大満足料理が全て美味しかったです」
                   </blockquote>
                 </div>
               </div>

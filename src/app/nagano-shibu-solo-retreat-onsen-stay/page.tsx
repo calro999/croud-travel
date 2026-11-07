@@ -527,7 +527,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の利用、温かい接客に感謝!今回2回目の宿泊です。女将さん・従業員の皆様の対応がよく、いろいろと会話もしてくださり気持ちよく過ごせました。希望ですが九湯巡りの鍵が男女で一つづつあるとありがたい…　2026-08-17 06:20:26投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=134773&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の利用、温かい接客に感謝!今回2回目の宿泊です。女将さん・従業員の皆様の対応がよく、いろいろと会話もしてくださり気持ちよく過ごせました。希望ですが九湯巡りの鍵が男女で一つづつあるとありがたい…」
                   </blockquote>
                 </div>
               </div>
@@ -549,7 +549,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１台500円(込)／泊　●入出庫可●高さ制限無※大型車・バイクは駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地や朝食の案内不足が少し残念コンビニが遠く、角にあるのと修繕中のため白いネットで覆われておりわかりませんでした。そこまで説明していただきたいです。朝ごはんの対応も何時までと記載してくださ…　2026-07-13 09:29:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地や朝食の案内不足が少し残念コンビニが遠く、角にあるのと修繕中のため白いネットで覆われておりわかりませんでした。そこまで説明していただきたいです。朝ごはんの対応も何時までと記載してくださ…」
                   </blockquote>
                 </div>
               </div>
@@ -571,7 +571,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 約70台無料。EV充電器2台分ございます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.74 ／ 部屋 ★4.64 ／ 設備 ★4.55 ／ 風呂 ★4.41 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質とゆったりとした暖炉が良かったです小雨が降る8月末の週末にお世話になりました。部屋から前庭越しに望める白馬の峰々を期待していたのですが、次回に持ち越しとなりました。楽しみにしてい…　2026-10-10 15:47:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質とゆったりとした暖炉が良かったです小雨が降る8月末の週末にお世話になりました。部屋から前庭越しに望める白馬の峰々を期待していたのですが、次回に持ち越しとなりました。楽しみにしてい…」
                   </blockquote>
                 </div>
               </div>
@@ -593,7 +593,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1000円/泊　アメニティパーク（中央1-15-25）高さ155cm以下　不適合車は別の場所へご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物設備は年季が入っていますが駅からすぐで便利なロケーションでしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/156…　2026-08-27 19:04:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物設備は年季が入っていますが駅からすぐで便利なロケーションでした」
                   </blockquote>
                 </div>
               </div>
@@ -615,7 +615,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1000台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパが良く子供も大満足、リピートありバイキングは少し種類が気持ち少ない、露天風呂の景色が特に自然を感じないのが、残念でしたが、お値段を考えると総合的に良く、リピートありです。子供もキッズ…　2026-08-20 18:50:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパが良く子供も大満足、リピートありバイキングは少し種類が気持ち少ない、露天風呂の景色が特に自然を感じないのが、残念でしたが、お値段を考えると総合的に良く、リピートありです。子供もキッズ…」
                   </blockquote>
                 </div>
               </div>

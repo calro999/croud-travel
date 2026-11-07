@@ -548,7 +548,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋から眺める海に大満足部屋が広くオーシャンビューなのがよかったです!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-08-14 08:25:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋から眺める海に大満足部屋が広くオーシャンビューなのがよかったです!」
                   </blockquote>
                 </div>
               </div>

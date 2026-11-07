@@ -606,7 +606,7 @@ export default function OsakaAmazingPassPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で快適だが、ガチャガチャは不要新しいホテルなのでとても綺麗でした。快適に過ごせました。チェックインする時のガチャガチャのサービスはわれわれシニアには全く不要でした。クチコミの詳細…　2026-08-29 20:55:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内は綺麗で快適だが、ガチャガチャは不要新しいホテルなのでとても綺麗でした。快適に過ごせました。チェックインする時のガチャガチャのサービスはわれわれシニアには全く不要でした。クチコミの詳細…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function OsakaAmazingPassPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>機械式立体駐車場　2,000円（入庫から24時間）　2階レストラン利用時2時間無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で快適だがエレベーターの混雑が難点ホテルは清潔で良かったですエレベーターに乗るのに並ばないといけないのが大変でしたクチコミの詳細はこちらから　https://review.travel…　2026-08-29 17:42:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で快適だがエレベーターの混雑が難点ホテルは清潔で良かったですエレベーターに乗るのに並ばないといけないのが大変でした」
                   </blockquote>
                 </div>
               </div>
@@ -672,7 +672,7 @@ export default function OsakaAmazingPassPage() {
                   <p>【大阪周遊パス1日券 完全元取りガイド：電車乗り放題＋】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションも良く駐車場もあり設備もよく値段も安くまた使いたいです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/17…　2026-09-18 15:39:19投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=177866&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションも良く駐車場もあり設備もよく値段も安くまた使いたいです。」
                   </blockquote>
                 </div>
               </div>

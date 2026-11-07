@@ -333,7 +333,7 @@ export default function GourmetCuisineHubPage() {
                   <p>【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★3.99 ／ 部屋 ★4.05 ／ 設備 ★3.88 ／ 風呂 ★4.11 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と日本のおもてなしに大満足広くて静かで、落ち着いた宿泊ができました。線状降水帯のためずっと雨で立山連峰は望めませんでしたが、晴れていれば綺麗に眺められたことでしょう。スタ…　2026-10-10 15:08:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と日本のおもてなしに大満足広くて静かで、落ち着いた宿泊ができました。線状降水帯のためずっと雨で立山連峰は望めませんでしたが、晴れていれば綺麗に眺められたことでしょう。スタ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/165855?reviewId=33123478025780　2026-07-04 17:44:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function GourmetCuisineHubPage() {
                   <p>【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…　2026-09-18 22:59:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ふく料理と骨酒が最高、お風呂も充実朝夕共にお食事がふく料理でとっても美味しかったです。お酒の種類も色々あり選ぶ楽しみもあります。ふくの骨酒最高でした!貸切風呂や食事で宿を決めたい方に是非泊まってほ…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>２５台。 全館Ｗｉ-Ｆｉ利用可。禁煙室なし（極力消臭対応）※分煙のご協力お願い致します</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フグ料理も朝食も大満足、スタッフも親切フクフグコースでしたが、フグの刺身も1人前にしても多く、他の料理もとても美味しかったです。朝食も品数多くお腹一杯になりました。スタッフの皆さんも明るく親切でし…　2026-08-09 11:22:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フグ料理も朝食も大満足、スタッフも親切フクフグコースでしたが、フグの刺身も1人前にしても多く、他の料理もとても美味しかったです。朝食も品数多くお腹一杯になりました。スタッフの皆さんも明るく親切でし…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function GourmetCuisineHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料　※現金精算のみ オートバイ、軽・普通車７００円　マイクロバスまでの大型車１３００円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いがスタッフの対応と立地は抜群初めて泊まりました。全体的に古い感じで暗い感じのホテルでした。スタッフの方達は皆さん凄く感じいいかたでした。お風呂は、私廊下渡って隣接している施設…　2026-08-11 10:04:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いがスタッフの対応と立地は抜群初めて泊まりました。全体的に古い感じで暗い感じのホテルでした。スタッフの方達は皆さん凄く感じいいかたでした。お風呂は、私廊下渡って隣接している施設…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function GourmetCuisineHubPage() {
                   <p>【冬の四大味覚極上宿：松葉ガニ・越前ガニ・下関とらふぐ】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.47 ／ 部屋 ★4.34 ／ 設備 ★4.27 ／ 風呂 ★4.37 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満腹、24時間入れる熱めのお風呂お料理に重点を置いたホテル 夕朝食共にお腹いっぱいになりましたお風呂は24時間入れるところが良かった(男女入れ替え清掃時間有り)温度は熱めクチコミ…　2026-09-24 11:46:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満腹、24時間入れる熱めのお風呂お料理に重点を置いたホテル 夕朝食共にお腹いっぱいになりましたお風呂は24時間入れるところが良かった(男女入れ替え清掃時間有り)温度は熱め…」
                   </blockquote>
                 </div>
               </div>

@@ -315,7 +315,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.55 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★4.31 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。銚子ということで期待していた食事もがっかりなクオリティで、良い口コミが本当なのか疑ってしまい…　2026-10-08 21:51:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。銚子ということで期待していた食事もがっかりなクオリティで、良い口コミが本当なのか疑ってしまい…」
                   </blockquote>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊1台1,300円( 要予約）※駐車場は20台のみです。ご予約はお早目にお願い致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸し切り温泉、美味しい食事、丁寧な対応に感謝高齢の母に熱海の花火を見せてあげたくて、宿から花火が見える所を探しておりました。結果、最高の思い出ができました。正直、古さは感じます...部屋が…　2026-08-15 23:25:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸し切り温泉、美味しい食事、丁寧な対応に感謝高齢の母に熱海の花火を見せてあげたくて、宿から花火が見える所を探しておりました。結果、最高の思い出ができました。正直、古さは感じます...部屋が…」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function HeritageOnsenHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　65台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/38574?reviewId=33123478897576　2026-08-16 18:10:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function HeritageOnsenHubPage() {
                   <p>【絶景インフィニティ露天風呂の宿：海・空・湖と一体化す】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が細やかで安心して過ごせた1歳の子どもを連れての宿泊でした。ウェルカムベビーの宿とうたってはいないけど、ベビー用品の貸し出しがあったり食事ではエプロンや子ども用取り皿、ハイチェアなど…　2026-08-21 15:11:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れへの配慮が細やかで安心して過ごせた1歳の子どもを連れての宿泊でした。ウェルカムベビーの宿とうたってはいないけど、ベビー用品の貸し出しがあったり食事ではエプロンや子ども用取り皿、ハイチェアなど…」
                   </blockquote>
                 </div>
               </div>

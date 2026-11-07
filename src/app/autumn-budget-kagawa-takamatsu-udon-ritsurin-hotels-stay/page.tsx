@@ -496,7 +496,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場有　【丸亀町壱番街駐車場／香川県高松市内町2‐1】　1泊1,000円　※予約不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.97 ／ 部屋 ★3.94 ／ 設備 ★3.86 ／ 風呂 ★3.66 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のパンが絶品、コーヒーも美味しく大満足朝食大満足。パンは特に美味しかった。お客さんの入ってる状況によると思いますが、陳列するタイミングをある程度ふんだんに並べていただくとたくさん欲しい人にとっ…　2026-09-27 08:44:57投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=183326&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のパンが絶品、コーヒーも美味しく大満足朝食大満足。パンは特に美味しかった。お客さんの入ってる状況によると思いますが、陳列するタイミングをある程度ふんだんに並べていただくとたくさん欲しい人にとっ…」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【無料】平面駐車場200台　大型バス/トラック可　車で高松駅・サンメッセ15分、高松中央IC10分</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂が綺麗でした。とても快適に過ごすことができました!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13730?re…　2026-08-17 06:15:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂が綺麗でした。とても快適に過ごすことができました!」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場タワーパーキング30台　￥1,200（税込／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の出来立て卵料理が美味しすぎる駐車:ホテル管轄の駐車場がありますが、タワー式の立体駐車場のため大きい車は入れることができません。少し離れた所にある「丸亀町くるりん駐車場」に停めました。ホテ…　2026-08-18 21:21:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の出来立て卵料理が美味しすぎる駐車:ホテル管轄の駐車場がありますが、タワー式の立体駐車場のため大きい車は入れることができません。少し離れた所にある「丸亀町くるりん駐車場」に停めました。ホテ…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携Ｐ田町駐車場 ℡087-831-5590 立体・平面1泊1000円先着順（7：30～24：00）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の利用も部屋と朝食に大満足2回目の宿泊。3部屋用意してくれて、ゆっくりできました。朝のバイキングも、部屋もとても綺麗で快適でした。また機会があれば、行かせてもらいます。クチコミの詳細はこ…　2026-08-21 07:38:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の利用も部屋と朝食に大満足2回目の宿泊。3部屋用意してくれて、ゆっくりできました。朝のバイキングも、部屋もとても綺麗で快適でした。また機会があれば、行かせてもらいます。クチコミの詳細はこ…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function AutumnBudgetTakamatsuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし。徒歩圏内に提携駐車場あり(予約不可)。フロントにて割引券販売 ※途中出庫不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.4 ／ 部屋 ★4.47 ／ 設備 ★4.43 ／ 風呂 ★4.42 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、お風呂も広くて快適な空間瓦町駅からとても近く、周りが飲食街で夕食には困らない。新しいホテルで清潔で快適。風呂とトイレが別々なのも良い。お風呂はとても広く快適。ただ、洗面所がとても狭く使…　2026-10-09 06:45:31投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=181859&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、お風呂も広くて快適な空間瓦町駅からとても近く、周りが飲食街で夕食には困らない。新しいホテルで清潔で快適。風呂とトイレが別々なのも良い。お風呂はとても広く快適。ただ、洗面所がとても狭く使…」
                   </blockquote>
                 </div>
               </div>

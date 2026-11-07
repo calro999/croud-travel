@@ -517,7 +517,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1,109台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.51 ／ 部屋 ★4.53 ／ 設備 ★4.6 ／ 風呂 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松山に来るたび利用、サウナでくつろぐ松山に訪問した際は、利用しています。いろんなサウナもあり、くつろげました。駐車場もあり、便利です。また、利用します。クチコミの詳細はこちらから　https:…　2026-10-07 08:24:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松山に来るたび利用、サウナでくつろぐ松山に訪問した際は、利用しています。いろんなサウナもあり、くつろげました。駐車場もあり、便利です。また、利用します。」
                   </blockquote>
                 </div>
               </div>
@@ -539,7 +539,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル併設駐車場5台(先着順  1,000/泊)。周辺に提携駐車場が4ヶ所ございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービス充実で立地も良く、お部屋も快適夜泣きそば・風呂上りアイスと乳酸菌飲料・アイスノン等サービスが嬉しい。立地条件はとてもよく商店街から入れるので濡れる心配もない。夕食も困ることはありません。朝…　2026-08-21 16:08:33投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=165105&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービス充実で立地も良く、お部屋も快適夜泣きそば・風呂上りアイスと乳酸菌飲料・アイスノン等サービスが嬉しい。立地条件はとてもよく商店街から入れるので濡れる心配もない。夕食も困ることはありません。朝…」
                   </blockquote>
                 </div>
               </div>
@@ -561,7 +561,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携先駐車場の詳細は「アクセス・駐車場」→「提携駐車場」をご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.22 ／ 部屋 ★4.16 ／ 設備 ★4.15 ／ 風呂 ★4.36 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅や温泉へのアクセスが良く、朝食も美味JRの駅にも道後温泉にも路面電車一本でいける便利なロケーション。大浴場も深夜の清掃時間以外は入れるしのんびりできました。朝食も量的にちょうどよかったし、おいし…　2026-10-11 02:20:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅や温泉へのアクセスが良く、朝食も美味JRの駅にも道後温泉にも路面電車一本でいける便利なロケーション。大浴場も深夜の清掃時間以外は入れるしのんびりできました。朝食も量的にちょうどよかったし、おいし…」
                   </blockquote>
                 </div>
               </div>

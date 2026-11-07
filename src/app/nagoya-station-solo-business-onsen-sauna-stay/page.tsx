@@ -540,7 +540,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,800円。全長5.05m 高さ制限2.05m 車幅1.85m 車重1.85t  先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.32 ／ 部屋 ★4.39 ／ 設備 ★4.43 ／ 風呂 ★4.46 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、細やかな心遣いに感動朝食が期待通りに美味しかったです。 冷蔵庫に美味しいゼリーが入っていたりと細かい心使いが良かったです。また名古屋に行く際には泊まりたいです。クチコミの詳…　2026-10-04 23:08:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しく、細やかな心遣いに感動朝食が期待通りに美味しかったです。 冷蔵庫に美味しいゼリーが入っていたりと細かい心使いが良かったです。また名古屋に行く際には泊まりたいです。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携有り　600円／泊（昼14時〜翌昼12時）※台数制限あり。2ｔ車以上の大型車はご利用頂けません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.48 ／ 部屋 ★4.42 ／ 設備 ★4.46 ／ 風呂 ★4.58 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「24時間風呂とサウナを堪能、カレーも絶品24時間風呂、サウナを堪能でき、プレミアムルームは快適すぎる。食堂の雰囲気ともちろん料理のレパートリーがちょうどよく、特にカレーは癖になる美味しさクチコ…　2026-10-09 17:05:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「24時間風呂とサウナを堪能、カレーも絶品24時間風呂、サウナを堪能でき、プレミアムルームは快適すぎる。食堂の雰囲気ともちろん料理のレパートリーがちょうどよく、特にカレーは癖になる美味しさ…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場はございません。周辺パーキングをご利用下さいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.85 ／ 立地 ★3.82 ／ 部屋 ★3.92 ／ 設備 ★3.82 ／ 風呂 ★3.73 ／ 食事 ★2.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドの質は、最高だった。高山への旅行の予定であったが、大雨により、特急が運休のため、急遽、宿泊した。ここの大浴場及びベッドにより、熟睡することができたので、疲れを充分、癒すことができた。…　2026-09-12 10:42:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドの質は、最高だった。高山への旅行の予定であったが、大雨により、特急が運休のため、急遽、宿泊した。ここの大浴場及びベッドにより、熟睡することができたので、疲れを充分、癒すことができた。…」
                   </blockquote>
                 </div>
               </div>

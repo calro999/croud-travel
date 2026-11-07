@@ -590,7 +590,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「モダンな部屋と美味しい食事でリラックス部屋もモダンで綺麗で、夜食朝食もとても美味しかったです。温泉の湯加減も良く、リラックスした2日間を過ごすことができました。ありがとうございました。…　2026-07-20 20:21:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「モダンな部屋と美味しい食事でリラックス部屋もモダンで綺麗で、夜食朝食もとても美味しかったです。温泉の湯加減も良く、リラックスした2日間を過ごすことができました。ありがとうございました。…」
                   </blockquote>
                 </div>
               </div>
@@ -612,7 +612,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場はございません。近隣のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.36 ／ 部屋 ★4.5 ／ 設備 ★4.37 ／ 風呂 ★4.33 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都タワーを望む畳の部屋と温かい接客畳敷のお部屋は間接照明の雰囲気がとてもよくて、部屋から京都タワーも見えて「京都に泊まってる」感を感じられてとても良かったです。部屋のお風呂も広くて、夜遅めの…　2026-10-05 15:07:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「京都タワーを望む畳の部屋と温かい接客畳敷のお部屋は間接照明の雰囲気がとてもよくて、部屋から京都タワーも見えて「京都に泊まってる」感を感じられてとても良かったです。部屋のお風呂も広くて、夜遅めの…」
                   </blockquote>
                 </div>
               </div>
@@ -634,7 +634,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し/近隣パーキングをご利用ください</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東寺が近く、京都駅にも歩いて15分程度。近隣にもコインパーキングもあり、車での旅にももってこいです。値段も安く、ゆっくりくつろぐことができました。クチコミの詳細はこちらから　https://r…　2026-08-28 12:33:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「東寺が近く、京都駅にも歩いて15分程度。近隣にもコインパーキングもあり、車での旅にももってこいです。値段も安く、ゆっくりくつろぐことができました。」
                   </blockquote>
                 </div>
               </div>
@@ -656,7 +656,7 @@ export default function KyotoCoupleLuxuryRyokanPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊￥2000(15：00-翌日12：00)(収容台数50台まで・予約不可) 時間外30分￥800</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.39 ／ 部屋 ★4.47 ／ 設備 ★4.4 ／ 風呂 ★4.26 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応は満足ですが設備が少し残念ホテルの方はとても親切で感じが良かったただお部屋は出入り口が狭く靴を置きにくく少し不便なのと 便座に暖房が入らない点が残念でしたクチコミの詳細はこち…　2026-10-08 12:12:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応は満足ですが設備が少し残念ホテルの方はとても親切で感じが良かったただお部屋は出入り口が狭く靴を置きにくく少し不便なのと 便座に暖房が入らない点が残念でしたクチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>

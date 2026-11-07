@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場150台あり。旅館専用駐車場は伊香保小学校の道向かいにあり。専用駐車場から送迎いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.44 ／ 立地 ★4.46 ／ 部屋 ★4.39 ／ 設備 ★4.27 ／ 風呂 ★4.49 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理は最高だがスリッパ紛失が残念伊香保温泉は仕事では来た事があったが、泊まった事が無かった為、今回妻と宿泊先を検討し石段沿いの岸権旅館さんにお世話になる事としました。宿は老舗旅館らしく建…　2026-10-10 17:18:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客と料理は最高だがスリッパ紛失が残念伊香保温泉は仕事では来た事があったが、泊まった事が無かった為、今回妻と宿泊先を検討し石段沿いの岸権旅館さんにお世話になる事としました。宿は老舗旅館らしく建…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。リピ…　2026-08-21 19:19:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「石段への好立地とスタッフの温かいおもてなし伊香保温泉の石段までのアクセスが近く初めての伊香保温泉観光を満喫出来ました。お料理も美味しくて何よりスタッフの方のおもてなしは素晴らしかったです。リピ…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p>【群馬・伊香保温泉：365段の石段街・黄金の湯＆水沢う】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで料理も温泉も大満足!家族4人で宿泊(子供は4歳と2歳)しました。お盆終盤の8/15(土)、宿泊当日の朝に予約しました。一泊2食付きでとてもリーズナブルな価格設定にびっくり。料理も…　2026-08-17 20:53:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リーズナブルで料理も温泉も大満足!家族4人で宿泊(子供は4歳と2歳)しました。お盆終盤の8/15(土)、宿泊当日の朝に予約しました。一泊2食付きでとてもリーズナブルな価格設定にびっくり。料理も…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p>【群馬・伊香保温泉：365段の石段街・黄金の湯＆水沢う】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族全員が大満足、最高のおもてなしと温泉初めての伊香保温泉でした。私達50代夫婦と20代の息子と娘と宿泊させていただきました。建物もお部屋もお食事も温泉もスタッフのみなさんも全部最高でした。とても…　2026-08-22 10:29:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=147464&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「家族全員が大満足、最高のおもてなしと温泉初めての伊香保温泉でした。私達50代夫婦と20代の息子と娘と宿泊させていただきました。建物もお部屋もお食事も温泉もスタッフのみなさんも全部最高でした。とても…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>車100台・バイクの方は屋根付き駐車場がございます。料金無料・予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.79 ／ 立地 ★3.7 ／ 部屋 ★3.64 ／ 設備 ★3.49 ／ 風呂 ★3.71 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。そして、なんと言っても、部屋にある露天風呂…　2026-10-10 20:57:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と部屋食を満喫、露天風呂も最高でした15歳のトイプードルと妻と一泊しました。外観は昔ながらの旅館ですが、部屋出しの食事、部屋の広さに満足です。そして、なんと言っても、部屋にある露天風呂…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2026年のお盆期間中に利用しました。立地・石段街のほぼ頂上に近く、ホテルから石段街は数分で着いてしまいます!伊香保には伊藤園グループがここを含めて3件ありますが、一番石段街に近い場所かと思い…　2026-08-19 07:56:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2026年のお盆期間中に利用しました。立地・石段街のほぼ頂上に近く、ホテルから石段街は数分で着いてしまいます!伊香保には伊藤園グループがここを含めて3件ありますが、一番石段街に近い場所かと思い…」
                   </blockquote>
                 </div>
               </div>

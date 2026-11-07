@@ -432,7 +432,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1500円／14：00～翌11：00（税込／泊）※先着順、車両制限有、営業時間外入出庫不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、ドライヤーの風力が強烈お部屋は綺麗に掃除されており、快適でした。お水も毎日2本ずついただきありがたかったです。冷凍庫があれば尚良かったですが、氷をもらえたので問題なし。ローソンが1階に…　2026-08-24 17:35:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適、ドライヤーの風力が強烈お部屋は綺麗に掃除されており、快適でした。お水も毎日2本ずついただきありがたかったです。冷凍庫があれば尚良かったですが、氷をもらえたので問題なし。ローソンが1階に…」
                   </blockquote>
                 </div>
               </div>
@@ -454,7 +454,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>9台（1泊2,000円・先着順・予約不可）　詳細は宿ニュース「駐車場のご案内」をご確認ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近の好立地。スタッフも親切。 友人との名古屋旅行で利用。名古屋駅からもちょうど良い距離で不自由なく過ごせた。 9時過ぎごろに朝食会場に行ったのだが、ラストオーダーの時間を優しく伝えてくださり…　2026-08-27 18:39:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近の好立地。スタッフも親切。 友人との名古屋旅行で利用。名古屋駅からもちょうど良い距離で不自由なく過ごせた。 9時過ぎごろに朝食会場に行ったのだが、ラストオーダーの時間を優しく伝えてくださり…」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり。15:00から翌11:00まで2,000円。  ※ホテル専用ではありません。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で駅近だが清掃と朝食に改善の余地あり部屋も清潔でしたが 髪の毛が落ちてたので星2つにしました。アメニティでは化粧水があれば良かったそれと、外の見えない窓は少し嫌ですせっかく朝ご…　2026-08-20 09:14:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で駅近だが清掃と朝食に改善の余地あり部屋も清潔でしたが 髪の毛が落ちてたので星2つにしました。アメニティでは化粧水があれば良かったそれと、外の見えない窓は少し嫌ですせっかく朝ご…」
                   </blockquote>
                 </div>
               </div>

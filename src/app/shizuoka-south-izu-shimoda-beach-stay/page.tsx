@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>同敷地内旅館建物沿い裏手に屋外駐車場有り　宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しさに大満足ご飯美味しかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/138065?review…　2026-08-16 22:53:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しさに大満足ご飯美味しかったです」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスが行き届いていてゆっくりした時間を過ごす事が出来ました!ご飯もすごく美味しくて大満足ですクチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-08-29 18:16:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスが行き届いていてゆっくりした時間を過ごす事が出来ました!ご飯もすごく美味しくて大満足です」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　乗用車15台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古民家の雰囲気に期待したが残念な結果に古民家との建物に魅了を感じ...初めて宿泊しましたが、お部屋からの羨望なし、お風呂の衛生状態もイマイチな感じでした。お食事は、とても残念に感じます。クチコ…　2026-08-26 07:55:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古民家の雰囲気に期待したが残念な結果に古民家との建物に魅了を感じ...初めて宿泊しましたが、お部屋からの羨望なし、お風呂の衛生状態もイマイチな感じでした。お食事は、とても残念に感じます。…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.96 ／ 立地 ★4.35 ／ 部屋 ★4.63 ／ 設備 ★4.37 ／ 風呂 ★4.56 ／ 食事 ★4.96</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「7月の連休前に宿泊。思いがけなく宿泊者ひとりで貸し切りだったので、大浴場も露天風呂もひとり占めで満喫させてもらいました。夕食も女将さんの手作りの真心のこもったお料理で、品数もボリューム満点でした。土鍋…　2026-10-08 11:44:41投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=40166&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「7月の連休前に宿泊。思いがけなく宿泊者ひとりで貸し切りだったので、大浴場も露天風呂もひとり占めで満喫させてもらいました。夕食も女将さんの手作りの真心のこもったお料理で、品数もボリューム満点でした。土鍋…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【静岡・南伊豆＆下田・ヒリゾ浜：開国の港街・白浜海岸＆】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…　2026-09-14 14:58:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大型犬と一緒にどこへも行けて大満足うちの犬は25キロなのですが、そんな大きな犬も食事場所へも、貸切風呂へも、どこでも一緒にいけて、犬も安心して過ごせました。夜は無料の焼きマシュマロや綿あめを楽しん…」
                   </blockquote>
                 </div>
               </div>

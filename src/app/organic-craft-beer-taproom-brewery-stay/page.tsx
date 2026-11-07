@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                   <p>【出来立てクラフトビールをタップから】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.65 ／ 立地 ★4.56 ／ 部屋 ★4.31 ／ 設備 ★4.25 ／ 風呂 ★3.93</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自転車旅にも対応自転車仲間と鯖街道を走る旅で利用しました。自転車をロビーで保管してくれたり、スタッフの対応が素晴らしいです。食事も美味しく、また利用したいです。クチコミの詳細はこち…　2026-09-05 20:33:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自転車旅にも対応自転車仲間と鯖街道を走る旅で利用しました。自転車をロビーで保管してくれたり、スタッフの対応が素晴らしいです。食事も美味しく、また利用したいです。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.01 ／ 立地 ★3.83 ／ 部屋 ★3.8 ／ 設備 ★3.8 ／ 風呂 ★4.08 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と衛生面に大きな不満あり貸切風呂の予約を取る際に夕陽を見れる時間を希望した所、お風呂場からは見れないとスタッフ冷たく言われましたが実際は見れました。夕食時は隣の机の片付けを始めたかと…　2026-10-08 22:24:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と衛生面に大きな不満あり貸切風呂の予約を取る際に夕陽を見れる時間を希望した所、お風呂場からは見れないとスタッフ冷たく言われましたが実際は見れました。夕食時は隣の机の片付けを始めたかと…」
                   </blockquote>
                 </div>
               </div>
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.67 ／ 部屋 ★3.59 ／ 設備 ★3.61 ／ 風呂 ★3.9 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝のオールインクルーシブとお香のサービス朝もオールインクルーシブは嬉しいです。お香のサービスも良かったです。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-10-08 23:07:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝のオールインクルーシブとお香のサービス朝もオールインクルーシブは嬉しいです。お香のサービスも良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.12 ／ 部屋 ★3.92 ／ 設備 ★3.83 ／ 風呂 ★4.36 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めての湯河原温泉で、当日思い立って予約。標準お得プランで申込みました。部屋は幸い本館2階だったので、お風呂にも食堂にもさほど問題なく行き来出来、15畳位のとても広い部屋に老夫婦2人でゆったり…　2026-10-10 19:46:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めての湯河原温泉で、当日思い立って予約。標準お得プランで申込みました。部屋は幸い本館2階だったので、お風呂にも食堂にもさほど問題なく行き来出来、15畳位のとても広い部屋に老夫婦2人でゆったり…」
                   </blockquote>
                 </div>
               </div>
@@ -877,7 +877,7 @@ export default function FeatureDetailPage() {
                   <p>【出来立てクラフトビールをタップから】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「少し残念設備の確認をせずにテレビがない事に知って失敗しました。料理は朝夕共に大変美味しかったです。ただ、夕食の時間が2時間20分ほどかかり、会話も弾まず、お酒も進まず、食事が終わるとグッタ…　2026-08-21 09:57:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「少し残念設備の確認をせずにテレビがない事に知って失敗しました。料理は朝夕共に大変美味しかったです。ただ、夕食の時間が2時間20分ほどかかり、会話も弾まず、お酒も進まず、食事が終わるとグッタ…」
                   </blockquote>
                 </div>
               </div>

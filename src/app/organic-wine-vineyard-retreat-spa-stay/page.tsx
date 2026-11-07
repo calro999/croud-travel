@@ -789,7 +789,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（200台／無料／先着順）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は満足だが子供の食事と朝食は残念初めて利用しました。夕食は五島牛のすき焼きはとても美味しかった。刺し身も良かった。しかし、子供のワンプレートの食事は他のホテルと比較すると、手抜き感が際立ってい…　2026-08-24 20:26:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食は満足だが子供の食事と朝食は残念初めて利用しました。夕食は五島牛のすき焼きはとても美味しかった。刺し身も良かった。しかし、子供のワンプレートの食事は他のホテルと比較すると、手抜き感が際立ってい…」
                   </blockquote>
                 </div>
               </div>
@@ -811,7 +811,7 @@ export default function FeatureDetailPage() {
                   <p>【広大なブドウ畑を望む。ワイナリー直営レストラン＆ワイ】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.21 ／ 部屋 ★4.06 ／ 設備 ★3.96 ／ 風呂 ★4.07 ／ 食事 ★4.07</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は最高だが山道と騒音に難あり朝、霧が山の下に出てて幻想的でした。夜は、大鰐の夜景が綺麗。山道を登って行くのが大変です。Lowギヤじゃないと登らない。真っ暗な山道が怖かったです。…　2026-09-23 21:27:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色は最高だが山道と騒音に難あり朝、霧が山の下に出てて幻想的でした。夜は、大鰐の夜景が綺麗。山道を登って行くのが大変です。Lowギヤじゃないと登らない。真っ暗な山道が怖かったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -833,7 +833,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★3.51 ／ 部屋 ★3.48 ／ 設備 ★3.22 ／ 風呂 ★3.5 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/72…　2026-09-17 19:41:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シャワーからお湯が出ず困ったお風呂のシャワーのお湯が出なかった。」
                   </blockquote>
                 </div>
               </div>
@@ -855,7 +855,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 100台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から特急あずさやかいじが見える!部屋から、特急あずさ、かいじが見えました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-08-29 17:19:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から特急あずさやかいじが見える!部屋から、特急あずさ、かいじが見えました。」
                   </blockquote>
                 </div>
               </div>
@@ -877,7 +877,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 120台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、犬連れでも快適に過ごせる温泉宿施設は少し年季が入っていますが、隅々まで掃除が行き届いていて、とても清潔感があり、気持ちよく過ごすことができました。スタッフの皆さんも親切で温かく、とて…　2026-08-22 16:51:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、犬連れでも快適に過ごせる温泉宿施設は少し年季が入っていますが、隅々まで掃除が行き届いていて、とても清潔感があり、気持ちよく過ごすことができました。スタッフの皆さんも親切で温かく、とて…」
                   </blockquote>
                 </div>
               </div>

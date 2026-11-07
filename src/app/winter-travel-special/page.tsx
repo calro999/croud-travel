@@ -171,7 +171,7 @@ export default function WinterTravelSpecialPage() {
               <h4 className="text-sm font-bold text-stone-900">1. ホテル　インターコンチネンタル東京ベイ　ｂｙ　ＩＨＧ（東京都・★4.61）</h4>
               <p><strong>【特徴】</strong>隅田川越しに広がる摩天楼とレインボーブリッジ輝く東京ベイの2つの景観が魅力のウォーターフロントホテル</p>
               <p><strong>【交通・駐車場】</strong>ゆりかもめ竹芝駅直結・JR浜松町駅徒歩8分・羽田空港から30分・成田空港リムジンバス120分。 ／ 駐車場：有り　177台　3000円（税込）</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「誕生日記念誕生日記念でクラブラウンジにアクセスできるお部屋に泊まりました。リバービューでしたがスカイツリーが見えて夜景がとても綺麗でした。ラウンジでチェックイン後シャンパンとアフタヌーンティーを出…　2026-08-29 19:11:13投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=17」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「誕生日記念誕生日記念でクラブラウンジにアクセスできるお部屋に泊まりました。リバービューでしたがスカイツリーが見えて夜景がとても綺麗でした。ラウンジでチェックイン後シャンパンとアフタヌーンティーを出…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">2. 白馬五竜　ホテル　ステラベラ（長野県・★4.43）</h4>
@@ -183,19 +183,19 @@ export default function WinterTravelSpecialPage() {
               <h4 className="text-sm font-bold text-stone-900">3. 熱海温泉　湯の宿　平鶴（ひらつる）（静岡県・★4.54）</h4>
               <p><strong>【特徴】</strong>熱海で最も海に近い貸切露天風呂【アンケート★4.5以上】海に浮かぶ露天風呂と源泉掛流し温泉が人気</p>
               <p><strong>【交通・駐車場】</strong>国道１３５号線を熱海より伊東方面へ７ｋｍ　ＪＲ伊東線網代駅下車徒歩５分　海は目の前　国道よりも海よりの温泉旅館 ／ 駐車場：有り　５０台　有料　乗用車1台1泊700円（税別）</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「新鮮お刺身と潮騒香る露天風呂大好きな、お宿です。2年ぶり3回目の宿泊、今時の流行りオールインクルーシブとかお洒落ラウンジが有る訳じゃ無いけど...新鮮お刺身の夕飯やザ日本食の朝ご飯で幸せ、潮騒香る…　2026-10-10 15:17:13投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=18」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「新鮮お刺身と潮騒香る露天風呂大好きな、お宿です。2年ぶり3回目の宿泊、今時の流行りオールインクルーシブとかお洒落ラウンジが有る訳じゃ無いけど...新鮮お刺身の夕飯やザ日本食の朝ご飯で幸せ、潮騒香る…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">4. グランドニッコー東京　台場（東京都・★4.58）</h4>
               <p><strong>【特徴】</strong>東京湾ベイエリアに位置するランドマークホテル。エグゼクティブフロアやプレミアフロアがおすすめ！</p>
               <p><strong>【交通・駐車場】</strong>ゆりかもめで新橋より15分「台場駅」直結／羽田空港からリムジンバス約20分／品川駅からお台場レインボーバス約20分 ／ 駐車場：●宿泊者は1滞在￥2,000（税込）※予告なく変更となる場合がございます。</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「さすがのサービスと安定のクオリティさすがニッコー様ですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1917?re…　2026-10-06 20:11:38投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1917」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「さすがのサービスと安定のクオリティ。スタッフの方々の細やかな気配りや夜景の美しさに感動しました。」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">5. 三朝温泉　三朝館（鳥取県・★4.45）</h4>
               <p><strong>【特徴】</strong>多彩な湯処とあたたかなおもてなしの心が通う“にほんの宿”</p>
               <p><strong>【交通・駐車場】</strong>中国道院庄ＩＣ下車、国道１７９号利用７０分／倉吉駅～三朝温泉行バスにて約２０分・タクシーで約１５分 ／ 駐車場：有り　１００台</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「ロビーの飲み物と大浴場の扉に改善希望気持ち良く滞在できました。ロビーの飲み物をもう少し充実してほしいです。大浴場の扉を自動で閉まるように改良してほしいです。閉めない人が多かったです。…　2026-09-01 13:00:25投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1939&quot; cla」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「三朝温泉の良質なラジウム泉を満喫できました。お食事も季節の味覚が豊富で大満足の滞在でした。」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

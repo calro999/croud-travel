@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気抜群の旅館で美味しい料理に大満足すごく雰囲気のある旅館でお料理も美味しかったです!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-08-24 10:00:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気抜群の旅館で美味しい料理に大満足すごく雰囲気のある旅館でお料理も美味しかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.41 ／ 立地 ★4.52 ／ 部屋 ★4.48 ／ 設備 ★4.38 ／ 風呂 ★4.48 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と美味しい食事に大満足とても良かった。従業員の方もとても親切で、本当に素敵な旅館でした。ご飯も美味しく、お風呂もとても良かったです。また泊まりに行きたいと思いました。クチコミ…　2026-09-20 16:17:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と美味しい食事に大満足とても良かった。従業員の方もとても親切で、本当に素敵な旅館でした。ご飯も美味しく、お風呂もとても良かったです。また泊まりに行きたいと思いました。…」
                   </blockquote>
                 </div>
               </div>

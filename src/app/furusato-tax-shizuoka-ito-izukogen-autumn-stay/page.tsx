@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（５０台）無料・予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「里山体験とブリしゃぶに感動、孫と大満足の旅60代・男性 2026.8.14に孫と3世代で宿泊。敷地内に入ると田んぼやせせらぎなどがあり、子供時代にタイムスリップしたかのような原風景を思い出…　2026-09-17 08:45:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「里山体験とブリしゃぶに感動、孫と大満足の旅60代・男性 2026.8.14に孫と3世代で宿泊。敷地内に入ると田んぼやせせらぎなどがあり、子供時代にタイムスリップしたかのような原風景を思い出…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.63 ／ 部屋 ★4.82 ／ 設備 ★4.81 ／ 風呂 ★4.81 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。今回たまたまキャンセル待ちで予約することが…　2026-09-30 11:57:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サプライズの演出と心温まるおもてなしに感動大切な友人のお祝いで宿泊しました。以前からずっと泊まってみたかったのですが、なかなか予約が取れず...。今回たまたまキャンセル待ちで予約することが…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　18台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望は最高だが朝食と急坂が少し残念部屋からの眺望がとっても良い。夕食は品数もちょうどで美味しいが朝食はおかずの量と質が物足りないホテルまでの道が急坂なので歩きは辛いクチコミの詳…　2026-09-19 17:34:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望は最高だが朝食と急坂が少し残念部屋からの眺望がとっても良い。夕食は品数もちょうどで美味しいが朝食はおかずの量と質が物足りないホテルまでの道が急坂なので歩きは辛いクチコミの詳…」
                   </blockquote>
                 </div>
               </div>

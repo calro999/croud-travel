@@ -454,7 +454,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携徒歩1分／築町パーキングビル1泊1,200円／095-827-3650※時間制限有（他2ヶ所）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.43 ／ 部屋 ★4.38 ／ 設備 ★4.41 ／ 風呂 ★4.43 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂が復活していて快適な湯浴み5月にも利用しましたが、露天風呂の故障が治っておらず他の点では好印象なだけに残念です。クチコミの詳細はこちらから　https://review.travel.…　2026-10-10 16:41:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂が復活していて快適な湯浴み5月にも利用しましたが、露天風呂の故障が治っておらず他の点では好印象なだけに残念です。」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1階はコインパーキング(普通車3台・小型2台・軽1台)　※管理外ですので空車情報は不明。有料です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.38 ／ 部屋 ★4.4 ／ 設備 ★4.38 ／ 風呂 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長期滞在にも最適、設備が充実して快適ワンルームマンションのようなお部屋でした。キッチン(簡単なフライパンや食器もあり)、洗濯機、独立した洗面台と、洗い場付きのお風呂。快適でした。1泊だと勿…　2026-10-04 15:22:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長期滞在にも最適、設備が充実して快適ワンルームマンションのようなお部屋でした。キッチン(簡単なフライパンや食器もあり)、洗濯機、独立した洗面台と、洗い場付きのお風呂。快適でした。1泊だと勿…」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣駐車場有/15時から翌10時まで1,400円/先着順/車高2m以下/営業時間5時〜23時</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.3 ／ 部屋 ★4.24 ／ 設備 ★4.15 ／ 風呂 ★4.11 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は期待外れ、レディースフロアは場所が難解朝食が写真よりもイマイチだったのが残念でした。レディースフロアで、クッションがあったのは良かったが、場所が分かりにくかった。クチコミの詳細はこちらか…　2026-10-07 22:07:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は期待外れ、レディースフロアは場所が難解朝食が写真よりもイマイチだったのが残念でした。レディースフロアで、クッションがあったのは良かったが、場所が分かりにくかった。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　お車１台につき、普通車800円/中型車1,600円/大型車2,000円（税込）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎を一望できる絶景、部屋はリフォーム済み長崎が一望できるホテル 稲佐山展望台に行く必要がないレベル。施設は少し時間が経ってるようだが、今回泊まらせて頂いた部屋はリフォーム済みで素敵な空間で泊まれ…　2026-08-17 01:16:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「長崎を一望できる絶景、部屋はリフォーム済み長崎が一望できるホテル 稲佐山展望台に行く必要がないレベル。施設は少し時間が経ってるようだが、今回泊まらせて頂いた部屋はリフォーム済みで素敵な空間で泊まれ…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function NagasakiBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,200円（機械式68台）入庫制限有（車高2.05m長さ5.05ｍ車幅1.91ｍ)先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.44 ／ 部屋 ★4.53 ／ 設備 ★4.51 ／ 風呂 ★4.57 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングの種類が豊富で大満足!朝食バイキングが目当てで泊まります!相変わらずの種類の多さについつい食べ過ぎて・・・今回も堪能させて頂きました。クチコミの詳細はこちらから　http…　2026-10-07 10:31:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングの種類が豊富で大満足!朝食バイキングが目当てで泊まります!相変わらずの種類の多さについつい食べ過ぎて・・・今回も堪能させて頂きました。」
                   </blockquote>
                 </div>
               </div>

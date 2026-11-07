@@ -711,7 +711,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…　2026-08-19 19:52:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
                   </blockquote>
                 </div>
               </div>
@@ -733,7 +733,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.47 ／ 部屋 ★4.6 ／ 設備 ★4.48 ／ 風呂 ★4.74 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食も朝食も充実の内容で大満足夕食、朝食ともに大変素晴らしかった。それぞれ量が多いだけでなく内容も大変充実していたと思う。また宿泊させていただきたい。クチコミの詳細はこちらから　https:/…　2026-10-05 22:24:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食も朝食も充実の内容で大満足夕食、朝食ともに大変素晴らしかった。それぞれ量が多いだけでなく内容も大変充実していたと思う。また宿泊させていただきたい。」
                   </blockquote>
                 </div>
               </div>
@@ -777,7 +777,7 @@ export default function FurusatoTaxPage() {
                   <p>【ブランド地鶏・水炊き・軍鶏料理の名湯宿×ふるさと納税】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の照明が少し暗く感じた少し照明が暗かったような、、クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/171986?…　2026-08-03 12:07:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の照明が少し暗く感じた少し照明が暗かったような、、」
                   </blockquote>
                 </div>
               </div>

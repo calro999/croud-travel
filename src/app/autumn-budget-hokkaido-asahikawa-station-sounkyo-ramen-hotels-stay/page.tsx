@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場有 ホテル裏（タイムズツルハビル旭川駅前）１泊１２００円　マップコード「79343232」</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.39 ／ 部屋 ★4.34 ／ 設備 ★4.28 ／ 風呂 ★4.27 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く朝食の海鮮丼に大満足朝食付きツインルームを予約した。窓からは駅前ターミナルが見え、イオンが真向かいで便利な立地だった。狭すぎないツインルームである事、ある程度のレベルの朝食が出る事が条件…　2026-10-09 18:23:10投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=166948&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く朝食の海鮮丼に大満足朝食付きツインルームを予約した。窓からは駅前ターミナルが見え、イオンが真向かいで便利な立地だった。狭すぎないツインルームである事、ある程度のレベルの朝食が出る事が条件…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場（イオンモール旭川駅前）1泊1000円。出庫毎に料金がかかります。フロントにてご精算下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.28 ／ 部屋 ★4.09 ／ 設備 ★4.04 ／ 風呂 ★4.02 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イオン近くて便利駅、イオン、バス停が近く立地が良い部屋も清潔でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice…　2026-10-09 18:58:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イオン近くて便利駅、イオン、バス停が近く立地が良い部屋も清潔でした」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場176台　1泊800円（税込）　予約不可/先着順　バイク駐車不可（近隣駐車場へご案内）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.4 ／ 部屋 ★4.32 ／ 設備 ★4.29 ／ 風呂 ★4.29 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が広く清潔で、また利用したい部屋も広く清潔でくつろげました。また利用したいと思います。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-10-09 23:14:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が広く清潔で、また利用したい部屋も広く清潔でくつろげました。また利用したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携先：ハートピアパーキング　旭川市1条通7丁目43-40　※ オートバイ除く、高さ2.1ｍ以下の車</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.88 ／ 部屋 ★3.57 ／ 設備 ★3.53 ／ 風呂 ★3.39 ／ 食事 ★3.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「壁が薄く隣の部屋の声が丸聞こえ壁薄い!部屋の両側から話す声や子供が歌う声が丸聞こえ。昭和の長屋かよ。禁煙フロアなのにタバコ臭いし。クチコミの詳細はこちらから　https://review.tr…　2026-10-10 20:27:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「壁が薄く隣の部屋の声が丸聞こえ壁薄い!部屋の両側から話す声や子供が歌う声が丸聞こえ。昭和の長屋かよ。禁煙フロアなのにタバコ臭いし。」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り★１台１泊６００円〜１100円★バイク駐輪場なし★大型車は要予約（ホテルへご連絡下さい）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★3.95 ／ 部屋 ★4.02 ／ 設備 ★3.97 ／ 風呂 ★3.96 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街へのアクセスは便利だが朝食は残念出張で泊まりました。繁華街へのアクセスも良く便利でした。朝食ビュッフェは品数が少なくて残念でした。クチコミの詳細はこちらから　https://re…　2026-09-27 17:54:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「繁華街へのアクセスは便利だが朝食は残念出張で泊まりました。繁華街へのアクセスも良く便利でした。朝食ビュッフェは品数が少なくて残念でした。」
                   </blockquote>
                 </div>
               </div>

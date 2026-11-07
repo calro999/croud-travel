@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.13 ／ 部屋 ★4 ／ 設備 ★3.94 ／ 風呂 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂がなくても、十分いいお風呂でゆっくりできた。料理もおいしく、肉魚両方あって、静かに眠れた。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-06-22 17:10:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂がなくても、十分いいお風呂でゆっくりできた。料理もおいしく、肉魚両方あって、静かに眠れた。」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台(無料)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.52 ／ 立地 ★4.15 ／ 部屋 ★4.23 ／ 設備 ★4.14 ／ 風呂 ★4.54 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯質は最高だが設備と冷蔵庫に難あり温泉は湯質がよく100%掛け流しは違うなととても満足でした。でもテラス風呂?は景観や施設の古さが目立ちました。部屋の冷蔵庫が全く冷えなかったので残念。…　2026-09-27 07:56:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯質は最高だが設備と冷蔵庫に難あり温泉は湯質がよく100%掛け流しは違うなととても満足でした。でもテラス風呂?は景観や施設の古さが目立ちました。部屋の冷蔵庫が全く冷えなかったので残念。…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.73 ／ 立地 ★4.63 ／ 部屋 ★4.6 ／ 設備 ★4.63 ／ 風呂 ★4.66 ／ 食事 ★4.78</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13487?reviewId=33123479683466　2026-10-10 16:47:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>

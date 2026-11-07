@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し　近隣駐車場ご案内　有料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.61 ／ 立地 ★3.47 ／ 部屋 ★3.28 ／ 設備 ★3.25 ／ 風呂 ★3.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋の設備は新しく快適建物は古いが部屋の設備は新しくなっていた。朝食がよかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-10-08 11:25:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが部屋の設備は新しく快適建物は古いが部屋の設備は新しくなっていた。朝食がよかった。」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.56 ／ 立地 ★3.33 ／ 部屋 ★3.42 ／ 設備 ★3.34 ／ 風呂 ★3.52 ／ 食事 ★3.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。駅から遠いのとコンビニや飲…　2026-09-23 03:28:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。駅から遠いのとコンビニや飲…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1階にコインパーキングあり。当館には提携している駐車場はございません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.25 ／ 部屋 ★4.1 ／ 設備 ★4.14 ／ 風呂 ★4.21 ／ 食事 ★4.08</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で朝食も美味しく大満足部屋も綺麗で朝食も美味しいクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/28283…　2026-10-06 15:17:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で朝食も美味しく大満足部屋も綺麗で朝食も美味しい」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　7台　５００円（税込／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.82 ／ 立地 ★3.64 ／ 部屋 ★3.14 ／ 設備 ★3.03 ／ 風呂 ★3.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外の騒音と施設の古さが気になる夜、外が騒がしい。お風呂場をはじめ、施設が古いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-09-29 06:49:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外の騒音と施設の古さが気になる夜、外が騒がしい。お風呂場をはじめ、施設が古い」
                   </blockquote>
                 </div>
               </div>

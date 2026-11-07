@@ -452,7 +452,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p>【秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの音がうるさく、少し気になった総合的には満足でしたがエアコンの音がうるさく感じられたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-09-01 13:01:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの音がうるさく、少し気になった総合的には満足でしたがエアコンの音がうるさく感じられた」
                   </blockquote>
                 </div>
               </div>
@@ -496,7 +496,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　40台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.67 ／ 部屋 ★4.72 ／ 設備 ★4.56 ／ 風呂 ★4.72 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…　2026-09-14 20:40:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「よくメンテされた登録文化財施設は漸次更新されており(文化財なので許認可大変だと思います)食事も美味しく仲居さんもフレッシュで素晴らしいと思います。ただし、寝具類がせんべい布団で朝が来るのが待ち…」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p>【秋の伊豆・修善寺温泉：竹林の小径紅葉と桂川の清流散策】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「修善寺温泉、芸術的な部屋と温泉満喫の宿修善寺温泉の部屋数少な目の温泉旅館ですね遊郭のようなアーティストデザインの部屋、内装が特徴的で非日常を体験出来ます部屋は禁煙の朱の間、赤を基調としてい…　2026-06-25 21:14:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「修善寺温泉、芸術的な部屋と温泉満喫の宿修善寺温泉の部屋数少な目の温泉旅館ですね遊郭のようなアーティストデザインの部屋、内装が特徴的で非日常を体験出来ます部屋は禁煙の朱の間、赤を基調としてい…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function IzuShuzenjiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「7つの貸切風呂と海鮮料理に大満足貸切風呂が7個もあり、どのお風呂に入るか悩む楽しみがあり、名前にある通り湯めぐりが楽しめる宿でした。みんな貸切風呂に行くからか、大浴場に誰もおらず独り占めでき、贅沢…　2026-09-05 20:44:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「7つの貸切風呂と海鮮料理に大満足貸切風呂が7個もあり、どのお風呂に入るか悩む楽しみがあり、名前にある通り湯めぐりが楽しめる宿でした。みんな貸切風呂に行くからか、大浴場に誰もおらず独り占めでき、贅沢…」
                   </blockquote>
                 </div>
               </div>

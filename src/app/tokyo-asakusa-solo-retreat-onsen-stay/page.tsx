@@ -540,7 +540,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.27 ／ 部屋 ★4.1 ／ 設備 ★4.05 ／ 風呂 ★4.18 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「廊下は匂うが朝食は秋葉原より満足廊下が少し匂ったが、喫煙部屋なので、よいです。朝食は秋葉原のドーミーよりよかった。食堂の店員さんの対応もよかったです。他の画像やクチコミの詳細はこちらから　ht…　2026-10-09 23:03:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「廊下は匂うが朝食は秋葉原より満足廊下が少し匂ったが、喫煙部屋なので、よいです。朝食は秋葉原のドーミーよりよかった。食堂の店員さんの対応もよかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【完全電話予約制】車幅は一律180cmまで（車高155cm以上は4台のみ）2,500円/1泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.4 ／ 部屋 ★4.39 ／ 設備 ★4.24 ／ 風呂 ★4.23 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早朝のアラームで起こされ寝不足にチェックイン・チェックアウトや荷物の預かりなどとてもスムーズで、部屋や浴槽も広めで使いやすく、立地も良かったため、快適に宿泊となりそうだなと思っていたのですが、、、…　2026-09-15 11:51:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早朝のアラームで起こされ寝不足にチェックイン・チェックアウトや荷物の預かりなどとてもスムーズで、部屋や浴槽も広めで使いやすく、立地も良かったため、快適に宿泊となりそうだなと思っていたのですが、、、…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場26台　先着順予約不可　入庫から24時間2,000円（税込）　車高制限2.0m</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋とお風呂は狭いが湯船で疲れが取れたお部屋とお風呂は狭かったが、歩き疲れたので、湯船に入れて良かったです。クチコミの詳細はこちらから　https://review.travel.raku…　2026-08-22 21:29:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋とお風呂は狭いが湯船で疲れが取れたお部屋とお風呂は狭かったが、歩き疲れたので、湯船に入れて良かったです。」
                   </blockquote>
                 </div>
               </div>

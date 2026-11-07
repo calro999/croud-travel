@@ -315,7 +315,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な対応と清潔な部屋で快適な時間を過ごせた対応がとても丁寧で、お部屋も綺麗にお掃除されていて、とても快適でした。和田山駅から徒歩圏内のため、竹田城へのアクセスも良く、また次回も利用させていただき…　2026-08-11 21:54:20投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=136998&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な対応と清潔な部屋で快適な時間を過ごせた対応がとても丁寧で、お部屋も綺麗にお掃除されていて、とても快適でした。和田山駅から徒歩圏内のため、竹田城へのアクセスも良く、また次回も利用させていただき…」
                   </blockquote>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function MicroTouristHubPage() {
                   <p>【兵庫・竹田城跡＆朝来・生野銀山：雲海に浮かぶ天空の城】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…　2026-09-19 17:22:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と地産地消の食事が最高従業員さんがとても素敵でした。食事も地産地消の食材を使ってとても美味しい!温泉もとてもいいお湯でした。雨で露天風呂が楽しめなかったのが残念でしたが2連泊だったの…」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４台　無料　要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/167271?reviewId=33123478388860　2026-08-04 13:22:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シックな空間と囲炉裏会席に大満足部屋をはじめ建物内はシックで落ち着いた佇まいで非常に素晴らしいと思いました。夕食の囲炉裏会席は他では体験出来ない楽しいものでした。また、大変美味しくいただきまし…　2026-08-22 17:36:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シックな空間と囲炉裏会席に大満足部屋をはじめ建物内はシックで落ち着いた佇まいで非常に素晴らしいと思いました。夕食の囲炉裏会席は他では体験出来ない楽しいものでした。また、大変美味しくいただきまし…」
                   </blockquote>
                 </div>
               </div>

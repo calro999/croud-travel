@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無。有料提携駐車場（お城下パーキング2番町、フラワーパーキング2番町など）をご利用ください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンプディングが安定の美味しさパンプディングが安定の美味しさでした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/…　2026-08-29 19:22:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンプディングが安定の美味しさパンプディングが安定の美味しさでした。」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料・20台　※予約不要・先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅や城が近く駐車場も無料、コスパ抜群2人で朝飯付き 駅や宇和島城が近く、駐車場無料、コスパを考えると十分だと思います。クチコミの詳細はこちらから　https://review.travel.r…　2026-08-23 17:49:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅や城が近く駐車場も無料、コスパ抜群2人で朝飯付き 駅や宇和島城が近く、駐車場無料、コスパを考えると十分だと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場【有料】1泊 普通車770円・バイク 550円 ※大型車は駐車できません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足しました今回はビジネスで利用。料金はリーズナブルなのに、お部屋はとても広く、朝食サービスはありがたかったです。クチコミの詳細はこちらから　https://review.travel.rak…　2026-08-27 16:54:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足しました今回はビジネスで利用。料金はリーズナブルなのに、お部屋はとても広く、朝食サービスはありがたかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場300台完備(先着順)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.36 ／ 部屋 ★4.25 ／ 設備 ★4.12 ／ 風呂 ★4.53 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯とバイキングは最高、階段移動は大変お部屋タイプおまかせのプランでしたが、腰痛に配慮して洋室にしてもらえ、当日は色浴衣の無料デーだったのもとてもうれしいポイントでした。到着時に駐車場に誰もお…　2026-10-04 07:42:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お湯とバイキングは最高、階段移動は大変お部屋タイプおまかせのプランでしたが、腰痛に配慮して洋室にしてもらえ、当日は色浴衣の無料デーだったのもとてもうれしいポイントでした。到着時に駐車場に誰もお…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台あたり700円　先着順でご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.25 ／ 立地 ★4.11 ／ 部屋 ★4.12 ／ 設備 ★4.06 ／ 風呂 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入浴剤やドリンクのサービスが充実駐車場の予約が出来ない為、ホテルの前に付けるとフロント係が来て誘導してくれます。敷地内と少し離れた場所で、宿泊中は指定駐車です。宇和島駅からは少し歩きます。…　2026-10-09 04:30:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入浴剤やドリンクのサービスが充実駐車場の予約が出来ない為、ホテルの前に付けるとフロント係が来て誘導してくれます。敷地内と少し離れた場所で、宿泊中は指定駐車です。宇和島駅からは少し歩きます。…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約必要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.76 ／ 部屋 ★4.47 ／ 設備 ★4.35 ／ 風呂 ★4.65 ／ 食事 ★4.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし…　2026-05-26 16:06:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある建物と丁寧な対応、美味しい料理に満足趣きのある建物で、部屋の雰囲気も良かったです。従業員の方々も、どなたも明るく感じの良い対応でした。料理も出汁に拘っておられ、とても美味しく頂きまし…」
                   </blockquote>
                 </div>
               </div>

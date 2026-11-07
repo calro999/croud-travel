@@ -317,13 +317,13 @@ export default function SilverWeekPage() {
               <h4 className="text-sm font-bold text-stone-900">1. ＡＮＡクラウンプラザホテルグランコート名古屋　ｂｙ　ＩＨＧ（愛知県・★4.46）</h4>
               <p><strong>【特徴】</strong>「金山総合駅」から雨にぬれない徒歩1分。名古屋国際会議場まで車で5分。全客室無料Wi-Fi完備。</p>
               <p><strong>【交通・駐車場】</strong>名古屋駅から電車で3分「金山総合駅」下車。南口より徒歩1分。中部国際空港からは名鉄快速特急ミュースカイで最速２３分。 ／ 駐車場：有り(車高2.1Ｍ以下) 1泊 2,500円 入庫から24時間</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「高層階の夜景と名古屋めし、立地も最高高層階の部屋でとても夜景が綺麗でした。30階のラウンジでウェルカムドリンクもいただけてとてもびっくりしましたが美味しかったです。朝食ビュッフェも名古屋め…　2026-08-20 07:26:47投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1659&quot;」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「高層階の夜景と名古屋めし、立地も最高高層階の部屋でとても夜景が綺麗でした。30階のラウンジでウェルカムドリンクもいただけてとてもびっくりしましたが美味しかったです。朝食ビュッフェも名古屋め…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">2. 富士屋ホテル（神奈川県・★4.78）</h4>
               <p><strong>【特徴】</strong>◇おかげさまで創業148周年◇明治11年創業の箱根のクラシックホテル</p>
               <p><strong>【交通・駐車場】</strong>箱根登山鉄道「宮ノ下駅」より 徒歩７分 / 小田原厚木道路「箱根口IC」より国道1号線経由20分 （11㎞） ／ 駐車場：有り(無料)</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「憧れのホテルで過ごす快適な箱根旅憧れのホテルに宿泊できて嬉しいです。交通手段は箱根登山鉄道の宮ノ下駅や、箱根登山バスのホテル前が最寄りです。荷物を預かっていただき、日中は箱根湯本を…　2026-08-29 10:49:56投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1727&quot; clas」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「憧れのホテルで過ごす快適な箱根旅憧れのホテルに宿泊できて嬉しいです。交通手段は箱根登山鉄道の宮ノ下駅や、箱根登山バスのホテル前が最寄りです。荷物を預かっていただき、日中は箱根湯本を…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. 富士ビューホテル（山梨県・★4.56）</h4>
@@ -335,13 +335,13 @@ export default function SilverWeekPage() {
               <h4 className="text-sm font-bold text-stone-900">4. 運河の宿　おたる　ふる川（北海道・★4.76）</h4>
               <p><strong>【特徴】</strong>天然温泉『小樽運河前の温泉宿』　明治時代の商家を再現。おもてなし溢れる空間で寛ぎの一日を。</p>
               <p><strong>【交通・駐車場】</strong> ／ 駐車場：有り</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「毎年恒例の宿、朝食時間の配慮に感謝毎年北海道旅行の最終日に宿泊する宿です。去年から部屋をグレードアップし満足度がよりあがりました。今年は午前中の飛行機を予約したのでチェックアウトが速くなったのが残…　2026-09-04 20:54:27投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=17」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「毎年恒例の宿、朝食時間の配慮に感謝毎年北海道旅行の最終日に宿泊する宿です。去年から部屋をグレードアップし満足度がよりあがりました。今年は午前中の飛行機を予約したのでチェックアウトが速くなったのが残…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">5. ホテル日航ハウステンボス（長崎県・★4.43）</h4>
               <p><strong>【特徴】</strong>ハウステンボスまでは徒歩３分♪花と緑に囲まれたリゾートホテル</p>
               <p><strong>【交通・駐車場】</strong>●ＪＲハウステンボス駅から徒歩で10分●長崎市内から車で９０分●佐世保駅より車で30分 ／ 駐車場：ホテル敷地内駐車場は有料となります。（1泊1台あたり1,000円）</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「清潔な部屋とハウステンボス直結の利便性お部屋はコンパクトでしたが、清潔で気持ちよく滞在できました。ハウステンボスの専用出入り口がとても便利。お風呂も朝食も満足しています!クチコミの詳細はこ…　2026-08-21 21:13:00投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1793&quot;」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「清潔な部屋とハウステンボス直結の利便性お部屋はコンパクトでしたが、清潔で気持ちよく滞在できました。ハウステンボスの専用出入り口がとても便利。お風呂も朝食も満足しています!クチコミの詳細はこ…」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

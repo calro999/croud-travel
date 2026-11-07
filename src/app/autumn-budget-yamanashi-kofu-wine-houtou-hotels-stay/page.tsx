@@ -496,7 +496,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　19台　500円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.83 ／ 立地 ★3.6 ／ 部屋 ★3.57 ／ 設備 ★3.43 ／ 風呂 ★3.38 ／ 食事 ★3.91</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ抜群、手作り朝食と地ビールが最高ちょっと奥まった場所ですが、駅から徒歩でも問題ありません。設備は最低限ですが、「こちらで片付けるのでそのまま置いておいてもらって大丈夫です」というサービス精神…　2026-10-05 23:05:43投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=187168&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ抜群、手作り朝食と地ビールが最高ちょっと奥まった場所ですが、駅から徒歩でも問題ありません。設備は最低限ですが、「こちらで片付けるのでそのまま置いておいてもらって大丈夫です」というサービス精神…」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平面駐車場100台分有り（無料）先着順にて ※大型車は要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.45 ／ 立地 ★4.26 ／ 部屋 ★4.26 ／ 設備 ★4.29 ／ 風呂 ★4.22 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また予約します。接客、清掃、満足です。ただ、もう少し朝食の品数が増えると最高です。お世話になりました。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-04 03:12:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また予約します。接客、清掃、満足です。ただ、もう少し朝食の品数が増えると最高です。お世話になりました。」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有　800〜1000円（税込／泊）満車時は徒歩5分の提携コインパーキングへのご案内となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★3.99 ／ 風呂 ★3.93 ／ 食事 ★3.99</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアウィーヴとリファ完備で快適な空間プレミアムプラスルームに1泊しましたが、ベッドもピローもエアウィーブで快適でした!リファのドライヤーとカールアイロンも良かったですね。お部屋は清潔感がありも…　2026-10-08 00:30:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアウィーヴとリファ完備で快適な空間プレミアムプラスルームに1泊しましたが、ベッドもピローもエアウィーブで快適でした!リファのドライヤーとカールアイロンも良かったですね。お部屋は清潔感がありも…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１台/１泊1000円〜（普通車50台まで可）※大型車両につきましては事前にご連絡ください（別途料金）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★3.84 ／ 部屋 ★3.82 ／ 設備 ★3.77 ／ 風呂 ★3.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅からは少し歩くが飲食店やコンビニが便利広い部屋に泊まれました。駅から歩くと少し距離ありますが、飲食店やコンビニは近くて便利でした。クチコミの詳細はこちらから　https://review.t…　2026-10-09 17:50:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅からは少し歩くが飲食店やコンビニが便利広い部屋に泊まれました。駅から歩くと少し距離ありますが、飲食店やコンビニは近くて便利でした。」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function AutumnBudgetKofuHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1000円（15時-翌朝11時）先着順連泊時、途中出庫時の取り置き不可満車時は別提携駐車場をご案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.23 ／ 部屋 ★4.32 ／ 設備 ★4.36 ／ 風呂 ★4.46 ／ 食事 ★4.37</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの吹き出し口や天井にホコリが目立つエアコンの吹き出し口がホコリだらけ、天井もホコリが付いていたクチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-10-11 00:22:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンの吹き出し口や天井にホコリが目立つエアコンの吹き出し口がホコリだらけ、天井もホコリが付いていた」
                   </blockquote>
                 </div>
               </div>

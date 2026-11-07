@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p>【風紋が描く黄金の大地】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3連泊の夕食が毎日変わり大満足奈良県からお里帰りで姉と孫の2人で3連泊させてもらいました。旅館は少し古いですが、3日間夕食の献立が違い大変良かったです。価格もリーズナブルですしまた利用した…　2026-08-25 22:13:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3連泊の夕食が毎日変わり大満足奈良県からお里帰りで姉と孫の2人で3連泊させてもらいました。旅館は少し古いですが、3日間夕食の献立が違い大変良かったです。価格もリーズナブルですしまた利用した…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【風紋が描く黄金の大地】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…　2026-09-05 22:04:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…」
                   </blockquote>
                 </div>
               </div>

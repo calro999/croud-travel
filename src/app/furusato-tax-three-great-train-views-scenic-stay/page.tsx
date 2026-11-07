@@ -400,31 +400,31 @@ export default function FurusatoUpgradedPage() {
               <h4 className="text-sm font-bold text-stone-900">1. ホテルオークラ東京ベイ（千葉県・★4.41）</h4>
               <p><strong>【特徴】</strong>最寄りのモノレールの駅から徒歩約３分に位置する、東京ディズニーリゾート(R)オフィシャルホテルです。</p>
               <p><strong>【交通・駐車場】</strong>舞浜駅から車で5分／ディズニーリゾートラインにてベイサイドステーション下車。送迎バスまたは徒歩約3分。 ／ 駐車場：1泊3100円（以降1日毎1600円追加）※延長料金：ご出発日13：30以降30分毎に300円</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「清掃が行き届いておらず、設備も古く残念朝食は美味しかったが、種類が少ない気がします。それよりも、デラックスジュニアスイートルームを今回利用させて頂きました。すみません、どの辺がデラック…　2026-10-10 18:36:06投稿」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「清掃が行き届いておらず、設備も古く残念朝食は美味しかったが、種類が少ない気がします。それよりも、デラックスジュニアスイートルームを今回利用させて頂きました。すみません、どの辺がデラック…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">2. 京都センチュリーホテル（京都府・★4.48）</h4>
               <p><strong>【特徴】</strong>旅するように過ごす、京都駅前より新しい「旅」が始まります</p>
               <p><strong>【交通・駐車場】</strong>JR京都駅中央口＜ニデック京都タワー＞より徒歩約2分。地下（JR烏丸東口・地下鉄京都駅）から”出口5”をご利用ください。 ／ 駐車場：1泊￥2000(15：00-翌日12：00)(収容台数50台まで・予約不可) 時間外30分￥800</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「親切な対応は満足ですが設備が少し残念ホテルの方はとても親切で感じが良かったただお部屋は出入り口が狭く靴を置きにくく少し不便なのと 便座に暖房が入らない点が残念でしたクチコミの詳細はこち…　2026-10-08 12:12:31投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=1369&quot; cl」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「親切な対応は満足ですが設備が少し残念ホテルの方はとても親切で感じが良かったただお部屋は出入り口が狭く靴を置きにくく少し不便なのと 便座に暖房が入らない点が残念でしたクチコミの詳細はこち…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">3. ホテル金沢（・★4.47）</h4>
               <p><strong>【特徴】</strong></p>
               <p><strong>【交通・駐車場】</strong>金沢駅の兼六園口（東口）から徒歩約１分。小松空港からリムジンバスで４０分。北陸自動車道の金沢東インターから車で１０分。 ／ 駐車場：有り</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…　2026-09-17 08:09:30投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=13」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「駅前でロケーション最高、朝食も絶品名門ホテルという感じです。スタッフの皆さんは対応はいいと思います。駅前なのでロケーションは最高でした。外観とは違い部屋内も綺麗なため過ごしやすいと思います。朝食ビ…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">4. 伊東温泉　青山やまと（静岡県・★4.58）</h4>
               <p><strong>【特徴】</strong>100%源泉掛け流し温泉とこだわりの部屋食が魅力。伊東エリア屈指のプレミアム宿。</p>
               <p><strong>【交通・駐車場】</strong>JR伊東駅より車で10分。13:30～17:30は30分間隔で送迎有り（予約不要） ／ 駐車場：有り：30台・無料</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「露天風呂付きのお部屋を使わせて頂きました。夕食後、部屋へ戻り湯船に浸かり、そのまま布団でゴロゴロ出来るのは最高です。夕食は美味しくとてもボリュームがあります。お昼ご飯は控えめにする、もしくは抜…　2026-09-05 12:54:35投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=1376」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「露天風呂付きのお部屋を使わせて頂きました。夕食後、部屋へ戻り湯船に浸かり、そのまま布団でゴロゴロ出来るのは最高です。夕食は美味しくとてもボリュームがあります。お昼ご飯は控えめにする、もしくは抜…」</p>
             </div>
             <div className="bg-stone-50 rounded-2xl p-5 border border-stone-200 space-y-2 text-xs text-stone-700 leading-relaxed">
               <h4 className="text-sm font-bold text-stone-900">5. ヒルトン東京ベイ（千葉県・★4.4）</h4>
               <p><strong>【特徴】</strong>最大6名定員★お子様アメニティ★コンビニ★東京ディズニーリゾート(R)オフィシャルホテル</p>
               <p><strong>【交通・駐車場】</strong>舞浜駅→ディズニーリゾートライン「ベイサイドステーション」下車　バス／徒歩1分。 舞浜駅→無料送迎バスで約7分。 ／ 駐車場：1泊 3,100円、 2泊 4,700円、3泊以上 6,300円</p>
-              <p className="italic text-stone-600">💬 宿泊者レビュー：「事前の要望が反映されず朝食も期待外れ添い寝がいるのでベッドをくっつけて欲しいと事前にメッセージを送り、チェックインでフロントさんからもくっつけときました!と言われたのに部屋に行ったら全部離れていま…　2026-09-05 22:22:02投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=14」</p>
+              <p className="italic text-stone-600">💬 宿泊者レビュー：「事前の要望が反映されず朝食も期待外れ添い寝がいるのでベッドをくっつけて欲しいと事前にメッセージを送り、チェックインでフロントさんからもくっつけときました!と言われたのに部屋に行ったら全部離れていま…」</p>
             </div>
           </div>
           <div className="space-y-3 pt-4 border-t border-stone-200">

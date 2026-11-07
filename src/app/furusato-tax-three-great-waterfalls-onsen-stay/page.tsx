@@ -582,7 +582,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）／専用駐車場は当館横と裏側にあります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「15年振りの利用も変わらぬ美味しさと親切な接客約15年振りに利用させてもらいました。朝夕食は変わらず大変美味しく本当に大満足でした!給仕の方も皆さん親切で気持ちよく過ごすことができました。ありがと…　2026-08-21 19:44:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「15年振りの利用も変わらぬ美味しさと親切な接客約15年振りに利用させてもらいました。朝夕食は変わらず大変美味しく本当に大満足でした!給仕の方も皆さん親切で気持ちよく過ごすことができました。ありがと…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　１００台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が狭く設備も古く、再訪はない今回与えられた部屋は、小屋もしくは安アパートの様なものでした入った瞬間に帰りたいと思いました、リピートはありませんクチコミの詳細はこちらから　https:/…　2026-08-21 20:58:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が狭く設備も古く、再訪はない今回与えられた部屋は、小屋もしくは安アパートの様なものでした入った瞬間に帰りたいと思いました、リピートはありません」
                   </blockquote>
                 </div>
               </div>
@@ -626,7 +626,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.03 ／ 部屋 ★3.88 ／ 設備 ★3.81 ／ 風呂 ★4.17 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。残念な事がは綺麗な畳に横になっている時…　2026-10-05 15:35:45投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=149268&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「座椅子の裏に大量のホコリがあり残念食事は普通の伊東園ホテルレベルです。とても静かな環境で、平日のためか混雑している感は無く、綺麗なお風呂でゆっくりできました。残念な事がは綺麗な畳に横になっている時…」
                   </blockquote>
                 </div>
               </div>
@@ -648,7 +648,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…　2026-10-08 19:33:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…」
                   </blockquote>
                 </div>
               </div>

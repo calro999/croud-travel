@@ -511,7 +511,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル海望と湯っ足りパークの間に、海を望む無料駐車場がございます。全150台。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.72 ／ 部屋 ★4.48 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。クチコミの詳細はこち…　2026-10-10 18:01:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の品数が豊富で大満足の美味しさ復興途中故に露天風呂などが使えない点を除けば非常に良かったです。朝食は品数が非常に多く、ご飯もおかわりできるようで非常に良かったです。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.33 ／ 部屋 ★4.26 ／ 設備 ★4.15 ／ 風呂 ★4.43 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドの下にホコリとゴミが散乱していたベットの下がホコリとゴミまみれ。ハウスダストアレルギーの方は泊まらない事をおすすめします。クチコミの詳細はこちらから　https://review.tra…　2026-10-08 07:25:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ベッドの下にホコリとゴミが散乱していたベットの下がホコリとゴミまみれ。ハウスダストアレルギーの方は泊まらない事をおすすめします。」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>運転の苦手な方もラクラク停められる♪広い駐車場（約４０台）をご用意しております。（無料・予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.03 ／ 部屋 ★4.12 ／ 設備 ★3.91 ／ 風呂 ★4.12 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても過ごしやすく快適な時間でしたとても過ごしやすかったです。ありがとうございました!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/h…　2026-10-08 15:39:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても過ごしやすく快適な時間でしたとても過ごしやすかったです。ありがとうございました!」
                   </blockquote>
                 </div>
               </div>

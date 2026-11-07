@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.23 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。ガヤガヤよりも大人の方が多い印象で静かにゆったり過ごせてよ…　2026-10-10 18:41:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。ガヤガヤよりも大人の方が多い印象で静かにゆったり過ごせてよ…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…　2026-08-19 19:52:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館のすぐ隣に駐車場あり！！　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが大浴場と朝食に満足、接客も丁寧施設は古いけど大浴場と朝食付きで良かったです。フロントの方も丁寧な対応でした!クチコミの詳細はこちらから　https://review.travel.…　2026-08-13 08:39:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが大浴場と朝食に満足、接客も丁寧施設は古いけど大浴場と朝食付きで良かったです。フロントの方も丁寧な対応でした!」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【青森・十和田湖＆奥入瀬渓流：苔むす清流・銚子大滝＆青】 <strong>【駐車場・マイカー利用】</strong>有り ５０台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.27 ／ 部屋 ★4.38 ／ 設備 ★4.36 ／ 風呂 ★4.59 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂、お食事、宿の雰囲気、スリッパ無しの畳歩き。非常に満足です。またお泊まりしたいお宿でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-03 08:10:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂、お食事、宿の雰囲気、スリッパ無しの畳歩き。非常に満足です。またお泊まりしたいお宿でした。」
                   </blockquote>
                 </div>
               </div>

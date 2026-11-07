@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代での宿泊三世代で特別室を予約して宿泊させて頂きました。高齢者に配慮されたホテルでお爺ちゃんも大変満足しておりました。夕食は部屋食、朝食は宴会場でした。夕食のローストビーフ美味しかったです。朝…　2026-08-24 09:18:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「三世代での宿泊三世代で特別室を予約して宿泊させて頂きました。高齢者に配慮されたホテルでお爺ちゃんも大変満足しておりました。夕食は部屋食、朝食は宴会場でした。夕食のローストビーフ美味しかったです。朝…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>予約制　１２台 　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎や接客は快適、夕食に期待の一品を初めて宿泊しましたが送迎がありとても助かりました。ロビーには到着時から麦茶、コーヒーがあり、風呂上がりや食後にいただけるのは良かったです。露天風呂、サウナもあり…　2026-08-16 17:46:00投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=142535&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎や接客は快適、夕食に期待の一品を初めて宿泊しましたが送迎がありとても助かりました。ロビーには到着時から麦茶、コーヒーがあり、風呂上がりや食後にいただけるのは良かったです。露天風呂、サウナもあり…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.25 ／ 部屋 ★4.19 ／ 設備 ★3.99 ／ 風呂 ★4.38 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気は良いが料理の質と量に不満あり宿の雰囲気は落ち着いていて心地良いと感じましたが、夕飯の質と量が残念でした。通常の量を選びましたが、「これが通常の量?」となりました。少なめのコースはよっぽど少…　2026-10-10 00:54:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気は良いが料理の質と量に不満あり宿の雰囲気は落ち着いていて心地良いと感じましたが、夕飯の質と量が残念でした。通常の量を選びましたが、「これが通常の量?」となりました。少なめのコースはよっぽど少…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p>【神奈川・湯河原温泉：文豪ゆかりの名湯・万葉公園＆相模】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく、何度もリピート中!お料理、お風呂、お部屋、接客、すべて素晴らしくてリピートしてます!他の画像やクチコミの詳細はこちらから　https://review.travel.rak…　2026-08-22 21:14:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく、何度もリピート中!お料理、お風呂、お部屋、接客、すべて素晴らしくてリピートしてます!」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【神奈川・湯河原温泉：文豪ゆかりの名湯・万葉公園＆相模】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある館内と温泉、美味しい食事に大満足建物自体は古かったですが、全体に清潔感があり、気持ち良く滞在できました。温泉もお湯がオーバーフローしていて気持ち良かったです。夕食もどれも綺麗に盛り付…　2026-09-17 17:55:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感ある館内と温泉、美味しい食事に大満足建物自体は古かったですが、全体に清潔感があり、気持ち良く滞在できました。温泉もお湯がオーバーフローしていて気持ち良かったです。夕食もどれも綺麗に盛り付…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料。乗用車　３０台　大型バス５台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自家源泉の温泉と鳥の声で癒される宿古い温泉宿でしたが...きちんと、掃除がいきとどいていました。汚いという感じはしませんでした。スタッフの方達...外国の方が何人かいましたが、一生懸命に働…　2026-08-19 18:21:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自家源泉の温泉と鳥の声で癒される宿古い温泉宿でしたが...きちんと、掃除がいきとどいていました。汚いという感じはしませんでした。スタッフの方達...外国の方が何人かいましたが、一生懸命に働…」
                   </blockquote>
                 </div>
               </div>

@@ -421,7 +421,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場：500円（1泊：15：00〜翌12：00）先着順・予約不可・出入別料金・台数制限有</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.08 ／ 部屋 ★4.13 ／ 設備 ★4.07 ／ 風呂 ★4.13 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「必要十分でコスパが良く、駐車場も安くて満足驚くようなことはないものの、全てが必要十分なので総じてコスパがよいと思います。駐車場が500円なのもうれしい。クチコミの詳細はこちらから　https:…　2026-10-10 19:34:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「必要十分でコスパが良く、駐車場も安くて満足驚くようなことはないものの、全てが必要十分なので総じてコスパがよいと思います。駐車場が500円なのもうれしい。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順・予約不可の敷地外駐車場11台分有り。出庫後再確保は不可となります。提携コインPはありません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★3.98 ／ 部屋 ★3.97 ／ 設備 ★4.04 ／ 風呂 ★4.03 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「漫画や大浴場も楽しめた豊橋公園に行くのにアクセスもいいし、フロントの方も感じよく、無料ドリンクや漫画コーナーがあったり、大浴場があったり、思いのほか、楽しく滞在できました。近くの老舗のうなぎ屋さん…　2026-10-05 15:35:48投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=178410&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「漫画や大浴場も楽しめた豊橋公園に行くのにアクセスもいいし、フロントの方も感じよく、無料ドリンクや漫画コーナーがあったり、大浴場があったり、思いのほか、楽しく滞在できました。近くの老舗のうなぎ屋さん…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携のみ①グッドパーキング(15時〜翌11時1100円)②ダイワパーク(18時〜翌9時1000円)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.31 ／ 部屋 ★4.28 ／ 設備 ★4.21 ／ 風呂 ★4.11 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豪華で最高、豊橋ならここ!お部屋はコンパクトながら眺望もよく、朝食バイキングが最高でした!  2度目の宿泊です。前回はコロナ禍だったため簡素な朝食でしたが、数年ぶりに再訪すると、ネギトロ…　2026-10-07 21:20:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豪華で最高、豊橋ならここ!お部屋はコンパクトながら眺望もよく、朝食バイキングが最高でした!  2度目の宿泊です。前回はコロナ禍だったため簡素な朝食でしたが、数年ぶりに再訪すると、ネギトロ…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>隣接あお空駐車場有り　24台　普通車８００円　大型車１，６００〜３，２００円　最大12ｍまで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★3.96 ／ 部屋 ★4.08 ／ 設備 ★4 ／ 風呂 ★3.93 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豚汁が美味しい朝食と便利な立地豚汁の朝ご飯が美味しかったです。ウエルカムドリンクは毎日いただけました。歩いてすぐのところにスーパーがあるので便利です。19時閉店に注意ですが。クチコミの詳細はこ…　2026-10-10 17:39:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「豚汁が美味しい朝食と便利な立地豚汁の朝ご飯が美味しかったです。ウエルカムドリンクは毎日いただけました。歩いてすぐのところにスーパーがあるので便利です。19時閉店に注意ですが。クチコミの詳細はこ…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetToyohashiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用無料駐車場138台完備。　隣接施設共用駐車場も無料でご利用頂けます。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.4 ／ 部屋 ★4.45 ／ 設備 ★4.31 ／ 風呂 ★4.24 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺の食事場所は豊富ホテルが大きいので、となりのメガドン・キホーテに行くのが、少し不便に感じた。ホテルの回りは食事場所が豊富ですクチコミの詳細はこちらから　https://revi…　2026-10-10 22:38:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺の食事場所は豊富ホテルが大きいので、となりのメガドン・キホーテに行くのが、少し不便に感じた。ホテルの回りは食事場所が豊富です」
                   </blockquote>
                 </div>
               </div>

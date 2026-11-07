@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1000円/泊　アメニティパーク（中央1-15-25）高さ155cm以下　不適合車は別の場所へご案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物設備は年季が入っていますが駅からすぐで便利なロケーションでしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/156…　2026-08-27 19:04:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物設備は年季が入っていますが駅からすぐで便利なロケーションでした」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料提携駐車場有(詳細はホテルまでお問い合わせください)当館隣の病院は当駐車場ではありません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.36 ／ 部屋 ★4.45 ／ 設備 ★4.41 ／ 風呂 ★4.31 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大変綺麗なホテルでした。夜食でアイスクリームかラーメンが選べるなど、サービス充実です。また利用したいと思います。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-10-07 14:47:13投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=172342&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大変綺麗なホテルでした。夜食でアイスクリームかラーメンが選べるなど、サービス充実です。また利用したいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約制（8台）　【1泊1,000円】※満車時は近隣の有料パーキングをご利用下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.17 ／ 部屋 ★4.18 ／ 設備 ★4.11 ／ 風呂 ★4 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と接客は最高だがユニットバスが極狭駅から近くとても便利な立地にあります。2段ベットの部屋にしたものの想像以上の狭さでびっくり。部屋の狭さは我慢出来ましたがユニットバスの狭さが異常(笑)ユニット…　2026-10-06 18:19:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と接客は最高だがユニットバスが極狭駅から近くとても便利な立地にあります。2段ベットの部屋にしたものの想像以上の狭さでびっくり。部屋の狭さは我慢出来ましたがユニットバスの狭さが異常(笑)ユニット…」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>平置き：18台（ \1,000/1泊）先着順　※1台：身障者用</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★4.2 ／ 部屋 ★4.15 ／ 設備 ★4.02 ／ 風呂 ★3.97 ／ 食事 ★3.93</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Perfect Location and Great Amenities for Us!We used a bus from Shinjyuku, Tokyo, to Matsumoto. Thi…　2026-10-10 06:58:28投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=178249&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Perfect Location and Great Amenities for Us!We used a bus from Shinjyuku, Tokyo, to Matsumoto. Thi…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（先着順）　500円/泊（立体）、1000円/泊（平地）。オートバイ 300円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.04 ／ 立地 ★3.98 ／ 部屋 ★4.08 ／ 設備 ★4.04 ／ 風呂 ★3.88 ／ 食事 ★3.87</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光地へのアクセスが良く朝食も美味しい駅や博物館松本城に近く便利が良かったです。また無料の朝食が美味しかったです。クチコミの詳細はこちらから　https://review.travel.rak…　2026-10-07 07:46:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「観光地へのアクセスが良く朝食も美味しい駅や博物館松本城に近く便利が良かったです。また無料の朝食が美味しかったです。」
                   </blockquote>
                 </div>
               </div>

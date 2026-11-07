@@ -475,7 +475,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.33 ／ 部屋 ★4.29 ／ 設備 ★4.29 ／ 風呂 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと大浴場は最高、また行きたいロケーション、大浴場が最高でした。脱衣場の備え付けのお水はいまイチ、美味しくなかった。朝食は6:30に伺ったら、オムレツ、味噌汁、お寿司があと30分くら…　2026-10-10 16:06:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロケーションと大浴場は最高、また行きたいロケーション、大浴場が最高でした。脱衣場の備え付けのお水はいまイチ、美味しくなかった。朝食は6:30に伺ったら、オムレツ、味噌汁、お寿司があと30分くら…」
                   </blockquote>
                 </div>
               </div>
@@ -497,7 +497,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.09 ／ 部屋 ★4.11 ／ 設備 ★3.98 ／ 風呂 ★4.24 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂のお湯が熱く、温度を下げてほしいお風呂のお湯が熱かったです。もう少し下げていただけるとゆっくり浸かることが出来ましたクチコミの詳細はこちらから　https://review.trav…　2026-09-25 21:26:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂のお湯が熱く、温度を下げてほしいお風呂のお湯が熱かったです。もう少し下げていただけるとゆっくり浸かることが出来ました」
                   </blockquote>
                 </div>
               </div>
@@ -519,7 +519,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台　2,000円（税込み／泊）　※駐車場の事前予約はお受け出来ません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.45 ／ 部屋 ★4.34 ／ 設備 ★4.27 ／ 風呂 ★4.27 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は種類豊富で美味しく、水回りも快適朝食は種類も多く美味しかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice…　2026-10-06 20:22:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は種類豊富で美味しく、水回りも快適朝食は種類も多く美味しかったです」
                   </blockquote>
                 </div>
               </div>

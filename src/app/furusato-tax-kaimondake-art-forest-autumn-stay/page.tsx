@@ -526,7 +526,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（全50台）バイク・大型車両OK予約不要。指宿を観光するなら車での移動がおすすめ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい心遣いに感動、また訪れたい滞在中は、最初から最後までとても快適に過ごすことができました。子ども向けのサービスも充実していて、ミニ縁日ではスタッフの方と楽しくゲームをしたり、…　2026-08-19 14:26:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい心遣いに感動、また訪れたい滞在中は、最初から最後までとても快適に過ごすことができました。子ども向けのサービスも充実していて、ミニ縁日ではスタッフの方と楽しくゲームをしたり、…」
                   </blockquote>
                 </div>
               </div>
@@ -548,7 +548,7 @@ export default function Page() {
                   <p>【薩摩富士・開聞岳の黄金ススキと指宿温泉砂むし】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.76 ／ 立地 ★4.55 ／ 部屋 ★4.55 ／ 設備 ★4.45 ／ 風呂 ★4.5 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…　2026-10-09 21:39:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待値が高すぎたのか、普通に感じた前評判が良すぎて、期待しすぎていたのかもしれません。別に悪くはないんだけど、そんな絶賛するほどじゃなかったかな...というのが正直なところです。砂…」
                   </blockquote>
                 </div>
               </div>

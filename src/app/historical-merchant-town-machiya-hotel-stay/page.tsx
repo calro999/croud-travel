@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【重要伝統的建造物群・蔵の町に泊まる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「蔵を改装した落ち着く空間と街全体のおもてなしまちや倶楽部の別邸KOLMIOに泊まりました。大正時代のお屋敷の中に明治時代の蔵があり、そこが部屋でした。とても落ち着いた空間でのんびりすることができま…　2026-09-02 20:44:31投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=158784&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「蔵を改装した落ち着く空間と街全体のおもてなしまちや倶楽部の別邸KOLMIOに泊まりました。大正時代のお屋敷の中に明治時代の蔵があり、そこが部屋でした。とても落ち着いた空間でのんびりすることができま…」
                   </blockquote>
                 </div>
               </div>

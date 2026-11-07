@@ -324,7 +324,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの案内が最高、朝食も充実で大満足チェックインの時から最高です!何が食べたいかで周辺の食事処を案内してくれたり、滞在中のスケジュールからオススメのスポットなども併せて教えてくれます。朝食…　2026-09-01 09:07:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの案内が最高、朝食も充実で大満足チェックインの時から最高です!何が食べたいかで周辺の食事処を案内してくれたり、滞在中のスケジュールからオススメのスポットなども併せて教えてくれます。朝食…」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function LuxuryPremiumHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：7台（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧ができ部屋の中でも波の音が聞こえる静かな篭れるよき宿一人旅の2泊目に宿泊しました。露天付き客室に個室お食事処、目の前で海が見える1人でも泊まれる貴重なお宿です。駅と宿を結ぶ送迎は…　2026-07-29 23:23:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉三昧ができ部屋の中でも波の音が聞こえる静かな篭れるよき宿一人旅の2泊目に宿泊しました。露天付き客室に個室お食事処、目の前で海が見える1人でも泊まれる貴重なお宿です。駅と宿を結ぶ送迎は…」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function LuxuryPremiumHubPage() {
                   <p>【客室プライベートプール付きオールスイートヴィラ：沖縄】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「写真と異なり設備が古く虫も多い19人と犬2匹なので犬オッケーの部屋2部屋と普通の部屋1部屋借りました。写真はキレイな部屋だったので、ここにしましたが、到着してみると外観は昭和のボロアパートで中…　2026-08-26 13:14:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「写真と異なり設備が古く虫も多い19人と犬2匹なので犬オッケーの部屋2部屋と普通の部屋1部屋借りました。写真はキレイな部屋だったので、ここにしましたが、到着してみると外観は昭和のボロアパートで中…」
                   </blockquote>
                 </div>
               </div>

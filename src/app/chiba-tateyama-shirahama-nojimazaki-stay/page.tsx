@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと網焼きバイキングを満喫お部屋は犬連れOKのお部屋でしたが、畳はボロボロで毛羽立ちがありましたので裸足で歩く際はお気をつけください。犬用のアメニティーもあります。ロケー…　2026-08-28 18:19:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと網焼きバイキングを満喫お部屋は犬連れOKのお部屋でしたが、畳はボロボロで毛羽立ちがありましたので裸足で歩く際はお気をつけください。犬用のアメニティーもあります。ロケー…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p>【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂を期待して行ったのに、露天風呂にゴミが浮いててぬめりもあり入る気になれませんでした。翌朝入れ替わった露天風呂はとても良かっただけに残念です。クチコミの詳細はこちらから　https://r…　2026-08-29 22:58:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂を期待して行ったのに、露天風呂にゴミが浮いててぬめりもあり入る気になれませんでした。翌朝入れ替わった露天風呂はとても良かっただけに残念です。」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順　◇◆必ず駐車できます◆◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で良いが、食事とベッドに難あり夕食の量は我々には多すぎ。鮑と赤海老のアヒージョの鮑は3分の1にエリンギでカサ増し、海老は食べづらく手がベトベト。刺身は寿司用のネタの大きさで食べづらい。金…　2026-08-23 17:17:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は清潔で良いが、食事とベッドに難あり夕食の量は我々には多すぎ。鮑と赤海老のアヒージョの鮑は3分の1にエリンギでカサ増し、海老は食べづらく手がベトベト。刺身は寿司用のネタの大きさで食べづらい。金…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p>【千葉・館山＆白浜・野島崎：房総最南端白亜の灯台・フラ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピ宿泊。お食事がとても美味しく、どこもとても清潔で管理されています。お風呂も熱すぎないので海を眺めてゆっくりしまくれる。海の目の前で海で遊んで、宿泊者専用のトイレやシャワー(水です)が利用できるのも…　2026-08-11 13:39:08投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=44003&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リピ宿泊。お食事がとても美味しく、どこもとても清潔で管理されています。お風呂も熱すぎないので海を眺めてゆっくりしまくれる。海の目の前で海で遊んで、宿泊者専用のトイレやシャワー(水です)が利用できるのも…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「歴史ある建物と最高の料理に大満足歴史を感じる古い建物ですが、清潔感があり居心地がとても良かったです。また、料理が最高に美味しかったです。また必ず行きます。クチコミの詳細はこちらから　h…　2026-08-22 17:38:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「歴史ある建物と最高の料理に大満足歴史を感じる古い建物ですが、清潔感があり居心地がとても良かったです。また、料理が最高に美味しかったです。また必ず行きます。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台／無料 （敷地内の白線に沿ってお停めください）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客もお風呂も最高でしたお夕食も朝食も女性の私が食べきれないくらい豪華で、主人も大満足してました!お家であまり離乳食を食べない娘も紋屋さんの手作り離乳食はパクパク食べていて感動し…　2026-08-02 12:04:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も接客もお風呂も最高でしたお夕食も朝食も女性の私が食べきれないくらい豪華で、主人も大満足してました!お家であまり離乳食を食べない娘も紋屋さんの手作り離乳食はパクパク食べていて感動し…」
                   </blockquote>
                 </div>
               </div>

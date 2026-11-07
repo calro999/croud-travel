@@ -302,7 +302,7 @@ export default function HokkaidoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ご到着順にてご案内。ご予約は承れません。１泊につき１５００円／１台。ハイルーフタイプ用もございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は種類も多く、美味しかったルートインさんは部屋の作りが同じだと思っていたが、違っていたので残念狭いし、ベッドも何か違うし、寝心地悪かった急遽予約する必要があり、慌てて予約した為確認…　2026-08-19 20:35:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は種類も多く、美味しかったルートインさんは部屋の作りが同じだと思っていたが、違っていたので残念狭いし、ベッドも何か違うし、寝心地悪かった急遽予約する必要があり、慌てて予約した為確認…」
                   </blockquote>
                 </div>
               </div>
@@ -324,7 +324,7 @@ export default function HokkaidoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の提携駐車場をご案内いたします。詳細は公式ホームページ内「周辺提携駐車場情報」をご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.45 ／ 部屋 ★4.44 ／ 設備 ★4.4 ／ 風呂 ★4.35 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、いつも安心して利用できる出張で何度か利用しています。駅から近くて便利です。フロントの方も丁寧でQRでスムーズにチェックインできます。アメニティはエレベーター前で必要分だけピックアップし…　2026-10-09 07:00:00投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=178964&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、いつも安心して利用できる出張で何度か利用しています。駅から近くて便利です。フロントの方も丁寧でQRでスムーズにチェックインできます。アメニティはエレベーター前で必要分だけピックアップし…」
                   </blockquote>
                 </div>
               </div>
@@ -346,7 +346,7 @@ export default function HokkaidoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　1,400円（税込／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗でウォーターサーバーも便利部屋が綺麗で満足です。エレベーターホールにあるウォーターサーバーも使いやすくてとても助かりました。クチコミの詳細はこちらから　https://rev…　2026-08-19 18:14:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗でウォーターサーバーも便利部屋が綺麗で満足です。エレベーターホールにあるウォーターサーバーも使いやすくてとても助かりました。」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function HokkaidoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料 (但し、オートバイは利用不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの案内が不親切で非常に不快フロントスタッフの当たり外れが大きい。自動チェックイン機がかなり混雑している状態でようやく自分の順番がきたところフロントに行くような指示が書かれたレシートが発…　2026-08-22 16:59:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの案内が不親切で非常に不快フロントスタッフの当たり外れが大きい。自動チェックイン機がかなり混雑している状態でようやく自分の順番がきたところフロントに行くような指示が書かれたレシートが発…」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function HokkaidoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>地下駐車場200台◇1泊1台1000円◇高さ制限2.1m◇24時間出し入れ自由</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.24 ／ 部屋 ★4.42 ／ 設備 ★4.34 ／ 風呂 ★4.26 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが手入れが行き届いている建物は古いですが、広くて良いホテルだと思います。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-10-06 18:44:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが手入れが行き届いている建物は古いですが、広くて良いホテルだと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function HokkaidoHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台有り予約不可・先着順　一泊1,500円　満車時は同料金にて提携駐車場をご案内いたします</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「札幌駅チカで駐車場あり、スタッフの対応も丁寧比較的札幌駅チカ駐車場がある宿ということで利用しました。ホテルの駐車場は車高が高い車だと使えない場合がありますが、近隣の駐車場を案内してもらえます。…　2026-08-21 21:01:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「札幌駅チカで駐車場あり、スタッフの対応も丁寧比較的札幌駅チカ駐車場がある宿ということで利用しました。ホテルの駐車場は車高が高い車だと使えない場合がありますが、近隣の駐車場を案内してもらえます。…」
                   </blockquote>
                 </div>
               </div>

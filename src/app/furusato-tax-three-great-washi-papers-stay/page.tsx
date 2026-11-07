@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　840円／泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。部屋などはよくあるビジネスホテルといった感じで良くも悪くもなく…　2026-08-16 23:55:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火会場への好立地と充実したサービスが魅力越前市サマーフェスティバルのために宿泊しました。花火会場に行くには立地は最高でした。部屋などはよくあるビジネスホテルといった感じで良くも悪くもなく…」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。…　2026-08-25 22:01:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。…」
                   </blockquote>
                 </div>
               </div>

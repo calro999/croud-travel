@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.23 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。ガヤガヤよりも大人の方が多い印象で静かにゆったり過ごせてよ…　2026-10-10 18:41:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。ガヤガヤよりも大人の方が多い印象で静かにゆったり過ごせてよ…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.71 ／ 部屋 ★4.76 ／ 設備 ★4.64 ／ 風呂 ★4.87 ／ 食事 ★4.8</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足の速い接客一番は外観、内装、温泉が醸し出すなんとも独特な雰囲気が最高です。風呂もそこからブクブク湧き出す温泉と総檜風呂が良かったです。料理は見た目も少し凝ったものもあり良かったです。…　2026-10-08 12:03:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足の速い接客一番は外観、内装、温泉が醸し出すなんとも独特な雰囲気が最高です。風呂もそこからブクブク湧き出す温泉と総檜風呂が良かったです。料理は見た目も少し凝ったものもあり良かったです。…」
                   </blockquote>
                 </div>
               </div>

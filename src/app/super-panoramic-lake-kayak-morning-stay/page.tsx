@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用駐車場無し。近隣のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.99 ／ 立地 ★3.88 ／ 部屋 ★3.82 ／ 設備 ★3.79 ／ 風呂 ★3.89 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングが絶品、設備は古いが清潔とにかく朝のバイキングが美味しい!設備は古いけれども清潔感があるので問題なしです。クチコミの詳細はこちらから　https://review.trave…　2026-10-07 18:01:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングが絶品、設備は古いが清潔とにかく朝のバイキングが美味しい!設備は古いけれども清潔感があるので問題なしです。」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　玄関と反対側の道路を挟んだ向かい側にあります。荷物積み下ろしは玄関前にお車をお付け下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満天の星空とスタッフの温かいおもてなし高原のプチホテル、夜の満天の星空を眺めるだけでも、価値アリ!ホテルスタッフは少数みたいですが、一生懸命のおもてなしが、感じられる、気持ちの良い滞在でした!…　2026-08-21 20:03:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満天の星空とスタッフの温かいおもてなし高原のプチホテル、夜の満天の星空を眺めるだけでも、価値アリ!ホテルスタッフは少数みたいですが、一生懸命のおもてなしが、感じられる、気持ちの良い滞在でした!…」
                   </blockquote>
                 </div>
               </div>

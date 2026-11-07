@@ -440,7 +440,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>《先着順でのご案内》　1500円（税込）／泊　　26台（普通車6台、ハイルーフ対応20台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅直結で立地抜群、快適な滞在博多駅2Fから近隣のビルへ繋がる屋根付きの通路があり、ホテルへも濡れずに行くことができます。立地は言うこと無しですね!チェックアウトが10時でちょっと早いで…　2026-08-12 18:56:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅直結で立地抜群、快適な滞在博多駅2Fから近隣のビルへ繋がる屋根付きの通路があり、ホテルへも濡れずに行くことができます。立地は言うこと無しですね!チェックアウトが10時でちょっと早いで…」
                   </blockquote>
                 </div>
               </div>
@@ -462,7 +462,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場　1,500円（税込）/14時～翌日14時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。近いと言っても真夏の暑い中キャリーバックを引きず…　2026-08-25 13:39:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。近いと言っても真夏の暑い中キャリーバックを引きず…」
                   </blockquote>
                 </div>
               </div>
@@ -484,7 +484,7 @@ export default function HighwayBusArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１泊1台２，０００円（税込）14:30～翌12：30</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの臭いが気になるが全体的に満足気になったのは、物っ凄くユニットバスが臭かった点です。何が臭いのか分からず備え付けのスプレーをかけても、不快感は拭えなかった。手の届く範囲で、拭いて取れる…　2026-08-17 19:22:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ユニットバスの臭いが気になるが全体的に満足気になったのは、物っ凄くユニットバスが臭かった点です。何が臭いのか分からず備え付けのスプレーをかけても、不快感は拭えなかった。手の届く範囲で、拭いて取れる…」
                   </blockquote>
                 </div>
               </div>

@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　道路沿い-大型バス兼宿泊者専用駐車場もしくはフロント前にお停め下さいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.2 ／ 部屋 ★4.17 ／ 設備 ★4.09 ／ 風呂 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「季節の料理と美味しいお米に大満足夕食は栗とさつまいものご飯など季節を感じさせるメニュー、味付けも上品、とても美味しかったです千葉のお米はすごく美味しいと感じました。フロントの男性はとつとつと話…　2026-10-08 23:52:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「季節の料理と美味しいお米に大満足夕食は栗とさつまいものご飯など季節を感じさせるメニュー、味付けも上品、とても美味しかったです千葉のお米はすごく美味しいと感じました。フロントの男性はとつとつと話…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉好きにはたまらない、また行きたい場所建物は古いが承知の上だったので不満はなし。食事は派手さはないものの優しい味で好ましい。お湯は最高に良い。設備の古さや虫の多さは否めないので、観光客向きと…　2026-09-11 19:43:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉好きにはたまらない、また行きたい場所建物は古いが承知の上だったので不満はなし。食事は派手さはないものの優しい味で好ましい。お湯は最高に良い。設備の古さや虫の多さは否めないので、観光客向きと…」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p>【春の味覚の王様】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.48 ／ 部屋 ★4.03 ／ 設備 ★4 ／ 風呂 ★4.69 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉かけ流しの温泉と可愛い猫に癒やされる泉質(源泉3本!)がとても良い温泉です。夜の猫ちゃんふれあいタイムには触らせてくれる猫スタッフハニーちゃんが来てくれました。可愛かった...。良い温…　2026-10-07 09:36:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉かけ流しの温泉と可愛い猫に癒やされる泉質(源泉3本!)がとても良い温泉です。夜の猫ちゃんふれあいタイムには触らせてくれる猫スタッフハニーちゃんが来てくれました。可愛かった...。良い温…」
                   </blockquote>
                 </div>
               </div>

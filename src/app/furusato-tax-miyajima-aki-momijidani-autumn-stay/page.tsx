@@ -526,7 +526,7 @@ export default function Page() {
                   <p>【宮島・紅葉谷公園の真紅モミジと安芸宮浜温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…　2026-09-19 15:26:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…」
                   </blockquote>
                 </div>
               </div>
@@ -548,7 +548,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.11 ／ 設備 ★4.07 ／ 風呂 ★4.27 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事のお給仕の方が大変親切でした食事のお給仕の方が大変親切でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13…　2026-10-08 10:36:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事のお給仕の方が大変親切でした食事のお給仕の方が大変親切でした」
                   </blockquote>
                 </div>
               </div>
@@ -570,7 +570,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：１５台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.64 ／ 立地 ★4.52 ／ 部屋 ★4.52 ／ 設備 ★4.48 ／ 風呂 ★4.39 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気の良い旅館で、食事も部屋も大満足家族4人でお世話になりました。ザ・温泉旅館という感じで、とてもいい雰囲気のお宿でした。中庭も手入れが行き届いてとても綺麗でよかったです。広いお部屋…　2026-08-04 13:32:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気の良い旅館で、食事も部屋も大満足家族4人でお世話になりました。ザ・温泉旅館という感じで、とてもいい雰囲気のお宿でした。中庭も手入れが行き届いてとても綺麗でよかったです。広いお部屋…」
                   </blockquote>
                 </div>
               </div>

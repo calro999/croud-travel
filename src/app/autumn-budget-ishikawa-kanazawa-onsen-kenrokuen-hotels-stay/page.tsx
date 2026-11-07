@@ -454,7 +454,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル専用駐車場、駐輪場はございません。近隣駐車場のご案内となります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は小さめだが混雑状況を確認できて便利温泉(大浴場)は想像していたより小さめでした。部屋から浴場の混雑状況が確認できるため、空いている時間に入れば問題ないと思います。クチコミの詳細はこちら…　2026-08-22 11:51:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は小さめだが混雑状況を確認できて便利温泉(大浴場)は想像していたより小さめでした。部屋から浴場の混雑状況が確認できるため、空いている時間に入れば問題ないと思います。クチコミの詳細はこちら…」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携①270台(16時間1,200円 24時間1,700円)②139台(15時〜11時1,200円)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.22 ／ 部屋 ★4.31 ／ 設備 ★4.17 ／ 風呂 ★4.21 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「街の中心で立地抜群、次回は朝食も楽しみたい街の中心に立地していてコンビニも近く、夕食の場所も選び放題でした今回はホテルの朝食を利用できなかったので次回は利用したいと思いますクチコミの詳細は…　2026-10-10 07:23:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「街の中心で立地抜群、次回は朝食も楽しみたい街の中心に立地していてコンビニも近く、夕食の場所も選び放題でした今回はホテルの朝食を利用できなかったので次回は利用したいと思いますクチコミの詳細は…」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル駐車場1泊1650円(入庫から24時間まで)高さ制限あり。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.22 ／ 部屋 ★4.15 ／ 設備 ★4.13 ／ 風呂 ★4.25 ／ 食事 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スパと接客は満足だが朝食会場の対応が残念リピーターです。以前はスパがありませんでしたが、今回利用して満足です。フロントスタッフの対応も良く全体的に満足ですが、朝食会場のお魚とキノコそば担当して…　2026-10-09 04:58:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スパと接客は満足だが朝食会場の対応が残念リピーターです。以前はスパがありませんでしたが、今回利用して満足です。フロントスタッフの対応も良く全体的に満足ですが、朝食会場のお魚とキノコそば担当して…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１４００台　無料駐車場は予約不要でご利用できます。　大型車も駐車OK!（有料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スーパー銭湯が充実、寝るだけならコスパ良しスーパー銭湯は充実していて文句なし!宿泊は間仕切りで簡易的なもので寝るだけを想定すればコスパはいいです。金沢駅から少し遠いですが、自家用移動前提なら問…　2026-08-24 07:23:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スーパー銭湯が充実、寝るだけならコスパ良しスーパー銭湯は充実していて文句なし!宿泊は間仕切りで簡易的なもので寝るだけを想定すればコスパはいいです。金沢駅から少し遠いですが、自家用移動前提なら問…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function KanazawaBudgetAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順(76台)　1泊1,500円　長さ:5300㎜　全幅:1940㎜　高さ:2000㎜</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂とサウナは最高、部屋の湿気が残念お風呂、サウナとっても良かったです!ただ、安いプランだったからかも知れませんが、部屋の湿気がすごくてベタついた感じがあり少しカビ臭く感じてしまいました。立地や…　2026-08-28 09:45:54投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182423&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂とサウナは最高、部屋の湿気が残念お風呂、サウナとっても良かったです!ただ、安いプランだったからかも知れませんが、部屋の湿気がすごくてベタついた感じがあり少しカビ臭く感じてしまいました。立地や…」
                   </blockquote>
                 </div>
               </div>

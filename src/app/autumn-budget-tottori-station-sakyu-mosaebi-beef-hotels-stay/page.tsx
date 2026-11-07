@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内は車椅子使用者用駐車場1台のみ（要予約）、提携駐車場あり（徒歩約5分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.23 ／ 部屋 ★4.25 ／ 設備 ★4.23 ／ 風呂 ★4.18 ／ 食事 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Great location, but check-in is quite tedious.Excellent location for a trip to Tottori. Very close…　2026-10-04 19:54:47投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=196888&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Great location, but check-in is quite tedious.Excellent location for a trip to Tottori. Very close…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p>【鳥取駅前：黄金の鳥取砂丘＆幻のモサエビ・鳥取和牛】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1週間でリピートするほど大満足の定宿毎度毎度毎度毎度の定宿!いつもお世話になっております。前の週にプライベート(夏休み)でも訪れて、1週間でのリピート。それでもそれでも大満足のGRクオリティはシン…　2026-09-18 15:45:29投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=176748&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1週間でリピートするほど大満足の定宿毎度毎度毎度毎度の定宿!いつもお世話になっております。前の週にプライベート(夏休み)でも訪れて、1週間でのリピート。それでもそれでも大満足のGRクオリティはシン…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内平面駐車場40台【先着順・予約不可】1泊500円（15:00〜翌11:00）他提携P等有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.14 ／ 部屋 ★4.23 ／ 設備 ★4.11 ／ 風呂 ★3.93 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広々とした部屋で快適に過ごせた部屋はとても清潔でした。広さも申し分なく快適に泊まれました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-10-09 09:18:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広々とした部屋で快適に過ごせた部屋はとても清潔でした。広さも申し分なく快適に泊まれました。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>４２台　先着順　６００円（税込み／泊） ※立体駐車場のため全高・横幅・車高、入出庫の時間制限あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.22 ／ 部屋 ★4.18 ／ 設備 ★4.12 ／ 風呂 ★4.03 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲食店が近くにあり、無料朝食も便利チェックインが遅くなりましたが、すぐ近くに遅くまでやっている飲食店があったのでよかったです。日曜日ということもあってか、朝食会場が混んでいて待ち時間が少しあり…　2026-10-10 09:07:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲食店が近くにあり、無料朝食も便利チェックインが遅くなりましたが、すぐ近くに遅くまでやっている飲食店があったのでよかったです。日曜日ということもあってか、朝食会場が混んでいて待ち時間が少しあり…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣に契約駐車場があります。(有料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.14 ／ 部屋 ★3.95 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だが、コンセントと空調に難ありとても立地は良く、ご飯を食べに行くのにもよかったです。お部屋ですが枕元にコンセントが少ないのと、クーラーがうるさかったです。クチコミの詳細はこち…　2026-10-04 21:06:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だが、コンセントと空調に難ありとても立地は良く、ご飯を食べに行くのにもよかったです。お部屋ですが枕元にコンセントが少ないのと、クーラーがうるさかったです。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>

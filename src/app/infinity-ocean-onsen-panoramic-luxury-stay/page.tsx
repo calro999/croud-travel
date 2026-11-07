@@ -387,7 +387,7 @@ export default function Page() {
                   <p>【海と空に溶け込む究極の開放感】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は最高だが朝食の海鮮には期待外れホスピタリティはさすが!という感じだった。ただ、朝ごはんが少し期待外れだった。温泉宿に来たなら旨い海鮮を朝から食べたいと思ってしまいました。クチコミの詳…　2026-09-16 20:07:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は最高だが朝食の海鮮には期待外れホスピタリティはさすが!という感じだった。ただ、朝ごはんが少し期待外れだった。温泉宿に来たなら旨い海鮮を朝から食べたいと思ってしまいました。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.55 ／ 部屋 ★4.02 ／ 設備 ★3.94 ／ 風呂 ★4.31 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。銚子ということで期待していた食事もがっかりなクオリティで、良い口コミが本当なのか疑ってしまい…　2026-10-08 21:51:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かった点は海が近いことのみ建物はレトロというより古臭くチープ。清潔感もセンスも感じられません。銚子ということで期待していた食事もがっかりなクオリティで、良い口コミが本当なのか疑ってしまい…」
                   </blockquote>
                 </div>
               </div>

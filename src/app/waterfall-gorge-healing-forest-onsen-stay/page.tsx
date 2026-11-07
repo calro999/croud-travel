@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　先着順にご案内いたします</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.34 ／ 部屋 ★4.16 ／ 設備 ★4.32 ／ 風呂 ★4.42 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事のクオリティが高く、館内の小物までおしゃれ他の口コミでも見るように食事が美味しかった。焼き鳥も皮やせせりなどの定番部位に一手間加えており、食事だけで十分お金がとれるレベル。部屋は清潔でお風…　2026-10-07 08:20:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事のクオリティが高く、館内の小物までおしゃれ他の口コミでも見るように食事が美味しかった。焼き鳥も皮やせせりなどの定番部位に一手間加えており、食事だけで十分お金がとれるレベル。部屋は清潔でお風…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p>【豪快な滝の飛沫と深い森の静寂】 <strong>【駐車場・マイカー利用】</strong>有り ５０台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.27 ／ 部屋 ★4.38 ／ 設備 ★4.36 ／ 風呂 ★4.59 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂、お食事、宿の雰囲気、スリッパ無しの畳歩き。非常に満足です。またお泊まりしたいお宿でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-03 08:10:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂、お食事、宿の雰囲気、スリッパ無しの畳歩き。非常に満足です。またお泊まりしたいお宿でした。」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.47 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.23 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。ガヤガヤよりも大人の方が多い印象で静かにゆったり過ごせてよ…　2026-10-10 18:41:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おしゃれな空間と丁寧な接客紅葉が少しずつ色づき始めた10月初旬にお伺いしました。ホテルの外観、内観、どこを見てもとにかくおしゃれです。ガヤガヤよりも大人の方が多い印象で静かにゆったり過ごせてよ…」
                   </blockquote>
                 </div>
               </div>

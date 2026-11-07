@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り・先着順(1500円) ファミリーカータイプ収納／立体18台、平面3台（障碍者用含む）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で移動が楽、ベッドも広くて快適8月12日から14日まで利用しました。チェックインもチェックアウトもとてもスムーズでしたとてもキレイなホテルでベッドも広くとても寝やすかったです。鹿児…　2026-08-18 20:52:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で移動が楽、ベッドも広くて快適8月12日から14日まで利用しました。チェックインもチェックアウトもとてもスムーズでしたとてもキレイなホテルでベッドも広くとても寝やすかったです。鹿児…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテルから徒歩1分「NEO西田パーキング」122台（先着順）1泊最大1,100円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と清潔さは良いが、内装はアパホテル感満載立地条件もよく、部屋も綺麗だが、部屋の中はアパホテル感満載。クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-08-18 20:16:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と清潔さは良いが、内装はアパホテル感満載立地条件もよく、部屋も綺麗だが、部屋の中はアパホテル感満載。」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場58台完備。15：00～翌11：00まで1100円、先着順。高さ制限あり。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で高コスパ駅からこの距離でこの価格、言う事なしです。空調は一括管理ですと書いてあって、一瞬調整できないかと思うのですがそうではなく、冷房か暖房かが選べないだけで、その中での調整は普通に…　2026-08-15 21:37:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で高コスパ駅からこの距離でこの価格、言う事なしです。空調は一括管理ですと書いてあって、一瞬調整できないかと思うのですがそうではなく、冷房か暖房かが選べないだけで、その中での調整は普通に…」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体60台(高さ２M幅１．８５Mまで）1,000円/泊 平置駐車場のみ予約制　1,000円/泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料のサービスとロボットが便利で接客も親切無料のコーヒーサービスやお水のサービスがありとても助かりました ロボットのご飯盛り付けロボットもありとても便利でした。従業員の方もとても親しみやすくフレン…　2026-08-14 14:44:27投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=108378&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料のサービスとロボットが便利で接客も親切無料のコーヒーサービスやお水のサービスがありとても助かりました ロボットのご飯盛り付けロボットもありとても便利でした。従業員の方もとても親しみやすくフレン…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4.19 ／ 部屋 ★4.43 ／ 設備 ★4.36 ／ 風呂 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入館パスワードが届かず連絡も取れず困惑建物内の中に入るためのパスワードが送られて来ず、記載されている電話番号やメールアドレスにも返事がなく、かなり詰みでした。たまたま外出する方がいらっしゃったので…　2026-09-23 23:06:59投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=172024&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「入館パスワードが届かず連絡も取れず困惑建物内の中に入るためのパスワードが送られて来ず、記載されている電話番号やメールアドレスにも返事がなく、かなり詰みでした。たまたま外出する方がいらっしゃったので…」
                   </blockquote>
                 </div>
               </div>

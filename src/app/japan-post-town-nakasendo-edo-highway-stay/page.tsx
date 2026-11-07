@@ -333,7 +333,7 @@ export default function HistoryHeritageHubPage() {
                   <p>【中山道・木曽路の宿場町＆旧街道宿：妻籠宿・馬籠宿・奈】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…　2026-09-13 19:14:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場の案内が不親切で非常に危険だった駐車場について、隣の奥を案内されたが、バックで進入しなければならず非常に狭く危うく壁にぶつかりそうになった。後からチェックインした人が宿の前のスペースに駐車さ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…　2026-08-25 12:13:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１７０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.31 ／ 部屋 ★4.26 ／ 設備 ★4.19 ／ 風呂 ★4.34 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。ただ天ぷ…　2026-10-10 22:17:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事は良いが天ぷらと土瓶蒸しが残念別館7階の部屋から川と山が見え綺麗でした。大浴場も大きく広い窓ガラスから山が見えます。ホテルも部屋も清潔で良いです。夕食は美味しく種類も豊富でした。ただ天ぷ…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　20台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「細やかな配慮と防災への備えに安心感入浴後の冷たいお水や電気ポットの脇に差し水用の容器があったりと、細部にわたり配慮が見えました。夜、非常階段の扉の点検もして回るなど、災害の備えも心がけており、…　2026-08-24 16:28:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「細やかな配慮と防災への備えに安心感入浴後の冷たいお水や電気ポットの脇に差し水用の容器があったりと、細部にわたり配慮が見えました。夜、非常階段の扉の点検もして回るなど、災害の備えも心がけており、…」
                   </blockquote>
                 </div>
               </div>

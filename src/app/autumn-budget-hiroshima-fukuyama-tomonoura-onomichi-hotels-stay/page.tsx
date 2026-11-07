@@ -421,7 +421,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り〔10台まで（普通車）／先着順・無料〕※高さ：制限なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.21 ／ 部屋 ★4.24 ／ 設備 ★4.23 ／ 風呂 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な案内と十分な設備で快適な空間フロントの方に丁寧に案内いただきました。車で伺ったので、場所は特に気になりませんでした。お部屋には宿泊するには十分な設備と広さでした。クチコミの詳細は…　2026-08-22 22:47:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な案内と十分な設備で快適な空間フロントの方に丁寧に案内いただきました。車で伺ったので、場所は特に気になりませんでした。お部屋には宿泊するには十分な設備と広さでした。クチコミの詳細は…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有：71台／敷地内30台※先着順・提携41台※満車時のご案内■￥600／泊■2ｔ車以上は要問合せ</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.24 ／ 部屋 ★4.31 ／ 設備 ★4.18 ／ 風呂 ★4.09 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適、便利でお勧めです。部屋は広くないものの、清潔で快適でした。ネットで予約した時は、朝食付きプランが無かったのですが、チェックインの際、朝食も追加予約できたのでありがたかったです。…　2026-10-04 01:37:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適、便利でお勧めです。部屋は広くないものの、清潔で快適でした。ネットで予約した時は、朝食付きプランが無かったのですが、チェックインの際、朝食も追加予約できたのでありがたかったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>15:00〜翌11:00料金500円/1台※チェックイン先着順。普通車以上の場合はお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★3.93 ／ 部屋 ★3.98 ／ 設備 ★3.96 ／ 風呂 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが、部屋の臭いが気になった福山駅と福山城に近いので、アクセスは良かったです。部屋のお風呂が臭う。具体的にいうと、お風呂とトイレを仕切るカーテンが、生臭い、生乾き臭がします。…　2026-10-10 17:11:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが、部屋の臭いが気になった福山駅と福山城に近いので、アクセスは良かったです。部屋のお風呂が臭う。具体的にいうと、お風呂とトイレを仕切るカーテンが、生臭い、生乾き臭がします。…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　116台　無料（大型車は一部有料）福山ＳＡスマートＩＣから１０分！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.22 ／ 部屋 ★4.58 ／ 設備 ★4.45 ／ 風呂 ★4.37 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「福山のお気に入り、靴を脱いで寛げる空間福山のホテルのお気にいりになりました。ウェルカムドリンクが遅くまであり、ホッとできました。靴を脱いでのんびりできるのがいい。クチコミの詳細はこちらから　h…　2026-10-06 12:38:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「福山のお気に入り、靴を脱いで寛げる空間福山のホテルのお気にいりになりました。ウェルカムドリンクが遅くまであり、ホッとできました。靴を脱いでのんびりできるのがいい。」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetFukuyamaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用、提携駐車場なし（提携ではございませんが最寄有料Pは【NPC24H福山駅前第２パーキング】です）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.38 ／ 部屋 ★4.36 ／ 設備 ★4.29 ／ 風呂 ★4.22 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上に満足できる内容とても良かったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/109493?review…　2026-10-10 19:27:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「期待以上に満足できる内容とても良かったです」
                   </blockquote>
                 </div>
               </div>

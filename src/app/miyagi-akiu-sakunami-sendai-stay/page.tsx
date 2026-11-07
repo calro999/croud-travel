@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（予約不要、３００台駐車可能です）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.2 ／ 部屋 ★4.26 ／ 設備 ★4.14 ／ 風呂 ★4.26 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手作りの料理と丁寧な接客に家族全員大満足孫2名を含む6名で、大部屋に泊まりました。接客も丁寧でとても心地よかったです。特に料理は、手作りで(私たちの判断する限り出来上がり品使用はゼロ)丁寧にできて…　2026-10-07 07:36:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「手作りの料理と丁寧な接客に家族全員大満足孫2名を含む6名で、大部屋に泊まりました。接客も丁寧でとても心地よかったです。特に料理は、手作りで(私たちの判断する限り出来上がり品使用はゼロ)丁寧にできて…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・秋保温泉＆作並温泉：仙台奥座敷・磊々峡＆ニッカ】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と温泉は最高だが備品の清掃に難ありウェルカムスペースは綺麗で新しい感じがしました。スタッフさんの対応も丁寧で感じよく安心して滞在できました。建物自体が古いようでところどころ老朽化は見えまし…　2026-08-21 18:08:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と温泉は最高だが備品の清掃に難ありウェルカムスペースは綺麗で新しい感じがしました。スタッフさんの対応も丁寧で感じよく安心して滞在できました。建物自体が古いようでところどころ老朽化は見えまし…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.24 ／ 部屋 ★4.16 ／ 設備 ★4.12 ／ 風呂 ★4.3 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋も大浴場も快適、食事も美味しかった1泊で帰ってしまうのは勿体ないホテルでした。お部屋も使いやすく、2か所の大浴場も快適でした。1つだけ希望を言わせていただくと、ブュッフェには「キッチンワゴン…　2026-10-10 23:13:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋も大浴場も快適、食事も美味しかった1泊で帰ってしまうのは勿体ないホテルでした。お部屋も使いやすく、2か所の大浴場も快適でした。1つだけ希望を言わせていただくと、ブュッフェには「キッチンワゴン…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場有(約90台)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は親切だが食事の内容は残念従業員の方は親切な接客でした食事の内容がイマイチでしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-08-29 05:49:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は親切だが食事の内容は残念従業員の方は親切な接客でした食事の内容がイマイチでした」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内に300台収容可能の無料の平面駐車場を完備　（予約不要）屋根付きの玄関に一旦横付けできます</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事やケーキは最高だが部屋や温泉は残念食事やケーキバイキングは最高でしたが、部屋や温泉などの施設的なところは特出していないと思いました。クチコミの詳細はこちらから　https://review…　2026-08-22 17:42:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事やケーキは最高だが部屋や温泉は残念食事やケーキバイキングは最高でしたが、部屋や温泉などの施設的なところは特出していないと思いました。」
                   </blockquote>
                 </div>
               </div>

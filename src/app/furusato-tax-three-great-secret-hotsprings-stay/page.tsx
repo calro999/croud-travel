@@ -652,7 +652,7 @@ export default function Page() {
                   <p>【日本三大秘湯＆原生林の一軒宿・ケーブルカー露天風呂×】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…　2026-09-05 22:04:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心配りが行き届き、かずら橋ツアーも最高スタッフの方、お料理、温泉等、みんな心配りが行き届いており、とても良かったです。両親もすごく満足してくれました。また、夜のかずら橋ツアーは、ホテルのボンネット…」
                   </blockquote>
                 </div>
               </div>
@@ -674,7 +674,7 @@ export default function Page() {
                   <p>【日本三大秘湯＆原生林の一軒宿・ケーブルカー露天風呂×】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「田沢湖温泉のロッジ、食事も温泉も大満足田沢湖温泉の一角のロッジ。入り口の道はやや細くて、少し心配になった。玄関の横に車を停め、中に入ったが、中は立派で、綺麗に整備されていた。19:15に到着で、す…　2026-09-05 12:40:28投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=130001&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「田沢湖温泉のロッジ、食事も温泉も大満足田沢湖温泉の一角のロッジ。入り口の道はやや細くて、少し心配になった。玄関の横に車を停め、中に入ったが、中は立派で、綺麗に整備されていた。19:15に到着で、す…」
                   </blockquote>
                 </div>
               </div>

@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.1 ／ 風呂 ★4.3 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は素晴らしく、全体的に満足食事は夕食、朝食ともに美味しく頂きました。その際の外人スタッフの接客対応も素晴らしかったです。また出向のスタッフも親切で好印象を持ちました。部屋もきれいで満…　2026-10-09 21:25:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は素晴らしく、全体的に満足食事は夕食、朝食ともに美味しく頂きました。その際の外人スタッフの接客対応も素晴らしかったです。また出向のスタッフも親切で好印象を持ちました。部屋もきれいで満…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.78 ／ 立地 ★4.69 ／ 部屋 ★4.67 ／ 設備 ★4.64 ／ 風呂 ★4.89 ／ 食事 ★4.92</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1日5組限定の細やかなサービスと絶景に感動今回2回目の利用です。1日5組限定ゆえのサービスの細やかさに大変満足しました。従業員の方のご対応も丁寧で気持ちがよかったです。特にご飯の満足度が高く、量も…　2026-10-08 17:31:58投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=128493&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「1日5組限定の細やかなサービスと絶景に感動今回2回目の利用です。1日5組限定ゆえのサービスの細やかさに大変満足しました。従業員の方のご対応も丁寧で気持ちがよかったです。特にご飯の満足度が高く、量も…」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　敷地内22台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食メインディッシュ格別に上手い!居心地が良い夕食のメインディッシュが格別に上手い!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-06-26 05:04:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食メインディッシュ格別に上手い!居心地が良い夕食のメインディッシュが格別に上手い!」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>専用無料駐車場　車３０台　大型バス駐車可能　バイク専用屋内駐輪場 駐車場２０台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.07 ／ 部屋 ★3.87 ／ 設備 ★4 ／ 風呂 ★4.2 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「魚料理が最高、店主の気配りも温かい宿 夕食の魚料理が最高でした。宿は店主自ら夕食時に各テーブルを回るなど気配りや、イレギュラーにも応えてくれでとても良い時間を過ごせました。建物自体は古いも…　2026-08-17 22:06:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「魚料理が最高、店主の気配りも温かい宿 夕食の魚料理が最高でした。宿は店主自ら夕食時に各テーブルを回るなど気配りや、イレギュラーにも応えてくれでとても良い時間を過ごせました。建物自体は古いも…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>同敷地内旅館建物沿い裏手に屋外駐車場有り　宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しさに大満足ご飯美味しかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/138065?review…　2026-08-16 22:53:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の美味しさに大満足ご飯美味しかったです」
                   </blockquote>
                 </div>
               </div>

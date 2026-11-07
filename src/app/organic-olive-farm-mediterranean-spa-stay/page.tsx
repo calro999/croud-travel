@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕日と朝日が絶景、食事も美味しく大満足夕日が本当に綺麗で、サンセットの時間にロビーでスパークリングワインのサービスもあり、キンキンに冷えたワインを飲みながら夕日をながめることができました。朝日も山…　2026-08-22 16:51:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕日と朝日が絶景、食事も美味しく大満足夕日が本当に綺麗で、サンセットの時間にロビーでスパークリングワインのサービスもあり、キンキンに冷えたワインを飲みながら夕日をながめることができました。朝日も山…」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.48 ／ 部屋 ★4.25 ／ 設備 ★4.11 ／ 風呂 ★4.28 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。お風呂の廊下が塩素臭かったのですが、お風呂ではあまり匂いは感じませ…　2026-10-06 21:58:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。お風呂の廊下が塩素臭かったのですが、お風呂ではあまり匂いは感じませ…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.43 ／ 部屋 ★3.97 ／ 設備 ★3.84 ／ 風呂 ★3.89 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎の親切な対応と夕陽を眺める食事に満足 初めての場所の一人旅でした、土地勘もなく、不安でしたが、送迎もしてくださり、助かりました、翌朝のフェリー乗り場へ送ってくださったドライバーの方が、切符…　2026-10-10 00:58:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎の親切な対応と夕陽を眺める食事に満足 初めての場所の一人旅でした、土地勘もなく、不安でしたが、送迎もしてくださり、助かりました、翌朝のフェリー乗り場へ送ってくださったドライバーの方が、切符…」
                   </blockquote>
                 </div>
               </div>

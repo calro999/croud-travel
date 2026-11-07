@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.4 ／ 部屋 ★4.39 ／ 設備 ★4.25 ／ 風呂 ★4.58 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「寄り添った対応に心から感謝ホスピタリティに溢れた御宿だと感じました。とても楽しみにしていた温泉旅。ところが諸事情により、全員で満喫することができなくなり大慌て。そのような状況の時にも、寄り…　2026-10-07 16:24:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「寄り添った対応に心から感謝ホスピタリティに溢れた御宿だと感じました。とても楽しみにしていた温泉旅。ところが諸事情により、全員で満喫することができなくなり大慌て。そのような状況の時にも、寄り…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p>【三朝温泉ひとり旅・世界屈指ラジウム泉おこもり：三徳山】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.05 ／ 部屋 ★4.19 ／ 設備 ★4.1 ／ 風呂 ★4.5 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「気持ちよく過ごすことができました建物やお部屋は少し年季を感じましたが清潔でした。食事も質・量ともに満足です。特に素晴らしかったのは、接客のスタッフの方の対応です。子ども連れでしたが、子ども…　2026-10-06 14:07:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「気持ちよく過ごすことができました建物やお部屋は少し年季を感じましたが清潔でした。食事も質・量ともに満足です。特に素晴らしかったのは、接客のスタッフの方の対応です。子ども連れでしたが、子ども…」
                   </blockquote>
                 </div>
               </div>

@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p>【いわき湯本温泉ひとり旅・三函の名湯おこもり：日本三古】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質が最高、食事も景色も大満足歴史がある宿、温泉の泉質が最高でした!!食事も高齢者には丁度良い量で美味しくいただきました。お部屋は角部屋で自然の景色で癒されました。また紅葉の季節にう…　2026-09-16 14:25:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質が最高、食事も景色も大満足歴史がある宿、温泉の泉質が最高でした!!食事も高齢者には丁度良い量で美味しくいただきました。お部屋は角部屋で自然の景色で癒されました。また紅葉の季節にう…」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　（無料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが温泉が良く、食事も大満足皆さん投稿されてるように、古い施設ですが特に気になりませんでした。お風呂は良かったです!四回入りました。初めての湯本温泉でしたが、温泉街の風情がなくてがっかりし…　2026-07-16 11:10:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが温泉が良く、食事も大満足皆さん投稿されてるように、古い施設ですが特に気になりませんでした。お風呂は良かったです!四回入りました。初めての湯本温泉でしたが、温泉街の風情がなくてがっかりし…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適に過ごせました以前は和室に宿泊しましたが、今回はリニューアルした部屋を利用しました。上階だったこともあり、空が見えて木々とのバランスが良く開放的でした。子供がいたからか夕食は個室で対応して頂き…　2026-09-18 07:42:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「快適に過ごせました以前は和室に宿泊しましたが、今回はリニューアルした部屋を利用しました。上階だったこともあり、空が見えて木々とのバランスが良く開放的でした。子供がいたからか夕食は個室で対応して頂き…」
                   </blockquote>
                 </div>
               </div>

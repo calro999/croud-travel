@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…　2026-10-09 12:59:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【客室から大迫力の花火を特等席で観賞】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と露天風呂に癒やされ、心身ともにリラックスお部屋からの景色がとてもきれいで、ゆっくり過ごすことができました。特に露天風呂が気持ちよく、温泉を楽しみながらリラックスできたのが良かったです。スタッ…　2026-09-15 17:41:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と露天風呂に癒やされ、心身ともにリラックスお部屋からの景色がとてもきれいで、ゆっくり過ごすことができました。特に露天風呂が気持ちよく、温泉を楽しみながらリラックスできたのが良かったです。スタッ…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【客室から大迫力の花火を特等席で観賞】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と美味しい食事、開放感ある露天風呂とても静かな場所でゆっくり過ごせました。フロントや食事場所のスタッフさんもとても丁寧に対応してくださって気持ち良く宿泊出来ました。食事も美味しくてボリュ…　2026-07-19 14:36:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と美味しい食事、開放感ある露天風呂とても静かな場所でゆっくり過ごせました。フロントや食事場所のスタッフさんもとても丁寧に対応してくださって気持ち良く宿泊出来ました。食事も美味しくてボリュ…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と送迎が充実、夕食の胡麻豆腐が絶品ささゆりとやまゆりのお風呂に入れる。ロビーにコーヒーサービスがある。サイトに記載されていた白浜駅への送迎に加えて、発心門王子や熊野本宮大社への送迎サー…　2026-07-19 19:24:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と送迎が充実、夕食の胡麻豆腐が絶品ささゆりとやまゆりのお風呂に入れる。ロビーにコーヒーサービスがある。サイトに記載されていた白浜駅への送迎に加えて、発心門王子や熊野本宮大社への送迎サー…」
                   </blockquote>
                 </div>
               </div>

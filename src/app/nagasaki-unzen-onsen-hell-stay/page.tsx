@@ -315,7 +315,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３９台　有料1台1泊500円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お庭の眺めに癒やされる、創作料理は凝りすぎ部屋から素敵なお庭が見れて癒されました。夕食の創作料理は美味しいけど少し凝り過ぎた感じがします。クチコミの詳細はこちらから　https://revie…　2026-08-16 15:53:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お庭の眺めに癒やされる、創作料理は凝りすぎ部屋から素敵なお庭が見れて癒されました。夕食の創作料理は美味しいけど少し凝り過ぎた感じがします。」
                   </blockquote>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いておらず残念掃除が行き届いていない。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/31933?rev…　2026-08-22 10:39:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いておらず残念掃除が行き届いていない。」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料にてご用意がございます。約30台・ 屋外駐車場のみ・ヴァレーパーキング：一部可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.8 ／ 立地 ★4.69 ／ 部屋 ★4.78 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。全国のクラシックホテルを訪れていて、今…　2026-08-25 16:23:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のフレンチが絶品、また食べに行きたい夕食のフレンチコースが地産のもので構成されていて盛り付けも良いし味も絶品でした。びっくりするくらいに美味しかったです。全国のクラシックホテルを訪れていて、今…」
                   </blockquote>
                 </div>
               </div>
@@ -381,7 +381,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり　バイクのお客様には屋根付きの第二駐車場あります</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しと食事付きでコスパ抜群いつでも源泉掛け流しに入れる。おいしい食事も2食つけられる。価格もリーズナブルで、リピートしてます。クチコミの詳細はこちらから　https://review.…　2026-08-20 22:07:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しと食事付きでコスパ抜群いつでも源泉掛け流しに入れる。おいしい食事も2食つけられる。価格もリーズナブルで、リピートしてます。」
                   </blockquote>
                 </div>
               </div>

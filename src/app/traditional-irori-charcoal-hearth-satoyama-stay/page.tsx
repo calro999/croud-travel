@@ -387,7 +387,7 @@ export default function Page() {
                   <p>【パチパチ爆ぜる炭火の温もり】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に離れに泊まりました。直前に人数変更があったり、当日、到着予定時刻がズレて夕食開始時間も変更していただきましたが、笑顔で対応してくださいました。ありがとうございました。ご飯は、量もあ…　2026-07-30 10:45:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「愛犬と一緒に離れに泊まりました。直前に人数変更があったり、当日、到着予定時刻がズレて夕食開始時間も変更していただきましたが、笑顔で対応してくださいました。ありがとうございました。ご飯は、量もあ…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p>【パチパチ爆ぜる炭火の温もり】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。何もすることが…　2026-09-19 12:41:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奥四万ダムに近く、温泉と地産料理に癒される奥四万ダムから比較的近いです。料理は量がちょうどよく群馬の食材をつかっておりとても美味しかったです。温泉の湯質は最高でした。何もすることが…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p>【パチパチ爆ぜる炭火の温もり】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.31 ／ 部屋 ★4.27 ／ 設備 ★4.27 ／ 風呂 ★4.54 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…　2026-10-10 21:38:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフのイベントが魅力的で大満足!8月のお盆休みで、子供達、孫達と宿泊させて頂きました。スタッフのイベントの取り組みが、いっぱいでとても魅力的で。楽しませてもらいましたも足湯も、とて…」
                   </blockquote>
                 </div>
               </div>

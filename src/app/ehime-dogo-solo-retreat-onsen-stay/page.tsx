@@ -449,7 +449,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　78台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★4.04 ／ 部屋 ★3.89 ／ 設備 ★3.81 ／ 風呂 ★4.14 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道後温泉本館に近く、観光に最高の立地10月2日に宿泊いたしました。道後温泉本館にも近く、今回の旅の行程には最高の立地でした。クチコミの詳細はこちらから　https://review.tra…　2026-10-03 22:51:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道後温泉本館に近く、観光に最高の立地10月2日に宿泊いたしました。道後温泉本館にも近く、今回の旅の行程には最高の立地でした。」
                   </blockquote>
                 </div>
               </div>
@@ -471,7 +471,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>100台。車：1泊1台880円　バイク：550円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.45 ／ 部屋 ★4.52 ／ 設備 ★4.44 ／ 風呂 ★4.48 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全てが最高、スタッフの気配りに感動!立地、内観、外観、大浴場、サービス全て最高!店内の売店も充実していて良い!エレベーターに乗ろうとすると毎回スタッフが先にエレベーターを用意してくれていて素晴らし…　2026-10-10 23:50:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全てが最高、スタッフの気配りに感動!立地、内観、外観、大浴場、サービス全て最高!店内の売店も充実していて良い!エレベーターに乗ろうとすると毎回スタッフが先にエレベーターを用意してくれていて素晴らし…」
                   </blockquote>
                 </div>
               </div>
@@ -493,7 +493,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２3台　８００円（税別／泊）　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「帰省のたびに利用、変わらぬ素晴らしいサービスもう何年も、いつも帰省の際に利用させて頂いてますが変わらず素晴らしいサービスを提供していただきありがとうございますクチコミの詳細はこちらから　h…　2026-08-18 00:48:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「帰省のたびに利用、変わらぬ素晴らしいサービスもう何年も、いつも帰省の際に利用させて頂いてますが変わらず素晴らしいサービスを提供していただきありがとうございます」
                   </blockquote>
                 </div>
               </div>

@@ -516,7 +516,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１２台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.68 ／ 立地 ★4.51 ／ 部屋 ★4.49 ／ 設備 ★4.47 ／ 風呂 ★4.59 ／ 食事 ★4.68</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理のボリュームに驚き、温泉も最高お料理少なめのプランでしたが、たべきれないくらいたくさん出ました。この物価高の中ですごいです。お風呂も湯の花が浮いていて最高のお湯でした。クチコミの詳細はこち…　2026-09-29 16:29:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理のボリュームに驚き、温泉も最高お料理少なめのプランでしたが、たべきれないくらいたくさん出ました。この物価高の中ですごいです。お風呂も湯の花が浮いていて最高のお湯でした。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　無料　駐輪OK！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.24 ／ 部屋 ★4.51 ／ 設備 ★4.46 ／ 風呂 ★4.45 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理がとても美味しく大満足料理が大満足でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/4992?review…　2026-10-05 20:25:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理がとても美味しく大満足料理が大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【香ばしい味噌の香りと極上霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足源泉掛け流しの湯が最高に気持ちよかったスタッフの方も親切で質問に真摯に対応くださって大変気持ちよかったです。立地もメイン通りに近く散策しやすかったですクチコ…　2026-09-08 20:52:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの湯と親切な接客に大満足源泉掛け流しの湯が最高に気持ちよかったスタッフの方も親切で質問に真摯に対応くださって大変気持ちよかったです。立地もメイン通りに近く散策しやすかったです…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【香ばしい味噌の香りと極上霜降り】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心地よい旅館一番の感想は、スタッフの方々の笑顔が多くて接客が心地良いです。貸切露天風呂は洗い場が無いので、お部屋か大浴場で一度体を洗ってから服を着て移動する必要がありますが、予約制じゃないから…　2026-09-19 09:20:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心地よい旅館一番の感想は、スタッフの方々の笑顔が多くて接客が心地良いです。貸切露天風呂は洗い場が無いので、お部屋か大浴場で一度体を洗ってから服を着て移動する必要がありますが、予約制じゃないから…」
                   </blockquote>
                 </div>
               </div>

@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p>【北海道・富良野＆美瑛：青い池・ファーム富田ラベンダー】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足です。夜ご飯のお肉が美味しかったです。スタッフの方の対応も良く、笑顔で対応してくれました。ウェルカムドリンクや、ポップコーンなど置いてあり、嬉しかったです。お部屋のゴミ箱に袋が設置…　2026-08-26 17:43:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足です。夜ご飯のお肉が美味しかったです。スタッフの方の対応も良く、笑顔で対応してくれました。ウェルカムドリンクや、ポップコーンなど置いてあり、嬉しかったです。お部屋のゴミ箱に袋が設置…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　120台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「白髭の滝が近く、プールや朝食も充実朝食バイキング、子ども用メニューがあった。施設内にプールあり、水着を持ってくればよかった。白髭の滝が徒歩数分は魅力的!!ただナビの案内でホテル近くでじ…　2026-08-22 09:59:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「白髭の滝が近く、プールや朝食も充実朝食バイキング、子ども用メニューがあった。施設内にプールあり、水着を持ってくればよかった。白髭の滝が徒歩数分は魅力的!!ただナビの案内でホテル近くでじ…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　ホテル駐車場無料（先着順）　※満車時は近隣パーキングにご案内致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「正直言うと、最初は節約のため...とリゾートホテル連泊を諦めて予約させていただいたのですが、施設は清潔だし、温泉も気持ちがいいし、温泉のドライヤーはパナソニックの上位機種と絹女だし、パジャマや子供用の…　2026-08-20 20:03:30投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=176997&quot; class=&quot;3clic」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「正直言うと、最初は節約のため...とリゾートホテル連泊を諦めて予約させていただいたのですが、施設は清潔だし、温泉も気持ちがいいし、温泉のドライヤーはパナソニックの上位機種と絹女だし、パジャマや子供用の…」
                   </blockquote>
                 </div>
               </div>

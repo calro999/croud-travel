@@ -333,7 +333,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：５０台（無料・予約制）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワンコと泊まれるホテル良い点ワンコと一緒に宿泊させていただきました。スタッフもとても感じが良い方ばかりです。特にお食事会場の仲居さんたちは皆さん笑顔でとても感じが良い方たちばかりでした。…　2026-08-18 15:12:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワンコと泊まれるホテル良い点ワンコと一緒に宿泊させていただきました。スタッフもとても感じが良い方ばかりです。特にお食事会場の仲居さんたちは皆さん笑顔でとても感じが良い方たちばかりでした。…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　200台　無料（事前予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「久住山と阿蘇山を望む絶景に感動ホテルからは、これから登頂する久住山や阿蘇山を眺めることができ、気持ちよく宿泊することができました。クチコミの詳細はこちらから　https://review.tr…　2026-08-26 22:17:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「久住山と阿蘇山を望む絶景に感動ホテルからは、これから登頂する久住山や阿蘇山を眺めることができ、気持ちよく宿泊することができました。」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function StargazingHubPage() {
                   <p>【満天の星空露天風呂＆寝湯インフィニティ宿：天然プラネ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な対応とブルーベリー狩りでリフレッシュ到着から、丁寧な対応で、とても気持ち良く過ごせました。ブルーベリーが取り放題で、自然も豊かで、とてもリフレッシュ出来ました。お部屋には、要所要所に、イ…　2026-08-24 12:38:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な対応とブルーベリー狩りでリフレッシュ到着から、丁寧な対応で、とても気持ち良く過ごせました。ブルーベリーが取り放題で、自然も豊かで、とてもリフレッシュ出来ました。お部屋には、要所要所に、イ…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　屋外６０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.36 ／ 部屋 ★4.19 ／ 設備 ★4.02 ／ 風呂 ★4.09 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と美味しい食事に大満足9月末に妻と気分転換の為ご利用させて頂きました。利用するのは4,5回目。とても静かで景色も良くまた食事もとても美味しく是非また利用したいと思います。フロントの方…　2026-10-10 19:26:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と美味しい食事に大満足9月末に妻と気分転換の為ご利用させて頂きました。利用するのは4,5回目。とても静かで景色も良くまた食事もとても美味しく是非また利用したいと思います。フロントの方…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高、スタッフのおもてなしも素敵温泉はノンケミカルで最高。スタッフのおもてなしの心もGoodクチコミの詳細はこちらから　https://review.travel.rakuten.co.…　2026-08-12 06:06:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高、スタッフのおもてなしも素敵温泉はノンケミカルで最高。スタッフのおもてなしの心もGood」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function StargazingHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.83 ／ 立地 ★4.67 ／ 部屋 ★4.61 ／ 設備 ★4.67 ／ 風呂 ★4.83 ／ 食事 ★4.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足度は高いがベッドの高級感が惜しい充分に満足でしたが、ベッドに高級感が無かったのは残念でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-09-17 16:41:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「満足度は高いがベッドの高級感が惜しい充分に満足でしたが、ベッドに高級感が無かったのは残念でした」
                   </blockquote>
                 </div>
               </div>

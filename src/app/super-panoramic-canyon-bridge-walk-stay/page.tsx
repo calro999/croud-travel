@@ -781,7 +781,7 @@ export default function FeatureDetailPage() {
                   <p>【日本三大秘境のスリルと絶景】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と絶品の料理、泉質も最高部屋は新しくはないものの、清潔に清掃されていました。トイレと手洗い場が一緒なのは少々残念でした。お風呂の泉質は非常に良かった。料理は夜も朝も出てくるもの全て100…　2026-08-16 18:57:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋と絶品の料理、泉質も最高部屋は新しくはないものの、清潔に清掃されていました。トイレと手洗い場が一緒なのは少々残念でした。お風呂の泉質は非常に良かった。料理は夜も朝も出てくるもの全て100…」
                   </blockquote>
                 </div>
               </div>
@@ -847,7 +847,7 @@ export default function FeatureDetailPage() {
                   <p>【日本三大秘境のスリルと絶景】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.57 ／ 立地 ★4.33 ／ 部屋 ★4.4 ／ 設備 ★4 ／ 風呂 ★4.2 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お料理も美味しくて、景観も良かったし、お部屋も綺麗でした。ありがとうございました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel…　2026-09-18 19:22:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お料理も美味しくて、景観も良かったし、お部屋も綺麗でした。ありがとうございました。」
                   </blockquote>
                 </div>
               </div>
@@ -869,7 +869,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。お部屋食だったため、周りを気にせず家族でゆっくり味わうことがで…　2026-08-21 21:22:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮑の蒸し料理と丁寧な接客に大満足家族旅行で利用させていただきました。朝食・夕食ともにどれも美味しく、特に鮑の蒸し料理は最高でした。お部屋食だったため、周りを気にせず家族でゆっくり味わうことがで…」
                   </blockquote>
                 </div>
               </div>

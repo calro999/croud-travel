@@ -630,7 +630,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.11 ／ 設備 ★4.07 ／ 風呂 ★4.27 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事のお給仕の方が大変親切でした食事のお給仕の方が大変親切でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13…　2026-10-08 10:36:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事のお給仕の方が大変親切でした食事のお給仕の方が大変親切でした」
                   </blockquote>
                 </div>
               </div>
@@ -652,7 +652,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／136台／無料／先着順　※内、大型バス2台／予約制</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ペット用フロアで犬の鳴き声が気になったペット連れではないのにペット同伴部屋に案内されたのが不満。そのフロアでは犬の吠える声が聞こえて、不満。別のフロアに通すべき。クチコミの詳細はこちらから　h…　2026-09-05 14:00:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ペット用フロアで犬の鳴き声が気になったペット連れではないのにペット同伴部屋に案内されたのが不満。そのフロアでは犬の吠える声が聞こえて、不満。別のフロアに通すべき。」
                   </blockquote>
                 </div>
               </div>
@@ -674,7 +674,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（屋外）　６０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.53 ／ 部屋 ★4.37 ／ 設備 ★4.19 ／ 風呂 ★3.99 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある空間と親切な接客、朝食の提供タイミングが残念リゾートホテルの草分けらしく、建物や内装に趣きがあり、ゆったりした時間を過ごせました。スタッフのみなさんもとても親切で癒されました。和朝食も美…　2026-10-10 19:49:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣ある空間と親切な接客、朝食の提供タイミングが残念リゾートホテルの草分けらしく、建物や内装に趣きがあり、ゆったりした時間を過ごせました。スタッフのみなさんもとても親切で癒されました。和朝食も美…」
                   </blockquote>
                 </div>
               </div>

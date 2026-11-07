@@ -458,7 +458,7 @@ export default function KoyasanShukuboAutumnPage() {
                   <p>【秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.5 ／ 部屋 ★4.5 ／ 設備 ★4.5 ／ 風呂 ★4.33 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「8年ぶりの再訪、非日常の体験に大満足家族で泊まりました。以前にも、恵光院さんへ泊まらせもらったあ事があったので2回目になりますが、8年ぶりでした。すべてにおいての、気づかいやお部屋の凄さにもビ…　2026-10-05 14:43:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「8年ぶりの再訪、非日常の体験に大満足家族で泊まりました。以前にも、恵光院さんへ泊まらせもらったあ事があったので2回目になりますが、8年ぶりでした。すべてにおいての、気づかいやお部屋の凄さにもビ…」
                   </blockquote>
                 </div>
               </div>
@@ -480,7 +480,7 @@ export default function KoyasanShukuboAutumnPage() {
                   <p>【秋の高野山：壇上伽藍の蛇腹道紅葉トンネルと奥の院】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お寺の雰囲気や食事は最高だが隣の音が響くとても綺麗にされているお寺で、お料理やお風呂、お部屋やスタッフの方も親切で、朝のお勤めも見学させて貰えました。ただお寺はどこもそうだとは思いますが、壁がうす…　2026-08-18 23:07:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お寺の雰囲気や食事は最高だが隣の音が響くとても綺麗にされているお寺で、お料理やお風呂、お部屋やスタッフの方も親切で、朝のお勤めも見学させて貰えました。ただお寺はどこもそうだとは思いますが、壁がうす…」
                   </blockquote>
                 </div>
               </div>

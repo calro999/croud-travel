@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【本格茶室で一服の静寂を。お点前体験＆日本庭園露天風呂】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心温まるおもてなしで最高の思い出に妊娠中に2人で最後の思い出に、、と思い伺いました。食事の変更など柔軟に対応してくださり、体調面も気にかけていただき、安心して過ごせました。またお部屋もグレ…　2026-08-17 15:45:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心温まるおもてなしで最高の思い出に妊娠中に2人で最後の思い出に、、と思い伺いました。食事の変更など柔軟に対応してくださり、体調面も気にかけていただき、安心して過ごせました。またお部屋もグレ…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　5００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.71 ／ 部屋 ★4.64 ／ 設備 ★4.6 ／ 風呂 ★4.73 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。温かく出してほ…　2026-10-10 11:41:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は最高だが運営姿勢に疑問あり〇お食事:素晴らしい。いわゆる温泉旅館ランキング上位の旅館だということが他の上位旅館に実際宿泊して比較してみて理解できた。夕飯のお肉は少し残念。温かく出してほ…」
                   </blockquote>
                 </div>
               </div>

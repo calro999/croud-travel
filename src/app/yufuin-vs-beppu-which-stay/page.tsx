@@ -436,7 +436,7 @@ export default function YufuinVsBeppuPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り/５００円（１泊１台あたり）　先着順/予約不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別府湾の眺望と充実したサービスに大満足ハリウッドツインを3名利用でしたが十分な広さがあり、部屋の窓からは別府湾の海が見えました。温泉と朝食とチェックイン後のドリンクバー(夕方以降はアルコールも…　2026-08-22 18:07:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「別府湾の眺望と充実したサービスに大満足ハリウッドツインを3名利用でしたが十分な広さがあり、部屋の窓からは別府湾の海が見えました。温泉と朝食とチェックイン後のドリンクバー(夕方以降はアルコールも…」
                   </blockquote>
                 </div>
               </div>
@@ -458,7 +458,7 @@ export default function YufuinVsBeppuPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古めだが温泉と朝食は十分満足施設は少し古めですが、温泉、朝食とも十分楽しめました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-08-21 13:05:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古めだが温泉と朝食は十分満足施設は少し古めですが、温泉、朝食とも十分楽しめました。」
                   </blockquote>
                 </div>
               </div>
@@ -480,7 +480,7 @@ export default function YufuinVsBeppuPage() {
                   <p>【由布院 vs 別府 どっちに泊まる？：温泉の泉質・宿】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で展望風呂と大浴場を満喫部屋は綺麗で、窓際が和室になっていてとてもよかったです温泉は展望風呂と大浴場の2種類があって楽しめます欲を言えばぬる湯が一箇所でもあるといいなと思いました…　2026-08-25 16:40:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で展望風呂と大浴場を満喫部屋は綺麗で、窓際が和室になっていてとてもよかったです温泉は展望風呂と大浴場の2種類があって楽しめます欲を言えばぬる湯が一箇所でもあるといいなと思いました…」
                   </blockquote>
                 </div>
               </div>

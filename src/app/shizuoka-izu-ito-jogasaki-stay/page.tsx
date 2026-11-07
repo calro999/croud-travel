@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの料理が美味しく ビール ワイン等飲み放題も付いていて 楽しい時間を持てました スタッフの方々も とても感じ良く対応していただきましたクチコミの詳細はこちらから　https://revi…　2026-09-04 19:33:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの料理が美味しく ビール ワイン等飲み放題も付いていて 楽しい時間を持てました スタッフの方々も とても感じ良く対応していただきました」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　※カーナビは名称・電話ではなく住所（静岡県伊東市末広町1－21）で検索して下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝日と海を望む絶景と美味しい食事に大満足伊豆シャボテン公園への旅行で利用させて頂きました。高台のお部屋は眺めも良くて朝日と海が見えました。夕食と朝食、とても美味しくて中でもお刺身 鯵の干物が格別で…　2026-07-19 19:16:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝日と海を望む絶景と美味しい食事に大満足伊豆シャボテン公園への旅行で利用させて頂きました。高台のお部屋は眺めも良くて朝日と海が見えました。夕食と朝食、とても美味しくて中でもお刺身 鯵の干物が格別で…」
                   </blockquote>
                 </div>
               </div>

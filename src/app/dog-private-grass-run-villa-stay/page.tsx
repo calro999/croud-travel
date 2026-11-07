@@ -346,7 +346,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋でゆっくり味わうバイキングが最高!部屋でゆっくり美味しいバイキングのご飯、最高でした!一才児が部屋でのびのびできました!他の画像やクチコミの詳細はこちらから　https://revie…　2026-08-26 21:37:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋でゆっくり味わうバイキングが最高!部屋でゆっくり美味しいバイキングのご飯、最高でした!一才児が部屋でのびのびできました!」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４６台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワンコに優しく清潔な部屋で大満足スタッフさんの対応やホテル全体が、とてもワンコに優しいと感じました。Villaに宿泊しましたが、ワンコのニオイ感じられず、清潔で綺麗なお部屋でした。また滋賀…　2026-08-22 19:38:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ワンコに優しく清潔な部屋で大満足スタッフさんの対応やホテル全体が、とてもワンコに優しいと感じました。Villaに宿泊しましたが、ワンコのニオイ感じられず、清潔で綺麗なお部屋でした。また滋賀…」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function PetDogResortHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有＞大コテージ3台無料、中コテージ2台無料、グランピング1台無料。追加：1台につき1200円/税込</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「四季折々の景色と愛犬との時間が最高メタセコイア並木、温泉施設が近い。マキノサニービーチはチェックイン時の駐車場の目の前にあり、混雑時にも空いてて便利。前回はグランピングの新緑、今回は紅…　2026-08-12 07:16:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「四季折々の景色と愛犬との時間が最高メタセコイア並木、温泉施設が近い。マキノサニービーチはチェックイン時の駐車場の目の前にあり、混雑時にも空いてて便利。前回はグランピングの新緑、今回は紅…」
                   </blockquote>
                 </div>
               </div>

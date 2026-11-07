@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　12台　無料　駐輪OK！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.24 ／ 部屋 ★4.51 ／ 設備 ★4.46 ／ 風呂 ★4.45 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理がとても美味しく大満足料理が大満足でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/4992?review…　2026-10-05 20:25:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理がとても美味しく大満足料理が大満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた離れと最高の朝食に大満足素晴らしい雰囲気の宿。アクセスも良い、離れは落ち着く。朝食は最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-07-31 09:02:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「落ち着いた離れと最高の朝食に大満足素晴らしい雰囲気の宿。アクセスも良い、離れは落ち着く。朝食は最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【岐阜・白川郷＆五箇山：世界遺産合掌造り集落・荻町展望】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は満足食事に関しては味も良く、囲炉裏の雰囲気もあり、食事対応の方の接客も好感が持ててよかった。温泉に関しては、浴槽の変色やヌメヌメ感、硫黄の匂いも強く、温泉らしい温泉に思えた。客…　2026-09-18 18:39:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と温泉は満足食事に関しては味も良く、囲炉裏の雰囲気もあり、食事対応の方の接客も好感が持ててよかった。温泉に関しては、浴槽の変色やヌメヌメ感、硫黄の匂いも強く、温泉らしい温泉に思えた。客…」
                   </blockquote>
                 </div>
               </div>

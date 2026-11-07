@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（50台）ご宿泊者様は利用室数分まで無料　※場所が分かりづらいため当館HPアクセスページ参照下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚40周年の記念に金泉と銀泉を堪能結婚40周年の記念に夫婦で利用させていただきました。金泉、銀泉を堪能出来、駐車場の利用も親切にナビして頂けたのと、別館の喫茶店オーロラでいただいたチャーシュー麺…　2026-08-21 23:04:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚40周年の記念に金泉と銀泉を堪能結婚40周年の記念に夫婦で利用させていただきました。金泉、銀泉を堪能出来、駐車場の利用も親切にナビして頂けたのと、別館の喫茶店オーロラでいただいたチャーシュー麺…」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の近江牛カレーが絶品、また食べたい朝食の近江牛カレーがすごくおいしかったです甘味がありながらの辛さお肉も柔らかくておいしくて、また食べたいですクチコミの詳細はこちらから　https…　2026-09-12 18:02:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の近江牛カレーが絶品、また食べたい朝食の近江牛カレーがすごくおいしかったです甘味がありながらの辛さお肉も柔らかくておいしくて、また食べたいです」
                   </blockquote>
                 </div>
               </div>

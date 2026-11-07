@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-25 17:00:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でした」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.31 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「NiceGood service.Onsen was great.Relaxing and comfortable!クチコミの詳細はこちらから　https://review.trave…　2026-10-05 14:14:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「NiceGood service.Onsen was great.Relaxing and comfortable!」
                   </blockquote>
                 </div>
               </div>

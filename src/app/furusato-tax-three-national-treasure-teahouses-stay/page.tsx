@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　250台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.07 ／ 立地 ★3.92 ／ 部屋 ★4.04 ／ 設備 ★4.13 ／ 風呂 ★4.4 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングとアメニティーが充実した温泉施設に大満足食事は夕食も朝食もバイキングでした 種類も豊富で、とっても美味しく大満足でした隣の温泉施設と部屋のアメニティーが充実してて、特に温泉施設は痒い…　2026-10-03 17:39:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングとアメニティーが充実した温泉施設に大満足食事は夕食も朝食もバイキングでした 種類も豊富で、とっても美味しく大満足でした隣の温泉施設と部屋のアメニティーが充実してて、特に温泉施設は痒い…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（190台）　無料／予約不要　※EVスタンド2台（要予約／1泊1,500円）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.49 ／ 部屋 ★4.47 ／ 設備 ★4.37 ／ 風呂 ★4.39 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な鵜飼の手配と食事変更に感謝!部屋が広く清潔であったのは言うまでもないですが、最も有難かったのはチェックイン時に思い付いて木曽川の鵜飼見物が出来るかを尋ねた所、その場で提携先?に連絡を入れて手配…　2026-10-08 18:49:02投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=183344&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「急な鵜飼の手配と食事変更に感謝!部屋が広く清潔であったのは言うまでもないですが、最も有難かったのはチェックイン時に思い付いて木曽川の鵜飼見物が出来るかを尋ねた所、その場で提携先?に連絡を入れて手配…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p>【国宝三大茶室＆数寄屋建築の名旅館宿×ふるさと納税ガイ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて 冷蔵庫下の床は捲れ上が…　2026-08-13 05:19:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が老朽化し清潔感に欠ける残念な環境部屋のトイレ便座はガタつき 風呂場の扉は壊れて閉まらない 洗面台の下に風呂のフタが敷かれていたあちこちにゴキリキャップが設置されて 冷蔵庫下の床は捲れ上が…」
                   </blockquote>
                 </div>
               </div>

@@ -537,7 +537,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料の専用駐車場がございます。（※軽・普通車のみ）　詳しくはフロントまでお問合せください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★4.17 ／ 部屋 ★4.02 ／ 設備 ★3.95 ／ 風呂 ★4.1 ／ 食事 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングの混雑ぶりに驚き食欲減退こちらのタイミングもあるのかもしれませんがぬ朝食のバイキングの人の多さ(外国人)にはびっくりしました!食欲が無くなりました。ほかは、何も、なしで。クチコミ…　2026-10-10 00:03:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングの混雑ぶりに驚き食欲減退こちらのタイミングもあるのかもしれませんがぬ朝食のバイキングの人の多さ(外国人)にはびっくりしました!食欲が無くなりました。ほかは、何も、なしで。…」
                   </blockquote>
                 </div>
               </div>
@@ -559,7 +559,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　乗用車　約60台　大型バス　約6台　料金は宿泊者無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お酒飲み放題とバイキング料理に大満足!お酒飲み放題最高でした夕食のバイキングも全部美味しかったです!クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-08-21 18:53:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お酒飲み放題とバイキング料理に大満足!お酒飲み放題最高でした夕食のバイキングも全部美味しかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -581,7 +581,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>一律料金（ご1泊あたり1,000円）にてご利用頂けます。駐車場の入り口はプラン詳細をご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.39 ／ 部屋 ★4.4 ／ 設備 ★4.28 ／ 風呂 ★4.21 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの眺めが最高でゆっくりくつろげる部屋からの眺め最高です。ゆっくりくつろげます。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-10-08 23:32:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの眺めが最高でゆっくりくつろげる部屋からの眺め最高です。ゆっくりくつろげます。」
                   </blockquote>
                 </div>
               </div>
@@ -603,7 +603,7 @@ export default function AutumnBudgetFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>入庫後21時間：最大700円・駐車場は有料＆先着順。満車の場合はご利用いただけないことがございます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古めだが温泉と朝食は十分満足施設は少し古めですが、温泉、朝食とも十分楽しめました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/ho…　2026-08-21 13:05:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古めだが温泉と朝食は十分満足施設は少し古めですが、温泉、朝食とも十分楽しめました。」
                   </blockquote>
                 </div>
               </div>

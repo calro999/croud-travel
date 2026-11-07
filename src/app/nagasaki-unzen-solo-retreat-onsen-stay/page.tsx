@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>40台無料。お客様ご自身でのご移動をお願いしております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と部屋は満足、中心地からは少し遠め食事、部屋と大変満足でしたマイナス面は中心地からちょっと遠いところかなトータルでは満足度が高い旅館と思います。他の画像やクチコミの詳細はこちらから　h…　2026-09-12 13:05:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と部屋は満足、中心地からは少し遠め食事、部屋と大変満足でしたマイナス面は中心地からちょっと遠いところかなトータルでは満足度が高い旅館と思います。」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.56 ／ 部屋 ★4.11 ／ 設備 ★4 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女将さんの案内と清潔な館内で快適な時間女将さんが色々教えてくださって、温泉も外に入りに行きました。フロントにウォーターサーバーもあり便利、共用冷蔵庫もありました。懐かしい宿って感じ…　2026-09-23 15:14:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女将さんの案内と清潔な館内で快適な時間女将さんが色々教えてくださって、温泉も外に入りに行きました。フロントにウォーターサーバーもあり便利、共用冷蔵庫もありました。懐かしい宿って感じ…」
                   </blockquote>
                 </div>
               </div>

@@ -548,7 +548,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　・無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパは良いが喫煙所が少なく不便コスパが良かったのと食事は値段を考えると妥当かと思います。喫煙所が1箇所しかなく不便さは否めませんでした。クチコミの詳細はこちらから　https://revie…　2026-08-20 16:38:33投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパは良いが喫煙所が少なく不便コスパが良かったのと食事は値段を考えると妥当かと思います。喫煙所が1箇所しかなく不便さは否めませんでした。」
                   </blockquote>
                 </div>
               </div>

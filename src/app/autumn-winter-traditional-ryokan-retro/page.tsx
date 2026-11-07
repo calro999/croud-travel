@@ -364,7 +364,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　屋外のみ　マイクロバス以上は有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5種類の貸切風呂と親切な接客に大満足9月1日宿泊、貸切風呂が5種類ありました。外には無料で入れるお風呂が沢山あり2箇所行きました。男女分かれていて外のお風呂は熱めです。お肌スベスベになりました。ま…　2026-09-03 19:00:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5種類の貸切風呂と親切な接客に大満足9月1日宿泊、貸切風呂が5種類ありました。外には無料で入れるお風呂が沢山あり2箇所行きました。男女分かれていて外のお風呂は熱めです。お肌スベスベになりました。ま…」
                   </blockquote>
                 </div>
               </div>
@@ -408,7 +408,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　※カーナビは名称・電話ではなく住所（静岡県伊東市末広町1－21）で検索して下さい</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝日と海を望む絶景と美味しい食事に大満足伊豆シャボテン公園への旅行で利用させて頂きました。高台のお部屋は眺めも良くて朝日と海が見えました。夕食と朝食、とても美味しくて中でもお刺身 鯵の干物が格別で…　2026-07-19 19:16:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝日と海を望む絶景と美味しい食事に大満足伊豆シャボテン公園への旅行で利用させて頂きました。高台のお部屋は眺めも良くて朝日と海が見えました。夕食と朝食、とても美味しくて中でもお刺身 鯵の干物が格別で…」
                   </blockquote>
                 </div>
               </div>
@@ -452,7 +452,7 @@ export default function SeasonalFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　お手数ですがチェックイン前に一度お電話下さい。ご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外湯巡りに便利な立地と豪華な夕食に大満足隠れ屋というだけあって民宿をホテルのように個室にした雰囲気でたいへん綺麗で落ち着いたお宿でした。場所は全外湯の中心の一の湯付近にあって巡るのには便利でした。…　2026-08-17 17:45:51投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=138019&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外湯巡りに便利な立地と豪華な夕食に大満足隠れ屋というだけあって民宿をホテルのように個室にした雰囲気でたいへん綺麗で落ち着いたお宿でした。場所は全外湯の中心の一の湯付近にあって巡るのには便利でした。…」
                   </blockquote>
                 </div>
               </div>

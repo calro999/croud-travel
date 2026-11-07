@@ -421,7 +421,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３台限定 (７００円）　ホテルに隣接した平面駐車場です！予約の必要はございません！</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.86 ／ 部屋 ★3.98 ／ 設備 ★3.95 ／ 風呂 ★3.9 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハワイアンズを満喫、朝食も種類豊富で満足ハワイアンズ目的で宿泊。2日間たっぷり遊びました。ハワイアンズで入浴したためお風呂の使用はありません。朝食も色々種類がありましたし、ホテルとハワ…　2026-10-05 01:26:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ハワイアンズを満喫、朝食も種類豊富で満足ハワイアンズ目的で宿泊。2日間たっぷり遊びました。ハワイアンズで入浴したためお風呂の使用はありません。朝食も色々種類がありましたし、ホテルとハワ…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　1台あたり1泊：700円（税込み）　先着順　トラック不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★3.99 ／ 部屋 ★3.93 ／ 設備 ★3.85 ／ 風呂 ★3.85 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋でゆっくり味わう海鮮丼が最高でした朝食会場が広くないこともあり、お部屋で朝食を食べられて良かったです。海鮮丼も美味しかったです!クチコミの詳細はこちらから　https://review.t…　2026-10-07 18:37:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋でゆっくり味わう海鮮丼が最高でした朝食会場が広くないこともあり、お部屋で朝食を食べられて良かったです。海鮮丼も美味しかったです!」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ７００円〜１０００円（税込み／泊）　先着順 満車の際はコインパーキングにて</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.03 ／ 部屋 ★4.05 ／ 設備 ★4.07 ／ 風呂 ★4.07 ／ 食事 ★4.15</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と朝食に満足、駐車場は少し不便大浴場はそれほど大きくはないですが、私が入ったときは誰もいなくてゆっくりできました。やはり小さな部屋のお風呂より、ずっとゆっくりできます。子どものアメニ…　2026-09-30 20:29:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と朝食に満足、駐車場は少し不便大浴場はそれほど大きくはないですが、私が入ったときは誰もいなくてゆっくりできました。やはり小さな部屋のお風呂より、ずっとゆっくりできます。子どものアメニ…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し　【提携駐車場】LATOV 地下1・2 階　1泊1台 1,100円（税込）※休館日使用不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.06 ／ 立地 ★4.42 ／ 部屋 ★4.23 ／ 設備 ★4.22 ／ 風呂 ★4.17 ／ 食事 ★3.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で移動がとても便利駅直結で便利でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/184150?rev…　2026-09-28 13:34:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅直結で移動がとても便利駅直結で便利でした。」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetIwakiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　契約駐車場：800円（税込／泊）　先着順・予約不可　※入出庫は1泊1度限り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.11 ／ 部屋 ★4.17 ／ 設備 ★4.09 ／ 風呂 ★4.11 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「The Video on Demand Service Was Not WorkingVODが付いているのがいいです。クチコミの詳細はこちらから　https://review.travel.r…　2026-10-07 19:03:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「The Video on Demand Service Was Not WorkingVODが付いているのがいいです。」
                   </blockquote>
                 </div>
               </div>

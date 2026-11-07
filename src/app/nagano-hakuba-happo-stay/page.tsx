@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・白馬八方尾根：白馬マウンテンハーバー＆北アルプ】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.47 ／ 部屋 ★4.3 ／ 設備 ★4.24 ／ 風呂 ★4.28 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設も料理も大満足、送迎の対応も親切ホテルはとても綺麗、スタッフ全員がとても親切、料理もおいしい、2泊させて頂きましたが大満足でした。又八方尾根登山時には送迎バス対応をして頂きとても助かりまし…　2026-10-09 10:32:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設も料理も大満足、送迎の対応も親切ホテルはとても綺麗、スタッフ全員がとても親切、料理もおいしい、2泊させて頂きましたが大満足でした。又八方尾根登山時には送迎バス対応をして頂きとても助かりまし…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有100台（無料）※全面舗装ですが、屋根日影はありません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から白馬の眺望とウェルカムドリンク二階でも部屋から白馬が良く見えるので良かったです,ただ今回あまり白馬が見れなかったのが残念、でも夕方に少し顔を出してくれたので良しとします。。何回か宿泊してま…　2026-08-20 16:51:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から白馬の眺望とウェルカムドリンク二階でも部屋から白馬が良く見えるので良かったです,ただ今回あまり白馬が見れなかったのが残念、でも夕方に少し顔を出してくれたので良しとします。。何回か宿泊してま…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>隣接駐車場は先着順（45台収容可　税込1,000円/泊） ※満車の場合は契約駐車場をご案内します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めて利用しました。長野は、3回目ですが今回は、1人旅でした。こちらのホテルには、初めて泊まりましたが、眺望は、期待通りで良かったです。善光寺、長野県立美術館、軽井沢にも電車で行きました。無料のド…　2026-08-21 21:38:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「初めて利用しました。長野は、3回目ですが今回は、1人旅でした。こちらのホテルには、初めて泊まりましたが、眺望は、期待通りで良かったです。善光寺、長野県立美術館、軽井沢にも電車で行きました。無料のド…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚30周年記念、料理も施設も大満足!結婚30周年記念で宿泊しました。施設も綺麗で充実していて、料理もとっても美味しく、量も多くて食べきれませんでした。とってもよかったです。他の画像やクチコミ…　2026-07-29 21:19:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「結婚30周年記念、料理も施設も大満足!結婚30周年記念で宿泊しました。施設も綺麗で充実していて、料理もとっても美味しく、量も多くて食べきれませんでした。とってもよかったです。他の画像や…」
                   </blockquote>
                 </div>
               </div>

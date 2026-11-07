@@ -496,7 +496,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>伊予鉄市駅西駐車場（レフ松山市駅から徒歩2分）（自走式立体駐車場 / 先着順）1,000円/泊</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.57 ／ 部屋 ★4.5 ／ 設備 ★4.46 ／ 風呂 ★4.46 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「みかんジュースとソフトクリームに大満足朝ごはんのみかんジュースのに比べが嬉しい。また『ウエルカムソフトクリーム』は初。普段食べないのにおかわりしちゃった。クチコミの詳細はこちらから　https…　2026-10-01 10:44:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「みかんジュースとソフトクリームに大満足朝ごはんのみかんジュースのに比べが嬉しい。また『ウエルカムソフトクリーム』は初。普段食べないのにおかわりしちゃった。」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順：予約不可　900円/泊、立体34台※全高1.55M、平面12台全幅1.85M※大型車要相談</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で部屋もきれい、快適な遍路旅お遍路で利用しましたが、駅から近く、お部屋もきれいで快適に過ごせました。クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-08-17 12:42:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で部屋もきれい、快適な遍路旅お遍路で利用しましたが、駅から近く、お部屋もきれいで快適に過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【駐車場】50台1000円(税込/泊)先着順【駐輪場】500円(税込/泊)　※旧館セカンドにてご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.91 ／ 立地 ★3.94 ／ 部屋 ★3.84 ／ 設備 ★3.79 ／ 風呂 ★3.9 ／ 食事 ★3.85</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自動販売機に酒類がなくて残念自動販売機に酒類がなかったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/164470?…　2026-10-08 16:22:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自動販売機に酒類がなくて残念自動販売機に酒類がなかった」
                   </blockquote>
                 </div>
               </div>

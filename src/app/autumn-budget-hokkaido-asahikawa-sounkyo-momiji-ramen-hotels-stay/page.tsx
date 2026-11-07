@@ -421,7 +421,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順800円~1,100円車種により異なります。満車時とワゴン、バイクは徒歩圏内の提携先へご案内。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.22 ／ 部屋 ★4.11 ／ 設備 ★4.13 ／ 風呂 ★4.26 ／ 食事 ★4.46</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは品数豊富、お風呂も満足クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/50750?reviewId=3312…　2026-10-10 18:52:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングは品数豊富、お風呂も満足」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場（イオンモール旭川駅前）1泊1000円。出庫毎に料金がかかります。フロントにてご精算下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.19 ／ 立地 ★4.28 ／ 部屋 ★4.09 ／ 設備 ★4.04 ／ 風呂 ★4.02 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イオン近くて便利駅、イオン、バス停が近く立地が良い部屋も清潔でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice…　2026-10-09 18:58:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イオン近くて便利駅、イオン、バス停が近く立地が良い部屋も清潔でした」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携のD-Parkingが３Fホテルロビーと直結。普通車24時間迄1000円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.35 ／ 部屋 ★4.31 ／ 設備 ★4.26 ／ 風呂 ★4.17 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食会場の接客に驚き、部屋は狭め驚いたのが、朝食会場に入る時の受付の子。エレベーター降りてまっすぐにお客様から見える位置に立っていましたが、平気でリップを塗っていましたwwwその後もスマホ…　2026-10-09 09:26:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食会場の接客に驚き、部屋は狭め驚いたのが、朝食会場に入る時の受付の子。エレベーター降りてまっすぐにお客様から見える位置に立っていましたが、平気でリップを塗っていましたwwwその後もスマホ…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り １２台 ８００円／他契約駐車場有り ８００円　※バス、トラックなどの大型車両は停められません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★4 ／ 部屋 ★3.99 ／ 設備 ★3.87 ／ 風呂 ★3.81 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ざんねん...フロントの方はとても親切丁寧な対応をしてくださり感謝しています。ただ部屋の状態が良くありませんでした。リニューアルした部屋を選択したので見た目は良かったのですが、パッと見でわ…　2026-10-08 09:37:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ざんねん...フロントの方はとても親切丁寧な対応をしてくださり感謝しています。ただ部屋の状態が良くありませんでした。リニューアルした部屋を選択したので見た目は良かったのですが、パッと見でわ…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetAsahikawaHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有料駐車場有 ホテル裏（タイムズツルハビル旭川駅前）１泊１２００円　マップコード「79343232」</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.39 ／ 部屋 ★4.34 ／ 設備 ★4.28 ／ 風呂 ★4.27 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く朝食の海鮮丼に大満足朝食付きツインルームを予約した。窓からは駅前ターミナルが見え、イオンが真向かいで便利な立地だった。狭すぎないツインルームである事、ある程度のレベルの朝食が出る事が条件…　2026-10-09 18:23:10投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=166948&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地が良く朝食の海鮮丼に大満足朝食付きツインルームを予約した。窓からは駅前ターミナルが見え、イオンが真向かいで便利な立地だった。狭すぎないツインルームである事、ある程度のレベルの朝食が出る事が条件…」
                   </blockquote>
                 </div>
               </div>

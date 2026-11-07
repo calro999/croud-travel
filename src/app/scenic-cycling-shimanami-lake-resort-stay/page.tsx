@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／駐車料金無料（チェックイン日15:00～翌11:00）／先着順／大型車は有料で要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスがとてもよかったです。お部屋も広くて大満足です。大浴場は無いですが、近くの温泉施設に無料で送迎してもらえるのが非常にありがたかったです。しかも入浴のチケットもフロントで購入すれば割引もありタオ…　2026-08-16 11:55:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスがとてもよかったです。お部屋も広くて大満足です。大浴場は無いですが、近くの温泉施設に無料で送迎してもらえるのが非常にありがたかったです。しかも入浴のチケットもフロントで購入すれば割引もありタオ…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　３０台。　※トラックや大型バスなどは有料。（要事前相談）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり中心部へも徒歩圏内で大満足綺麗で中心部まで徒歩圏内とロケーションも適度で非常に満足でした。クチコミの詳細はこちらから　https://review.travel.rakuten.c…　2026-08-14 09:05:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり中心部へも徒歩圏内で大満足綺麗で中心部まで徒歩圏内とロケーションも適度で非常に満足でした。」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり16台／先着順／予約不可／大型車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.26 ／ 部屋 ★3.88 ／ 設備 ★3.89 ／ 風呂 ★3.67 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「9階ラウンジからの景色が素晴らしかった9階ラウンジからの景色は素晴らしかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-10-09 16:49:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「9階ラウンジからの景色が素晴らしかった9階ラウンジからの景色は素晴らしかったです」
                   </blockquote>
                 </div>
               </div>

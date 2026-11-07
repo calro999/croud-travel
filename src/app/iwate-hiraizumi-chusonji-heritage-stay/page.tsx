@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p>【岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだん】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…　2026-10-10 17:17:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「栗駒山麓の温泉と絶品ジャパニーズフレンチに大満足栗駒山麓の静かな場所で都会の喧騒を忘れてのんびりと温泉を堪能できる宿でした。スタッフ一同ホスピタリティが素晴らしく、食事も地産地消にこだわったジャパ…　2026-08-29 17:20:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「栗駒山麓の温泉と絶品ジャパニーズフレンチに大満足栗駒山麓の静かな場所で都会の喧騒を忘れてのんびりと温泉を堪能できる宿でした。スタッフ一同ホスピタリティが素晴らしく、食事も地産地消にこだわったジャパ…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p>【岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだん】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい料理とご主人の説明に大満足中尊寺金色堂と毛越寺の観光にこちらの旅館を利用しました。ごはんが美味しいという口コミ通り、趣向を凝らした先付に新鮮なお刺身、美味しいお肉、お餅とどれも大変美味…　2026-08-29 17:35:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい料理とご主人の説明に大満足中尊寺金色堂と毛越寺の観光にこちらの旅館を利用しました。ごはんが美味しいという口コミ通り、趣向を凝らした先付に新鮮なお刺身、美味しいお肉、お餅とどれも大変美味…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく最高の思い出になったとても思い出に残る素敵な時間を過ごすことができました。お部屋は隅々まで清潔感があり、落ち着いてゆっくり過ごせる空間でした。スタッフの皆さんも終始丁…　2026-08-25 07:06:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すべてが素晴らしく最高の思い出になったとても思い出に残る素敵な時間を過ごすことができました。お部屋は隅々まで清潔感があり、落ち着いてゆっくり過ごせる空間でした。スタッフの皆さんも終始丁…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【岩手・平泉中尊寺＆厳美渓：世界遺産金色堂・空飛ぶだん】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自家菜園で採れた新鮮な野菜料理が絶品目の前にある自前の畑で採れた多種多様な野菜の食事は美味しかったです。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-08-23 21:19:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自家菜園で採れた新鮮な野菜料理が絶品目の前にある自前の畑で採れた多種多様な野菜の食事は美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届き、従業員の対応も好印象前日の午前中でしたが、予約でき良かったです。楽天のクーポンを使ってお安く宿泊できました。他のレビューにもあるとおり、古めのお宿でしたが掃除は行き届いてい…　2026-08-22 12:27:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届き、従業員の対応も好印象前日の午前中でしたが、予約でき良かったです。楽天のクーポンを使ってお安く宿泊できました。他のレビューにもあるとおり、古めのお宿でしたが掃除は行き届いてい…」
                   </blockquote>
                 </div>
               </div>

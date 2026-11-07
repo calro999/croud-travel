@@ -339,7 +339,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　４０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事が最高、脱衣所の清掃に改善希望部屋からの景色がとても綺麗でした。部屋とバス・トイレも清潔でした。夕飯はお刺身が美味しかったです。 脱衣所は狭く、混んでるときは大変だなとおもいました。ドラ…　2026-08-21 10:36:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と食事が最高、脱衣所の清掃に改善希望部屋からの景色がとても綺麗でした。部屋とバス・トイレも清潔でした。夕飯はお刺身が美味しかったです。 脱衣所は狭く、混んでるときは大変だなとおもいました。ドラ…」
                   </blockquote>
                 </div>
               </div>
@@ -361,7 +361,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火の配慮が嬉しく素敵な夜を過ごせた家族旅行で利用しました。子どもに花火をいただきましたが、夕飯との兼ね合いでできそうにないねと子どもと話しといたところ、花火の時間を延長しますと言っていただけ…　2026-08-22 22:23:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「花火の配慮が嬉しく素敵な夜を過ごせた家族旅行で利用しました。子どもに花火をいただきましたが、夕飯との兼ね合いでできそうにないねと子どもと話しといたところ、花火の時間を延長しますと言っていただけ…」
                   </blockquote>
                 </div>
               </div>
@@ -383,7 +383,7 @@ export default function MicroTouristHubPage() {
                   <p>【宮城・松島＆塩竈：日本三景松島・塩竈生マグロ＆焼き牡】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…　2026-08-24 12:26:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…」
                   </blockquote>
                 </div>
               </div>
@@ -405,7 +405,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 80台 無料 予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松島の絶景と温泉、食事に大満足の休日8月の週末に利用しました。お部屋、ロビー、浴場から眺める松島は絶景です。ウエルカムドリンクがあり、到着後、入浴前後にいただきました。温泉はトロリとした泉質で、混…　2026-08-24 20:21:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「松島の絶景と温泉、食事に大満足の休日8月の週末に利用しました。お部屋、ロビー、浴場から眺める松島は絶景です。ウエルカムドリンクがあり、到着後、入浴前後にいただきました。温泉はトロリとした泉質で、混…」
                   </blockquote>
                 </div>
               </div>
@@ -427,7 +427,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　46台　無料　※大型車は要事前連絡。状況により、大型車はお断りさせて頂く場合あり。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな部屋と丁寧な接客で快適な睡眠遮音性が良く部屋の外部から煩い音が聞こえないので、ぐっすり眠れました。また、空調・衛生設備機器もしっかりして、室内は綺麗に清掃が行き届いていると感じました。…　2026-08-28 13:28:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな部屋と丁寧な接客で快適な睡眠遮音性が良く部屋の外部から煩い音が聞こえないので、ぐっすり眠れました。また、空調・衛生設備機器もしっかりして、室内は綺麗に清掃が行き届いていると感じました。…」
                   </blockquote>
                 </div>
               </div>
@@ -449,7 +449,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備（敷地外含む普通車65台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と隅々まで行き届いた清掃フロントのスタッフさんの対応が丁寧で心地よかったです。施設の古さを少し感じましたが、全体に掃除が行き届いていて気持ちよく過ごせました。クチコミの詳細はこち…　2026-08-29 17:23:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と隅々まで行き届いた清掃フロントのスタッフさんの対応が丁寧で心地よかったです。施設の古さを少し感じましたが、全体に掃除が行き届いていて気持ちよく過ごせました。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>

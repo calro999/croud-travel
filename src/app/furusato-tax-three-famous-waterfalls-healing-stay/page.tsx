@@ -614,7 +614,7 @@ export default function Page() {
                   <p>【日本三大名瀑ヒーリング＆マイナスイオンの清流・名水と】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅には少し割高?いつも満足している。ただ、私はひとり旅なので、もう少し値段が安くなればと思う?コテージもしかりです。クチコミの詳細はこちらから　https://review.travel…　2026-09-05 09:17:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅には少し割高?いつも満足している。ただ、私はひとり旅なので、もう少し値段が安くなればと思う?コテージもしかりです。」
                   </blockquote>
                 </div>
               </div>
@@ -636,7 +636,7 @@ export default function Page() {
                   <p>【日本三大名瀑ヒーリング＆マイナスイオンの清流・名水と】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女将のこだわりが随所に感じられるおもてなしです。吹割の滝散策で疲れてしまいチェックイン30分前に到着しても快くロビーで待たせていただきました。お部屋も館内も食事処も清潔感溢れ気持ち良く過ごすことが…　2026-09-04 17:59:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女将のこだわりが随所に感じられるおもてなしです。吹割の滝散策で疲れてしまいチェックイン30分前に到着しても快くロビーで待たせていただきました。お部屋も館内も食事処も清潔感溢れ気持ち良く過ごすことが…」
                   </blockquote>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function Page() {
                   <p>【日本三大名瀑ヒーリング＆マイナスイオンの清流・名水と】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣きある離れと美味しい料理に大満足2度目です趣きがあり、大変良い旅館です離れに宿泊しました、料理も程よい量でスタッフも気持ち良く、また、訪れたい宿です他の画像やクチコミの詳細は…　2026-08-23 12:20:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣きある離れと美味しい料理に大満足2度目です趣きがあり、大変良い旅館です離れに宿泊しました、料理も程よい量でスタッフも気持ち良く、また、訪れたい宿です他の画像やクチコミの詳細は…」
                   </blockquote>
                 </div>
               </div>

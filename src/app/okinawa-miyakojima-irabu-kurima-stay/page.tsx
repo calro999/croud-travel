@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　本館24台、 別館10台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの説明がまどろっこしく不快スタッフの説明がまどろっこしく、めんどくさかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-08-21 11:32:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの説明がまどろっこしく不快スタッフの説明がまどろっこしく、めんどくさかった。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>★有り★　約10台無料　予約不要！</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のニオイと清掃状況に不満、対応も残念部屋に入ると男性用制汗剤のような強烈なニオイ。カビのニオイなのか室内にあった芳香剤のにおいなのかわからないがとにかくきつかった。布団カバーのキルトは…　2026-08-19 12:51:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋のニオイと清掃状況に不満、対応も残念部屋に入ると男性用制汗剤のような強烈なニオイ。カビのニオイなのか室内にあった芳香剤のにおいなのかわからないがとにかくきつかった。布団カバーのキルトは…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　1室につき1台無料　（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.57 ／ 部屋 ★4.42 ／ 設備 ★4.26 ／ 風呂 ★4.39 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓から宮古島の景色を感じられて最高窓からの眺めは宮古島を感じられてよかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-10-09 10:50:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓から宮古島の景色を感じられて最高窓からの眺めは宮古島を感じられてよかったです」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【沖縄・宮古島＆伊良部島・来間島：宮古ブルー・与那覇前】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝ヨガと健康朝食、プールを満喫した4日間静かな場所で朝ヨガに健康朝食、最高な4日間でした。プールも部屋のと大きなプールとたくさん入って楽しかったです。クチコミの詳細はこちらから　https:/…　2026-08-21 17:18:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝ヨガと健康朝食、プールを満喫した4日間静かな場所で朝ヨガに健康朝食、最高な4日間でした。プールも部屋のと大きなプールとたくさん入って楽しかったです。」
                   </blockquote>
                 </div>
               </div>

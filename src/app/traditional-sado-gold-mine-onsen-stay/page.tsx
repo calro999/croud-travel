@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p>【佐渡金山世界遺産登録記念】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.17 ／ 部屋 ★4.18 ／ 設備 ★4.06 ／ 風呂 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は最高だが朝食会場の混雑が深刻ホテルタイプのお部屋に泊まりました。大浴場は流石で、気持ちよかったです。一つ気になったのが、朝食会場の混雑が想像以上でした。時間で区切って人数のコントロール…　2026-10-10 12:55:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場は最高だが朝食会場の混雑が深刻ホテルタイプのお部屋に泊まりました。大浴場は流石で、気持ちよかったです。一つ気になったのが、朝食会場の混雑が想像以上でした。時間で区切って人数のコントロール…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４２台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.02 ／ 部屋 ★4 ／ 設備 ★3.95 ／ 風呂 ★4.21 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高、露天風呂の温度だけが惜しい食事がとても良かったです。露天風呂がぬるかったのが一つだけ残念ですが、居心地の良い旅館です。クチコミの詳細はこちらから　https://review.tr…　2026-10-09 06:39:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は最高、露天風呂の温度だけが惜しい食事がとても良かったです。露天風呂がぬるかったのが一つだけ残念ですが、居心地の良い旅館です。」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。スタッフの方の対応も素…　2026-08-20 21:54:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広い部屋と蟹づくし、最高のロケーション建物の経年感はあるもののとても清潔で気持ちよく過ごせました。家族5人で利用しましたがとても広い部屋でゆっくりすることができました。スタッフの方の対応も素…」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　57台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.67 ／ 部屋 ★4.35 ／ 設備 ★4.31 ／ 風呂 ★4.21 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、ゆったりと佐渡時間を楽しめますとにかくお料理が美味しかったです。鮮度はもちろんのこと、ひとつひとつのが丁寧で心がこもったお料理でした。普段、あれだけ沢山いただくと胸やけしてしまうの…　2026-10-05 19:57:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は絶品、ゆったりと佐渡時間を楽しめますとにかくお料理が美味しかったです。鮮度はもちろんのこと、ひとつひとつのが丁寧で心がこもったお料理でした。普段、あれだけ沢山いただくと胸やけしてしまうの…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場・車50台（大型バス駐車可能）/一部バイク用ガレージあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.45 ／ 部屋 ★4.38 ／ 設備 ★4.19 ／ 風呂 ★4.24 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回もさいこーーーでした!!!2回目の宿泊でした。以前宿泊した時に普段あまり褒めない夫が、料理が美味しいと言葉に出して褒めていました。今回は、佐渡牛のプランにしたのですが、ほとんど長男が食べて夫は…　2026-10-05 00:13:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回もさいこーーーでした!!!2回目の宿泊でした。以前宿泊した時に普段あまり褒めない夫が、料理が美味しいと言葉に出して褒めていました。今回は、佐渡牛のプランにしたのですが、ほとんど長男が食べて夫は…」
                   </blockquote>
                 </div>
               </div>

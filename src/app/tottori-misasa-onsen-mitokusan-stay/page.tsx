@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１００台　予約不要　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、また行きたい!ラウンジや卓球、プレイルームなど、子どもたちが飽きずに過ごせ、お部屋も広くゆったりと過ごせました。露天も良かったです。1つだけあえてあげるなら、廊下がクーラーなく…　2026-08-26 16:09:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子供も大人も大満足、また行きたい!ラウンジや卓球、プレイルームなど、子どもたちが飽きずに過ごせ、お部屋も広くゆったりと過ごせました。露天も良かったです。1つだけあえてあげるなら、廊下がクーラーなく…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p>【鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…　2026-09-05 22:04:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「重要文化財の佇まいと最高の泉質に感動重要文化財の宿の廊下を歩いてると、外を歩いてる人々がカメラにおさめてました。正面玄関カッちょいーです。なんといってもお風呂!洞窟みたいなお風呂もさること…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「写真と違いすぎる載っている写真がキレイすぎる。実際はかなり古く、部屋のふすまは変色しているし、露天風呂はボロボロで、周辺のホテルから丸見えなのではないかと心配になるほど。お風呂を利用できる…　2026-08-22 23:13:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「写真と違いすぎる載っている写真がキレイすぎる。実際はかなり古く、部屋のふすまは変色しているし、露天風呂はボロボロで、周辺のホテルから丸見えなのではないかと心配になるほど。お風呂を利用できる…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【鳥取・三朝温泉＆三徳山三仏寺：世界屈指のラジウム温泉】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事と貸切露天風呂に大満足今回で2回目の利用です。前回宿泊時には無かった食事会場は個室で周りを気にする事なく食事が出来てよかったです。もちろん食事も最高でした貸し切り露天風呂も雰囲気が…　2026-08-29 09:26:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事と貸切露天風呂に大満足今回で2回目の利用です。前回宿泊時には無かった食事会場は個室で周りを気にする事なく食事が出来てよかったです。もちろん食事も最高でした貸し切り露天風呂も雰囲気が…」
                   </blockquote>
                 </div>
               </div>

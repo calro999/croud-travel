@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.31 ／ 部屋 ★4.34 ／ 設備 ★3.96 ／ 風呂 ★4.3 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。大…　2026-10-10 23:17:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。大…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…　2026-09-12 11:02:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p>【湯守のこだわりが息づく。本物の源泉掛け流し＆極上泉質】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「風情ある空間と手料理に癒やされるひとときとても風情があり、昭和の古き良き時代を思い出させてくれるお宿でした。お料理もすべて手作りで、温かみがあり全部美味しくいただきました。昼間は蝉の声と風鈴の音、…　2026-08-19 16:40:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「風情ある空間と手料理に癒やされるひとときとても風情があり、昭和の古き良き時代を思い出させてくれるお宿でした。お料理もすべて手作りで、温かみがあり全部美味しくいただきました。昼間は蝉の声と風鈴の音、…」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。食事もおいしいし、連…　2026-09-09 15:54:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質と涼しさが最高、来年の再訪が楽しみ色々古いですが、それでもリピート確定なお宿です。お風呂はまさに好み。泉質がよくぬるめで、開放感もあり、いつまでも入っていられます。食事もおいしいし、連…」
                   </blockquote>
                 </div>
               </div>

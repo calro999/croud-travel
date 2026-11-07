@@ -543,7 +543,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場につきましては【駐車場のご案内】ページをご参照下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.02 ／ 立地 ★4.05 ／ 部屋 ★3.82 ／ 設備 ★3.73 ／ 風呂 ★3.73 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バスタブの蛇口バスタブの水専用蛇口の水圧が足りず修理が必要です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/39…　2026-10-10 20:03:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バスタブの蛇口バスタブの水専用蛇口の水圧が足りず修理が必要です。」
                   </blockquote>
                 </div>
               </div>
@@ -565,7 +565,7 @@ export default function ArticlePage() {
                   <p>【郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大】 <strong>【駐車場・マイカー利用】</strong>有り　100台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足腰の弱い方でも過ごしやすいホテルです。今回は、母と母の幼なじみの方をお連れしての旅行でした。80を過ぎ、歳と共に足腰が悪くなってきましたが、ここは急な階段などが少なく、とても過ごし易いそうで、私…　2026-08-28 13:43:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「足腰の弱い方でも過ごしやすいホテルです。今回は、母と母の幼なじみの方をお連れしての旅行でした。80を過ぎ、歳と共に足腰が悪くなってきましたが、ここは急な階段などが少なく、とても過ごし易いそうで、私…」
                   </blockquote>
                 </div>
               </div>
@@ -587,7 +587,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>※駐車場は先着順でのご利用をお願いします。 近隣に有料駐車場（一晩500円）あり.※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.99 ／ 部屋 ★3.83 ／ 設備 ★3.77 ／ 風呂 ★3.77 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地のもの尽くしのバイキングと便利な立地バイキングが地のものばかりです。馬肉の肉じゃが、牛乳・野菜・ヨーグルト・納豆・蕎麦・・・どれも満足です。また、全部手間暇かけて作っているんだなぁと思える食事ば…　2026-10-08 15:44:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「地のもの尽くしのバイキングと便利な立地バイキングが地のものばかりです。馬肉の肉じゃが、牛乳・野菜・ヨーグルト・納豆・蕎麦・・・どれも満足です。また、全部手間暇かけて作っているんだなぁと思える食事ば…」
                   </blockquote>
                 </div>
               </div>
@@ -609,7 +609,7 @@ export default function ArticlePage() {
                   <p>【郡山出張＆中通りひとり旅：新幹線駅前すぐ・天然温泉大】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.12 ／ 部屋 ★4.04 ／ 設備 ★3.96 ／ 風呂 ★4.42 ／ 食事 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺に飲食店がなく郡山まで移動、お風呂は満足近隣に食事ができるところが見当たらず(宿でそれなりになら可能)電車で郡山まで出かけました。お風呂は良かったです。クチコミの詳細はこちらから　ht…　2026-10-06 19:06:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺に飲食店がなく郡山まで移動、お風呂は満足近隣に食事ができるところが見当たらず(宿でそれなりになら可能)電車で郡山まで出かけました。お風呂は良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -631,7 +631,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　５００円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.73 ／ 部屋 ★3.86 ／ 設備 ★3.87 ／ 風呂 ★3.78 ／ 食事 ★3.83</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でコスパ良好、寝るだけなら十分寝るだけのためでの宿泊でしたが、フロントの対応も必要不可欠な部分に対してチャンと説明があり分かりやすかった。また、朝食については事前に軽食との説明があったので…　2026-09-23 13:21:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でコスパ良好、寝るだけなら十分寝るだけのためでの宿泊でしたが、フロントの対応も必要不可欠な部分に対してチャンと説明があり分かりやすかった。また、朝食については事前に軽食との説明があったので…」
                   </blockquote>
                 </div>
               </div>

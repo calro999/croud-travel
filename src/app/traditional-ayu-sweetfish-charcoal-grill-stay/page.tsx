@@ -518,7 +518,7 @@ export default function Page() {
                   <p>【香ばしい炭火焼き鮎と清流の恵み】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中居さんの気遣いに感謝、露天風呂も最高嫁と2人で久々の旅行でした。楽しみにしていた晩御飯でしたが嫁が体調を崩して食事の途中に部屋にもどり自分だけ豪華な食事いただきました。中居さんが気遣ってくれてお…　2026-09-15 00:21:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中居さんの気遣いに感謝、露天風呂も最高嫁と2人で久々の旅行でした。楽しみにしていた晩御飯でしたが嫁が体調を崩して食事の途中に部屋にもどり自分だけ豪華な食事いただきました。中居さんが気遣ってくれてお…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【香ばしい炭火焼き鮎と清流の恵み】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.29 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.51 ／ 食事 ★4.3</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/16280?reviewId=331…　2026-10-03 22:25:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「鮎の塩焼きが冷え冷えってあり得ない!」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【香ばしい炭火焼き鮎と清流の恵み】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても気持ちが休まる良いお宿でした平日だった為か、お宿にゆとりがあったそうで予約のお部屋より広いお部屋を用意していただけました。佇まいは古いけれど、どこもとても綺麗に掃除をされていて気持ちよく…　2026-09-09 14:52:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とても気持ちが休まる良いお宿でした平日だった為か、お宿にゆとりがあったそうで予約のお部屋より広いお部屋を用意していただけました。佇まいは古いけれど、どこもとても綺麗に掃除をされていて気持ちよく…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【香ばしい炭火焼き鮎と清流の恵み】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「癖になるお湯3度目の宿泊。お湯もお食事も気に入っています。欲を言えば...夜の〆のご飯はキノコご飯などの炊き込みご飯だともっとうれしいです。なぜなら、美味しいおかずたちはほとんどお酒のおつ…　2026-09-12 15:00:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「癖になるお湯3度目の宿泊。お湯もお食事も気に入っています。欲を言えば...夜の〆のご飯はキノコご飯などの炊き込みご飯だともっとうれしいです。なぜなら、美味しいおかずたちはほとんどお酒のおつ…」
                   </blockquote>
                 </div>
               </div>

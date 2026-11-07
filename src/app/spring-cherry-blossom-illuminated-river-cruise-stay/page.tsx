@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【川沿いに続く桜並木のライトアップ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また利用したいと思える場所他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/182122?reviewId=33…　2026-09-16 20:47:03投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=182122&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また利用したいと思える場所」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【川沿いに続く桜並木のライトアップ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。どうしても鮎の塩焼きが食べたかったので、追加で注文させて頂き…　2026-09-07 21:01:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と牡丹鍋、縁側でのんびり満喫露天風呂付きのお部屋で、ゆっくり過ごす事が出来ました!料理も牡丹鍋など、とても美味しかったです。どうしても鮎の塩焼きが食べたかったので、追加で注文させて頂き…」
                   </blockquote>
                 </div>
               </div>

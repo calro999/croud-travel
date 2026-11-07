@@ -403,7 +403,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場13台（1泊1500円・要電話予約）満車の場合はコインパーキング24時間700円～1700円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応は良いが朝食は物足りないフロントは親切丁寧で良かった。しかし朝食はオマケ感が強く会場も狭い。1000円払ってでもしっかりした食事がしたかった。部屋の携帯のケーブルが故障してたが嫌な顔…　2026-08-19 13:13:22投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=109492&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの対応は良いが朝食は物足りないフロントは親切丁寧で良かった。しかし朝食はオマケ感が強く会場も狭い。1000円払ってでもしっかりした食事がしたかった。部屋の携帯のケーブルが故障してたが嫌な顔…」
                   </blockquote>
                 </div>
               </div>
@@ -425,7 +425,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>電話予約不可・当日先着順13台　1,300円/泊(15時～翌朝10時まで途中出庫不可) 普通車のみ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心温まるおもてなしに感謝ありがとうございましたm(_ _)mクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1046…　2026-08-16 12:24:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心温まるおもてなしに感謝ありがとうございましたm(_ _)m」
                   </blockquote>
                 </div>
               </div>
@@ -447,7 +447,7 @@ export default function AutumnBudgetYokkaichiHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場 ■タイムズ　コンフォートホテル四日市東/コンフォートホテル四日市南 1泊　1,200円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な対応と部屋のグレードアップに大満足ナガシマスパーランドで遊んだ後の宿泊でした。夕食のおすすめを聞くと詳しく色々教えてくださって、とても丁寧なスタッフさんでした!お部屋も綺麗…　2026-08-18 12:15:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの丁寧な対応と部屋のグレードアップに大満足ナガシマスパーランドで遊んだ後の宿泊でした。夕食のおすすめを聞くと詳しく色々教えてくださって、とても丁寧なスタッフさんでした!お部屋も綺麗…」
                   </blockquote>
                 </div>
               </div>

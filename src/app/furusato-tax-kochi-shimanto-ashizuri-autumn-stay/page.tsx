@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋はとても綺麗、温泉は熱めでした部屋はとても綺麗でした。温泉は熱かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-08-30 16:34:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋はとても綺麗、温泉は熱めでした部屋はとても綺麗でした。温泉は熱かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【高知・日本最後の清流 四万十川と足摺岬】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「佳海景与温泉体,感允携犬入住。佳的地点,能看到景的海岸,月光,享受温泉和静。服人心周到,仔介,感能允狗狗一起入住,如果去柏玩,是个理想的住宿所。クチコミの詳細はこちらから　https://re…　2026-08-28 22:29:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「佳海景与温泉体,感允携犬入住。佳的地点,能看到景的海岸,月光,享受温泉和静。服人心周到,仔介,感能允狗狗一起入住,如果去柏玩,是个理想的住宿所。」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　90台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「太平洋の絶景と温泉で疲れが癒やされるロケーションと温泉が最高!素泊まりで利用しました。お部屋や展望風呂から望む太平洋の絶景が素晴らしく、旅の疲れが癒やされます。建物には少し年季を感じますが…　2026-09-17 09:22:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「太平洋の絶景と温泉で疲れが癒やされるロケーションと温泉が最高!素泊まりで利用しました。お部屋や展望風呂から望む太平洋の絶景が素晴らしく、旅の疲れが癒やされます。建物には少し年季を感じますが…」
                   </blockquote>
                 </div>
               </div>

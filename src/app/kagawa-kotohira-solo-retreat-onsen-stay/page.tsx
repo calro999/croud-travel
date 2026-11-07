@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>40台（有料）・利用時間14時〜翌11時・予約必須・詳細は桜の抄公式HPをご確認ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.49 ／ 部屋 ★4.59 ／ 設備 ★4.51 ／ 風呂 ★4.56 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊。大人も子どもも楽しめる宿1歳と3歳の子どもを連れて、2回目の宿泊でした。部屋はきれいで、窓や客室露天風呂からこんぴらさんを眺められるのがとても良かったです。客室露天風呂なので、子ども…　2026-10-10 16:23:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊。大人も子どもも楽しめる宿1歳と3歳の子どもを連れて、2回目の宿泊でした。部屋はきれいで、窓や客室露天風呂からこんぴらさんを眺められるのがとても良かったです。客室露天風呂なので、子ども…」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り：70台（無料）／EV充電器設置</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.67 ／ 立地 ★4.52 ／ 部屋 ★4.58 ／ 設備 ★4.52 ／ 風呂 ★4.66 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「幸せな非日常な優雅な時間お食事が朝夕共とっても美味しかったです。夕食の最後に白ごはんか卵かけご飯か選べるのも良いなあと思いました。私達は卵かけご飯の方をいただきましたが卵が新鮮で大満足でし…　2026-10-10 13:35:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「幸せな非日常な優雅な時間お食事が朝夕共とっても美味しかったです。夕食の最後に白ごはんか卵かけご飯か選べるのも良いなあと思いました。私達は卵かけご飯の方をいただきましたが卵が新鮮で大満足でし…」
                   </blockquote>
                 </div>
               </div>

@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p>【・11月秋の宮城鳴子温泉ひとり旅・鳴子峡の錦秋大渓谷】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…　2026-09-12 11:02:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「またゆきたい設備は古いが、清潔に保たれてます。夕食とても美味しかったです。離れた所にある露天風呂も良い。蒸し風呂(サウナ)に入れます方法が内湯から入れるようになると入りやすいと思います…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　3０台　無料　先着順 バイク用車庫有り 無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「楽しみにしていたお風呂に入れず残念な滞在遠方から一泊二日で出向き、雑誌に出ていた楽しみにしていたお風呂は、男女入れ替えのため、一日目は入れず、二日目のみだった。二日目に入れれば問題なかった…　2026-06-27 20:53:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「楽しみにしていたお風呂に入れず残念な滞在遠方から一泊二日で出向き、雑誌に出ていた楽しみにしていたお風呂は、男女入れ替えのため、一日目は入れず、二日目のみだった。二日目に入れれば問題なかった…」
                   </blockquote>
                 </div>
               </div>

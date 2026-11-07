@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料（先着順）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.25 ／ 部屋 ★4.09 ／ 設備 ★3.98 ／ 風呂 ★4.12 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いですがごはんはおいしかったし、大変満足しておりますホテルとは関係ないですが、ホテルすぐ隣で花火があがったのも良かったクチコミの詳細はこちらから　https://review.travel…　2026-10-07 07:21:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備は古いですがごはんはおいしかったし、大変満足しておりますホテルとは関係ないですが、ホテルすぐ隣で花火があがったのも良かった」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　無料先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.35 ／ 部屋 ★4.53 ／ 設備 ★4.4 ／ 風呂 ★4.48 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…　2026-10-08 19:33:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「価格以上の満足感、料理もお風呂も最高価格がかなり割引になっていたので、決めました。鬼怒川は以前働いていたので、よく知っているので高級ホテルと言う事は知っていました。料理もお風呂も満足です…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有130台（無料）※専用駐車場に移動させていただきます。ご自身で移動希望の方は係にお伝えください。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「混雑時もスタッフが多く快適、サービスも充実盆明けであるがやや混んでいた。その分スタッフも多く利用に問題なかった。ウェルカムサービスもよく、1日ホテルにいても問題ないと思う。クチコミの詳細は…　2026-08-20 11:46:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「混雑時もスタッフが多く快適、サービスも充実盆明けであるがやや混んでいた。その分スタッフも多く利用に問題なかった。ウェルカムサービスもよく、1日ホテルにいても問題ないと思う。クチコミの詳細は…」
                   </blockquote>
                 </div>
               </div>

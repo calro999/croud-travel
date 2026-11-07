@@ -346,7 +346,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.25 ／ 部屋 ★4.06 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが子供向けサービスが充実子供連れでの利用でした。施設は古いですが、子供向けの寝間着やお菓子などサービスは色々と充実していて、満足でした。宿泊客に対して、大浴場があまり大きくないの…　2026-09-23 13:41:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「施設は古いが子供向けサービスが充実子供連れでの利用でした。施設は古いですが、子供向けの寝間着やお菓子などサービスは色々と充実していて、満足でした。宿泊客に対して、大浴場があまり大きくないの…」
                   </blockquote>
                 </div>
               </div>
@@ -368,7 +368,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　 ご宿泊のお客様は１泊 3000円（12：00～翌12：00まで）にて利用可能！　１６０台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋のグレードアップに感激!とても良いお部屋にグレードアップして下さって夢のようでしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-08-21 22:10:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋のグレードアップに感激!とても良いお部屋にグレードアップして下さって夢のようでした」
                   </blockquote>
                 </div>
               </div>
@@ -390,7 +390,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し（提携駐車場もございません。周辺コインパーキングをご利用ください。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と接客が良く、ベッドも広くて快適立地良く、スタッフさんの対応も丁寧でした。部屋は広くなかったものの、ベッドは広く寝心地良かったです。クチコミの詳細はこちらから　https://review…　2026-08-17 17:32:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地と接客が良く、ベッドも広くて快適立地良く、スタッフさんの対応も丁寧でした。部屋は広くなかったものの、ベッドは広く寝心地良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -412,7 +412,7 @@ export default function MicroTouristHubPage() {
                   <p>【京都・宇治：平等院鳳凰堂・宇治茶＆源氏物語ゆかりの川】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、駐車場の手配もスムーズJR宇治駅から1番近いですが、今回は仕事で訪れました。車で向かう予定でしたので事前にその旨を伝えたところ、駐車場の手配もして頂きありがとうございます。公共…　2026-08-22 17:29:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利、駐車場の手配もスムーズJR宇治駅から1番近いですが、今回は仕事で訪れました。車で向かう予定でしたので事前にその旨を伝えたところ、駐車場の手配もして頂きありがとうございます。公共…」
                   </blockquote>
                 </div>
               </div>

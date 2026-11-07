@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約100台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.35 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。料理の種類も豊富で和洋中、イタリアンに至るまで展開され、味もどれを食べてもハズレが全くなく、とても美味しかったです…　2026-10-09 14:41:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。料理の種類も豊富で和洋中、イタリアンに至るまで展開され、味もどれを食べてもハズレが全くなく、とても美味しかったです…」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.22 ／ 部屋 ★4.34 ／ 設備 ★4.32 ／ 風呂 ★4.42 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが清掃面で改善を期待したい食事は夕食 朝食ともに70歳になる我々には ちょうどよい感じ手の込んだ食事内容で満足しました旅館の施設 設備はさすがに古い感じですが 承知して宿泊しました…　2026-10-04 11:33:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足だが清掃面で改善を期待したい食事は夕食 朝食ともに70歳になる我々には ちょうどよい感じ手の込んだ食事内容で満足しました旅館の施設 設備はさすがに古い感じですが 承知して宿泊しました…」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.23 ／ 部屋 ★4.22 ／ 設備 ★4.16 ／ 風呂 ★4.54 ／ 食事 ★4.27</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「空調最悪空調がとにかく最悪で、最高気温23Cにも関わらず暖房が入っておりこちらで切り替えができない。フロントに言っても暖房止めて窓開けてくださいのみ。カメムシが多発してると言っても部屋に伺いますの…　2026-10-09 22:37:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「空調最悪空調がとにかく最悪で、最高気温23Cにも関わらず暖房が入っておりこちらで切り替えができない。フロントに言っても暖房止めて窓開けてくださいのみ。カメムシが多発してると言っても部屋に伺いますの…」
                   </blockquote>
                 </div>
               </div>

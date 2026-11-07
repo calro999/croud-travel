@@ -511,7 +511,7 @@ export default function ArticlePage() {
                   <p>【那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが清潔、静かな環境で源泉掛け流し古い建物ではあるが清潔。源泉掛け流しでお湯は新鮮。薬効はあまり感じなかった。山の中で静か。クチコミの詳細はこちらから　https://review…　2026-08-29 15:11:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが清潔、静かな環境で源泉掛け流し古い建物ではあるが清潔。源泉掛け流しでお湯は新鮮。薬効はあまり感じなかった。山の中で静か。」
                   </blockquote>
                 </div>
               </div>
@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p>【那須塩原・板室温泉ひとり旅・下野の薬湯立ち湯おこもり】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自分を労わる体験とヘルシーな食事に満足瞑想や自分でできるお灸など、自分を労わる体験がとてもよかったです。また自分の状況に合わせたお茶も自由にブレンドして飲めたり、バスタオルやお水も自分もペースで頂…　2026-09-06 16:27:20投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=183550&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自分を労わる体験とヘルシーな食事に満足瞑想や自分でできるお灸など、自分を労わる体験がとてもよかったです。また自分の状況に合わせたお茶も自由にブレンドして飲めたり、バスタオルやお水も自分もペースで頂…」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のしゃぶしゃぶは絶品、朝食は改善の余地ありクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/111212?review…　2026-08-22 14:38:06投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=111212&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のしゃぶしゃぶは絶品、朝食は改善の余地あり」
                   </blockquote>
                 </div>
               </div>

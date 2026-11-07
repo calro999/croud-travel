@@ -333,7 +333,7 @@ export default function HistoryHeritageHubPage() {
                   <p>【世界遺産・霊場巡り＆宿坊体験宿：高野山宿坊・熊野古道】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★4 ／ 部屋 ★3.68 ／ 設備 ★3.71 ／ 風呂 ★3.44 ／ 食事 ★4.53</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「精進料理が美味しく、部屋もグレードアップ西門院さんの精進料理美味しかったです!シルバーウィーク明けでたまたま宿泊客が少なかったせいか、お部屋はトイレなし→トイレありにグレードアップしていただい…　2026-09-26 22:36:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「精進料理が美味しく、部屋もグレードアップ西門院さんの精進料理美味しかったです!シルバーウィーク明けでたまたま宿泊客が少なかったせいか、お部屋はトイレなし→トイレありにグレードアップしていただい…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function HistoryHeritageHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>60台（無料）／バイク利用の方には屋根付き駐車場有</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また行きたい部屋は広く窓の外は川と、とても気持ちが良かったです。ただトイレの壁紙が湿気とカビで浮いておりカビ臭い。トイレの度に残念な気分になりましたがそれ以外は満足です。何より喫煙可の部屋はかなり…　2026-08-30 01:11:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また行きたい部屋は広く窓の外は川と、とても気持ちが良かったです。ただトイレの壁紙が湿気とカビで浮いておりカビ臭い。トイレの度に残念な気分になりましたがそれ以外は満足です。何より喫煙可の部屋はかなり…」
                   </blockquote>
                 </div>
               </div>

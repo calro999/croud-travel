@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ３００台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.03 ／ 立地 ★4.08 ／ 部屋 ★3.94 ／ 設備 ★3.75 ／ 風呂 ★4.19 ／ 食事 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…　2026-10-09 12:59:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シルバーウィークにこの内容でみなかみでのラフティング目的で近くの宿を探し、シルバーウィークど真ん中なのにとてもお安く泊まれて、食事など正直あまり期待していなかったのですが良い意味で裏切られまし…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【せせらぎがBGM。清流の息吹を感じる渓流沿い専用露天】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★2.77 ／ 立地 ★3.12 ／ 部屋 ★3 ／ 設備 ★2.48 ／ 風呂 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が素晴らしくて大満足温泉が素晴らしいクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/68475?reviewId…　2026-10-04 15:32:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が素晴らしくて大満足温泉が素晴らしい」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台先着順無料　湯治部のご利用は第2駐車場をご利用ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.37 ／ 部屋 ★4.12 ／ 設備 ★4.11 ／ 風呂 ★4.64 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質と雰囲気が最高、体調も回復温泉の泉質と雰囲気が一番良かったです。温泉に入ったあと、血の巡りが良くなり、体調も良くなりました。クチコミの詳細はこちらから　https://review.…　2026-10-09 16:39:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質と雰囲気が最高、体調も回復温泉の泉質と雰囲気が一番良かったです。温泉に入ったあと、血の巡りが良くなり、体調も良くなりました。」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.46 ／ 部屋 ★4.46 ／ 設備 ★4.54 ／ 風呂 ★4.61 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の雰囲気以外は素晴らしい体験部屋がラブホテルなところを除けば素晴らしいと思います。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hot…　2026-09-26 22:28:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の雰囲気以外は素晴らしい体験部屋がラブホテルなところを除けば素晴らしいと思います。」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女子旅に最適、料理も温泉も大満足!女子旅には最高の宿でした。お食事も夏野菜満載の工夫を凝らしてありどれも美味しかったです。接客のスタッフの方も感じが良く心地良かった。貸切風呂も中々風情があり気持ち…　2026-07-20 17:26:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女子旅に最適、料理も温泉も大満足!女子旅には最高の宿でした。お食事も夏野菜満載の工夫を凝らしてありどれも美味しかったです。接客のスタッフの方も感じが良く心地良かった。貸切風呂も中々風情があり気持ち…」
                   </blockquote>
                 </div>
               </div>

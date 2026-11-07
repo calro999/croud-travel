@@ -544,7 +544,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料（20台、予約不要）　無料送迎あり（富士山駅・富士山山中湖バス停付近）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「めちゃくちゃ綺麗で富士山も見れて最高ーただただ焚き火の薪が乾いてないか中々燃えなくてそれが残念ー部屋も綺麗で子どもたち楽しめました。また来たいですクチコミの詳細はこちらから　https…　2026-08-22 08:16:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「めちゃくちゃ綺麗で富士山も見れて最高ーただただ焚き火の薪が乾いてないか中々燃えなくてそれが残念ー部屋も綺麗で子どもたち楽しめました。また来たいです」
                   </blockquote>
                 </div>
               </div>
@@ -566,7 +566,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　7台（各グループ1台まで）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山を望む朝サウナと豪華なBBQに大満足朝イチに見た富士山が最高でした富士山を眺めながらの朝サウナも贅沢で、気持ちよかったです!夕食もとても豪華で、BBQも楽しめて大満足景色も食…　2026-08-23 20:37:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富士山を望む朝サウナと豪華なBBQに大満足朝イチに見た富士山が最高でした富士山を眺めながらの朝サウナも贅沢で、気持ちよかったです!夕食もとても豪華で、BBQも楽しめて大満足景色も食…」
                   </blockquote>
                 </div>
               </div>
@@ -588,7 +588,7 @@ export default function SilverWeekGlampingKantoFujiPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　28台　無料　屋外駐車場です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.24 ／ 立地 ★3.55 ／ 部屋 ★3.1 ／ 設備 ★3 ／ 風呂 ★2.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から富士山を眺め、夕食のうなぎも堪能富士山ビューツインに宿泊しました。今回は朝食付きで予約していたのですが、夕食のうなぎコースがあると聞いて、せっかくなので追加でいただきました。思っていた…　2026-09-28 14:42:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から富士山を眺め、夕食のうなぎも堪能富士山ビューツインに宿泊しました。今回は朝食付きで予約していたのですが、夕食のうなぎコースがあると聞いて、せっかくなので追加でいただきました。思っていた…」
                   </blockquote>
                 </div>
               </div>

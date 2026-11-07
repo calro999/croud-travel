@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>57台(屋内46台、屋外11台) 1000円/泊</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応と夜景に家族全員大満足妻と1歳5ヶ月になる娘の家族3人で宿泊させてもらいました。良く歩き回る娘に対してもスタッフの皆様は温かく対応してくださり、おかげさまで終始笑顔な娘でした。…　2026-08-27 02:10:22投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=104705&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの温かい対応と夜景に家族全員大満足妻と1歳5ヶ月になる娘の家族3人で宿泊させてもらいました。良く歩き回る娘に対してもスタッフの皆様は温かく対応してくださり、おかげさまで終始笑顔な娘でした。…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　1700台（街区共用）　1泊1600円 　正面玄関に入り口がございます（予約制ではありません）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また泊まりたい清潔感があり、良いホテルに宿泊出来たと思える実感があります。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-09-05 09:39:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「また泊まりたい清潔感があり、良いホテルに宿泊出来たと思える実感があります。」
                   </blockquote>
                 </div>
               </div>

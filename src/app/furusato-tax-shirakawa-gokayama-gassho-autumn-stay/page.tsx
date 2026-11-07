@@ -526,7 +526,7 @@ export default function Page() {
                   <p>【世界遺産・五箇山合掌造りと庄川峡紅葉遊覧船】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「6回目の利用、サウナ後のビールと食事が最高今回6回目の利用です、相変わらず居心地が良くてスタッフも親切 風呂の脱衣所のロッカーも新しいのが納入されていて良かった(前回は鍵の無いロッカーが多くて難儀…　2026-09-18 16:26:37投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=187181&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「6回目の利用、サウナ後のビールと食事が最高今回6回目の利用です、相変わらず居心地が良くてスタッフも親切 風呂の脱衣所のロッカーも新しいのが納入されていて良かった(前回は鍵の無いロッカーが多くて難儀…」
                   </blockquote>
                 </div>
               </div>

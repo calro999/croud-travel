@@ -880,7 +880,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…　2026-08-25 12:13:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの心遣いに感謝。食事も大満足子供の体調がいまいちでレストランで夕食を食べられず...「お部屋に運んで後で食べることもできますよ」と教えていただき、お部屋に持っていくことに。娘はお風呂に入る…」
                   </blockquote>
                 </div>
               </div>
@@ -990,7 +990,7 @@ export default function FurusatoTaxPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　無料　※4t車以上の場合は、事前にご相談くださいませ。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、周辺の店も多くて便利とてもきれいでした。近くにお店もたくさんあって便利でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-08-12 16:00:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感があり、周辺の店も多くて便利とてもきれいでした。近くにお店もたくさんあって便利でした。」
                   </blockquote>
                 </div>
               </div>

@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◇先着順◇立体駐車場：88台(ハイルーフ対応：20台)◇1泊税込1200円◇</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近いので大変便利夜は、鯛茶漬けをいただいた。鯛だけ食べても、出汁を入れて食べても美味しかった。おそらく百人ほど並んでいたが列を整える方も配膳いただいた方の接客も丁寧でよかった。…　2026-08-20 21:17:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から近いので大変便利夜は、鯛茶漬けをいただいた。鯛だけ食べても、出汁を入れて食べても美味しかった。おそらく百人ほど並んでいたが列を整える方も配膳いただいた方の接客も丁寧でよかった。…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1,000円（税込）　15時〜翌11時　地下12台・屋外36台　先着順でのご案内です　※取り置き不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★4.21 ／ 部屋 ★4.11 ／ 設備 ★4.08 ／ 風呂 ★4.01 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地の良さとリーズナブルな料金裏のエレベーターは、昔のサンホテルのままで、ちょっと懐かしかった(笑)居酒屋サムライの真横だし立地も最高です。クチコミの詳細はこちらから　https://re…　2026-10-08 23:03:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地の良さとリーズナブルな料金裏のエレベーターは、昔のサンホテルのままで、ちょっと懐かしかった(笑)居酒屋サムライの真横だし立地も最高です。」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　72台(立体駐車場　全ハイルーフ車対応）　1,200円（税込み／泊）　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.48 ／ 部屋 ★4.56 ／ 設備 ★4.5 ／ 風呂 ★4.39 ／ 食事 ★4.63</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、無料の鯛茶漬けも美味概ね満足しております。駅近で便利。清潔感のあるお部屋でした。お夜食に無料で鯛茶漬けをいただくことができました。美味しかったです。クチコミの詳細はこちらから　ht…　2026-09-25 19:53:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で清潔、無料の鯛茶漬けも美味概ね満足しております。駅近で便利。清潔感のあるお部屋でした。お夜食に無料で鯛茶漬けをいただくことができました。美味しかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし※提携コインパーキング有￥1500円/1泊(ファーストパーク宇都宮宮みらい第一または第三)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.08 ／ 立地 ★3.74 ／ 部屋 ★4.14 ／ 設備 ★4.06 ／ 風呂 ★3.95 ／ 食事 ★3.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と夕食付きで大満足!朝も夜もついて最高です!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/199220?rev…　2026-10-10 17:26:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食と夕食付きで大満足!朝も夜もついて最高です!」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　平地35台：1,000円（税込み／泊）　立体駐車場64台：500円／泊　　※先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.15 ／ 部屋 ★4.14 ／ 設備 ★4.01 ／ 風呂 ★4.01 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが朝食の動線に難あり駅から近かったのは良かったです。朝食バイキングの動線は良くなかった。取り皿が一か所なのが不便でした。クチコミの詳細はこちらから　https://revi…　2026-10-10 18:56:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが朝食の動線に難あり駅から近かったのは良かったです。朝食バイキングの動線は良くなかった。取り皿が一か所なのが不便でした。」
                   </blockquote>
                 </div>
               </div>

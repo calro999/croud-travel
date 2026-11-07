@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>３０台　　【無料・予約不要】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。一人…　2026-09-10 03:11:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。一人…」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p>【秩父・長瀞ひとり旅・秩父七湯と囲炉裏古民家おこもり：】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.35 ／ 部屋 ★4.54 ／ 設備 ★4.4 ／ 風呂 ★4.45 ／ 食事 ★4.71</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「囲炉裏と温泉で味わう非日常の田舎体験都会では味わえない非日常的なお屋敷でした。夕飯は囲炉裏プランで個室で良かったです。イノシシ鍋はいまいちでしたが昔の田舎を味わえたいならいいお宿だと思います。囲炉…　2026-10-07 10:34:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「囲炉裏と温泉で味わう非日常の田舎体験都会では味わえない非日常的なお屋敷でした。夕飯は囲炉裏プランで個室で良かったです。イノシシ鍋はいまいちでしたが昔の田舎を味わえたいならいいお宿だと思います。囲炉…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>100台以上駐車できる無料駐車場を完備</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.97 ／ 部屋 ★4.41 ／ 設備 ★4.14 ／ 風呂 ★4.22 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事に大満足、また来たい宿部屋の露天風呂と大浴場どちらもとても良かったです。部屋数が多くないかつ部屋に露天風呂が付いているからかと思うのですが、大浴場はタイミングによっては一人でゆったり…　2026-10-07 22:54:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事に大満足、また来たい宿部屋の露天風呂と大浴場どちらもとても良かったです。部屋数が多くないかつ部屋に露天風呂が付いているからかと思うのですが、大浴場はタイミングによっては一人でゆったり…」
                   </blockquote>
                 </div>
               </div>

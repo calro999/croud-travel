@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は最高だが設備やラウンジに改善の余地あり二泊三日での利用です。接客はとてもよく、今まで行ったホテルと比較しても1番良かったのではないかと思えるような感じでした。部屋は落ち着く色合いの照…　2026-08-21 20:01:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客は最高だが設備やラウンジに改善の余地あり二泊三日での利用です。接客はとてもよく、今まで行ったホテルと比較しても1番良かったのではないかと思えるような感じでした。部屋は落ち着く色合いの照…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有(無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.11 ／ 立地 ★4.28 ／ 部屋 ★4.26 ／ 設備 ★4.05 ／ 風呂 ★4.16 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ドリンクやおつまみの食べ飲み放題に大満足家族旅行で初めて宿泊しました。お酒含めたドリンクやおつまみ、お菓子の食べ飲み放題の時間があって、子供と一緒に楽しめました。特に申し分のないホテルでした。、…　2026-10-09 16:32:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ドリンクやおつまみの食べ飲み放題に大満足家族旅行で初めて宿泊しました。お酒含めたドリンクやおつまみ、お菓子の食べ飲み放題の時間があって、子供と一緒に楽しめました。特に申し分のないホテルでした。、…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>約150台（無料駐車場）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.6 ／ 立地 ★4.48 ／ 部屋 ★4.59 ／ 設備 ★4.61 ／ 風呂 ★4.62 ／ 食事 ★4.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの方の親切な対応に大満足フロントの方がとても親切でまた泊まりたいと思いましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-10-10 08:11:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの方の親切な対応に大満足フロントの方がとても親切でまた泊まりたいと思いました」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場　56台（屋外）1泊500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.14 ／ 立地 ★4.17 ／ 部屋 ★4.11 ／ 設備 ★4.06 ／ 風呂 ★3.93 ／ 食事 ★4.17</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のブッフにがっかり近くに適当なレストランがなく、ホテルで夕食をとりました。ブッフェスタイルでしたが、バリエーションが少なく、それぞれの内容もがっかりでした。またかなり郊外のホテルでした…　2026-07-31 18:01:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のブッフにがっかり近くに適当なレストランがなく、ホテルで夕食をとりました。ブッフェスタイルでしたが、バリエーションが少なく、それぞれの内容もがっかりでした。またかなり郊外のホテルでした…」
                   </blockquote>
                 </div>
               </div>

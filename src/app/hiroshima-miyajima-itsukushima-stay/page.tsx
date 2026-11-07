@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.6 ／ 部屋 ★4.57 ／ 設備 ★4.45 ／ 風呂 ★4.43 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです。クチコミの詳細はこちらから　…　2026-10-01 16:46:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです。」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>交通規制があり駐車不可。乗船前に宮島口の駐車場をご利用下さい。（1泊約2000円）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量が少なく夜食の準備が必要定食の量を3食食べるのが苦手な私でもグレードアップの割には量がとても少ない。島唯一のコンビニは21時ごろには閉まるので夜食を買って行った方が安心。クチコ…　2026-08-27 22:03:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量が少なく夜食の準備が必要定食の量を3食食べるのが苦手な私でもグレードアップの割には量がとても少ない。島唯一のコンビニは21時ごろには閉まるので夜食を買って行った方が安心。…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【専用無料駐車場有り】　チェクイン前チェクアウト後も駐車可能　キャンピングカーも駐車可能</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「瀬戸内海と宮島、電車も一望できる絶景屋上や部屋から静かな瀬戸内海と宮島の島影が見えて、小さくですが大鳥居もたたずむ景色が本当に良かったです。あと、道を挟んでJR山陽本線と広島電鉄が見えるの…　2026-08-22 21:46:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「瀬戸内海と宮島、電車も一望できる絶景屋上や部屋から静かな瀬戸内海と宮島の島影が見えて、小さくですが大鳥居もたたずむ景色が本当に良かったです。あと、道を挟んでJR山陽本線と広島電鉄が見えるの…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　55台　到着日の15時〜出立日の正午まで無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.4 ／ 部屋 ★4.21 ／ 設備 ★4.12 ／ 風呂 ★4.06 ／ 食事 ★4.29</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅で利用しました。2日泊まればよかったと思うくらい、宮島までのフェリーは近いし、朝ごはんも美味しく、スタッフの方も親切でした!クチコミの詳細はこちらから　https://review.tra…　2026-10-08 22:36:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ひとり旅で利用しました。2日泊まればよかったと思うくらい、宮島までのフェリーは近いし、朝ごはんも美味しく、スタッフの方も親切でした!」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場なし（フェリーご乗船前の一般の駐車場にお止めください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.32 ／ 部屋 ★4.47 ／ 設備 ★4.3 ／ 風呂 ★4.2 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シーフードの朴葉味噌焼きが絶品!夕食のシーフードの朴葉味噌焼きが絶品でした。河豚の唐揚げは骨が多かったので、事前に説明していただけたら、食べやすかったと思いました。クチコミの詳細はこちらか…　2026-10-09 22:25:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シーフードの朴葉味噌焼きが絶品!夕食のシーフードの朴葉味噌焼きが絶品でした。河豚の唐揚げは骨が多かったので、事前に説明していただけたら、食べやすかったと思いました。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【広島・宮島＆嚴島神社：海に浮かぶ大鳥居・弥山＆牡蠣・】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…　2026-09-19 15:26:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は広々快適だが食事会場は混雑気味オーシャンスイートに泊まりました。部屋は広々しており居心地も良く設備等含め快適でした。食事はバイキング会場が狭く隣との間隔があまりないので、テーブルを仕切っ…」
                   </blockquote>
                 </div>
               </div>

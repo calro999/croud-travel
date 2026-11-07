@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　８台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.7 ／ 立地 ★4.48 ／ 部屋 ★4.73 ／ 設備 ★4.73 ／ 風呂 ★4.85 ／ 食事 ★4.87</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3つの貸切風呂と豪華な朝食に大満足温泉最高でした。3つの湯船がありそれぞれに入浴させて頂きました。入浴中は鍵があるので安心です。朝食も本当豪華で美味しいです。湯畑まで徒歩10分弱で…　2026-09-14 22:18:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「3つの貸切風呂と豪華な朝食に大満足温泉最高でした。3つの湯船がありそれぞれに入浴させて頂きました。入浴中は鍵があるので安心です。朝食も本当豪華で美味しいです。湯畑まで徒歩10分弱で…」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し※姉妹館「草津ナウリゾートホテル」の駐車場を無料でご利用いただけます。往復シャトルバス運行中。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋と露天風呂に大満足お部屋が綺麗で清潔感がありました。お部屋の露天風呂も気持ちよかったですクチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-08-26 08:59:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔感のある部屋と露天風呂に大満足お部屋が綺麗で清潔感がありました。お部屋の露天風呂も気持ちよかったです」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>普通車1台1泊５００円（税込み）　ホテルより徒歩約2分の場所</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパ無しは、大々的に書いておいて欲しかったかな湯畑から近いし、無料の共同浴場も直ぐ近くに有った。ホテル内の温泉は、シャワーが2つしか無く、狭いのが難点。浴衣のサイズが選べない事、スリッ…　2026-08-29 17:10:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スリッパ無しは、大々的に書いておいて欲しかったかな湯畑から近いし、無料の共同浴場も直ぐ近くに有った。ホテル内の温泉は、シャワーが2つしか無く、狭いのが難点。浴衣のサイズが選べない事、スリッ…」
                   </blockquote>
                 </div>
               </div>

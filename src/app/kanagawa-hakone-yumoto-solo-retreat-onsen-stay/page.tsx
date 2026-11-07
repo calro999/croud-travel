@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p>【箱根湯本ひとり旅・自然渓流おこもり：ロマンスカー直通】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が和室でリニューアルしてない部屋なので薄気味悪い感じの電気でメイクする時暗くて見にくかった。そしてご飯から戻ってきて部屋に入るとカビ臭くて窓開けないと無理だった。リニューアルしてある部屋にすれば良…　2026-08-22 23:21:06投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=9669&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が和室でリニューアルしてない部屋なので薄気味悪い感じの電気でメイクする時暗くて見にくかった。そしてご飯から戻ってきて部屋に入るとカビ臭くて窓開けないと無理だった。リニューアルしてある部屋にすれば良…」
                   </blockquote>
                 </div>
               </div>

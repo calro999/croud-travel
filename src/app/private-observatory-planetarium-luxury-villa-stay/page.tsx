@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【プラネタリウム＆星空シアター付き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「せっかく自然の多い秩父に泊まるということで、雰囲気の良さげな宿を予約しました。風呂トイレは共用ですが、部屋の数が3部屋のみのため混みあうこともなく、風呂は時間帯で交代性でとても良かったです。夜はバ…　2026-09-16 06:37:33投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=188816&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「せっかく自然の多い秩父に泊まるということで、雰囲気の良さげな宿を予約しました。風呂トイレは共用ですが、部屋の数が3部屋のみのため混みあうこともなく、風呂は時間帯で交代性でとても良かったです。夜はバ…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p>【プラネタリウム＆星空シアター付き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「近くのゴルフ場が雷の為中断になり早めにチェックインさせて頂きました助かりました。料理も量もちょうどよくとてもおいしかったです。スタッフの方達も皆さん 感じがよく安いプランなどあれば…　2026-09-15 14:04:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「近くのゴルフ場が雷の為中断になり早めにチェックインさせて頂きました助かりました。料理も量もちょうどよくとてもおいしかったです。スタッフの方達も皆さん 感じがよく安いプランなどあれば…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…　2026-08-31 17:21:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨でも星ソムリエの解説で大満足!満点の星空を見たくて予約しましたが、あいにく一晩中、雨でした。しかし、このホテルの売りの星ソムリエの方が、室内の簡易プラネタリウムで、ここから見える夜空を開設してい…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【プラネタリウム＆星空シアター付き】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎や細やかな心遣いに感謝、最高の旅行に電車で行きましたが、駅までお迎えに来てくださりありがとうございました。お部屋は広くて快適で、窓から海が見え、朝食もとてもおいしかったです。次の日は大雨の…　2026-09-19 16:58:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「送迎や細やかな心遣いに感謝、最高の旅行に電車で行きましたが、駅までお迎えに来てくださりありがとうございました。お部屋は広くて快適で、窓から海が見え、朝食もとてもおいしかったです。次の日は大雨の…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　1室につき1台無料　（予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.57 ／ 部屋 ★4.42 ／ 設備 ★4.26 ／ 風呂 ★4.39 ／ 食事 ★4.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓から宮古島の景色を感じられて最高窓からの眺めは宮古島を感じられてよかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/v…　2026-10-09 10:50:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「窓から宮古島の景色を感じられて最高窓からの眺めは宮古島を感じられてよかったです」
                   </blockquote>
                 </div>
               </div>

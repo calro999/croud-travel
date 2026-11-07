@@ -333,7 +333,7 @@ export default function KyushuTravelNightsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>◆駐車場有、予約不要◆ 送迎【要予約】（由布院駅お迎え16時もしくは17時）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.88 ／ 立地 ★4.66 ／ 部屋 ★4.68 ／ 設備 ★4.68 ／ 風呂 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしと食事、お風呂に心から癒やされるおもてなしから食事、お風呂まで全てが素晴らしかったです。山の中にあり、建物も多少年季が感じられますが、趣があり、施設内も手入れされており、快適でした。…　2026-10-08 22:02:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「おもてなしと食事、お風呂に心から癒やされるおもてなしから食事、お風呂まで全てが素晴らしかったです。山の中にあり、建物も多少年季が感じられますが、趣があり、施設内も手入れされており、快適でした。…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function KyushuTravelNightsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>《先着順でのご案内》　1500円（税込）／泊　　26台（普通車6台、ハイルーフ対応20台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅直結で立地抜群、快適な滞在博多駅2Fから近隣のビルへ繋がる屋根付きの通路があり、ホテルへも濡れずに行くことができます。立地は言うこと無しですね!チェックアウトが10時でちょっと早いで…　2026-08-12 18:56:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅直結で立地抜群、快適な滞在博多駅2Fから近隣のビルへ繋がる屋根付きの通路があり、ホテルへも濡れずに行くことができます。立地は言うこと無しですね!チェックアウトが10時でちょっと早いで…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function KyushuTravelNightsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>7台分（事前予約制） 1泊2，000円 ※高さ制限なし 　　近隣にコインパーキング多数あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レディース部屋と充実のアメニティで快適福岡旅行で利用しました。レディース部屋で気兼ねなく過ごせました。ウェルカムバーも楽しめ、アメニティにパックもあって嬉しかったです。リファのドライヤー、シャワー…　2026-08-28 20:08:55投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=163065&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「レディース部屋と充実のアメニティで快適福岡旅行で利用しました。レディース部屋で気兼ねなく過ごせました。ウェルカムバーも楽しめ、アメニティにパックもあって嬉しかったです。リファのドライヤー、シャワー…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function KyushuTravelNightsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>契約駐車場　1,500円（税込）/14時～翌日14時</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。近いと言っても真夏の暑い中キャリーバックを引きず…　2026-08-25 13:39:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「博多駅から15分、朝食や備品に不満あり何時もは市内にある天然温泉の違うホテルチェーンに泊まりますが今回は博多駅に近い温泉ホテルと言う事で選びました。近いと言っても真夏の暑い中キャリーバックを引きず…」
                   </blockquote>
                 </div>
               </div>

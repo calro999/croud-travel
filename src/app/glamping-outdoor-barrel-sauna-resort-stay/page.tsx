@@ -333,7 +333,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>大型駐車場有り　60台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「開放的なロッジと後片付け不要のBBQロッジ内は天井が高くて開放的。大きな木のテーブルも雰囲気がありステキでした。夕飯はバーベキュー、後片付けもやって貰えるのでとてもいい。量も十分です。おにぎり、と…　2026-08-21 21:33:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「開放的なロッジと後片付け不要のBBQロッジ内は天井が高くて開放的。大きな木のテーブルも雰囲気がありステキでした。夕飯はバーベキュー、後片付けもやって貰えるのでとてもいい。量も十分です。おにぎり、と…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２７台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「BBQと露天風呂に羽アリが大量発生全体的にはいい施設だと思います。ただ、夏だからだとは思いますが、BBQ中、羽アリが大量発生して正直気持ち悪かったです...バスタブの中にも大量にいたので、露天…　2026-08-19 09:50:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「BBQと露天風呂に羽アリが大量発生全体的にはいい施設だと思います。ただ、夏だからだとは思いますが、BBQ中、羽アリが大量発生して正直気持ち悪かったです...バスタブの中にも大量にいたので、露天…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>あり　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「可愛いヤギたちと触れ合い子供たちも大喜びpaoエリアで可愛いヤギたちが遊んでくれました。子供たちは大喜びで楽しい時間を過ごせました。クチコミの詳細はこちらから　https://review…　2026-08-18 12:27:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「可愛いヤギたちと触れ合い子供たちも大喜びpaoエリアで可愛いヤギたちが遊んでくれました。子供たちは大喜びで楽しい時間を過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「停電時の案内がなく不安、対応に改善を望む部屋やロケーション最高に良かったです。子どもたちも大満足でした。しかし夜の11時頃に停電があり、その時ちょうど温泉に入っていたのですが、放送や案内など一切な…　2026-08-29 08:36:39投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=128423&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「停電時の案内がなく不安、対応に改善を望む部屋やロケーション最高に良かったです。子どもたちも大満足でした。しかし夜の11時頃に停電があり、その時ちょうど温泉に入っていたのですが、放送や案内など一切な…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料　予約不要です</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ほんとにコスパがよくて、サービスもとてもよかったです!!BBQ足りないと思っていましたが、食べ切れないほどでした。花火もできてとても楽しかったです。クチコミの詳細はこちらから　https://re…　2026-08-29 22:38:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ほんとにコスパがよくて、サービスもとてもよかったです!!BBQ足りないと思っていましたが、食べ切れないほどでした。花火もできてとても楽しかったです。」
                   </blockquote>
                 </div>
               </div>

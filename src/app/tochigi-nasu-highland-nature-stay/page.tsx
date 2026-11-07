@@ -315,7 +315,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り(10台無料/予約不要) 湯本一丁目バス停が当館の目の前</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.85 ／ 立地 ★3.85 ／ 部屋 ★3.75 ／ 設備 ★3.42 ／ 風呂 ★4.35 ／ 食事 ★4.13</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良い宿です。源泉掛け流しの温泉は最高でした。料理も美味しくて、量もあります。なんと言っても、温泉にはいつ入っても良いがいいです。クチコミの詳細はこちらから　https://review.tra…　2026-09-29 12:54:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良い宿です。源泉掛け流しの温泉は最高でした。料理も美味しくて、量もあります。なんと言っても、温泉にはいつ入っても良いがいいです。」
                   </blockquote>
                 </div>
               </div>
@@ -337,7 +337,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の予約枠と大浴場有料に改善の余地あり17:50頃チェックインしたところ、夕食は20:30~、朝食は10時~の回しか空いていないとのことで予定が大幅に狂いました。改善の余地があるように思います。…　2026-08-29 23:15:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の予約枠と大浴場有料に改善の余地あり17:50頃チェックインしたところ、夕食は20:30~、朝食は10時~の回しか空いていないとのことで予定が大幅に狂いました。改善の余地があるように思います。…」
                   </blockquote>
                 </div>
               </div>
@@ -359,7 +359,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>★湯本本館・湯本山荘１５台無料　★「寺子乙」各コテージ前に1台分ずつ無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のコテージ何度もリピートさせてもらっています。いつもとてもキレイに清掃されていて何の不満もなく利用しています。BBQも楽しく出来て、敷地内はとても雰囲気が良く、夜は星がキレイに見えて、…　2026-08-17 13:00:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のコテージ何度もリピートさせてもらっています。いつもとてもキレイに清掃されていて何の不満もなく利用しています。BBQも楽しく出来て、敷地内はとても雰囲気が良く、夜は星がキレイに見えて、…」
                   </blockquote>
                 </div>
               </div>

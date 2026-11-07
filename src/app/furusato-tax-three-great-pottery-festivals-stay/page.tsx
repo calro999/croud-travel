@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と清掃に感動、葉書も嬉しかった接客、清掃共に大変心地好い感じで大変満足しました。帰宅後も葉書でご挨拶が届き、またお世話になりたいと感じました。大変お世話になりました。クチコミの詳…　2026-08-26 23:39:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客と清掃に感動、葉書も嬉しかった接客、清掃共に大変心地好い感じで大変満足しました。帰宅後も葉書でご挨拶が届き、またお世話になりたいと感じました。大変お世話になりました。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　４０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.34 ／ 部屋 ★4.48 ／ 設備 ★4.47 ／ 風呂 ★4.37 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「場所は迷ったが清潔感があり快適な空間ナビで住所登録し出発、ゴルフの(打ちっ放し)施設に案内され、夜だったため周りをグルグル探しました(汗)ホテルは清潔感がありとても良いホテルでした。また利…　2026-10-03 18:16:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「場所は迷ったが清潔感があり快適な空間ナビで住所登録し出発、ゴルフの(打ちっ放し)施設に案内され、夜だったため周りをグルグル探しました(汗)ホテルは清潔感がありとても良いホテルでした。また利…」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「もう20年近く毎年夏にロッジを利用しているが、室内は清潔で手入れが行き届いており、係りの皆さんのホスピタリティにも満足している。温泉、食事とも素晴らしく私はイチオシにしたい宿だと思っている。…　2026-08-31 15:33:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「もう20年近く毎年夏にロッジを利用しているが、室内は清潔で手入れが行き届いており、係りの皆さんのホスピタリティにも満足している。温泉、食事とも素晴らしく私はイチオシにしたい宿だと思っている。…」
                   </blockquote>
                 </div>
               </div>

@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p>【マイナスイオンを浴びる特等席】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中居さんの気遣いに感謝、露天風呂も最高嫁と2人で久々の旅行でした。楽しみにしていた晩御飯でしたが嫁が体調を崩して食事の途中に部屋にもどり自分だけ豪華な食事いただきました。中居さんが気遣ってくれてお…　2026-09-15 00:21:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中居さんの気遣いに感謝、露天風呂も最高嫁と2人で久々の旅行でした。楽しみにしていた晩御飯でしたが嫁が体調を崩して食事の途中に部屋にもどり自分だけ豪華な食事いただきました。中居さんが気遣ってくれてお…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…　2026-10-08 14:22:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料　（到着時、車高・幅を拝見し、駐車場所をご案内させていただきます。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と豪華バイキング、また泊まりたい!5年ぶり2回目の宿泊です。登別に行きたいというより、もう一度あの旅館に泊まりたいね!というのが北海道旅行を決めた理由でした。温泉がすばらしく、ひとつの浴場に硫…　2026-08-21 21:13:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉と豪華バイキング、また泊まりたい!5年ぶり2回目の宿泊です。登別に行きたいというより、もう一度あの旅館に泊まりたいね!というのが北海道旅行を決めた理由でした。温泉がすばらしく、ひとつの浴場に硫…」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p>【マイナスイオンを浴びる特等席】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.2 ／ 部屋 ★4.15 ／ 設備 ★4.18 ／ 風呂 ★4.42 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のコース料理と温泉に大満足昔から一度は行きたかった滝野荘さん。夕食とても美味しく頂きました。個人的に松茸の土瓶蒸しと子持ち鮎とステーキが美味しかったです。コース料理みたいに一品ずつ出て…　2026-09-24 20:48:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食のコース料理と温泉に大満足昔から一度は行きたかった滝野荘さん。夕食とても美味しく頂きました。個人的に松茸の土瓶蒸しと子持ち鮎とステーキが美味しかったです。コース料理みたいに一品ずつ出て…」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場：70台有り／ 無料／すべて野外駐車場／予約は不要です</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.36 ／ 部屋 ★4.57 ／ 設備 ★4.42 ／ 風呂 ★4.5 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客が素晴らしく、また行きたいまた行きたいです。ホテルの従業員の接客よかったです。他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-08 15:23:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客が素晴らしく、また行きたいまた行きたいです。ホテルの従業員の接客よかったです。」
                   </blockquote>
                 </div>
               </div>

@@ -583,7 +583,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.29 ／ 部屋 ★4.24 ／ 設備 ★4.25 ／ 風呂 ★4.74 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事大満足です。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13417?reviewId=3312347953999…　2026-09-27 16:31:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事大満足です。」
                   </blockquote>
                 </div>
               </div>
@@ -605,7 +605,7 @@ export default function Page() {
                   <p>【佐賀・武雄＆嬉野温泉】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客とすべすべの温泉に大満足接客はとても丁寧でした。お風呂も、肌がすべすべになる泉質で、気持ちよかったです。お部屋は、水回りが改装されていて、綺麗でした。また、機会があれば泊まりに行…　2026-08-15 11:26:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「丁寧な接客とすべすべの温泉に大満足接客はとても丁寧でした。お風呂も、肌がすべすべになる泉質で、気持ちよかったです。お部屋は、水回りが改装されていて、綺麗でした。また、機会があれば泊まりに行…」
                   </blockquote>
                 </div>
               </div>
@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉かけ流しの温泉とボリューム満点の食事建物自体は新しくありませんが綺麗にリノベーションされているようで館内は清潔に感じました。ホテルから出ているマイクロバスに乗り、離れた所にあるしいばの湯に…　2026-09-04 10:50:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉かけ流しの温泉とボリューム満点の食事建物自体は新しくありませんが綺麗にリノベーションされているようで館内は清潔に感じました。ホテルから出ているマイクロバスに乗り、離れた所にあるしいばの湯に…」
                   </blockquote>
                 </div>
               </div>

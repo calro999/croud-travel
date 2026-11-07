@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　150台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.18 ／ 部屋 ★4.22 ／ 設備 ★4.22 ／ 風呂 ★4.42 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広いお風呂と豊富な朝食、朝市も満喫お風呂が広くてのびのび入れました。朝食バイキングのメニューが豊富で良かったです。昼神朝市にも行けて良かったです。クチコミの詳細はこちらから　https…　2026-10-10 16:42:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広いお風呂と豊富な朝食、朝市も満喫お風呂が広くてのびのび入れました。朝食バイキングのメニューが豊富で良かったです。昼神朝市にも行けて良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p>【昼神温泉ひとり旅・日本一の星空おこもり：pH9.7超】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昼神温泉 【いなか】最高!!約12年ぶりに、昼神温泉へ。親がよく利用しているとのことで、私は2回目の宿泊。12年ぶりだったために、食事のメニューとかもすっかり忘れ、山菜がメインであった様な、、、そ… 2026-09-02 22:42:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「昼神温泉 【いなか】最高!!約12年ぶりに、昼神温泉へ。親がよく利用しているとのことで、私は2回目の宿泊。12年ぶりだったために、食事のメニューとかもすっかり忘れ、山菜がメインであった様な、、、そ…」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　4０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バランスよくとてもいいホテルですリーズナブルなのに、総じてよかったです、家族全員満足でした。ご飯もとても美味しかったし、お風呂もきれいで広いし、露天風呂もよかったです。ナイトツアーの手配もして頂き…　2026-08-20 11:50:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バランスよくとてもいいホテルですリーズナブルなのに、総じてよかったです、家族全員満足でした。ご飯もとても美味しかったし、お風呂もきれいで広いし、露天風呂もよかったです。ナイトツアーの手配もして頂き…」
                   </blockquote>
                 </div>
               </div>

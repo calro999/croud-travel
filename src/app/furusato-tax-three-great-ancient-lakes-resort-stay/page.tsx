@@ -614,7 +614,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　155台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。お部屋も清潔感があり、スタッフの方々の対応も丁寧で気持ちよ…　2026-09-05 21:16:50投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「「琵琶湖を一望できる素敵なホテル」「家族旅行で利用しました。ホテルから見える琵琶湖の景色がとてもきれいで、ゆっくり過ごすことができました。お部屋も清潔感があり、スタッフの方々の対応も丁寧で気持ちよ…」
                   </blockquote>
                 </div>
               </div>
@@ -636,7 +636,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料50台。バイク利用は屋根下確定。当館敷地内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早期予約でお得に、4社巡りツアーも大満足早期予約で割安で予約が取れました。老舗旅館らしい良さが接客や料理など随所に感じられました。地場野菜を多く使った食事は美味しく頂けました。特に気に入ったのは、…　2026-09-05 22:44:34投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=130095&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「早期予約でお得に、4社巡りツアーも大満足早期予約で割安で予約が取れました。老舗旅館らしい良さが接客や料理など随所に感じられました。地場野菜を多く使った食事は美味しく頂けました。特に気に入ったのは、…」
                   </blockquote>
                 </div>
               </div>
@@ -658,7 +658,7 @@ export default function Page() {
                   <p>【日本三大古代湖＆数十万年の歴史美・湖畔リゾートと温泉】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湖を望む絶景のお部屋で素敵なひととき湖が目の前に広がるお部屋でとても素敵な時間を過ごすことができました。今回は1泊でしたが、今度はもっとゆっくり滞在したいと思いました。クチコミの詳細はこち…　2026-09-05 00:17:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湖を望む絶景のお部屋で素敵なひととき湖が目の前に広がるお部屋でとても素敵な時間を過ごすことができました。今回は1泊でしたが、今度はもっとゆっくり滞在したいと思いました。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>

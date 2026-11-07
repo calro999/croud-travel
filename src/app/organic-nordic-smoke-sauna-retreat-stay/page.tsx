@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>コインパーキング10台　ホテル利用時1泊1,000円　14：30〜11：30　予約不可・高さ制限2m</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.26 ／ 部屋 ★4.19 ／ 設備 ★4.19 ／ 風呂 ★4.46 ／ 食事 ★3.97</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナと食事が最高、昔ながらの良さがあるサウナ最高、ご飯も最高!昔ながらですが、とてもいいホテルです!クチコミの詳細はこちらから　https://review.travel.rakuten…　2026-10-08 17:00:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナと食事が最高、昔ながらの良さがあるサウナ最高、ご飯も最高!昔ながらですが、とてもいいホテルです!」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場25台、屋根付き駐車場無、バイク専用駐車場無</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.89 ／ 立地 ★4.9 ／ 部屋 ★4.89 ／ 設備 ★4.85 ／ 風呂 ★4.83 ／ 食事 ★4.8</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナと美味しい食事で心身ともに整う一日中入れるサウナがとてもよかったです!お部屋もとても綺麗で過ごしやすかったです!朝食も夕飯もデザートもどれも美味しくて大満足でした!部屋についてサ…　2026-10-02 11:13:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サウナと美味しい食事で心身ともに整う一日中入れるサウナがとてもよかったです!お部屋もとても綺麗で過ごしやすかったです!朝食も夕飯もデザートもどれも美味しくて大満足でした!部屋についてサ…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場 、P-CLUB…20〜翌10時/1200円 等</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.5 ／ 部屋 ★4.37 ／ 設備 ★4.49 ／ 風呂 ★4.61 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「言う事なしですけど今まではクリーニングがあって荷物を減らせて便利でしたが、なくなってました。残念です。再度検討してもらいたいです。クチコミの詳細はこちらから　https://review.tr…　2026-10-10 09:23:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「言う事なしですけど今まではクリーニングがあって荷物を減らせて便利でしたが、なくなってました。残念です。再度検討してもらいたいです。」
                   </blockquote>
                 </div>
               </div>

@@ -533,7 +533,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.46 ／ 部屋 ★4.31 ／ 設備 ★4.27 ／ 風呂 ★4.42 ／ 食事 ★4.69</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高台からの眺めと温泉、料理に大満足山の方の温泉街の宿ではなく、街を見下ろす高台に建つホテルです。車でも急な坂を上るのが少しだけ大変ですが、ホテルからの眺めが良いし、部屋やお風呂施設の清掃や備品が行…　2026-09-14 13:09:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「高台からの眺めと温泉、料理に大満足山の方の温泉街の宿ではなく、街を見下ろす高台に建つホテルです。車でも急な坂を上るのが少しだけ大変ですが、ホテルからの眺めが良いし、部屋やお風呂施設の清掃や備品が行…」
                   </blockquote>
                 </div>
               </div>
@@ -555,7 +555,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切露天風呂と食事に大満足の連泊連泊させて頂きました。貸切露天風呂でゆっくり出来ました。大浴場もゆっくり入れました。食事も美味しく量もあったので夜食の海苔巻きは食べきれませんでした。すみません。仲…　2026-08-05 17:37:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「貸切露天風呂と食事に大満足の連泊連泊させて頂きました。貸切露天風呂でゆっくり出来ました。大浴場もゆっくり入れました。食事も美味しく量もあったので夜食の海苔巻きは食べきれませんでした。すみません。仲…」
                   </blockquote>
                 </div>
               </div>

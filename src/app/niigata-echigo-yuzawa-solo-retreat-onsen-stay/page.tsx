@@ -509,7 +509,7 @@ export default function ArticlePage() {
                   <p>【越後湯沢温泉ひとり旅・雪国名湯おこもり：上越新幹線7】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋もお風呂も快適、鏡が多く女性に嬉しい部屋もお風呂も良かった部屋に鏡が多く、女性は嬉しいと思うクチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-09-18 18:42:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋もお風呂も快適、鏡が多く女性に嬉しい部屋もお風呂も良かった部屋に鏡が多く、女性は嬉しいと思う」
                   </blockquote>
                 </div>
               </div>
@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２５台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.16 ／ 部屋 ★4.17 ／ 設備 ★3.98 ／ 風呂 ★4.27 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しくシャワーの水圧も快適10月6日から3泊しました。越後湯沢駅からは多少離れていますが、毎回マイクロバスで送迎してくれます。越後湯沢駅までは、気候が良ければ歩いて行かれる距離です。…　2026-10-10 16:52:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も美味しくシャワーの水圧も快適10月6日から3泊しました。越後湯沢駅からは多少離れていますが、毎回マイクロバスで送迎してくれます。越後湯沢駅までは、気候が良ければ歩いて行かれる距離です。…」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.02 ／ 部屋 ★4.09 ／ 設備 ★3.94 ／ 風呂 ★4.21 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…　2026-10-10 22:25:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの温泉と地酒三昧に大満足新潟県『清津峡湯元温泉 清津館』宿泊(2026.8)清津峡は黒部峡谷・大杉と共に日本三大峡谷のひとつで名勝清津峡に一番近い清津峡温泉清津館!不便さと…」
                   </blockquote>
                 </div>
               </div>

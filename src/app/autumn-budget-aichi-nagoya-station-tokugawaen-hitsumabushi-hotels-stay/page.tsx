@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場(自走式立体駐車場/先着順/車高制限有)。満車の際は近隣駐車場へご案内致します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.31 ／ 部屋 ★4.4 ／ 設備 ★4.36 ／ 風呂 ★4.37 ／ 食事 ★4.18</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大満足のひととき満足しましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/153417?reviewId=3312…　2026-10-06 10:42:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大満足のひととき満足しました」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣に有料パーキングあり　※提携駐車場ではございません。　また満車の場合はご容赦下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.58 ／ 立地 ★3.71 ／ 部屋 ★3.71 ／ 設備 ★3.54 ／ 風呂 ★3.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックアウト後の荷物配送不可でショックチェックアウトした後にキャリーケースを送ってもらおうとしたらやっていないと言われたのでショックでした。クチコミの詳細はこちらから　https://rev…　2026-06-04 22:26:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「チェックアウト後の荷物配送不可でショックチェックアウトした後にキャリーケースを送ってもらおうとしたらやっていないと言われたのでショックでした。」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし※近隣駐車場（有料）をご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★4.05 ／ 部屋 ★4.11 ／ 設備 ★4.07 ／ 風呂 ★3.99 ／ 食事 ★4.02</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが入口が少しわかりにくい夏であまり移動したくなかったので、駅近で便利でした。私だけかもしれませんが、入口が少しわかりにくかったです。クチコミの詳細はこちらから　https://…　2026-10-10 14:34:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが入口が少しわかりにくい夏であまり移動したくなかったので、駅近で便利でした。私だけかもしれませんが、入口が少しわかりにくかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>コインパーキング14台　200円/40分　入庫から24時間最大￥1800※繰り返し適用</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.2 ／ 部屋 ★4.37 ／ 設備 ★4.28 ／ 風呂 ★4.23 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋が綺麗で、お風呂も快適で大満足お部屋がとてもキレイでした。お風呂も洗い場とバスタブが別々になっており、自宅のお風呂より快適でした!パウダールームにはイスもあって、次回も名古屋に来る際はヴ…　2026-10-10 16:16:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お部屋が綺麗で、お風呂も快適で大満足お部屋がとてもキレイでした。お風呂も洗い場とバスタブが別々になっており、自宅のお風呂より快適でした!パウダールームにはイスもあって、次回も名古屋に来る際はヴ…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.29 ／ 立地 ★4.36 ／ 部屋 ★4.33 ／ 設備 ★4.31 ／ 風呂 ★4.33 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は最高だが予約条件に難ありアジア大会の影響で、キャンセル不可、朝食付き選択不可、現地決済不可、というのはマイナスだが、部屋、風呂には大満足クチコミの詳細はこちらから　https://…　2026-10-01 08:46:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は最高だが予約条件に難ありアジア大会の影響で、キャンセル不可、朝食付き選択不可、現地決済不可、というのはマイナスだが、部屋、風呂には大満足」
                   </blockquote>
                 </div>
               </div>

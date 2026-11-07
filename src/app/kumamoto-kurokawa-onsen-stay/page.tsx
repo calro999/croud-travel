@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１５台収容。無料にてご用意致しております。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は良いが設備や案内に不安あり料理、温泉は最高でした。でも別館の説明が雑だと思います。通常別館といえば割と近くにあるイメージでしたが、別館が多くある事を詳細に載せる必要があると思います。そ…　2026-08-07 21:47:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は良いが設備や案内に不安あり料理、温泉は最高でした。でも別館の説明が雑だと思います。通常別館といえば割と近くにあるイメージでしたが、別館が多くある事を詳細に載せる必要があると思います。そ…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　9台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★5 ／ 立地 ★4.77 ／ 部屋 ★4.95 ／ 設備 ★4.82 ／ 風呂 ★4.82 ／ 食事 ★5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と温かいおもてなしに大満足着いたら、ウェルカムドリンクとデザートでおもてなしして頂き、夕飯はどれも美味しく一緒に行った両親もとても喜んでいました。朝ごはんも、とっても美味しかったで…　2026-08-18 09:32:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と温かいおもてなしに大満足着いたら、ウェルカムドリンクとデザートでおもてなしして頂き、夕飯はどれも美味しく一緒に行った両親もとても喜んでいました。朝ごはんも、とっても美味しかったで…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p>【熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.85 ／ 立地 ★4.76 ／ 部屋 ★4.88 ／ 設備 ★4.78 ／ 風呂 ★4.82 ／ 食事 ★4.9</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年通うほど全てが最高!3年ほど前に見つけた、最高の宿毎年いってます!雰囲気、お風呂、料理全てが最高!他の画像やクチコミの詳細はこちらから　https://review.trave…　2026-10-07 10:12:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎年通うほど全てが最高!3年ほど前に見つけた、最高の宿毎年いってます!雰囲気、お風呂、料理全てが最高!」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　7台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かで綺麗な旅館、温泉と食事が最高ホスピタリティ溢れる、綺麗な旅館でした!7部屋しかないので、色々混むことはなく過ごせます。部屋に立派な温泉がついていますが、貸切風呂もすごく良かったです。…　2026-05-06 06:38:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かで綺麗な旅館、温泉と食事が最高ホスピタリティ溢れる、綺麗な旅館でした!7部屋しかないので、色々混むことはなく過ごせます。部屋に立派な温泉がついていますが、貸切風呂もすごく良かったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p>【熊本・黒川温泉：入湯手形＆渓流露天風呂めぐり極上宿 】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…　2026-08-21 20:12:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「庭園の風情と美味しい食事に癒やされる再訪以前泊まってとても良かったのでリピートしました!お部屋は1階でしたが目の前に庭園がありとても風情があります。建物は古いですが、露天風呂は広くスタッフ…」
                   </blockquote>
                 </div>
               </div>

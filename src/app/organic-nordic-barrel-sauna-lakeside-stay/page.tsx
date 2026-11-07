@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■有り200台無料　■全館Wi-Fi対応　■禁煙・喫煙ルームあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.46 ／ 立地 ★3.48 ／ 部屋 ★3.14 ／ 設備 ★2.94 ／ 風呂 ★3.46 ／ 食事 ★3.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感想全般食事は種類が豊富で満足。特に夕食の炉端焼きはホテルにしては珍しく美味でした。4階の洋室の窓から見る山々などの展望はグッド。ただ施設が古いので仕方がありませんが、洗面所の汚れやシミが目立ち気…　2026-10-09 08:36:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感想全般食事は種類が豊富で満足。特に夕食の炉端焼きはホテルにしては珍しく美味でした。4階の洋室の窓から見る山々などの展望はグッド。ただ施設が古いので仕方がありませんが、洗面所の汚れやシミが目立ち気…」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.34 ／ 立地 ★4 ／ 部屋 ★4.28 ／ 設備 ★4.23 ／ 風呂 ★4.41 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回、平日にもうすぐ8ヶ月の赤ちゃんがいるので、ベビープランで1泊しました。食事するときも広いスペースを用意してもいまた、ベビーカーを用意してましたがハイチェアやベビーチェアが用意されており必要無…　2026-10-09 19:07:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回、平日にもうすぐ8ヶ月の赤ちゃんがいるので、ベビープランで1泊しました。食事するときも広いスペースを用意してもいまた、ベビーカーを用意してましたがハイチェアやベビーチェアが用意されており必要無…」
                   </blockquote>
                 </div>
               </div>
@@ -856,7 +856,7 @@ export default function FeatureDetailPage() {
                   <p>【天然湖水風呂へダイブ】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.05 ／ 立地 ★4.53 ／ 部屋 ★4.37 ／ 設備 ★3.89 ／ 風呂 ★4.21</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバーベキューは最高だが深夜の騒音が残念空気も美味しい、景色も綺麗で、避暑地に来たようでした。専用のバーベキューガーデンで火起こしして、美味しいビールや日本酒を飲みながら、お肉や野菜を焼いて食…　2026-09-23 21:30:17投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=142731&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色とバーベキューは最高だが深夜の騒音が残念空気も美味しい、景色も綺麗で、避暑地に来たようでした。専用のバーベキューガーデンで火起こしして、美味しいビールや日本酒を飲みながら、お肉や野菜を焼いて食…」
                   </blockquote>
                 </div>
               </div>

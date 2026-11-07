@@ -454,7 +454,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.6 ／ 部屋 ★4.57 ／ 設備 ★4.45 ／ 風呂 ★4.43 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです。クチコミの詳細はこちらから　…　2026-10-01 16:46:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです。」
                   </blockquote>
                 </div>
               </div>
@@ -476,7 +476,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　要予約</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.78 ／ 立地 ★4.65 ／ 部屋 ★4.57 ／ 設備 ★4.43 ／ 風呂 ★4.7 ／ 食事 ★4.82</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/145390?reviewId=33123479563978　2026-09-29 16:08:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場なし（フェリーご乗船前の一般の駐車場にお止めください）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.32 ／ 部屋 ★4.47 ／ 設備 ★4.3 ／ 風呂 ★4.2 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シーフードの朴葉味噌焼きが絶品!夕食のシーフードの朴葉味噌焼きが絶品でした。河豚の唐揚げは骨が多かったので、事前に説明していただけたら、食べやすかったと思いました。クチコミの詳細はこちらか…　2026-10-09 22:25:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「シーフードの朴葉味噌焼きが絶品!夕食のシーフードの朴葉味噌焼きが絶品でした。河豚の唐揚げは骨が多かったので、事前に説明していただけたら、食べやすかったと思いました。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　先着順　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.11 ／ 設備 ★4.07 ／ 風呂 ★4.27 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事のお給仕の方が大変親切でした食事のお給仕の方が大変親切でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13…　2026-10-08 10:36:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事のお給仕の方が大変親切でした食事のお給仕の方が大変親切でした」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function MiyajimaMomijidaniAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り(１０台無料)島内は交通規制がございますので宮島口の有料駐車場にお止め置き下さい。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.38 ／ 立地 ★4.25 ／ 部屋 ★4.18 ／ 設備 ★4.04 ／ 風呂 ★4 ／ 食事 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロビー、受付、食事会場など、どこのスタッフの方々も雰囲気がよく、安心できるホテルでした。ただ1つ残念だったのがドライヤーです。髪の毛が乾く気がしませんでした。...それだけが残念でしたが、それでもよい…　2026-09-26 11:19:52投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=18097&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ロビー、受付、食事会場など、どこのスタッフの方々も雰囲気がよく、安心できるホテルでした。ただ1つ残念だったのがドライヤーです。髪の毛が乾く気がしませんでした。...それだけが残念でしたが、それでもよい…」
                   </blockquote>
                 </div>
               </div>

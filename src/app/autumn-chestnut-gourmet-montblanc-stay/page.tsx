@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.15 ／ 部屋 ★3.91 ／ 設備 ★3.66 ／ 風呂 ★3.78 ／ 食事 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と大浴場は良いホテル高層からの景色は平野が見渡せよかった。駅からホテルの間の道路からでもすでに景色はよかった。 風呂は、大浴場は広くてよい。露天風呂はお湯熱めでよい。朝食は、握りたてお…　2026-10-04 12:03:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「景色と大浴場は良いホテル高層からの景色は平野が見渡せよかった。駅からホテルの間の道路からでもすでに景色はよかった。 風呂は、大浴場は広くてよい。露天風呂はお湯熱めでよい。朝食は、握りたてお…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【小布施・丹波の極上和栗】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水槽の魚掬いが制限されており残念三度目の利用でした。以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし…　2026-08-31 11:10:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「水槽の魚掬いが制限されており残念三度目の利用でした。以前は鯛などの大きい魚も真ん中の大きい水槽の側で掬えましたが、現在は木の踏み台の腐食を理由にアコウ、アジなどの小さい水槽に移し、小さい網でし…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場　９台完備／予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.14 ／ 部屋 ★4.04 ／ 設備 ★3.96 ／ 風呂 ★4.43 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮料理が豊富で味も良く大満足海鮮料理の種類が豊富で、また、味も良くがっつりと食べられて大変満足しています。クチコミの詳細はこちらから　https://review.travel.rakute…　2026-10-05 19:00:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海鮮料理が豊富で味も良く大満足海鮮料理の種類が豊富で、また、味も良くがっつりと食べられて大変満足しています。」
                   </blockquote>
                 </div>
               </div>

@@ -627,7 +627,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切温泉、清津峡への好立地ご飯がとっても美味しかったです。貸切温泉も最高でした!お薬師さんの温泉もとても良かったです!清津峡入口まで徒歩2分ぐらいかな?クチコミの詳細はこ…　2026-08-20 16:02:25投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切温泉、清津峡への好立地ご飯がとっても美味しかったです。貸切温泉も最高でした!お薬師さんの温泉もとても良かったです!清津峡入口まで徒歩2分ぐらいかな?クチコミの詳細はこ…」
                   </blockquote>
                 </div>
               </div>
@@ -649,7 +649,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂も食事も快適、マッサージ機が大好評そぼの部屋に宿泊しました。熊本地震の後での宿泊ということで土日の利用だったのにも関わらず宿泊者少なかったです。だからか他の方の口コミにあったようにお風呂…　2026-08-11 13:45:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂も食事も快適、マッサージ機が大好評そぼの部屋に宿泊しました。熊本地震の後での宿泊ということで土日の利用だったのにも関わらず宿泊者少なかったです。だからか他の方の口コミにあったようにお風呂…」
                   </blockquote>
                 </div>
               </div>
@@ -671,7 +671,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「利き酒と館内謎解きで充実したひとときウエルカムドリンクの豊富さ、特に利き酒はよかった。自分好みのお酒を見つけることができた。他のお客さんも「お酒も無料なんて太っ腹ねー」と喜んでいた。謎解きも、…　2026-09-12 11:15:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「利き酒と館内謎解きで充実したひとときウエルカムドリンクの豊富さ、特に利き酒はよかった。自分好みのお酒を見つけることができた。他のお客さんも「お酒も無料なんて太っ腹ねー」と喜んでいた。謎解きも、…」
                   </blockquote>
                 </div>
               </div>

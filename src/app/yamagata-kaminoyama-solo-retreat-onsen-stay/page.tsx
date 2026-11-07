@@ -527,7 +527,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 333台 無料 先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.49 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.58 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい対応と食事、素敵な時間を満喫スタッフ方の対応、お部屋、ご飯とても素晴らしく気持ちよく過ごせています。もし可能であればつや姫が大変美味しかったですがもう少し硬めに炊くともっと美味しくな…　2026-10-09 20:12:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい対応と食事、素敵な時間を満喫スタッフ方の対応、お部屋、ご飯とても素晴らしく気持ちよく過ごせています。もし可能であればつや姫が大変美味しかったですがもう少し硬めに炊くともっと美味しくな…」
                   </blockquote>
                 </div>
               </div>
@@ -549,7 +549,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.16 ／ 部屋 ★4.32 ／ 設備 ★4.21 ／ 風呂 ★4.35 ／ 食事 ★4.31</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事は快適、枕も寝心地抜群部屋のお風呂はちょうど良いお湯でした。大浴場はもう少しお湯を出してくれてもいいかなという感じです。夕食、朝食ともに個室でゆっくりいただけました。多くも…　2026-09-29 16:45:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「個室での食事は快適、枕も寝心地抜群部屋のお風呂はちょうど良いお湯でした。大浴場はもう少しお湯を出してくれてもいいかなという感じです。夕食、朝食ともに個室でゆっくりいただけました。多くも…」
                   </blockquote>
                 </div>
               </div>
@@ -571,7 +571,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル地下2階に駐車場「タイムズSS30」あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.14 ／ 部屋 ★4.13 ／ 設備 ★4.03 ／ 風呂 ★4.02 ／ 食事 ★4.26</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観も部屋も最高、スタッフの対応も素晴らしいホテルの外観も部屋も菜香でした。スタッフの対応も素晴らしかった。また行きたいです。クチコミの詳細はこちらから　https://review.tr…　2026-10-06 14:53:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外観も部屋も最高、スタッフの対応も素晴らしいホテルの外観も部屋も菜香でした。スタッフの対応も素晴らしかった。また行きたいです。」
                   </blockquote>
                 </div>
               </div>
@@ -593,7 +593,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　1泊1500円／現金精算のみ※予約はお受けしておりません。満車時は契約駐車場をご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な電話対応と便利な立地で大満足直近で急に予約したため心配で電話問い合わせした際に、とても親切で丁寧な対応をしていただき安心して行くことが出来ました。駐車場もすぐ近くてどこに行くにも便利で、家族…　2026-08-21 10:30:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な電話対応と便利な立地で大満足直近で急に予約したため心配で電話問い合わせした際に、とても親切で丁寧な対応をしていただき安心して行くことが出来ました。駐車場もすぐ近くてどこに行くにも便利で、家族…」
                   </blockquote>
                 </div>
               </div>
@@ -615,7 +615,7 @@ export default function ArticlePage() {
                   <p>【かみのやま温泉ひとり旅・蔵王連峰パノラマおこもり：城】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…　2026-08-24 12:26:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「好立地で清掃も行き届くが設備に難あり夏に素泊まりの利用でした。写真は部屋からの景色です。駅から徒歩3分もかからず、なお車なら駐車場も無料利用が可能な好立地のホテル。福浦橋までが割と歩きます…」
                   </blockquote>
                 </div>
               </div>

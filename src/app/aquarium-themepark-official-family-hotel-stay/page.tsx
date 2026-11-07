@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.77 ／ 部屋 ★4.75 ／ 設備 ★4.57 ／ 風呂 ★4.45 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと食事は満足、内装はシンプル系オーシャンビューがとても良かったです。館内はどこも清潔で、ご飯も美味しかったです。ただ内装はどちらかというとシンプル系で、ラグジュアリー感にはやや欠け…　2026-10-10 10:44:36投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=145419&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと食事は満足、内装はシンプル系オーシャンビューがとても良かったです。館内はどこも清潔で、ご飯も美味しかったです。ただ内装はどちらかというとシンプル系で、ラグジュアリー感にはやや欠け…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着52台、入庫〜24時間3,000円（駐車券をフロントで提示要）、提携有、両方満車時は待機要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.53 ／ 立地 ★4.6 ／ 部屋 ★4.55 ／ 設備 ★4.44 ／ 風呂 ★4.28 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パーク側のお部屋でパークの余韻に浸れる利便性最高!パーク側だったのでお部屋に戻ってからも余韻を楽しめましたクチコミの詳細はこちらから　https://review.travel.rakut…　2026-10-11 01:50:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パーク側のお部屋でパークの余韻に浸れる利便性最高!パーク側だったのでお部屋に戻ってからも余韻を楽しめました」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り/先着順/有料※駐車場料金については、公式HPをご確認ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.62 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.42 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「USJやコンビニが近く、部屋も清潔で快適部屋も清潔だったし、コンビニも近いUSJの入り口も近いしとても良かったです。また利用させていただきます。クチコミの詳細はこちらから　https://re…　2026-10-10 17:43:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「USJやコンビニが近く、部屋も清潔で快適部屋も清潔だったし、コンビニも近いUSJの入り口も近いしとても良かったです。また利用させていただきます。」
                   </blockquote>
                 </div>
               </div>

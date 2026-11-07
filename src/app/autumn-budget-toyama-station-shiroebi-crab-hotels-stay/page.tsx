@@ -496,7 +496,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>【有】NPC富山駅前スクエア</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.13 ／ 立地 ★4.17 ／ 部屋 ★4.07 ／ 設備 ★4.06 ／ 風呂 ★3.94 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前で立地と交通の便が良くリピート決定駅前なので立地も良く交通の便も良いので、リピートしました!クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-10-08 11:03:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅前で立地と交通の便が良くリピート決定駅前なので立地も良く交通の便も良いので、リピートしました!」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り【契約駐車場（徒歩約1〜2分）】1400円　（14:00〜翌日11:00／１泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.36 ／ 部屋 ★4.25 ／ 設備 ★4.19 ／ 風呂 ★4.09 ／ 食事 ★4.24</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋にミネラルウォーターのサービスがない部屋に入り、驚いたのはミネラルウォーターのサービスがない事です。月一は出張や家族旅行でホテルを使用しますが、部屋にミネラルウォーターのサービスがなかったのは…　2026-10-10 21:15:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋にミネラルウォーターのサービスがない部屋に入り、驚いたのはミネラルウォーターのサービスがない事です。月一は出張や家族旅行でホテルを使用しますが、部屋にミネラルウォーターのサービスがなかったのは…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順地下30台、提携駐車場＝河口ビル　各１泊税込1100円、バスは事前連絡要、トラック不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.92 ／ 立地 ★3.89 ／ 部屋 ★3.74 ／ 設備 ★3.72 ／ 風呂 ★3.68 ／ 食事 ★3.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「可もなく不可もなく、無難に過ごせたまぁまぁ良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1552?r…　2026-09-18 15:34:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「可もなく不可もなく、無難に過ごせたまぁまぁ良かったです。」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetToyamaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　北陸自動車道朝日ＩＣより１５分。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.32 ／ 立地 ★4.31 ／ 部屋 ★4.34 ／ 設備 ★3.96 ／ 風呂 ★4.3 ／ 食事 ★4.12</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。大…　2026-10-10 23:17:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「50年ぶりの再訪、食事と温泉に感激!50年ぶりに泊まらせていただきましたが、昔とはお風呂が変わっていましたが懐かしくて感激しました!夕食のすき焼きのお肉がとても美味しく、朝食も大満足でした。大…」
                   </blockquote>
                 </div>
               </div>

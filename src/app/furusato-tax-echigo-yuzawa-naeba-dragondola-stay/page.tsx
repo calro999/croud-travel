@@ -526,7 +526,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　冬期は関越道のチェーン規制がございます。予めご注意ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.3 ／ 部屋 ★4.36 ／ 設備 ★4.22 ／ 風呂 ★4.56 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、記念日のワインも嬉しかったとても、落ち着いて宿泊させて頂きました。が、自分達は2階の部屋で下の階でバタバタと走る足音が夕方や朝方に多く気になりました。食事は十分な量で満足です。結婚記念…　2026-10-07 17:45:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満足、記念日のワインも嬉しかったとても、落ち着いて宿泊させて頂きました。が、自分達は2階の部屋で下の階でバタバタと走る足音が夕方や朝方に多く気になりました。食事は十分な量で満足です。結婚記念…」
                   </blockquote>
                 </div>
               </div>
@@ -570,7 +570,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１４台　無料　※鍵をフロントでお預かり致します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.57 ／ 部屋 ★4.52 ／ 設備 ★4.53 ／ 風呂 ★4.61 ／ 食事 ★4.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付き客室で最高の贅沢を堪能奮発して露天風呂付きのお部屋にしてみました。いままで行った旅館の中でいちばん満足度が高かったです。部屋についてる露天風呂って、多少ぬるいのはしょうがないのかなと思…　2026-10-09 20:37:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂付き客室で最高の贅沢を堪能奮発して露天風呂付きのお部屋にしてみました。いままで行った旅館の中でいちばん満足度が高かったです。部屋についてる露天風呂って、多少ぬるいのはしょうがないのかなと思…」
                   </blockquote>
                 </div>
               </div>

@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　15台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒毛和牛が絶品、部屋も広くて快適黒毛和牛の肉が柔らかく絶品でした。夕食・朝食とも品数が多く満足でした。また、部屋は2部屋あり寝室は広くゆったりし空調が行き届いて快適でした。(南側に広い廊下ある…　2026-08-03 22:42:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「黒毛和牛が絶品、部屋も広くて快適黒毛和牛の肉が柔らかく絶品でした。夕食・朝食とも品数が多く満足でした。また、部屋は2部屋あり寝室は広くゆったりし空調が行き届いて快適でした。(南側に広い廊下ある…」
                   </blockquote>
                 </div>
               </div>
@@ -552,7 +552,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　本館前Ｐ　第二駐車場　※先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も景色も最高農園ホテルということで食事(野菜と果物)をかなり期待していましたが、私たちにはイマイチでした。美味しくない訳ではありません。こちらが勝手にハードルを上げて宿泊を楽しみにしていたので…　2026-08-27 01:09:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事も景色も最高農園ホテルということで食事(野菜と果物)をかなり期待していましたが、私たちにはイマイチでした。美味しくない訳ではありません。こちらが勝手にハードルを上げて宿泊を楽しみにしていたので…」
                   </blockquote>
                 </div>
               </div>
@@ -574,7 +574,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.04 ／ 部屋 ★3.86 ／ 設備 ★3.66 ／ 風呂 ★3.84 ／ 食事 ★4.19</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応と美味しい食事で良い思い出に建物は歴史を感じますが、お掃除は行き届いていました。お宿の方も親切丁寧でした。お食事はアユの塩焼きとても美味しかったです。炊きものも、丁寧な味つけで美味しかっ…　2026-08-12 20:25:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な対応と美味しい食事で良い思い出に建物は歴史を感じますが、お掃除は行き届いていました。お宿の方も親切丁寧でした。お食事はアユの塩焼きとても美味しかったです。炊きものも、丁寧な味つけで美味しかっ…」
                   </blockquote>
                 </div>
               </div>
@@ -596,7 +596,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場アリ、大型車・マイクロもＯＫ、（15台）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切風呂で家族大満足子ども二人と宿泊しました。みなさんの口コミを拝見して、二食付きのプランにして大正解でした。本当においしいご飯でした。子どもたちも「美味しいね」と口々に話していて、…　2026-08-28 10:34:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「美味しい食事と貸切風呂で家族大満足子ども二人と宿泊しました。みなさんの口コミを拝見して、二食付きのプランにして大正解でした。本当においしいご飯でした。子どもたちも「美味しいね」と口々に話していて、…」
                   </blockquote>
                 </div>
               </div>
@@ -618,7 +618,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>３０台　　【無料・予約不要】</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。一人…　2026-09-10 03:11:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉の質と料理に大満足、秩父の穴場宿歴史ある建物ですが清潔感があり安心。お風呂は源泉の質が抜群で、上がってから身体の芯からじんわり温まるタイプ。接客も大変丁寧でした。お料理も朝夕ともに大満足。一人…」
                   </blockquote>
                 </div>
               </div>

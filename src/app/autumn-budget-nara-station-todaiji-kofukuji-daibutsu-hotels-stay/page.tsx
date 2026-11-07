@@ -514,7 +514,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地外/有料提携駐車場16時～10時の18時間利用に限り1,300円の優待あり</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、清潔で満足な滞在近鉄奈良駅至近で観光にもとても便利です。近くにはカフェやベーカリー、ドラッグストアもあります。エントランスは奥まったところにあり静かで落ち着けます。スタッフの方々…　2026-08-22 12:35:17投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=183843&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で観光に便利、清潔で満足な滞在近鉄奈良駅至近で観光にもとても便利です。近くにはカフェやベーカリー、ドラッグストアもあります。エントランスは奥まったところにあり静かで落ち着けます。スタッフの方々…」
                   </blockquote>
                 </div>
               </div>
@@ -536,7 +536,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.3 ／ 設備 ★4.17 ／ 風呂 ★4.14 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大画面での映画鑑賞が奈良観光に最適10月4日、東大寺と春日大社の拝観のために利用。奈良では、神社仏閣の閉門の後、ホテルにいる時間が長くなるため、大画面で映画鑑賞との相性が良いと思います。クチコ…　2026-10-06 22:02:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大画面での映画鑑賞が奈良観光に最適10月4日、東大寺と春日大社の拝観のために利用。奈良では、神社仏閣の閉門の後、ホテルにいる時間が長くなるため、大画面で映画鑑賞との相性が良いと思います。…」
                   </blockquote>
                 </div>
               </div>
@@ -558,7 +558,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地外:有料提携駐車場(金子モータープール)16時～翌11時まで1,300円　※23～翌7時利用不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天極堂の葛餅とくずうどんが最高に美味しい天極堂の葛餅、ぷるぷるで美味しかったです。くずうどんも歯応えあって最高でした。クチコミの詳細はこちらから　https://review.travel…　2026-08-20 14:50:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「天極堂の葛餅とくずうどんが最高に美味しい天極堂の葛餅、ぷるぷるで美味しかったです。くずうどんも歯応えあって最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -580,7 +580,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台（無料）　奈良奥山ドライブウェイ料金所で発券される通行券をフロントへお持ちください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.52 ／ 部屋 ★4.35 ／ 設備 ★4.16 ／ 風呂 ★4.31 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と美味しい食事、卓球まで満喫!チェックイン手続き時、ソファでお茶をいただきながら大窓から絶景を眺めることができます。夕日に照らされた街並みは印象的でした。夕食は、しょうが入り大和ポークのお…　2026-10-10 22:50:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「絶景と美味しい食事、卓球まで満喫!チェックイン手続き時、ソファでお茶をいただきながら大窓から絶景を眺めることができます。夕日に照らされた街並みは印象的でした。夕食は、しょうが入り大和ポークのお…」
                   </blockquote>
                 </div>
               </div>
@@ -602,7 +602,7 @@ export default function AutumnBudgetHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>なし／周辺駐車場のご利用については、当館ホームページをご覧ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.37 ／ 立地 ★4.33 ／ 部屋 ★4.19 ／ 設備 ★4.14 ／ 風呂 ★4.27 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古く、年季を感じる設備が古いクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/7850?reviewId=331…　2026-10-07 23:32:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「設備が古く、年季を感じる設備が古い」
                   </blockquote>
                 </div>
               </div>

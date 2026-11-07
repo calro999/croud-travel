@@ -790,7 +790,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２０台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と丁寧な接客、美味しいお部屋食花巻温泉郷から離れた所にあり、幹線道路からも離れており非常に静かな所にあります。建物、お部屋等も清潔で気持ちが良いです。従業員の方々もとても丁寧な応対をして…　2026-09-11 21:38:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「静かな環境と丁寧な接客、美味しいお部屋食花巻温泉郷から離れた所にあり、幹線道路からも離れており非常に静かな所にあります。建物、お部屋等も清潔で気持ちが良いです。従業員の方々もとても丁寧な応対をして…」
                   </blockquote>
                 </div>
               </div>
@@ -812,7 +812,7 @@ export default function FeatureDetailPage() {
                   <p>【鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つな】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.74 ／ 立地 ★4.61 ／ 部屋 ★4.64 ／ 設備 ★4.68 ／ 風呂 ★4.79 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…　2026-10-10 17:17:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応が良く、食事も温泉も大満足スタッフの皆さんの対応が感じよく、チェックインからチェックアウトまでとても気持ちよく過ごすことができました。食事も温泉もお部屋も満足で非日常の空間でリフレッ…」
                   </blockquote>
                 </div>
               </div>
@@ -834,7 +834,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　60台先着順無料　湯治部のご利用は第2駐車場をご利用ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.37 ／ 部屋 ★4.12 ／ 設備 ★4.11 ／ 風呂 ★4.64 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質と雰囲気が最高、体調も回復温泉の泉質と雰囲気が一番良かったです。温泉に入ったあと、血の巡りが良くなり、体調も良くなりました。クチコミの詳細はこちらから　https://review.…　2026-10-09 16:39:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質と雰囲気が最高、体調も回復温泉の泉質と雰囲気が一番良かったです。温泉に入ったあと、血の巡りが良くなり、体調も良くなりました。」
                   </blockquote>
                 </div>
               </div>
@@ -878,7 +878,7 @@ export default function FeatureDetailPage() {
                   <p>【鉄瓶で沸かすまろやかな白湯。南部鉄器の美と花巻・つな】 <strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「季節の食材と子持ち鮎を堪能できて大満足食事:季節のお食事いただけて子持ち鮎も頂けて良かったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-07-26 18:20:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「季節の食材と子持ち鮎を堪能できて大満足食事:季節のお食事いただけて子持ち鮎も頂けて良かったです。」
                   </blockquote>
                 </div>
               </div>

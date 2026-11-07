@@ -413,7 +413,7 @@ export default function FurusatoUpgradedPage() {
                   <p>【日本名水百選の湧水地と名水仕込み美食・美肌温泉宿×ふ】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すき焼きと釜炊きご飯が絶品、接客も丁寧露天風呂付き客室。風呂場は広いが湯船は少し狭い。自動湯はりシステムは、1度に出るお湯の量が少なく何度も出さなければならないのが少し面倒。ロケー…　2026-09-04 22:00:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「すき焼きと釜炊きご飯が絶品、接客も丁寧露天風呂付き客室。風呂場は広いが湯船は少し狭い。自動湯はりシステムは、1度に出るお湯の量が少なく何度も出さなければならないのが少し面倒。ロケー…」
                   </blockquote>
                 </div>
               </div>
@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが朝ごはんが最高に美味しい設備や建物は古いですが、朝ごはんが美味しくて最高でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co.j…　2026-09-10 21:28:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「建物は古いが朝ごはんが最高に美味しい設備や建物は古いですが、朝ごはんが美味しくて最高でした。」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場／複合施設敷地内15台(屋外平面)1,500円/1泊(先着順)◆予約不可・途中出庫不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「セキリュティもよく安心して泊まれました。お風呂が最高です。三嶋大社や三島散策も近くて便利でした。また利用したいとおもいます。クチコミの詳細はこちらから　https://review.tra…　2026-08-20 19:53:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「セキリュティもよく安心して泊まれました。お風呂が最高です。三嶋大社や三島散策も近くて便利でした。また利用したいとおもいます。」
                   </blockquote>
                 </div>
               </div>

@@ -350,7 +350,7 @@ export default function FeaturePage() {
                     
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「アットホームな雰囲気と素敵なスタッフに癒やされるアットホームな雰囲気で、滞在中はとてもリラックス出来て過ごせました。働いていらっしゃる方たちが皆素敵ですね～また利用したいと思いました。クチコミ…」"}</p>
+                  <p className="leading-relaxed">{"「アットホームな雰囲気と素敵なスタッフに癒やされるアットホームな雰囲気で、滞在中はとてもリラックス出来て過ごせました。働いていらっしゃる方たちが皆素敵ですね～また利用したいと思いました。…」"}</p>
                 </div>
             
                   </div>

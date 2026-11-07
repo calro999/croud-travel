@@ -639,7 +639,7 @@ export default function KoyasanPassPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>20台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★4.24 ／ 部屋 ★3.7 ／ 設備 ★3.81 ／ 風呂 ★4.03 ／ 食事 ★4.14</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高、庭の風情と食事も満足宿坊だからかもしれないけど 長い廊下延々と続き 宿内もたくさん歩いた。浴室内の洗い場が少なく 洗い場が空くのを待つ時間があったけど 温泉がすばらしかった。お庭も風情…　2026-10-02 22:17:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉は最高、庭の風情と食事も満足宿坊だからかもしれないけど 長い廊下延々と続き 宿内もたくさん歩いた。浴室内の洗い場が少なく 洗い場が空くのを待つ時間があったけど 温泉がすばらしかった。お庭も風情…」
                   </blockquote>
                 </div>
               </div>
@@ -661,7 +661,7 @@ export default function KoyasanPassPage() {
                   <p>【高野山・世界遺産きっぷ完全攻略：南海電鉄＋高野山内バ】 <strong>【駐車場・マイカー利用】</strong>有り　30台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お寺の雰囲気や食事は最高だが隣の音が響くとても綺麗にされているお寺で、お料理やお風呂、お部屋やスタッフの方も親切で、朝のお勤めも見学させて貰えました。ただお寺はどこもそうだとは思いますが、壁がうす…　2026-08-18 23:07:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お寺の雰囲気や食事は最高だが隣の音が響くとても綺麗にされているお寺で、お料理やお風呂、お部屋やスタッフの方も親切で、朝のお勤めも見学させて貰えました。ただお寺はどこもそうだとは思いますが、壁がうす…」
                   </blockquote>
                 </div>
               </div>
@@ -705,7 +705,7 @@ export default function KoyasanPassPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　108台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの方の親切な対応に感激!フロントの方がすごく親切でした!!クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1…　2026-08-24 13:59:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フロントの方の親切な対応に感激!フロントの方がすごく親切でした!!」
                   </blockquote>
                 </div>
               </div>

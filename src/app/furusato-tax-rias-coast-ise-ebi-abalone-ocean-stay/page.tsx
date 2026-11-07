@@ -775,7 +775,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１００台　予約不要　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.91 ／ 立地 ★3.81 ／ 部屋 ★3.79 ／ 設備 ★3.77 ／ 風呂 ★3.89 ／ 食事 ★3.98</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海の幸とキッズルームに子供が大喜び!バイキングは品揃え豊富で、新鮮な海の幸が食べられて美味しかったです。子どももとても喜んでいました。プレイルームも大喜びでした。キッズルームがあるお部屋を予約しま…　2026-10-11 02:30:47投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=142676&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「海の幸とキッズルームに子供が大喜び!バイキングは品揃え豊富で、新鮮な海の幸が食べられて美味しかったです。子どももとても喜んでいました。プレイルームも大喜びでした。キッズルームがあるお部屋を予約しま…」
                   </blockquote>
                 </div>
               </div>
@@ -797,7 +797,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外、無料、66台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.81 ／ 部屋 ★4.73 ／ 設備 ★4.69 ／ 風呂 ★4.43 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいですクチコミの詳細はこち…　2026-10-04 10:03:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいですクチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -819,7 +819,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日常を忘れてのんびり、また訪れたい場所とにかく素敵なホテルです。ホテルに入った瞬間にふわっと心地よい香りに癒され、穏やかな海と海外リゾートのようなロビーに感動しました。施設内も客室もプールも大浴場…　2026-08-22 08:27:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「日常を忘れてのんびり、また訪れたい場所とにかく素敵なホテルです。ホテルに入った瞬間にふわっと心地よい香りに癒され、穏やかな海と海外リゾートのようなロビーに感動しました。施設内も客室もプールも大浴場…」
                   </blockquote>
                 </div>
               </div>
@@ -841,7 +841,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のロケーションと食事、語り部バスに感動行きは一人でも陸前戸倉まで送迎してくれました。夕食は海側の席を用意していただき、最高のロケーションで過ごすことができました。特にアワビのステーキは…　2026-08-29 18:12:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「最高のロケーションと食事、語り部バスに感動行きは一人でも陸前戸倉まで送迎してくれました。夕食は海側の席を用意していただき、最高のロケーションで過ごすことができました。特にアワビのステーキは…」
                   </blockquote>
                 </div>
               </div>
@@ -863,7 +863,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝夕のバイキングがとても美味しかった朝夕のバイキングとても美味しかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…　2026-08-24 12:27:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝夕のバイキングがとても美味しかった朝夕のバイキングとても美味しかったです」
                   </blockquote>
                 </div>
               </div>
@@ -885,7 +885,7 @@ export default function FurusatoFeaturePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　※一部屋根付き駐車場あり・バイクも大歓迎</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.24 ／ 立地 ★4.35 ／ 部屋 ★4.18 ／ 設備 ★4.06 ／ 風呂 ★4.25 ／ 食事 ★4.43</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自販機で新札や硬貨が使えず不便酒の自販機が いまさら新千円札が使えないとか 500円が使えないとか ジュースの自販機も できれば全部の金種が使えるようにしてもらいたい。クチコミの詳細はこちらか…　2026-10-10 11:33:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自販機で新札や硬貨が使えず不便酒の自販機が いまさら新千円札が使えないとか 500円が使えないとか ジュースの自販機も できれば全部の金種が使えるようにしてもらいたい。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>

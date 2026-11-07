@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　83台　無料　先着順（予約不可）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.04 ／ 部屋 ★4.01 ／ 設備 ★3.97 ／ 風呂 ★4.01 ／ 食事 ★4.11</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富で割引や特典も充実朝食バイキングが豊富ですね。ホテル公式アプリから予約なら、ソフトドリンク無料コインが頂けます。JAF会員なので割引を活用してポンタポイントもありがたいですね…　2026-09-19 19:37:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が豊富で割引や特典も充実朝食バイキングが豊富ですね。ホテル公式アプリから予約なら、ソフトドリンク無料コインが頂けます。JAF会員なので割引を活用してポンタポイントもありがたいですね…」
                   </blockquote>
                 </div>
               </div>
@@ -655,7 +655,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備　８５台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.79 ／ 立地 ★3.62 ／ 部屋 ★3.68 ／ 設備 ★3.65 ／ 風呂 ★3.79 ／ 食事 ★3.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望は残念だが清潔で朝食も満足部屋は一階の部屋で眺望は良くなかったですが、清掃が行き届いていて清潔でした。フロントの女性の対応も親切丁寧でした。朝食を和食洋食など満足でした。クチコミの詳細はこ…　2026-09-29 20:46:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「眺望は残念だが清潔で朝食も満足部屋は一階の部屋で眺望は良くなかったですが、清掃が行き届いていて清潔でした。フロントの女性の対応も親切丁寧でした。朝食を和食洋食など満足でした。クチコミの詳細はこ…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　車40台バス6台　15時から１０時無料（時間外有料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.5 ／ 部屋 ★4.62 ／ 設備 ★4.57 ／ 風呂 ★4.54 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とイベントに大満足、また来たいスタッフさんの対応がすべて心地よく、楽しいイベントも用意されていて、施設もきれいでした。子どもが大喜びしていて、奈良にまた遊びに行くときはこのホテル…　2026-10-07 22:48:58投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応とイベントに大満足、また来たいスタッフさんの対応がすべて心地よく、楽しいイベントも用意されていて、施設もきれいでした。子どもが大喜びしていて、奈良にまた遊びに行くときはこのホテル…」
                   </blockquote>
                 </div>
               </div>

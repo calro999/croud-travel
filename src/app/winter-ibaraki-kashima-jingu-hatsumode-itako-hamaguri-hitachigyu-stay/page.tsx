@@ -527,7 +527,7 @@ export default function FeaturePage() {
                   
                 <div className="bg-stone-50/90 rounded-xl p-3.5 sm:p-4 text-xs sm:text-sm text-stone-600 border border-stone-200/80 mt-2">
                   <span className="font-bold text-stone-800 block mb-1">宿泊者のクチコミ抜粋</span>
-                  <p className="leading-relaxed">{"「温泉も朝食も大満足、またリピートしたい夫婦二人でビジネスホテルへ宿泊は不安でしたが当日予約で泊まれて温泉も部屋も朝食もコンパクトですが、とても良かったです!またリピートしたいと思います!クチコ…」"}</p>
+                  <p className="leading-relaxed">{"「温泉も朝食も大満足、またリピートしたい夫婦二人でビジネスホテルへ宿泊は不安でしたが当日予約で泊まれて温泉も部屋も朝食もコンパクトですが、とても良かったです!またリピートしたいと思います!…」"}</p>
                 </div>
             
 

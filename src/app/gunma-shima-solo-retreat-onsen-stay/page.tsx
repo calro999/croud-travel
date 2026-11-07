@@ -508,7 +508,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　12台　先着順   ご利用のお客様は、四万温泉入り口で事前にお電話お願いいたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.35 ／ 部屋 ★4.44 ／ 設備 ★4.2 ／ 風呂 ★4.49 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女将さんがとっても優しくてすごい暖かかったですクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/13902?reviewI…　2026-10-05 17:22:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「女将さんがとっても優しくてすごい暖かかったです」
                   </blockquote>
                 </div>
               </div>
@@ -530,7 +530,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 無料 先着順 　5台→叶前、6台以上→ルルド駐車場</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.51 ／ 立地 ★4.43 ／ 部屋 ★4.51 ／ 設備 ★4.4 ／ 風呂 ★4.63 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「究極の調和を感じる、完璧なご褒美旅日常のご褒美として、平日に1人でお世話になりました。今までの一人旅のなかで奮発した宿泊でしたが、結論から言って「本当にお金を払う価値がある、完璧な宿」でした。温泉…　2026-10-05 01:03:07投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=193286&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「究極の調和を感じる、完璧なご褒美旅日常のご褒美として、平日に1人でお世話になりました。今までの一人旅のなかで奮発した宿泊でしたが、結論から言って「本当にお金を払う価値がある、完璧な宿」でした。温泉…」
                   </blockquote>
                 </div>
               </div>

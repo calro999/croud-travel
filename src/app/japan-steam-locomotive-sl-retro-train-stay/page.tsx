@@ -333,7 +333,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　４０台 無料　大型車も駐車可(要予約　大型車1泊￥1,000~となります。）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の臭いが気になり、空調も不十分駅からは思ったより遠くは感じなかったです。チェックイン開始時間すぐに行きましたが、エレベーターや通路はエアコンが効いてなかったかな、部屋は普通でした。とにかくこん…　2026-08-10 19:22:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の臭いが気になり、空調も不十分駅からは思ったより遠くは感じなかったです。チェックイン開始時間すぐに行きましたが、エレベーターや通路はエアコンが効いてなかったかな、部屋は普通でした。とにかくこん…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場は80台まで無料で可能です★予約は不要です★大型車でのご来館は事前にご相談ください★</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.62 ／ 立地 ★4.49 ／ 部屋 ★4.66 ／ 設備 ★4.57 ／ 風呂 ★4.7 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…　2026-10-08 14:22:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理と温泉は最高だが部屋のタバコ臭が残念お料理は郷土料理が中心でとても満足しました!アルコール類もたくさんあり今回は飲み比べをチョイスし大満足です。お風呂は種類もあり各々のお風呂にタオルも用意され…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　10台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊でした。夕食も朝食もシンプルながらも素材の味が生かせれていて、とても美味しくいただきました。お風呂も熱々で気持ち良く、またリピートします!クチコミの詳細はこちらから　https…　2026-08-15 20:18:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2回目の宿泊でした。夕食も朝食もシンプルながらも素材の味が生かせれていて、とても美味しくいただきました。お風呂も熱々で気持ち良く、またリピートします!」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場：70台有り／ 無料／すべて野外駐車場／予約は不要です</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.36 ／ 部屋 ★4.57 ／ 設備 ★4.42 ／ 風呂 ★4.5 ／ 食事 ★4.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客が素晴らしく、また行きたいまた行きたいです。ホテルの従業員の接客よかったです。他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/…　2026-10-08 15:23:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客が素晴らしく、また行きたいまた行きたいです。ホテルの従業員の接客よかったです。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function RailwayActivityHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>100台以上駐車できる無料駐車場を完備</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.97 ／ 部屋 ★4.41 ／ 設備 ★4.14 ／ 風呂 ★4.22 ／ 食事 ★4.35</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事に大満足、また来たい宿部屋の露天風呂と大浴場どちらもとても良かったです。部屋数が多くないかつ部屋に露天風呂が付いているからかと思うのですが、大浴場はタイミングによっては一人でゆったり…　2026-10-07 22:54:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「露天風呂と食事に大満足、また来たい宿部屋の露天風呂と大浴場どちらもとても良かったです。部屋数が多くないかつ部屋に露天風呂が付いているからかと思うのですが、大浴場はタイミングによっては一人でゆったり…」
                   </blockquote>
                 </div>
               </div>

@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　３０台　無料　屋外のみ　マイクロバス以上は有料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5種類の貸切風呂と親切な接客に大満足9月1日宿泊、貸切風呂が5種類ありました。外には無料で入れるお風呂が沢山あり2箇所行きました。男女分かれていて外のお風呂は熱めです。お肌スベスベになりました。ま…　2026-09-03 19:00:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5種類の貸切風呂と親切な接客に大満足9月1日宿泊、貸切風呂が5種類ありました。外には無料で入れるお風呂が沢山あり2箇所行きました。男女分かれていて外のお風呂は熱めです。お肌スベスベになりました。ま…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とろとろの温泉と強めのジャグジーが最高きれいで気持ちいいお風呂でした。温泉がとろとろしてるのもよかったですが、ジャグジーが強いのと水風呂がいい気持ちでした。クチコミの詳細はこちらから　ht…　2026-08-20 19:26:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「とろとろの温泉と強めのジャグジーが最高きれいで気持ちいいお風呂でした。温泉がとろとろしてるのもよかったですが、ジャグジーが強いのと水風呂がいい気持ちでした。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　109台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗な館内と豊富な朝食、充電器完備で快適すごく綺麗なホテルでした朝食いただきましたが、種類も豊富で美味しくとても良かったです。お部屋に各種充電コードもあって助かりました。子供達と宿泊し…　2026-08-15 22:02:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗な館内と豊富な朝食、充電器完備で快適すごく綺麗なホテルでした朝食いただきましたが、種類も豊富で美味しくとても良かったです。お部屋に各種充電コードもあって助かりました。子供達と宿泊し…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【長野・信州渋温泉：九湯めぐり＆金具屋・スノーモンキー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「隅々まで清潔に保たれていました清潔に保たれてました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/146144?r…　2026-09-18 11:11:56投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「隅々まで清潔に保たれていました清潔に保たれてました。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「この価格でこの内容。全く文句ありません。部屋、設備はそれなりですが、狭いわけでもなく、普通にゆったりと過ごせます。食事も高級食材のつるべうちというわけではないものの、これも普通に美味しく頂けま…　2026-08-13 01:47:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「この価格でこの内容。全く文句ありません。部屋、設備はそれなりですが、狭いわけでもなく、普通にゆったりと過ごせます。食事も高級食材のつるべうちというわけではないものの、これも普通に美味しく頂けま…」
                   </blockquote>
                 </div>
               </div>

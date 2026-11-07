@@ -355,7 +355,7 @@ export default function Page() {
                   <p>【清冽な名水が生み出す極上の喉ごし】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何度も訪れたくなる、特別なお宿です!萬鷹旅館さんの大ファンです。毎回、訪れても変わることのない素晴らしいおもてなしに、今回も到着した瞬間から心が解きほぐされました。お目当ての名物スッポ…　2026-07-19 11:36:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「何度も訪れたくなる、特別なお宿です!萬鷹旅館さんの大ファンです。毎回、訪れても変わることのない素晴らしいおもてなしに、今回も到着した瞬間から心が解きほぐされました。お目当ての名物スッポ…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順40台迄　1泊880円（税込）14時〜翌11時  満車の際は契約駐車場へご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.06 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.02 ／ 食事 ★4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が狭く、スタッフの運転も気になる駐車場が狭すぎてそこだけ嫌でした。車をホテルの人に運転されるのも嫌です。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-10-06 12:42:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場が狭く、スタッフの運転も気になる駐車場が狭すぎてそこだけ嫌でした。車をホテルの人に運転されるのも嫌です。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全体的に満足できる内容でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/1702?reviewId=33123479…　2026-09-12 07:47:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全体的に満足できる内容でした」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>【 駐車料金：1泊800円 】敷地内17台。満車の場合は提携駐車場をご案内します。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★4.23 ／ 部屋 ★4.15 ／ 設備 ★4.1 ／ 風呂 ★4.06</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが朝食料金は高め駅に近く利便性が高い。コンビニが近いところあればいいのですが。。朝ごはんの料金が高いクチコミの詳細はこちらから　https://review.travel.ra…　2026-10-10 23:23:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で便利だが朝食料金は高め駅に近く利便性が高い。コンビニが近いところあればいいのですが。。朝ごはんの料金が高い」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場130台分（予約不要）※大型車は事前問い合わせ要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「随分室内の内装が変わっていましたHolidayInnの系列になり、前回宿泊時から内装が大きく変わって綺麗になっていました。浴槽や浴室の内装が変わっていなかったのが少し残念でした。川沿いでゆった…　2026-08-26 16:59:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「随分室内の内装が変わっていましたHolidayInnの系列になり、前回宿泊時から内装が大きく変わって綺麗になっていました。浴槽や浴室の内装が変わっていなかったのが少し残念でした。川沿いでゆった…」
                   </blockquote>
                 </div>
               </div>

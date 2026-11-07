@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外、無料、66台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.81 ／ 部屋 ★4.73 ／ 設備 ★4.69 ／ 風呂 ★4.43 ／ 食事 ★4.76</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいですクチコミの詳細はこち…　2026-10-04 10:03:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サミットの歴史ありサミットの歴史を感じました静かな場所でくつろぎの時間を満喫できます食事やラウンジもよかったですお風呂は部屋のみですが展望ができるのが嬉しいですクチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料先着70台※地上43台 地下27台 高さ2.3mまで※トラック・バスは事前予約制（有料）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は満足、清掃面は改善希望8月18日に朝食付き伊勢シーパラダイス入場券付きのプランで和室8畳の部屋に家族4人で1泊しました。スタッフの方々接客は、研修中のスタッフの方もいらっ…　2026-08-20 09:17:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの対応と朝食は満足、清掃面は改善希望8月18日に朝食付き伊勢シーパラダイス入場券付きのプランで和室8畳の部屋に家族4人で1泊しました。スタッフの方々接客は、研修中のスタッフの方もいらっ…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>屋外、無料、49台</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フランス料理専門店ならではの素晴らしい朝食朝食が特に素晴らしい!さすがフランス料理の専門店です。クチコミの詳細はこちらから　https://review.travel.rakuten.…　2026-07-05 21:04:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「フランス料理専門店ならではの素晴らしい朝食朝食が特に素晴らしい!さすがフランス料理の専門店です。」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約300台あり！ホテル建物周りおよび建物裏に有ります。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が清潔でとても快適でした部屋が清潔でよかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/966?revie…　2026-08-22 17:55:39投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋が清潔でとても快適でした部屋が清潔でよかった。」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　170台　先着順　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パルケエスパーニャを満喫、バイキングは残念2日目は朝からパルケエスパーニャでアトラクション、ショー、パレードと楽しみました。新アトラクションのバーチャル火星旅行は初めての体験で私は少し大変でしたが…　2026-08-29 11:43:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パルケエスパーニャを満喫、バイキングは残念2日目は朝からパルケエスパーニャでアトラクション、ショー、パレードと楽しみました。新アトラクションのバーチャル火星旅行は初めての体験で私は少し大変でしたが…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.66 ／ 立地 ★4.68 ／ 部屋 ★4.7 ／ 設備 ★4.5 ／ 風呂 ★4.63 ／ 食事 ★4.72</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「次回は伊勢エビを選びたい夕食夕飯選択ミスしました。今度行くなら伊勢エビクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice…　2026-10-10 16:37:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「次回は伊勢エビを選びたい夕食夕飯選択ミスしました。今度行くなら伊勢エビ」
                   </blockquote>
                 </div>
               </div>

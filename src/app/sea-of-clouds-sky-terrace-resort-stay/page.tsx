@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>250台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の内容は平凡でコスパは良くない朝食付きプランで、そこまで値段は安くないホテルだが、朝食バイキングは大したことなかったです。ビジネスホテルの朝食と変わらない内容でした。コストパフォーマン…　2026-08-26 00:55:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食の内容は平凡でコスパは良くない朝食付きプランで、そこまで値段は安くないホテルだが、朝食バイキングは大したことなかったです。ビジネスホテルの朝食と変わらない内容でした。コストパフォーマン…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　１００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.1 ／ 立地 ★3.99 ／ 部屋 ★3.86 ／ 設備 ★3.82 ／ 風呂 ★4.26 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食の料理内容が期待外れでした夕食のエサが悪かったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/29716?rev…　2026-10-10 18:05:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食の料理内容が期待外れでした夕食のエサが悪かった」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　600台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★3.95 ／ 部屋 ★3.97 ／ 設備 ★3.78 ／ 風呂 ★3.9 ／ 食事 ★4.01</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「低価格で広々、ゆっくり過ごせたとても低価格で宿泊出来ました。広くて宿泊者も気に成らず、ゆっくり出来ました。クチコミの詳細はこちらから　https://review.travel.rakut…　2026-10-10 13:14:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「低価格で広々、ゆっくり過ごせたとても低価格で宿泊出来ました。広くて宿泊者も気に成らず、ゆっくり出来ました。」
                   </blockquote>
                 </div>
               </div>

@@ -548,7 +548,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場５０台（無料、予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.61 ／ 立地 ★4.62 ／ 部屋 ★4.57 ／ 設備 ★4.57 ／ 風呂 ★4.72 ／ 食事 ★4.75</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リファのドライヤーと充実したアメニティドライヤーがリファの高級品で、乾きも速く、贅沢な気持ちになれました。その他アメニティも良かったです。巾着も毎度風情が感じられて良いです。クチコミの詳細はこ…　2026-08-11 21:13:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「リファのドライヤーと充実したアメニティドライヤーがリファの高級品で、乾きも速く、贅沢な気持ちになれました。その他アメニティも良かったです。巾着も毎度風情が感じられて良いです。クチコミの詳細はこ…」
                   </blockquote>
                 </div>
               </div>

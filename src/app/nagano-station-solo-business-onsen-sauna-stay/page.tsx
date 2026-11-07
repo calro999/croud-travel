@@ -526,7 +526,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅チカでサウナ、大浴場付きのお風呂は最高でした。部屋も広くよく眠ることができました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-07-23 12:52:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅チカでサウナ、大浴場付きのお風呂は最高でした。部屋も広くよく眠ることができました。」
                   </blockquote>
                 </div>
               </div>
@@ -548,7 +548,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>事前予約制（1泊1台1,000円）　車高・車幅等によりご案内場所が異なります（台数制限あり）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.85 ／ 部屋 ★3.85 ／ 設備 ★3.78 ／ 風呂 ★3.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場は平面が安心。次の日の買い物も安心コンパクトカーは立体駐車場なので運転が苦手な方は平面の周辺のパーキングがオススメですが、次の日の昼間までなら停めてもいいとのことで駅まで歩いてモーニングと買…　2026-10-10 00:02:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駐車場は平面が安心。次の日の買い物も安心コンパクトカーは立体駐車場なので運転が苦手な方は平面の周辺のパーキングがオススメですが、次の日の昼間までなら停めてもいいとのことで駅まで歩いてモーニングと買…」
                   </blockquote>
                 </div>
               </div>
@@ -570,7 +570,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>要予約(予約順30台)1泊1台770円（税込）･満車時徒歩７分契約駐車場・大型車両、二輪車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.82 ／ 立地 ★3.78 ／ 部屋 ★3.7 ／ 設備 ★3.68 ／ 風呂 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレの清掃が行き届いていないトイレ掃除してないみたいクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/2749?re…　2026-10-09 07:05:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トイレの清掃が行き届いていないトイレ掃除してないみたい」
                   </blockquote>
                 </div>
               </div>
@@ -592,7 +592,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有　２００台　無料　　　　　　　　　　　　　　　　★お得な宿泊プラン満載★</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…　2026-08-19 19:52:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温かい料理に大満足、また泊まりたい!夜ご飯も温かいものは温かいまま食べれましたし、量もお腹いっぱいになり満足です。綺麗でまた泊まりたいと思うホテルでした。ありがとうございました。クチコミの…」
                   </blockquote>
                 </div>
               </div>
@@ -614,7 +614,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順 83台：800円(税込/泊)　 ※満車時は近隣パーキング(自己負担) 　※大型車は駐車不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.09 ／ 立地 ★4.1 ／ 部屋 ★4.09 ／ 設備 ★4.02 ／ 風呂 ★4.01 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンは3段階、清掃やタオル交換は有料エアコンの温度設定なし3段階スイッチ。連泊時のタオルの取替えは別途料金。清掃はなし。川反の飲み屋は近い。駐車場はすぐ埋まるが、近隣にもコインパーキングは有る…　2026-10-08 08:32:54投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「エアコンは3段階、清掃やタオル交換は有料エアコンの温度設定なし3段階スイッチ。連泊時のタオルの取替えは別途料金。清掃はなし。川反の飲み屋は近い。駐車場はすぐ埋まるが、近隣にもコインパーキングは有る…」
                   </blockquote>
                 </div>
               </div>

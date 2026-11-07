@@ -333,7 +333,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>当館の駐車場は建物の地下部分にございます。(高さ制限2.3ｍ/狭めのスペース/台数制限有り/無料)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…　2026-08-29 21:17:15投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の種類も味も最高、また行きたい!夕食、朝食共にご飯が全て美味しかったです!種類も多く本当にまだまだ食べたいと思うほど美味しくて大満足でした!毎年伊豆には行き、いろんなところに泊まり美味しい…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>220台あり（無料・予約不可）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食ビュッフェが美味しくプールも満喫親族8人2部屋で利用しました。朝食のビュッフェも美味しいプールもあったので次回は水着を忘れないようにしようと思います!クチコミの詳細はこちらから　https…　2026-09-06 01:08:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食ビュッフェが美味しくプールも満喫親族8人2部屋で利用しました。朝食のビュッフェも美味しいプールもあったので次回は水着を忘れないようにしようと思います!」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function TransitStyleHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料で15台停められます。予約は不要です。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「マタニティプランで非日常の癒やしを堪能マタニティプランで利用させてもらいました。由布院駅からタクシーで5分ほどで、山の中にあります。到着した瞬間から、スタッフの方の対応も素晴らしく、非日常を体…　2026-07-30 18:19:07投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「マタニティプランで非日常の癒やしを堪能マタニティプランで利用させてもらいました。由布院駅からタクシーで5分ほどで、山の中にあります。到着した瞬間から、スタッフの方の対応も素晴らしく、非日常を体…」
                   </blockquote>
                 </div>
               </div>

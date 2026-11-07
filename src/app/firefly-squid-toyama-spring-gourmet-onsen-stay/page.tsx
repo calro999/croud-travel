@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【富山湾の青い神秘】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5/11(月)に宿泊しました。ビジネスで利用し、私含めて3名3室利用の滞在でした。部屋は清掃が行き届いていて少し狭いながらも快適でした。夜鳴きそば/ラーメン や、大浴室前のアイス食べ放題は温泉上がりに…　2026-09-05 16:28:07投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=39202&quot; class=&quot;3click」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「5/11(月)に宿泊しました。ビジネスで利用し、私含めて3名3室利用の滞在でした。部屋は清掃が行き届いていて少し狭いながらも快適でした。夜鳴きそば/ラーメン や、大浴室前のアイス食べ放題は温泉上がりに…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p>【富山湾の青い神秘】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から徒歩圏内、朝食と大浴場に満足駅から少し歩くが徒歩圏内。朝食が美味しく、生卵がまだおいてるよいホテル。大浴場もよい。フロントの方々も、他の全国チェーンホテルより質が高い。富山の定宿クチコミ…　2026-09-19 15:48:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅から徒歩圏内、朝食と大浴場に満足駅から少し歩くが徒歩圏内。朝食が美味しく、生卵がまだおいてるよいホテル。大浴場もよい。フロントの方々も、他の全国チェーンホテルより質が高い。富山の定宿…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【富山湾の青い神秘】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富山の産物を使った朝食が本当に美味しい年間に何度も富山へ参りますが、このホテルに宿泊しています。朝の食事、本当に美味しいです。富山の産物、良いですねえ。クチコミの詳細はこちらから　http…　2026-09-19 18:20:11投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「富山の産物を使った朝食が本当に美味しい年間に何度も富山へ参りますが、このホテルに宿泊しています。朝の食事、本当に美味しいです。富山の産物、良いですねえ。」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【富山湾の青い神秘】 <strong>【駐車場・マイカー利用】</strong>有り　50台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.49 ／ 立地 ★4.47 ／ 部屋 ★4.34 ／ 設備 ★4.27 ／ 風呂 ★4.37 ／ 食事 ★4.52</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満腹、24時間入れる熱めのお風呂お料理に重点を置いたホテル 夕朝食共にお腹いっぱいになりましたお風呂は24時間入れるところが良かった(男女入れ替え清掃時間有り)温度は熱めクチコミ…　2026-09-24 11:46:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は満腹、24時間入れる熱めのお風呂お料理に重点を置いたホテル 夕朝食共にお腹いっぱいになりましたお風呂は24時間入れるところが良かった(男女入れ替え清掃時間有り)温度は熱め…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p>【富山湾の青い神秘】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Wi-Fi完備で快適、食事も温泉も大満足2回目でした。1回目は携帯が全く繋がりませんでしたが、今回はWi-Fiで繋がって良かったです。露天風呂の温度がちょうど良い感じで、ずっと入っていたかったです…　2026-09-17 11:44:23投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Wi-Fi完備で快適、食事も温泉も大満足2回目でした。1回目は携帯が全く繋がりませんでしたが、今回はWi-Fiで繋がって良かったです。露天風呂の温度がちょうど良い感じで、ずっと入っていたかったです…」
                   </blockquote>
                 </div>
               </div>

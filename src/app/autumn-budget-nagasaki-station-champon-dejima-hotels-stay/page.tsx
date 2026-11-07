@@ -496,7 +496,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.95 ／ 立地 ★4.13 ／ 部屋 ★3.98 ／ 設備 ★3.97 ／ 風呂 ★3.81</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で飲食店も多く、立地が最高に便利立地が最高駅近でコンビニ、吉野家、居酒屋多数有り滞在することに全く困らないクチコミの詳細はこちらから　https://review.travel.rak…　2026-09-07 23:26:45投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で飲食店も多く、立地が最高に便利立地が最高駅近でコンビニ、吉野家、居酒屋多数有り滞在することに全く困らない」
                   </blockquote>
                 </div>
               </div>
@@ -518,7 +518,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し。近隣の有料コインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.53 ／ 部屋 ★4.53 ／ 設備 ★4.13 ／ 風呂 ★4.2</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内が不十分でチェックインに苦戦した無人ホテルだが、案内が不十分でチェックインが出来なかったり、無料Wi-Fiの接続方法が分からずに困った。電話で問い合わせてなんとかなったが、遅い時間にチェックイ…　2026-09-24 21:31:52投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=178621&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「案内が不十分でチェックインに苦戦した無人ホテルだが、案内が不十分でチェックインが出来なかったり、無料Wi-Fiの接続方法が分からずに困った。電話で問い合わせてなんとかなったが、遅い時間にチェックイ…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣駐車場有/15時から翌10時まで1,400円/先着順/車高2m以下/営業時間5時〜23時</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.3 ／ 部屋 ★4.24 ／ 設備 ★4.15 ／ 風呂 ★4.11 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は期待外れ、レディースフロアは場所が難解朝食が写真よりもイマイチだったのが残念でした。レディースフロアで、クッションがあったのは良かったが、場所が分かりにくかった。クチコミの詳細はこちらか…　2026-10-07 22:07:21投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食は期待外れ、レディースフロアは場所が難解朝食が写真よりもイマイチだったのが残念でした。レディースフロアで、クッションがあったのは良かったが、場所が分かりにくかった。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場なし。※近隣の有料駐車場をご案内しています。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の丁寧な対応に好感が持てる従業員の方の対応は丁寧。好感が持てる。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice…　2026-08-18 06:18:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「従業員の丁寧な対応に好感が持てる従業員の方の対応は丁寧。好感が持てる。」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function AutumnBudgetNagasakiStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1,200円（機械式68台）入庫制限有（車高2.05m長さ5.05ｍ車幅1.91ｍ)先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.44 ／ 部屋 ★4.53 ／ 設備 ★4.51 ／ 風呂 ★4.57 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングの種類が豊富で大満足!朝食バイキングが目当てで泊まります!相変わらずの種類の多さについつい食べ過ぎて・・・今回も堪能させて頂きました。クチコミの詳細はこちらから　http…　2026-10-07 10:31:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食バイキングの種類が豊富で大満足!朝食バイキングが目当てで泊まります!相変わらずの種類の多さについつい食べ過ぎて・・・今回も堪能させて頂きました。」
                   </blockquote>
                 </div>
               </div>

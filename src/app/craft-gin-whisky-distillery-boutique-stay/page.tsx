@@ -540,7 +540,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２００台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.92 ／ 立地 ★3.6 ／ 部屋 ★3.59 ／ 設備 ★3.49 ／ 風呂 ★3.55 ／ 食事 ★3.86</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質と清掃状況に大きな不満ありはっきり書くと...他の方々が良い評価を書いてるのを見て期待して行きましたが部屋は大人数で行ったため、大広間の部屋に関しては良かったですが食事は食えた…　2026-10-05 01:23:53投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質と清掃状況に大きな不満ありはっきり書くと...他の方々が良い評価を書いてるのを見て期待して行きましたが部屋は大人数で行ったため、大広間の部屋に関しては良かったですが食事は食えた…」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　３０台　先着順　（ナビでは湯の山郵便局で検索）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.55 ／ 立地 ★4.3 ／ 部屋 ★4.5 ／ 設備 ★4.38 ／ 風呂 ★4.39 ／ 食事 ★4.54</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れでも食事が美味しくのんびり満喫0歳児と3歳をつれていきましたが、とても過しやすく、大人はごはんが夕食も朝食も美味しくてのんびりできたのでとってもよかったです。またこのあたりに来る機会があ…　2026-10-11 00:01:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「子連れでも食事が美味しくのんびり満喫0歳児と3歳をつれていきましたが、とても過しやすく、大人はごはんが夕食も朝食も美味しくてのんびりできたのでとってもよかったです。またこのあたりに来る機会があ…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p>【本格BAR＆銘酒ウイスキー・クラフトジン】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆったりとした食事会場と果てまで続く高原の眺望は得難いもの那須の同種の某リゾートより部屋数が多いしと期待値を下げていったのですが、広い分、ゆったり感は優っており、特に朝夕食会場のテーブルが余裕を持…　2026-09-09 16:26:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ゆったりとした食事会場と果てまで続く高原の眺望は得難いもの那須の同種の某リゾートより部屋数が多いしと期待値を下げていったのですが、広い分、ゆったり感は優っており、特に朝夕食会場のテーブルが余裕を持…」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　約100台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.19 ／ 部屋 ★4.25 ／ 設備 ★4.15 ／ 風呂 ★4.35 ／ 食事 ★4.34</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。料理の種類も豊富で和洋中、イタリアンに至るまで展開され、味もどれを食べてもハズレが全くなく、とても美味しかったです…　2026-10-09 14:41:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキング料理が最高、家族全員大満足!朝食、夕食ともにバイキング料理が最高でした。料理の種類も豊富で和洋中、イタリアンに至るまで展開され、味もどれを食べてもハズレが全くなく、とても美味しかったです…」
                   </blockquote>
                 </div>
               </div>

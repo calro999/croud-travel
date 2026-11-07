@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が気持ち良い旧棟のほうで利用しました。難点を先に述べれば、二階建てなのでなんとかなりましたが、エレベーターがないので手持ちで荷物を上げなければなりません。また、部屋の壁が結構薄く、お隣がに…　2026-08-21 13:55:01投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉が気持ち良い旧棟のほうで利用しました。難点を先に述べれば、二階建てなのでなんとかなりましたが、エレベーターがないので手持ちで荷物を上げなければなりません。また、部屋の壁が結構薄く、お隣がに…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>■有り200台無料　■全館Wi-Fi対応　■禁煙・喫煙ルームあり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.46 ／ 立地 ★3.48 ／ 部屋 ★3.14 ／ 設備 ★2.94 ／ 風呂 ★3.46 ／ 食事 ★3.61</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感想全般食事は種類が豊富で満足。特に夕食の炉端焼きはホテルにしては珍しく美味でした。4階の洋室の窓から見る山々などの展望はグッド。ただ施設が古いので仕方がありませんが、洗面所の汚れやシミが目立ち気…　2026-10-09 08:36:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「感想全般食事は種類が豊富で満足。特に夕食の炉端焼きはホテルにしては珍しく美味でした。4階の洋室の窓から見る山々などの展望はグッド。ただ施設が古いので仕方がありませんが、洗面所の汚れやシミが目立ち気…」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７0台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は美味しいがエアコンの効きが悪く暑い料理は美味しかった。部屋のエアコンが通路側のベッドにまで届かなくて暑くて飛び起きました。クチコミの詳細はこちらから　https://review.tra…　2026-08-29 18:46:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は美味しいがエアコンの効きが悪く暑い料理は美味しかった。部屋のエアコンが通路側のベッドにまで届かなくて暑くて飛び起きました。」
                   </blockquote>
                 </div>
               </div>

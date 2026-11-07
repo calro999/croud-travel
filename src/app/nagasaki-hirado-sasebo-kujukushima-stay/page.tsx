@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　40台　無料　先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と花火の眺めに大満足予約時、最後の一部屋で、人数の割に手狭な部屋のみしか空いておらず心配してましたが、当日、空きが出たのか広いお部屋に通してくださりありがたかったです。花火も遠いかなと心配…　2026-07-28 23:36:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と花火の眺めに大満足予約時、最後の一部屋で、人数の割に手狭な部屋のみしか空いておらず心配してましたが、当日、空きが出たのか広いお部屋に通してくださりありがたかったです。花火も遠いかなと心配…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p>【長崎・平戸＆佐世保・九十九島：世界遺産キリシタン史跡】 <strong>【駐車場・マイカー利用】</strong>有り　２０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然と温泉、料理に癒やされすぐにでも再訪したい自然に囲まれて、ゆっくりと過ごすことができる素敵なお宿でした。山の中にあるのでとても静かで、日常を忘れてのんびりと過ごすことができました。…　2026-08-09 18:41:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「自然と温泉、料理に癒やされすぐにでも再訪したい自然に囲まれて、ゆっくりと過ごすことができる素敵なお宿でした。山の中にあるのでとても静かで、日常を忘れてのんびりと過ごすことができました。…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有、1泊1台あたり1000円 *到着日の朝から翌日正午まで。*2027年4月1日より1500円</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.63 ／ 立地 ★4.65 ／ 部屋 ★4.61 ／ 設備 ★4.53 ／ 風呂 ★4.47 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「さすがオークラ、全てが完璧で大満足!娘と孫との利用でした。全てにおいて完璧で、さすがオークラって感じでした!ハイキングも種類が多く3泊しましたが、食べてない物もありました、とても美味しかっ…　2026-10-10 19:48:12投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「さすがオークラ、全てが完璧で大満足!娘と孫との利用でした。全てにおいて完璧で、さすがオークラって感じでした!ハイキングも種類が多く3泊しましたが、食べてない物もありました、とても美味しかっ…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（約25台）・無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「平戸物産館近く、食事と部屋は良いがランドリーに難あり平戸の市街地からは1km半ほど離れていますが、平戸物産館のすぐ近くで、平戸桟橋行きのバス停も物産館の前にあります。食事はおいしく、部屋も大浴…　2026-05-07 16:29:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「平戸物産館近く、食事と部屋は良いがランドリーに難あり平戸の市街地からは1km半ほど離れていますが、平戸物産館のすぐ近くで、平戸桟橋行きのバス停も物産館の前にあります。食事はおいしく、部屋も大浴…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場有り　60台　先着順　無料　電気自動車充電スタンド（EV充電）４台設置</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「目の前の海と朝日、朝食の出汁が最高建物は老朽化していますがお部屋は広く 海の目の前朝日がお部屋から見れて最高なロケーションですシーツは 清潔でベッドも寝易かったです朝食の あご…　2026-08-22 12:51:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「目の前の海と朝日、朝食の出汁が最高建物は老朽化していますがお部屋は広く 海の目の前朝日がお部屋から見れて最高なロケーションですシーツは 清潔でベッドも寝易かったです朝食の あご…」
                   </blockquote>
                 </div>
               </div>

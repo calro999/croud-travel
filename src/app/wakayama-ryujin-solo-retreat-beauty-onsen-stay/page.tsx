@@ -512,7 +512,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２４台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かったです!旅館の方もフレンドリーでアットホームな雰囲気で良かったです。お風呂(湯船)は滑りやすいと忠告いただいたんですが、滑って膝を擦りむいてしまいましたので、湯船に入る際は注意が必要です…　2026-08-17 00:51:17投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「良かったです!旅館の方もフレンドリーでアットホームな雰囲気で良かったです。お風呂(湯船)は滑りやすいと忠告いただいたんですが、滑って膝を擦りむいてしまいましたので、湯船に入る際は注意が必要です…」
                   </blockquote>
                 </div>
               </div>
@@ -534,7 +534,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場のご用意があります。全室分の駐車スペースを確保しておりますのでご予約は不要です。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.7 ／ 立地 ★4.3 ／ 部屋 ★4.25 ／ 設備 ★4.09 ／ 風呂 ★4.48 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食の質と量に驚き、部屋の眺望は残念夕食の質、量とも余りの良さにビックリ。部屋から川見えるの予約でしたが全く見えない部屋って???。宿の表札が龍神さんなんて落ちが出来過ぎて思わずニンマリ。  …　2026-10-05 18:32:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夕食の質と量に驚き、部屋の眺望は残念夕食の質、量とも余りの良さにビックリ。部屋から川見えるの予約でしたが全く見えない部屋って???。宿の表札が龍神さんなんて落ちが出来過ぎて思わずニンマリ。  …」
                   </blockquote>
                 </div>
               </div>

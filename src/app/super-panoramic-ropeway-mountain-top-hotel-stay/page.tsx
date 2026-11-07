@@ -516,7 +516,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>400台（無料）／駐車場はホテルより離れた場所にございます。詳しくは交通案内ページをご覧ください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.41 ／ 部屋 ★4.18 ／ 設備 ★4.03 ／ 風呂 ★4.51 ／ 食事 ★4.22</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質がとても良くて大満足クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/54556?reviewId=331234…　2026-10-10 16:50:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉の泉質がとても良くて大満足」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p>【標高1,000m以上の絶景パノラマ】 <strong>【駐車場・マイカー利用】</strong>有り　１００台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。クマ騒動がありましたが、自然のなかでとても満足しています特に食事は本当に素晴らしかったですクチコミの詳細はこち…　2026-08-16 22:13:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素晴らしい大変癒された旅になりました。同伴の誕生日記念に宿泊しました。クマ騒動がありましたが、自然のなかでとても満足しています特に食事は本当に素晴らしかったですクチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【標高1,000m以上の絶景パノラマ】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯温が丁度よく、気持ちよく入浴できた風呂の湯温が丁度よく気持ち良く入浴できましたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/…　2026-09-15 17:07:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「湯温が丁度よく、気持ちよく入浴できた風呂の湯温が丁度よく気持ち良く入浴できました」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　８５台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…　2026-08-16 18:44:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アンティークな空間と温泉、食事に満足重厚な造りの建物、家具調度品、古いのかもしれませんがかえってアンティークでシックな味になってました。あいにくの雨でしたがラウンジでケーキをいただきながら温泉プー…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有100台（無料）※全面舗装ですが、屋根日影はありません</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から白馬の眺望とウェルカムドリンク二階でも部屋から白馬が良く見えるので良かったです,ただ今回あまり白馬が見れなかったのが残念、でも夕方に少し顔を出してくれたので良しとします。。何回か宿泊してま…　2026-08-20 16:51:02投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋から白馬の眺望とウェルカムドリンク二階でも部屋から白馬が良く見えるので良かったです,ただ今回あまり白馬が見れなかったのが残念、でも夕方に少し顔を出してくれたので良しとします。。何回か宿泊してま…」
                   </blockquote>
                 </div>
               </div>

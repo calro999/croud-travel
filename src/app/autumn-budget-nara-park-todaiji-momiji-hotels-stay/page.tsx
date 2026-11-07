@@ -421,7 +421,7 @@ export default function AutumnBudgetNaraHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２３台　８００円（税込み／泊）　先着順 ※途中での入出庫の場合、別料金となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.15 ／ 部屋 ★4.17 ／ 設備 ★4.08 ／ 風呂 ★4.1</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工夫が凝らされた朝食に大満足朝ごはん、工夫されていました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/15333…　2026-10-06 18:23:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「工夫が凝らされた朝食に大満足朝ごはん、工夫されていました。」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetNaraHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（1000円/日）【要電話予約制】【台数制限あり】　※お電話が無い場合には駐車いただけません</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.19 ／ 部屋 ★4.31 ／ 設備 ★4.22 ／ 風呂 ★4.06 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奈良の風情と地元の朝食、足湯も楽しめる奈良の風情にマッチした、シックで清潔感があり、観光拠点にベストです。朝食メニューは地元の食材を生かした名物がいただけます、ウェルカムドリンク、足湯サービスもい…　2026-10-04 09:49:46投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=162969&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「奈良の風情と地元の朝食、足湯も楽しめる奈良の風情にマッチした、シックで清潔感があり、観光拠点にベストです。朝食メニューは地元の食材を生かした名物がいただけます、ウェルカムドリンク、足湯サービスもい…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetNaraHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場はございません。恐れ入りますが近隣コインパーキングのご利用をお願い致します。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「デスクが座るタイプで仕事ができず不便部屋のデスクが座るタイプで部屋で仕事が出来ず、最悪な部屋でした。クチコミの詳細はこちらから　https://review.travel.rakuten.co…　2026-08-20 17:31:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「デスクが座るタイプで仕事ができず不便部屋のデスクが座るタイプで部屋で仕事が出来ず、最悪な部屋でした。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetNaraHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の有料コインパーキング　（24時間最大￥850）・三井のリパーク 近鉄奈良駅前 第２</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.46 ／ 部屋 ★4.18 ／ 設備 ★4.17 ／ 風呂 ★3.94 ／ 食事 ★4.39</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でコスパ抜群、また利用したい!近鉄奈良駅から近く、部屋はコンパクトでバス・トイレ付、朝食(厚切りトーストとミニサラダとドリンク)まで付いてとてもコスパの良いホテルだと思いました。チェックア…　2026-10-09 09:54:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近でコスパ抜群、また利用したい!近鉄奈良駅から近く、部屋はコンパクトでバス・トイレ付、朝食(厚切りトーストとミニサラダとドリンク)まで付いてとてもコスパの良いホテルだと思いました。チェックア…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetNaraHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無し</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.3 ／ 設備 ★4.17 ／ 風呂 ★4.14 ／ 食事 ★4.32</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大画面での映画鑑賞が奈良観光に最適10月4日、東大寺と春日大社の拝観のために利用。奈良では、神社仏閣の閉門の後、ホテルにいる時間が長くなるため、大画面で映画鑑賞との相性が良いと思います。クチコ…　2026-10-06 22:02:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大画面での映画鑑賞が奈良観光に最適10月4日、東大寺と春日大社の拝観のために利用。奈良では、神社仏閣の閉門の後、ホテルにいる時間が長くなるため、大画面で映画鑑賞との相性が良いと思います。…」
                   </blockquote>
                 </div>
               </div>

@@ -421,7 +421,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携の駐車場はございません。 ホテル近隣のコインパーキングをご利用ください。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.94 ／ 部屋 ★3.96 ／ 設備 ★4.04 ／ 風呂 ★4.16</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ重視の旅に最適、大浴場とサウナが快適急遽思い立った旅行で利用しました。この系列はどこも壁が薄く、慣れない人には不満があるかもですが、知っていて泊まる分にはコスパ良く、利用しやすい宿だと思いま…　2026-09-30 10:12:01投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=193298&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「コスパ重視の旅に最適、大浴場とサウナが快適急遽思い立った旅行で利用しました。この系列はどこも壁が薄く、慣れない人には不満があるかもですが、知っていて泊まる分にはコスパ良く、利用しやすい宿だと思いま…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　80台　(先着順)　1台１泊￥５００ 円（税込み／泊）到着順で予約はできません。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.11 ／ 部屋 ★4.1 ／ 設備 ★3.96 ／ 風呂 ★3.92 ／ 食事 ★4.44</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で広かったが工事の音が残念素泊まりで利用させてもらいました!部屋は綺麗で広くよかったのですが風呂場の鍵の調子が悪かったのと朝九時位から会話ができないくらいの工事の音(外壁工事?)がし…　2026-10-11 02:03:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋は綺麗で広かったが工事の音が残念素泊まりで利用させてもらいました!部屋は綺麗で広くよかったのですが風呂場の鍵の調子が悪かったのと朝九時位から会話ができないくらいの工事の音(外壁工事?)がし…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　２７台　１台５００円（税込み／泊）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★4.11 ／ 部屋 ★4.12 ／ 設備 ★4.04 ／ 風呂 ★4.11 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎回のように宿泊してますが、フロントの方の対応も良く、朝食は今回無しにしましたが、700円でリーズナブルでおすすめです。クチコミの詳細はこちらから　https://review.trave…　2026-10-06 08:37:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「毎回のように宿泊してますが、フロントの方の対応も良く、朝食は今回無しにしましたが、700円でリーズナブルでおすすめです。」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有／ホテル隣接⇒1泊６００円（12時〜翌12時）／バス・トラック徒歩３分（要予約）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.16 ／ 立地 ★4.14 ／ 部屋 ★4.16 ／ 設備 ★4.1 ／ 風呂 ★3.96 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いつも清潔で快適、何度利用しても満足何度かこちらを利用させていただいておりますが、いつもキレイにしていてとても快適に過ごせますありがとうございますクチコミの詳細はこちらから　https…　2026-10-08 07:00:36投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「いつも清潔で快適、何度利用しても満足何度かこちらを利用させていただいておりますが、いつもキレイにしていてとても快適に過ごせますありがとうございます」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetHachinoheHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>八青パーキング※隣接、夜1時〜朝7時入出庫不可　・徒歩圏内に24時間入出庫可能な駐車場有り</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.27 ／ 部屋 ★4.44 ／ 設備 ★4.4 ／ 風呂 ★4.38 ／ 食事 ★4.45</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しくて大満足朝食が美味しかった。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/158733?review…　2026-10-03 11:30:49投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食が美味しくて大満足朝食が美味しかった。」
                   </blockquote>
                 </div>
               </div>

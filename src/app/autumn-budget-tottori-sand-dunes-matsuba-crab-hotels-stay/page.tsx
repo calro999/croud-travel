@@ -421,7 +421,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>４２台　先着順　６００円（税込み／泊） ※立体駐車場のため全高・横幅・車高、入出庫の時間制限あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.31 ／ 立地 ★4.22 ／ 部屋 ★4.18 ／ 設備 ★4.12 ／ 風呂 ★4.03 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲食店が近くにあり、無料朝食も便利チェックインが遅くなりましたが、すぐ近くに遅くまでやっている飲食店があったのでよかったです。日曜日ということもあってか、朝食会場が混んでいて待ち時間が少しあり…　2026-10-10 09:07:08投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「飲食店が近くにあり、無料朝食も便利チェックインが遅くなりましたが、すぐ近くに遅くまでやっている飲食店があったのでよかったです。日曜日ということもあってか、朝食会場が混んでいて待ち時間が少しあり…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>駐車場のご案内：ホテル敷地内6台可能有料800円/泊　近隣パーキングＮＰＣ（800円/泊）徒歩1分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.17 ／ 立地 ★3.97 ／ 部屋 ★4.03 ／ 設備 ★3.84 ／ 風呂 ★3.74</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「400円とは思えない充実した朝食に期待大朝食は今回利用しませんでしたが、すこしだけ覗かせて貰うと、とても400円とは思えない充実した感じでした。次回があれば、食べてみたいと思います!クチコミの…　2026-09-21 01:49:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「400円とは思えない充実した朝食に期待大朝食は今回利用しませんでしたが、すこしだけ覗かせて貰うと、とても400円とは思えない充実した感じでした。次回があれば、食べてみたいと思います!クチコミの…」
                   </blockquote>
                 </div>
               </div>
@@ -465,7 +465,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣に契約駐車場があります。(有料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.12 ／ 立地 ★4.14 ／ 部屋 ★3.95 ／ 設備 ★4 ／ 風呂 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だが、コンセントと空調に難ありとても立地は良く、ご飯を食べに行くのにもよかったです。お部屋ですが枕元にコンセントが少ないのと、クーラーがうるさかったです。クチコミの詳細はこち…　2026-10-04 21:06:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「立地は最高だが、コンセントと空調に難ありとても立地は良く、ご飯を食べに行くのにもよかったです。お部屋ですが枕元にコンセントが少ないのと、クーラーがうるさかったです。クチコミの詳細はこち…」
                   </blockquote>
                 </div>
               </div>
@@ -487,7 +487,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り33台　700円※15:00からの先着順ご予約不可。徒歩5分に提携駐車場あり(1泊600円)</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.15 ／ 立地 ★4.02 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★3.97 ／ 食事 ★4.07</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋で快適だがベッド周りに電源がない清潔な部屋で快適でしたがベッドの近くにコンセントやUSBが無かった事が残念です。遅い時間であったためか大浴場は空いており、快適でした。クチコミ…　2026-10-09 22:50:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔な部屋で快適だがベッド周りに電源がない清潔な部屋で快適でしたがベッドの近くにコンセントやUSBが無かった事が残念です。遅い時間であったためか大浴場は空いており、快適でした。…」
                   </blockquote>
                 </div>
               </div>
@@ -509,7 +509,7 @@ export default function AutumnBudgetTottoriHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>敷地内は車椅子使用者用駐車場1台のみ（要予約）、提携駐車場あり（徒歩約5分）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.21 ／ 立地 ★4.23 ／ 部屋 ★4.25 ／ 設備 ★4.23 ／ 風呂 ★4.18 ／ 食事 ★3.59</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Great location, but check-in is quite tedious.Excellent location for a trip to Tottori. Very close…　2026-10-04 19:54:47投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=196888&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「Great location, but check-in is quite tedious.Excellent location for a trip to Tottori. Very close…」
                   </blockquote>
                 </div>
               </div>

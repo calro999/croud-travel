@@ -387,7 +387,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料7台（ご予約不要）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.06 ／ 部屋 ★4.52 ／ 設備 ★4.26 ／ 風呂 ★4.38 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。部屋数は少なく、こじんまりしていて…　2026-09-28 01:01:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アットホームな雰囲気と美味しい金目鯛の煮付け大室山の麓、伊豆高原の住宅街(別荘地?)の中にあります。確かにお部屋から海も見えますが、ロケーション的には今一つ。部屋数は少なく、こじんまりしていて…」
                   </blockquote>
                 </div>
               </div>
@@ -409,7 +409,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　35台（無料）予約不要　　　Wi-fi　：有り（館内全て）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.28 ／ 立地 ★4.21 ／ 部屋 ★4.25 ／ 設備 ★4.1 ／ 風呂 ★4.3 ／ 食事 ★4.47</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は素晴らしく、全体的に満足食事は夕食、朝食ともに美味しく頂きました。その際の外人スタッフの接客対応も素晴らしかったです。また出向のスタッフも親切で好印象を持ちました。部屋もきれいで満…　2026-10-09 21:25:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事と接客は素晴らしく、全体的に満足食事は夕食、朝食ともに美味しく頂きました。その際の外人スタッフの接客対応も素晴らしかったです。また出向のスタッフも親切で好印象を持ちました。部屋もきれいで満…」
                   </blockquote>
                 </div>
               </div>
@@ -431,7 +431,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料　予約不要　ツーリングの方には屋根付き駐車場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.46 ／ 部屋 ★4.32 ／ 設備 ★4.25 ／ 風呂 ★4.43 ／ 食事 ★4.42</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回は二度目の宿泊でした。また来年お世話になります。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/135962?rev…　2026-10-09 21:45:32投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=135962&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「今回は二度目の宿泊でした。また来年お世話になります。」
                   </blockquote>
                 </div>
               </div>

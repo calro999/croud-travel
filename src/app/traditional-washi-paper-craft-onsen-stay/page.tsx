@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　９０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。…　2026-08-25 22:01:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「接客とロケーションが最高、食事も大満足接客対応がとても素晴らしくロケーションも抜群でした。朝食、夕食ともとても美味しく是非また利用したいです。色々、高知の宿を迷いましたが、ここにして良かったです。…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【千年の技と灯りに癒やされる。手漉き和紙空間＆伝統工芸】 <strong>【駐車場・マイカー利用】</strong>有り　８０台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高夕食がとても美味しかった。お刺身も牛肉ステーキも最高。会津娘というお酒を注文してこれまた最高。お風呂も綺麗で良かったですクチコミの詳細はこちらから　https://review.…　2026-09-12 10:52:34投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事が最高夕食がとても美味しかった。お刺身も牛肉ステーキも最高。会津娘というお酒を注文してこれまた最高。お風呂も綺麗で良かったです」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）　約２０台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.8 ／ 立地 ★3.62 ／ 部屋 ★3.69 ／ 設備 ★3.67 ／ 風呂 ★3.87 ／ 食事 ★3.88</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂と電子レンジが便利、また利用したい10/2~4の2泊しました。浴衣は男性用が中と女性用が小で用意されていてサイズが合わず使いませんでした。館内は下駄で移動でしたが履き慣れていないので妻は階段…　2026-10-09 11:31:52投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂と電子レンジが便利、また利用したい10/2~4の2泊しました。浴衣は男性用が中と女性用が小で用意されていてサイズが合わず使いませんでした。館内は下駄で移動でしたが履き慣れていないので妻は階段…」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>野外平面駐車場◆バイク、普通車1台1泊につき1,100円※大型車などは応相談</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.98 ／ 立地 ★4.16 ／ 部屋 ★4.01 ／ 設備 ★3.82 ／ 風呂 ★4.03</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道後温泉街へのアクセスが抜群で便利とても立地は良く、建物は古いが綺麗です。道後温泉駅から徒歩10分ぐらいでしょうか、とてもアクセスの良いところなので温泉街でお土産買うのも便利です。…　2026-10-10 20:39:10投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「道後温泉街へのアクセスが抜群で便利とても立地は良く、建物は古いが綺麗です。道後温泉駅から徒歩10分ぐらいでしょうか、とてもアクセスの良いところなので温泉街でお土産買うのも便利です。…」
                   </blockquote>
                 </div>
               </div>

@@ -510,7 +510,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有（無料）２０台　※正面玄関前にお越しください。スタッフがご案内いたします。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.77 ／ 立地 ★4.51 ／ 部屋 ★4.54 ／ 設備 ★4.61 ／ 風呂 ★4.67 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…　2026-10-10 21:27:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「パンケーキとカクテル、食事に大満足!2年ぶり2回目の利用です。パンケーキを楽しみにして来ました。また前回、タイミングが合わず飲めなかったカクテルも飲むことが出来ました。夜の食事も沢山あり、どれ…」
                   </blockquote>
                 </div>
               </div>
@@ -532,7 +532,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>８０台分有り（無料）　※スタッフが場所をご案内しますので、正面玄関まで車をお寄せくださいませ。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.59 ／ 立地 ★4.42 ／ 部屋 ★4.37 ／ 設備 ★4.34 ／ 風呂 ★4.55 ／ 食事 ★4.62</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理の質とサウナの動線が素晴らしい他の方もコメントがありますが、料理も一品一品非常凝っており料理長の自信がお品書きに表れていると思いますした。ただ会席料理でお酒を飲む者にとって、最後ごはんのタイミ…　2026-10-10 14:10:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理の質とサウナの動線が素晴らしい他の方もコメントがありますが、料理も一品一品非常凝っており料理長の自信がお品書きに表れていると思いますした。ただ会席料理でお酒を飲む者にとって、最後ごはんのタイミ…」
                   </blockquote>
                 </div>
               </div>
@@ -554,7 +554,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.27 ／ 部屋 ★4.34 ／ 設備 ★4.32 ／ 風呂 ★4.33</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は良いが露天風呂が使えず残念部屋、料理は良かった。温泉は露天風呂が利用できないため、残念だった。事前連絡は無くチェックイン時に突然言われたのはいかがなものかと思った。また、お客さまが多…　2026-10-10 13:12:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「料理は良いが露天風呂が使えず残念部屋、料理は良かった。温泉は露天風呂が利用できないため、残念だった。事前連絡は無くチェックイン時に突然言われたのはいかがなものかと思った。また、お客さまが多…」
                   </blockquote>
                 </div>
               </div>

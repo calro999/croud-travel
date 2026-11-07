@@ -788,7 +788,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有４０台無料　係員が駐車場までご案内します　Google map「寿亭専用駐車場」と検索してください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.69 ／ 立地 ★4.44 ／ 部屋 ★4.44 ／ 設備 ★4.31 ／ 風呂 ★4.51 ／ 食事 ★4.65</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と美味しい食事でゆったりと旅館自体は古いですが趣のある感じで寛げました。お食事も美味しかったですし器も素敵でした貸切風呂は綺麗でのんびり過ごせました。クチコミの詳細はこちら…　2026-10-09 19:48:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と美味しい食事でゆったりと旅館自体は古いですが趣のある感じで寛げました。お食事も美味しかったですし器も素敵でした貸切風呂は綺麗でのんびり過ごせました。クチコミの詳細はこちら…」
                   </blockquote>
                 </div>
               </div>
@@ -810,7 +810,7 @@ export default function FeatureDetailPage() {
                   <p>【肉の芸術品・特選松阪牛】 <strong>【駐車場・マイカー利用】</strong>有り　５０台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.93 ／ 立地 ★3.79 ／ 部屋 ★3.85 ／ 設備 ★3.61 ／ 風呂 ★4.26 ／ 食事 ★4.09</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さを感じさせない管理と温泉に満足古い施設と判断していたが古くてもきれいに管理され Goodに評価できました。温泉はうわさ通りで 良いお湯でした。      肌ざわり良くきれいで湯温も…　2026-10-07 19:31:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「古さを感じさせない管理と温泉に満足古い施設と判断していたが古くてもきれいに管理され Goodに評価できました。温泉はうわさ通りで 良いお湯でした。      肌ざわり良くきれいで湯温も…」
                   </blockquote>
                 </div>
               </div>
@@ -832,7 +832,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.43 ／ 立地 ★4.37 ／ 部屋 ★4.33 ／ 設備 ★4.28 ／ 風呂 ★4.51 ／ 食事 ★4.67</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの大浴場と美味しいお粥大浴場の源泉掛け流しが良かったです。お粥は苦手なのですが、美味しくいただけました。クチコミの詳細はこちらから　https://review.travel.…　2026-09-20 17:13:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「源泉掛け流しの大浴場と美味しいお粥大浴場の源泉掛け流しが良かったです。お粥は苦手なのですが、美味しくいただけました。」
                   </blockquote>
                 </div>
               </div>
@@ -854,7 +854,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料 （エントランスにはスロープもございます。係がご案内いたします。）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.39 ／ 立地 ★4.16 ／ 部屋 ★4.3 ／ 設備 ★4.23 ／ 風呂 ★4.31 ／ 食事 ★4.5</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「NiceGood service.Onsen was great.Relaxing and comfortable!クチコミの詳細はこちらから　https://review.trave…　2026-10-05 14:14:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「NiceGood service.Onsen was great.Relaxing and comfortable!」
                   </blockquote>
                 </div>
               </div>
@@ -876,7 +876,7 @@ export default function FeatureDetailPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１００台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.27 ／ 立地 ★4.33 ／ 部屋 ★4.28 ／ 設備 ★4.21 ／ 風呂 ★4.38 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの景色と島への船旅が楽しい部屋からの景色もよく、島へ移動する時の船も3分くらいだが楽しめましたご飯も夕朝共にとても美味しく感動しましたクチコミの詳細はこちらから　https:/…　2026-10-08 18:17:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋からの景色と島への船旅が楽しい部屋からの景色もよく、島へ移動する時の船も3分くらいだが楽しめましたご飯も夕朝共にとても美味しく感動しました」
                   </blockquote>
                 </div>
               </div>

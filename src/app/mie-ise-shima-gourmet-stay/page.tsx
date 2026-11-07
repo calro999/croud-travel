@@ -333,7 +333,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>35台（無料、先着順、予約不可）※チェックアウト後の駐車不可</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外宮近くで便利、フロントの対応も丁寧伊勢神宮外宮の近くという理由で選びました。部屋はビジネスホテルと同じくらい。ただトイレは古いタイプのチャンネルを回すような仕組みで、使いやすくはないかな。フ…　2026-08-22 16:33:13投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「外宮近くで便利、フロントの対応も丁寧伊勢神宮外宮の近くという理由で選びました。部屋はビジネスホテルと同じくらい。ただトイレは古いタイプのチャンネルを回すような仕組みで、使いやすくはないかな。フ…」
                   </blockquote>
                 </div>
               </div>
@@ -355,7 +355,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　無料の自走式平面駐車場80台</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.9 ／ 立地 ★4.07 ／ 部屋 ★3.88 ／ 設備 ★3.78 ／ 風呂 ★3.82 ／ 食事 ★4.05</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夫婦岩への散歩と貸切風呂が快適夫婦岩まで徒歩で15分ほどの立地です天気が良ければ日の出を楽しむこともできるそうで早起きして出かけるのにもちょうど良い距離です貸切風呂がとても良かったです…　2026-10-06 17:46:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「夫婦岩への散歩と貸切風呂が快適夫婦岩まで徒歩で15分ほどの立地です天気が良ければ日の出を楽しむこともできるそうで早起きして出かけるのにもちょうど良い距離です貸切風呂がとても良かったです…」
                   </blockquote>
                 </div>
               </div>
@@ -377,7 +377,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　120台　無料　大型の場合、お電話で問い合わせ下さい</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.81 ／ 立地 ★3.66 ／ 部屋 ★3.67 ／ 設備 ★3.67 ／ 風呂 ★3.77 ／ 食事 ★3.48</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらず清潔感に欠ける2泊しました。まずロビーが下水臭い。そして部屋に入ると床に前の宿泊者の物なのかのど飴が落ちていて、拾うのも嫌だったので多めに見ましたがお風呂…　2026-10-10 10:03:29投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清掃が行き届いておらず清潔感に欠ける2泊しました。まずロビーが下水臭い。そして部屋に入ると床に前の宿泊者の物なのかのど飴が落ちていて、拾うのも嫌だったので多めに見ましたがお風呂…」
                   </blockquote>
                 </div>
               </div>
@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場80台。ご利用は先着順となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.2 ／ 立地 ★3.99 ／ 部屋 ★4.07 ／ 設備 ★4.03 ／ 風呂 ★4.13 ／ 食事 ★3.77</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺環境は便利だがユニットバスが狭い隣にコンビニやスーパー、ドラッグストアがあり、ちょっとした買い物には困らなかった。飲みに行くにはお店が限られるけど、駅の方までタクシーでいけば5分くらいで色々な…　2026-10-10 12:18:46投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「周辺環境は便利だがユニットバスが狭い隣にコンビニやスーパー、ドラッグストアがあり、ちょっとした買い物には困らなかった。飲みに行くにはお店が限られるけど、駅の方までタクシーでいけば5分くらいで色々な…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　50台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.56 ／ 立地 ★4.4 ／ 部屋 ★4.23 ／ 設備 ★4.21 ／ 風呂 ★4.23 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と選べる干物朝食に大満足チェックインから皆様とても親切にしてくださって心地よかったです。晩御飯の際にも様々なお話をしてくださりとても暖かくほっこりしました。朝ごはんも自分で干物を…　2026-10-10 22:04:43投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「親切な接客と選べる干物朝食に大満足チェックインから皆様とても親切にしてくださって心地よかったです。晩御飯の際にも様々なお話をしてくださりとても暖かくほっこりしました。朝ごはんも自分で干物を…」
                   </blockquote>
                 </div>
               </div>
@@ -443,7 +443,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　30台　無料　(正面駐車場が満車の際は、建物すぐ裏の駐車場をご利用くださいませ。)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「補修跡や騒音、食事の塩分が気になった部屋のクロスが剥がれていて養生テープで補修されていた。もう少し目立たない方法はなかったのか?階段の昇り降りの音がテレビつけていても気になった。お風呂の温度は…　2026-08-14 17:20:57投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「補修跡や騒音、食事の塩分が気になった部屋のクロスが剥がれていて養生テープで補修されていた。もう少し目立たない方法はなかったのか?階段の昇り降りの音がテレビつけていても気になった。お風呂の温度は…」
                   </blockquote>
                 </div>
               </div>

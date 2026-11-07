@@ -562,7 +562,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場約２５０台！予約不要／電気自動車充電器あり／大型車OK／屋根付きバイク駐輪場あり</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.3 ／ 立地 ★4.22 ／ 部屋 ★4.17 ／ 設備 ★4.31 ／ 風呂 ★4.5 ／ 食事 ★4.4</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。出来立てが出てくるのでビュッフェより圧倒的に美味しいですし、出来立てを差し引いてもシンプルに…　2026-10-09 18:04:44投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/hs/RmfmX/?f_hotel_no=109464&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の質が非常に高く、屋上の星空も最高宿泊者が少ないからか、夕食がビュッフェではなく都度注文方式でした。出来立てが出てくるのでビュッフェより圧倒的に美味しいですし、出来立てを差し引いてもシンプルに…」
                   </blockquote>
                 </div>
               </div>

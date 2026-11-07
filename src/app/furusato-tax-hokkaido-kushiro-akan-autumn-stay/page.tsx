@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料）150台※駐車場は当館から離れた場所にあります（駐車場とホテル間はシャトルバス運行あり）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.48 ／ 立地 ★4.42 ／ 部屋 ★4.45 ／ 設備 ★4.44 ／ 風呂 ★4.55 ／ 食事 ★4.56</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂に感動しましたお風呂がとにかく大きく、ホテル滞在だけでもとても楽しめました!ブッフェも種類が豊富でどれも美味しくいただけました!クチコミの詳細はこちらから　https://rev…　2026-10-10 19:02:16投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂に感動しましたお風呂がとにかく大きく、ホテル滞在だけでもとても楽しめました!ブッフェも種類が豊富でどれも美味しくいただけました!」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り ２００台 無料 先着順</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いがなく二度と利用したくない一般的なホテルと言えばこんな感じだなと言う気持ち。ただスタッフの宿泊者への気遣いは全く感じず、正直2度と泊まりたくない。ビジネスホテルの方が、コス…　2026-09-19 17:54:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「スタッフの気遣いがなく二度と利用したくない一般的なホテルと言えばこんな感じだなと言う気持ち。ただスタッフの宿泊者への気遣いは全く感じず、正直2度と泊まりたくない。ビジネスホテルの方が、コス…」
                   </blockquote>
                 </div>
               </div>
@@ -628,7 +628,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>※駐車場は当館から離れた場所にあります（無料）正面玄関車寄せにて係が駐車場までの行き方をご案内します</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.26 ／ 立地 ★4.3 ／ 部屋 ★4.05 ／ 設備 ★3.99 ／ 風呂 ★3.85 ／ 食事 ★4.28</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉に露天風呂無しで、サウナはあるが水風呂がないのがマイナスポイントただしツルガ本館の温泉が利用でき、送迎バスもあるのはグットです。クチコミの詳細はこちらから　https://review.t…　2026-10-10 22:50:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉に露天風呂無しで、サウナはあるが水風呂がないのがマイナスポイントただしツルガ本館の温泉が利用でき、送迎バスもあるのはグットです。」
                   </blockquote>
                 </div>
               </div>

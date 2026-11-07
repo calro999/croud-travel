@@ -454,7 +454,7 @@ export default function KorankeiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　200台　無料</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂もお部屋も料理も全てが最高!お風呂、お部屋及び料理と全てが最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voi…　2026-09-12 08:46:59投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「お風呂もお部屋も料理も全てが最高!お風呂、お部屋及び料理と全てが最高でした」
                   </blockquote>
                 </div>
               </div>
@@ -498,7 +498,7 @@ export default function KorankeiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１５台　無料　先着順　大型可 予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.75 ／ 立地 ★4.54 ／ 部屋 ★4.5 ／ 設備 ★4.33 ／ 風呂 ★4.39 ／ 食事 ★4.87</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「暖かさの残る宿ジブリパークの前泊で利用しました。ご家族(夫婦)で経営されているようです。リーズナブルな価格設定でしたが、ご飯も非常に美味しく、たくさんいただきました。少しジブリパークか…　2026-10-10 12:43:30投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「暖かさの残る宿ジブリパークの前泊で利用しました。ご家族(夫婦)で経営されているようです。リーズナブルな価格設定でしたが、ご飯も非常に美味しく、たくさんいただきました。少しジブリパークか…」
                   </blockquote>
                 </div>
               </div>
@@ -520,7 +520,7 @@ export default function KorankeiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５００台　無料(市営提携駐車場『フリーパーキング』）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適な部屋、コーヒーの備品が惜しい豊田駅までは傘いらずで行けるホテルの立地が良い。部屋も非常に清掃されており快適に過ごせました。ただ、部屋にコーヒードリップ機械があるものの、コーヒードリップ…　2026-09-06 17:49:24投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「駅近で快適な部屋、コーヒーの備品が惜しい豊田駅までは傘いらずで行けるホテルの立地が良い。部屋も非常に清掃されており快適に過ごせました。ただ、部屋にコーヒードリップ機械があるものの、コーヒードリップ…」
                   </blockquote>
                 </div>
               </div>
@@ -542,7 +542,7 @@ export default function KorankeiAutumnPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７８台　無料　予約不要　中型車・大型車受入不可</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.33 ／ 立地 ★4.06 ／ 部屋 ★4.17 ／ 設備 ★4.14 ／ 風呂 ★4.24 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と朝食に満足、部屋の配置も快適大浴場のあるホテルを探していたので 良かったです朝食バイキングも充実していました3人で宿泊しシングルを3部屋にしました隣り合わせと向い合わせの3…　2026-10-06 19:00:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「大浴場と朝食に満足、部屋の配置も快適大浴場のあるホテルを探していたので 良かったです朝食バイキングも充実していました3人で宿泊しシングルを3部屋にしました隣り合わせと向い合わせの3…」
                   </blockquote>
                 </div>
               </div>

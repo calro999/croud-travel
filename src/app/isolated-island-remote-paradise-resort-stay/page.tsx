@@ -516,7 +516,7 @@ export default function Page() {
                   <p>【青い海と島時間に包まれる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと朝食に感動、コスパ最高!沖縄旅行2日目に2名で宿泊しました。夜到着のため朝起きて窓からの素晴らしいオーシャンビューに大感動しました。夜、宿泊者用専用の卓球やダーツを楽しみまし…　2026-09-19 09:38:42投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「オーシャンビューと朝食に感動、コスパ最高!沖縄旅行2日目に2名で宿泊しました。夜到着のため朝起きて窓からの素晴らしいオーシャンビューに大感動しました。夜、宿泊者用専用の卓球やダーツを楽しみまし…」
                   </blockquote>
                 </div>
               </div>
@@ -538,7 +538,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　６０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.4 ／ 立地 ★4.48 ／ 部屋 ★4.25 ／ 設備 ★4.11 ／ 風呂 ★4.28 ／ 食事 ★4.23</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。お風呂の廊下が塩素臭かったのですが、お風呂ではあまり匂いは感じませ…　2026-10-06 21:58:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雨の景色が残念、シャンプーバーは満足あいにくの雨だったのですが、晴れていたらどんなに景色が素敵なホテルだったかと思うと残念でした。お風呂の廊下が塩素臭かったのですが、お風呂ではあまり匂いは感じませ…」
                   </blockquote>
                 </div>
               </div>
@@ -560,7 +560,7 @@ export default function Page() {
                   <p>【青い海と島時間に包まれる】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の清掃不足と危険な温度設定に不満建物の老朽は致し方のないことですが、館内室内の清潔さは努力できると思います。ロビーに置かれた椅子は長年お客様に愛用されてきた暁なのでしょうか、背もたれの首の…　2026-09-05 18:36:05投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「館内の清掃不足と危険な温度設定に不満建物の老朽は致し方のないことですが、館内室内の清潔さは努力できると思います。ロビーに置かれた椅子は長年お客様に愛用されてきた暁なのでしょうか、背もたれの首の…」
                   </blockquote>
                 </div>
               </div>
@@ -582,7 +582,7 @@ export default function Page() {
                   <p>【青い海と島時間に包まれる】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.74 ／ 立地 ★3.9 ／ 部屋 ★3.66 ／ 設備 ★3.52 ／ 風呂 ★3.82 ／ 食事 ★3.7</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は良いが、臭いと料理の少なさが残念部屋と風呂は、最高に良かったです。但し、部屋に入るときは、臭いにおいが酷かった。臭いをなくして欲しい。バイキングの料理が少なかった。また…　2026-10-08 19:19:38投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋と風呂は良いが、臭いと料理の少なさが残念部屋と風呂は、最高に良かったです。但し、部屋に入るときは、臭いにおいが酷かった。臭いをなくして欲しい。バイキングの料理が少なかった。また…」
                   </blockquote>
                 </div>
               </div>
@@ -604,7 +604,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１３台　無料　予約不要（満車の場合は近隣の市営駐車場（ホテルより徒歩約10分）ご案内）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.86 ／ 立地 ★3.74 ／ 部屋 ★3.94 ／ 設備 ★3.69 ／ 風呂 ★3.77 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と美味しいバイキングに大満足部屋が広く快適でした。ベットがふかふかでよく寝れました。バイキングもどれも美味しく、ビールが飲み放題なのは衝撃でした。また泊まりたいです。…　2026-10-08 17:44:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広々とした部屋と美味しいバイキングに大満足部屋が広く快適でした。ベットがふかふかでよく寝れました。バイキングもどれも美味しく、ビールが飲み放題なのは衝撃でした。また泊まりたいです。…」
                   </blockquote>
                 </div>
               </div>

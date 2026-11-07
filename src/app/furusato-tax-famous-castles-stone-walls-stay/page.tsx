@@ -413,7 +413,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　７５台　880円（税込／泊）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アップグレードに感謝、食事とワインも最高一泊2食付ひとり旅で利用しました民藝の気を感じたくて、本当は別館の民藝感濃いお部屋をチョイスしたかったのですが、お財布と相談して本館シングルを選びました…　2026-09-05 09:13:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「アップグレードに感謝、食事とワインも最高一泊2食付ひとり旅で利用しました民藝の気を感じたくて、本当は別館の民藝感濃いお部屋をチョイスしたかったのですが、お財布と相談して本館シングルを選びました…」
                   </blockquote>
                 </div>
               </div>
@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場（タイムズマルイト姫路ビル）有。　１９０台　有料　先着順 　満車時は館外提携駐車場へ案内</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トレインビューに子供が大喜びトレインビューのお部屋に宿泊しました。新幹線や在来線、貨物列車まで見られて子供がとても喜んで、朝も夜もずっと電車に夢中でした。ホテルもとても綺麗で、清掃も行き届いており…　2026-09-05 22:38:21投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=163181&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「トレインビューに子供が大喜びトレインビューのお部屋に宿泊しました。新幹線や在来線、貨物列車まで見られて子供がとても喜んで、朝も夜もずっと電車に夢中でした。ホテルもとても綺麗で、清掃も行き届いており…」
                   </blockquote>
                 </div>
               </div>

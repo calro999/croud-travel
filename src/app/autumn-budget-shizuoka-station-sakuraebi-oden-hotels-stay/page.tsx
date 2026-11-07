@@ -478,7 +478,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>提携駐車場『稲森パーキング』を1泊　1,800円（先着順） でご案内いたします。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「選べる朝食が良かった朝食が定食で選べて名物のかつおのたたきがあったので嬉しかった。屋上にお風呂があるのがアパホテルの良いところだと思っていたけど、ここはなかったのは残念でした。クチコミの詳…　2026-08-18 17:13:06投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「選べる朝食が良かった朝食が定食で選べて名物のかつおのたたきがあったので嬉しかった。屋上にお風呂があるのがアパホテルの良いところだと思っていたけど、ここはなかったのは残念でした。クチコミの詳…」
                   </blockquote>
                 </div>
               </div>
@@ -500,7 +500,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>近隣の有料駐車場をご利用ください。詳細は公式ホームページのアクセスページをご覧下さい。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の場所は選択制にしてほしいごく普通なホテル 今まで利用したホテルの中では1番悪い評価になるがそれでも普通です。部屋が道路側と駐車場側の2種類あるが、選択時に選べるようにして欲しい どこ…　2026-08-20 12:08:40投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の場所は選択制にしてほしいごく普通なホテル 今まで利用したホテルの中では1番悪い評価になるがそれでも普通です。部屋が道路側と駐車場側の2種類あるが、選択時に選べるようにして欲しい どこ…」
                   </blockquote>
                 </div>
               </div>
@@ -522,7 +522,7 @@ export default function AutumnBudgetShizuokaStationHotelsPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体14台・平置き2台　1泊1500円(先着順) ※大型バイク等駐輪は店舗へお問合せください</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4 ／ 立地 ★3.96 ／ 部屋 ★4.09 ／ 設備 ★3.85 ／ 風呂 ★3.8 ／ 食事 ★3.94</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスホテルとしてOKビジネスホテルの要件をすべて満たしていますエレベーターの中の中国語の案内は耳障りでしたクチコミの詳細はこちらから　https://review.travel.rak…　2026-09-30 22:09:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ビジネスホテルとしてOKビジネスホテルの要件をすべて満たしていますエレベーターの中の中国語の案内は耳障りでした」
                   </blockquote>
                 </div>
               </div>

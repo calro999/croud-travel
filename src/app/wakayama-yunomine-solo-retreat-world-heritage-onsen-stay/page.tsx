@@ -513,7 +513,7 @@ export default function ArticlePage() {
                   <p>【世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯お】 <strong>【駐車場・マイカー利用】</strong>有り　１０台　無料　予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご主人とおかみさんに宿のシステムや、近くのつぼ湯について優しく説明してもらえ助かりました。お宿のお風呂も24時間入れてすごくよかったです。内湯はちょい熱かったですが、それも温泉の楽しみ。露天風呂には何…　2026-08-03 21:46:19投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=106190&quot; class=&quot;3clic」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「ご主人とおかみさんに宿のシステムや、近くのつぼ湯について優しく説明してもらえ助かりました。お宿のお風呂も24時間入れてすごくよかったです。内湯はちょい熱かったですが、それも温泉の楽しみ。露天風呂には何…」
                   </blockquote>
                 </div>
               </div>
@@ -535,7 +535,7 @@ export default function ArticlePage() {
                   <p>【世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯お】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.5 ／ 立地 ★4.55 ／ 部屋 ★4.4 ／ 設備 ★3.94 ／ 風呂 ★4.59 ／ 食事 ★4.55</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と温泉、丁寧な接客に大満足趣があり、立地も最高、お風呂も本当によかったです。仲居さんたちもフランクでありながらも丁寧でした。また伺いたいと思います。クチコミの詳細はこちらか…　2026-09-15 17:48:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「趣のある空間と温泉、丁寧な接客に大満足趣があり、立地も最高、お風呂も本当によかったです。仲居さんたちもフランクでありながらも丁寧でした。また伺いたいと思います。クチコミの詳細はこちらか…」
                   </blockquote>
                 </div>
               </div>
@@ -557,7 +557,7 @@ export default function ArticlePage() {
                   <p>【世界遺産・湯の峰温泉ひとり旅・開湯1800年つぼ湯お】 <strong>【駐車場・マイカー利用】</strong>有り　３０台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.96 ／ 立地 ★4.2 ／ 部屋 ★3.6 ／ 設備 ★3.32 ／ 風呂 ★4.44 ／ 食事 ★4.25</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「つぼ湯とあずまや旅館の温泉を満喫!家族旅行で泊まらせてもらいました。昨年に初めて近くの別のホテルに泊まりつぼ湯に入れなかったので、今年また、つぼ湯に入りに来ました!つぼ湯からすぐの…　2026-10-05 14:30:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「つぼ湯とあずまや旅館の温泉を満喫!家族旅行で泊まらせてもらいました。昨年に初めて近くの別のホテルに泊まりつぼ湯に入れなかったので、今年また、つぼ湯に入りに来ました!つぼ湯からすぐの…」
                   </blockquote>
                 </div>
               </div>

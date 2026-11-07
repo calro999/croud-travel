@@ -475,7 +475,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>立体駐車場2基完備。全68台収容可能。すべて先着順となります。1泊1,500円(税込)。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.46 ／ 部屋 ★4.46 ／ 設備 ★4.46 ／ 風呂 ★4.53 ／ 食事 ★4.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「深夜の到着でも丁寧に対応してくれた大変満足です。遅い到着でしたが、しっかり対応して頂きました。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp…　2026-10-09 23:47:14投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「深夜の到着でも丁寧に対応してくれた大変満足です。遅い到着でしたが、しっかり対応して頂きました。」
                   </blockquote>
                 </div>
               </div>
@@ -497,7 +497,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り 8台 1泊1,000円(税込) 先着順　提携駐車場有り(先着順)</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のとり天が絶品で大満足朝食のとり天が美味しかったクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/193114?r…　2026-08-09 09:02:03投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のとり天が絶品で大満足朝食のとり天が美味しかった」
                   </blockquote>
                 </div>
               </div>
@@ -519,7 +519,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>ホテル立体駐車場（高1.55m幅1.85m長5.00mまで）無料　提携駐車場900円</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料サービスが充実、コスパ重視なら納得ウェルカムコーヒー、夜間のお茶漬け、温泉、朝食無料サービスがあり、部屋は狭いですが、コスパはいいと思います。駐車場の高さ制限があり、施設内の無料駐車場は利用で…　2026-08-22 21:38:14投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=104513&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「無料サービスが充実、コスパ重視なら納得ウェルカムコーヒー、夜間のお茶漬け、温泉、朝食無料サービスがあり、部屋は狭いですが、コスパはいいと思います。駐車場の高さ制限があり、施設内の無料駐車場は利用で…」
                   </blockquote>
                 </div>
               </div>

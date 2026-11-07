@@ -527,7 +527,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場完備</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気と温泉が最高、また訪れたい場所女友達3人と1泊利用。私は15年ぶりの利用、連れの女性はこれまで何度も宿泊したというリピーターです。今回はディナーが遅めの20:30からという限定プランで、通常…　2026-09-13 18:25:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「雰囲気と温泉が最高、また訪れたい場所女友達3人と1泊利用。私は15年ぶりの利用、連れの女性はこれまで何度も宿泊したというリピーターです。今回はディナーが遅めの20:30からという限定プランで、通常…」
                   </blockquote>
                 </div>
               </div>
@@ -549,7 +549,7 @@ export default function ArticlePage() {
                   <p>【嬉野温泉ひとり旅・美肌名湯おこもり：日本三大美肌の湯】 <strong>【駐車場・マイカー利用】</strong>有り　４０台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.58 ／ 立地 ★4.38 ／ 部屋 ★4.39 ／ 設備 ★4.18 ／ 風呂 ★4.49 ／ 食事 ★4.73</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天温泉は快適、見晴らしが惜しい部屋の露天温泉が気持ちよかったです。ただしもう少し見晴らしをよくしていただくと。クチコミの詳細はこちらから　https://review.travel…　2026-09-28 10:03:51投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「部屋の露天温泉は快適、見晴らしが惜しい部屋の露天温泉が気持ちよかったです。ただしもう少し見晴らしをよくしていただくと。」
                   </blockquote>
                 </div>
               </div>
@@ -571,7 +571,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り:無料　ただし、大型車(２Tトラック以上、またはレントゲン車、積載車)は有料となります。</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★3.56 ／ 立地 ★3.33 ／ 部屋 ★3.42 ／ 設備 ★3.34 ／ 風呂 ★3.52 ／ 食事 ★3.51</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。駅から遠いのとコンビニや飲…　2026-09-23 03:28:35投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食や大浴場は満足だが階段の清掃が残念2泊しましたが朝食の内容が少し違っていて良かったです。大浴場があるのもうれしかったです。部屋も広くてゆっくりできました。駅から遠いのとコンビニや飲…」
                   </blockquote>
                 </div>
               </div>
@@ -593,7 +593,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>70台、無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.36 ／ 立地 ★4.13 ／ 部屋 ★4.1 ／ 設備 ★3.92 ／ 風呂 ★4.19 ／ 食事 ★4.36</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量も調整しやすく、お風呂も快適食事もテーブルにセットされてるもの+バイキングなので自分で食べる量を調節できるのが良いです。露天風呂は熱めと温めに分かれてるので熱いの苦手な私には嬉しかった…　2026-10-10 08:45:09投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事の量も調整しやすく、お風呂も快適食事もテーブルにセットされてるもの+バイキングなので自分で食べる量を調節できるのが良いです。露天風呂は熱めと温めに分かれてるので熱いの苦手な私には嬉しかった…」
                   </blockquote>
                 </div>
               </div>
@@ -615,7 +615,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　16台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.84 ／ 立地 ★4.6 ／ 部屋 ★4.62 ／ 設備 ★4.65 ／ 風呂 ★4.77 ／ 食事 ★4.79</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でしたクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-09-25 17:00:31投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「食事は美味しかったがテーブル席が理想食事がテーブル席であれば、最高でした」
                   </blockquote>
                 </div>
               </div>

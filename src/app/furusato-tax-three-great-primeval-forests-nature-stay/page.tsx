@@ -633,7 +633,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　１２０台　無料　到着順にご案内</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.47 ／ 立地 ★4.48 ／ 部屋 ★4.48 ／ 設備 ★4.33 ／ 風呂 ★4.48 ／ 食事 ★4.6</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの種類が豊富でアルコールも充実バイキングはたくさん種類があって食べきれないほどです秋刀魚のお寿司があって嬉しかったですアルコールフリーで満足ソラチが飲めたのが良かったです…　2026-10-08 21:11:19投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「バイキングの種類が豊富でアルコールも充実バイキングはたくさん種類があって食べきれないほどです秋刀魚のお寿司があって嬉しかったですアルコールフリーで満足ソラチが飲めたのが良かったです…」
                   </blockquote>
                 </div>
               </div>
@@ -677,7 +677,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　100台　無料　予約不要</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.65 ／ 部屋 ★4.39 ／ 設備 ★4.29 ／ 風呂 ★4.65 ／ 食事 ★4.41</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質が最高で、また入りたくなる温泉ここまで泉質がいい温泉はなかなかない。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voic…　2026-10-09 21:25:28投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「泉質が最高で、また入りたくなる温泉ここまで泉質がいい温泉はなかなかない。」
                   </blockquote>
                 </div>
               </div>

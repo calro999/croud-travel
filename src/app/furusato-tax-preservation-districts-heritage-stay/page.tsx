@@ -413,7 +413,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有※倉敷国際ホテル駐車場（徒歩約5分）をご利用いただきます。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全ての料理が美味しく大満足料理が全て美味しかったです他の画像やクチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/108…」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「全ての料理が美味しく大満足料理が全て美味しかったです」
                   </blockquote>
                 </div>
               </div>
@@ -435,7 +435,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>30台（無料）／予約不要</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いていて心からくつろげた娘と宿泊しました。私は若干の潔癖症があり、ホテルや旅館ではくつろげないのですが、北門屋敷さんは掃除が行き届いていて、畳の上でも、ベッドの中でも、なんの心配も…　2026-09-01 23:01:32投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「掃除が行き届いていて心からくつろげた娘と宿泊しました。私は若干の潔癖症があり、ホテルや旅館ではくつろげないのですが、北門屋敷さんは掃除が行き届いていて、畳の上でも、ベッドの中でも、なんの心配も…」
                   </blockquote>
                 </div>
               </div>
@@ -457,7 +457,7 @@ export default function FurusatoUpgradedPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>１６台　無料　先着順　R２４『南八木』交差点東側　当館より徒歩２～３分　詳細はフロントにてご案内。</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素泊まりには便利だが清掃と備品に難あり素泊まりには十分。駅周辺でもあり、飲食店は多いので困らない。無料駐車場は限られてて、若干狭い、少し歩く必要あり。有料も周辺にあるので困る事はない。部屋…　2026-07-13 20:43:47投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「素泊まりには便利だが清掃と備品に難あり素泊まりには十分。駅周辺でもあり、飲食店は多いので困らない。無料駐車場は限られてて、若干狭い、少し歩く必要あり。有料も周辺にあるので困る事はない。部屋…」
                   </blockquote>
                 </div>
               </div>

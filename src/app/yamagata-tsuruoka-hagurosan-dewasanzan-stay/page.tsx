@@ -399,7 +399,7 @@ export default function MicroTouristHubPage() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　20台　無料</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.82 ／ 立地 ★4.34 ／ 部屋 ★4.75 ／ 設備 ★4.64 ／ 風呂 ★4.71 ／ 食事 ★4.89</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心のこもった食事に大満足夕食、朝食共に心のこもった品々に感激!大変おいしかった。夕食を8分目のプランにし満腹になったけれど次回は通常のプランで全てを食べたいと思った。季節を変えて食事を堪能しに行き…　2026-10-09 20:40:48投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「心のこもった食事に大満足夕食、朝食共に心のこもった品々に感激!大変おいしかった。夕食を8分目のプランにし満腹になったけれど次回は通常のプランで全てを食べたいと思った。季節を変えて食事を堪能しに行き…」
                   </blockquote>
                 </div>
               </div>
@@ -421,7 +421,7 @@ export default function MicroTouristHubPage() {
                   <p>【山形・鶴岡＆羽黒山・出羽三山：国宝羽黒山五重塔・杉並】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2時から翌日11時までゆっくり満喫!2時から翌日11時までゆっくり出来て最高です。直近、宿側の都合で姉妹旅館の九兵衛別館珠玉やさんに変更となりましたが立地的に九兵衛さん、ますやさんの間にあり全…　2026-09-07 23:22:55投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「2時から翌日11時までゆっくり満喫!2時から翌日11時までゆっくり出来て最高です。直近、宿側の都合で姉妹旅館の九兵衛別館珠玉やさんに変更となりましたが立地的に九兵衛さん、ますやさんの間にあり全…」
                   </blockquote>
                 </div>
               </div>

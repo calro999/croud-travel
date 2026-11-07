@@ -402,7 +402,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　５台　無料　先着順</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.72 ／ 立地 ★4.6 ／ 部屋 ★4.57 ／ 設備 ★4.45 ／ 風呂 ★4.43 ／ 食事 ★4.66</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです。クチコミの詳細はこちらから　…　2026-10-01 16:46:37投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「厳島神社にすぐたどり着けるロケーションで、宮島観光にはオススメです。夕食朝食付きにしてよかったです。夜の散歩企画なども開催されていてサービス面でもオススメです。」
                   </blockquote>
                 </div>
               </div>
@@ -424,7 +424,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>1泊1台3000円　15:00-翌11:00以外の時間 追加料金250円/30分</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.35 ／ 立地 ★4.52 ／ 部屋 ★4.41 ／ 設備 ★4.3 ／ 風呂 ★4.23 ／ 食事 ★4.38</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「市内中心部でどこへ行くにも便利な立地広島市内の中心部でどこに行くのも便利に思います。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hote…　2026-10-11 01:38:18投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「市内中心部でどこへ行くにも便利な立地広島市内の中心部でどこに行くのも便利に思います。」
                   </blockquote>
                 </div>
               </div>
@@ -446,7 +446,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>先着順（予約不可）／1泊1,800円／高さ制限1.55mまで</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.22 ／ 立地 ★4.21 ／ 部屋 ★4.15 ／ 設備 ★4.08 ／ 風呂 ★4.04</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広島の常宿、混雑時はラウンジでゆったり広島の常宿となっています。時期によりますが、外国の方や修学旅行の団体さんも宿泊されるので、タイミングが悪いとエレベータが混雑します。そんな時は、ウェルカムラウ…　2026-10-02 13:20:00投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「広島の常宿、混雑時はラウンジでゆったり広島の常宿となっています。時期によりますが、外国の方や修学旅行の団体さんも宿泊されるので、タイミングが悪いとエレベータが混雑します。そんな時は、ウェルカムラウ…」
                   </blockquote>
                 </div>
               </div>
@@ -468,7 +468,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り／駐車料金無料（チェックイン日15:00～翌11:00）／先着順／大型車は有料で要予約</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスがとてもよかったです。お部屋も広くて大満足です。大浴場は無いですが、近くの温泉施設に無料で送迎してもらえるのが非常にありがたかったです。しかも入浴のチケットもフロントで購入すれば割引もありタオ…　2026-08-16 11:55:04投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「サービスがとてもよかったです。お部屋も広くて大満足です。大浴場は無いですが、近くの温泉施設に無料で送迎してもらえるのが非常にありがたかったです。しかも入浴のチケットもフロントで購入すれば割引もありタオ…」
                   </blockquote>
                 </div>
               </div>

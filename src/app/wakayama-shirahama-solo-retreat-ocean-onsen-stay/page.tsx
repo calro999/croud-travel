@@ -531,7 +531,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>110台（無料）</p>
                   <p className="text-amber-800 font-semibold"><strong>【楽天トラベル項目別評価】</strong>サービス ★4.46 ／ 立地 ★4.5 ／ 部屋 ★4.42 ／ 設備 ★4.31 ／ 風呂 ★4.46 ／ 食事 ★4.49</p>
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イルミネーションと眺望が最高、子供も安心イルミネーションされていてとても綺麗でした部屋からの眺めも辺り見渡せて最高でした子供も安心して遊べるお部屋でしたクチコミの詳細はこちらから　ht…　2026-10-10 16:56:20投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「イルミネーションと眺望が最高、子供も安心イルミネーションされていてとても綺麗でした部屋からの眺めも辺り見渡せて最高でした子供も安心して遊べるお部屋でした」
                   </blockquote>
                 </div>
               </div>
@@ -553,7 +553,7 @@ export default function ArticlePage() {
                   <p><strong>【駐車場・マイカー利用】</strong>無料駐車場あり（２２０台）　ご到着時、当館玄関までお着け下さいませ</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗かつ広い部屋で不満ゼロでした。素晴らしかったです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/19739?r…　2026-09-05 22:53:27投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「綺麗かつ広い部屋で不満ゼロでした。素晴らしかったです。」
                   </blockquote>
                 </div>
               </div>

@@ -518,7 +518,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り（無料/予約不要）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広々とした部屋と朝食バイキングに満足502号室を利用させて頂きました。お部屋はとても清潔でよく清掃されておりました。お部屋にはプロジェクターや岩盤浴、ベットも3つ(ダブル×1、シング…　2026-08-20 07:07:41投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「清潔で広々とした部屋と朝食バイキングに満足502号室を利用させて頂きました。お部屋はとても清潔でよく清掃されておりました。お部屋にはプロジェクターや岩盤浴、ベットも3つ(ダブル×1、シング…」
                   </blockquote>
                 </div>
               </div>
@@ -540,7 +540,7 @@ export default function Page() {
                   <p>【プライベートクルーズ＆ヨットハーバー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉に浸かって良い一日を過ごせた久々にゆったりと温泉に浸かり、のんびりした気持ちになり、とても良い一日を過ごせました。クチコミの詳細はこちらから　https://review.travel.r…　2026-09-15 13:16:26投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「温泉に浸かって良い一日を過ごせた久々にゆったりと温泉に浸かり、のんびりした気持ちになり、とても良い一日を過ごせました。」
                   </blockquote>
                 </div>
               </div>
@@ -562,7 +562,7 @@ export default function Page() {
                   <p>【プライベートクルーズ＆ヨットハーバー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中禅寺湖の絶景と2種類の温泉に癒される中禅寺湖の眼の前で、眺めが最高!朝起きたら朝日が湖に、光って癒されました。温泉も硫黄泉と肌によい弱アルカリ泉と、2種類あり、ゆったりできました。地元の野菜のせ…　2026-09-12 17:19:44投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「中禅寺湖の絶景と2種類の温泉に癒される中禅寺湖の眼の前で、眺めが最高!朝起きたら朝日が湖に、光って癒されました。温泉も硫黄泉と肌によい弱アルカリ泉と、2種類あり、ゆったりできました。地元の野菜のせ…」
                   </blockquote>
                 </div>
               </div>
@@ -584,7 +584,7 @@ export default function Page() {
                   <p><strong>【駐車場・マイカー利用】</strong>有り　350台　￥1000／滞在</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のメニューが豊富で大満足朝食の満足度が高いです。クチコミの詳細はこちらから　https://review.travel.rakuten.co.jp/hotel/voice/17916?re…　2026-08-19 16:08:22投稿」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「朝食のメニューが豊富で大満足朝食の満足度が高いです。」
                   </blockquote>
                 </div>
               </div>
@@ -606,7 +606,7 @@ export default function Page() {
                   <p>【プライベートクルーズ＆ヨットハーバー】 <strong>【駐車場・マイカー利用】</strong>有り（詳細はプラン画面参照）</p>
                   
                   <blockquote className="bg-white p-3 rounded-xl border-l-4 border-amber-500 text-stone-600 italic">
-                    💬 <strong>宿泊者クチコミ抜粋：</strong>「6回目の利用、サウナ後のビールと食事が最高今回6回目の利用です、相変わらず居心地が良くてスタッフも親切 風呂の脱衣所のロッカーも新しいのが納入されていて良かった(前回は鍵の無いロッカーが多くて難儀…　2026-09-18 16:26:37投稿 &lt;a href=&quot;https://img.travel.rakuten.co.jp/image/tr/api/kw/HTX0u/?f_hotel_no=187181&quot; class=&quot;3click&quot;」
+                    💬 <strong>宿泊者クチコミ抜粋：</strong>「6回目の利用、サウナ後のビールと食事が最高今回6回目の利用です、相変わらず居心地が良くてスタッフも親切 風呂の脱衣所のロッカーも新しいのが納入されていて良かった(前回は鍵の無いロッカーが多くて難儀…」
                   </blockquote>
                 </div>
               </div>
