@@ -228,7 +228,7 @@ function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
                   </p>
                 </div>
 
-                <div className="pt-4 flex flex-col gap-3 border-t border-emerald-950/5">
+                <div className="pt-4 flex flex-col gap-2.5 border-t border-emerald-950/5">
                   <div className="flex flex-wrap gap-1">
                     {post.categories?.map((cat) => (
                       <span key={cat} className="text-[9px] font-bold text-teal-800 bg-teal-50 border border-teal-800/10 px-2.5 py-0.5 rounded-full">
@@ -236,12 +236,33 @@ function PostListInner({ initialPosts }: { initialPosts: Post[] }) {
                       </span>
                     ))}
                   </div>
-                  <Link
-                    href={`/posts/${post.id}/`}
-                    className="w-full text-center text-xs font-extrabold text-white bg-gradient-to-r from-teal-800 to-emerald-900 hover:from-teal-700 hover:to-emerald-800 py-3 rounded-xl shadow transition duration-200 cursor-pointer"
-                  >
-                    この宿の特集ルポを読む 🧭
-                  </Link>
+                  <div className="grid grid-cols-2 gap-2 pt-1">
+                    <Link
+                      href={`/posts/${post.id}/`}
+                      className="text-center text-xs font-bold text-teal-900 bg-teal-50 hover:bg-teal-100 border border-teal-900/20 py-2.5 rounded-xl transition duration-200"
+                    >
+                      宿詳細・ルポ
+                    </Link>
+                    {post.affiliate_url ? (
+                      <a
+                        href={post.affiliate_url}
+                        target="_blank"
+                        rel="sponsored noopener noreferrer"
+                        className="text-center text-xs font-black text-white bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 hover:from-red-500 hover:to-amber-500 py-2.5 rounded-xl shadow-md transition duration-200 flex items-center justify-center gap-1 border border-white/20"
+                      >
+                        <span>空室確認</span>
+                        <span className="text-[11px]">≫</span>
+                      </a>
+                    ) : (
+                      <Link
+                        href={`/posts/${post.id}/#section-booking`}
+                        className="text-center text-xs font-black text-white bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 hover:from-red-500 hover:to-amber-500 py-2.5 rounded-xl shadow-md transition duration-200 flex items-center justify-center gap-1 border border-white/20"
+                      >
+                        <span>プラン確認</span>
+                        <span className="text-[11px]">≫</span>
+                      </Link>
+                    )}
+                  </div>
                 </div>
               </div>
             </article>

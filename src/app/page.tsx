@@ -68,7 +68,7 @@ export default function Home() {
     description: (p.description || "").slice(0, 120),
     image: p.image,
     other_images: [] as string[],
-    affiliate_url: "",
+    affiliate_url: p.affiliate_url || "",
     prefecture: p.prefecture,
     area: p.area,
     categories: p.categories,

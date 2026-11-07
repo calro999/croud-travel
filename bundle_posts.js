@@ -79,6 +79,7 @@ function main() {
       hotel_name: p.hotel_name,
       description: (p.description || '').slice(0, 120),
       image: p.image,
+      affiliate_url: p.affiliate_url || '',
       prefecture: p.prefecture,
       area: p.area,
       categories: p.categories,
@@ -87,7 +88,7 @@ function main() {
       date: p.date
     }));
     fs.writeFileSync(path.join(PUBLIC_DATA_DIR, 'posts-list.json'), JSON.stringify(listItems), 'utf8');
-    const tsCode = `export interface PostSummary { id: string; title: string; hotel_name?: string; description?: string; prefecture?: string; area?: string; image?: string; categories?: string[]; price?: string | number; rating?: string | number; date?: string; }\n\nexport const POSTS_LIST_DATA: PostSummary[] = ${JSON.stringify(listItems)};\n`;
+    const tsCode = `export interface PostSummary { id: string; title: string; hotel_name?: string; description?: string; image?: string; affiliate_url?: string; prefecture?: string; area?: string; categories?: string[]; price?: string | number; rating?: string | number; date?: string; }\n\nexport const POSTS_LIST_DATA: PostSummary[] = ${JSON.stringify(listItems)};\n`;
     fs.writeFileSync(path.join(__dirname, 'src', 'data', 'postsListData.ts'), tsCode, 'utf8');
     console.log(`Wrote slim list: ${listItems.length} items to posts-list.json and postsListData.ts`);
   }
