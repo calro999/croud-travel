@@ -156,7 +156,7 @@ export default function FurusatoRadiumRadonHotspringStayPage() {
             <h2 className="text-2xl md:text-3xl font-bold font-serif text-stone-800 mb-3 flex items-center gap-3"><span className="text-amber-600 text-xl md:text-2xl">◆</span>
               ふるさと納税で泊まる厳選名宿｜奇跡のホルミシス効果</h2>
             <p className="text-stone-600 text-sm leading-relaxed">【奇跡のホルミシス効果】 
-              楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して実質2,000円で泊まれる名宿です。
+              楽天トラベルAPIから最新の実在宿データを取得。対象自治体のふるさと納税クーポンを利用して控除上限内で実質2,000円自己負担（最大30%クーポン還元）で泊まれる名宿です。
             </p>
           </div>
 

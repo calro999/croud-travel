@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "エメラルドグリーンの海と満天の星",
-  description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
+  description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
   keywords: ["2026年最新", "フサキ", "ANAインターコンチネンタル", "グランヴィリオ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay/",
   },
   openGraph: {
     title: "エメラルドグリーンの海と満天の星",
-    description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
+    description: '日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "エメラルドグリーンの海と満天の星！石垣島の天然ビーチ直結リゾート＆赤瓦プライベートヴィラ×ふるさと納税完全攻略ガイド【2026年最新】フサキ・ANAインターコンチネンタル・グランヴィリオ",
-    "description": "日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。",
+    "description": "日本屈指の南国アイランド・沖縄県石垣島！エメラルドの川平湾、八重山諸島の絶景パノラマ。「フサキビーチリゾート」「ANAインターコンチネンタル石垣リゾート」「グランヴィリオリゾート石垣島」を、沖縄県石垣市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。天然ビーチ直結、県内最大級ウォータースライダー、石垣牛ステーキを満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-ishigakijima-resort-villa-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -140,7 +140,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">03</span>
             <h3 className="font-bold text-gray-900 text-lg mb-3 leading-snug">石垣市ふるさと納税で最大30％OFF！3年間有効クーポンでオフシーズン・連休も自在に予約</h3>
-            <p className="text-sm text-gray-600 leading-relaxed">宿泊料金が高騰しやすい南国リゾートもふるさと納税なら実質2,000円。寄付から3年間有効なので、ベストシーズンの夏休みや冬の避寒旅行に最適です。</p>
+            <p className="text-sm text-gray-600 leading-relaxed">宿泊料金が高騰しやすい南国リゾートもふるさと納税なら控除上限の範囲内で自己負担実質2,000円（最大30%クーポン還元）。寄付から3年間有効なので、ベストシーズンの夏休みや冬の避寒旅行に最適です。</p>
           </div>
         </div>
       </section>
@@ -258,7 +258,7 @@ export default function FurusatoIshigakijimaLuxuryStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜エメラルドグリーンの海と満天の星</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜エメラルドグリーンの海と満天の星</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

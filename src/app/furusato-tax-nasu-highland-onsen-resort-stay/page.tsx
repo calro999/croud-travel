@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "ロイヤルリゾート那須の自然と名湯",
-  description: '御用邸が置かれる日本屈指のロイヤルリゾート・栃木県那須高原！雄大な茶臼岳と豊かな森。「ホテルエピナール那須」「那須温泉 山楽」「グランドメルキュール那須高原リゾート＆スパ」を、栃木県那須町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。大型温泉大浴場、大正創業の昭和天皇ゆかり名門、とちぎ和牛を満喫。',
+  description: '御用邸が置かれる日本屈指のロイヤルリゾート・栃木県那須高原！雄大な茶臼岳と豊かな森。「ホテルエピナール那須」「那須温泉 山楽」「グランドメルキュール那須高原リゾート＆スパ」を、栃木県那須町の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。大型温泉大浴場、大正創業の昭和天皇ゆかり名門、とちぎ和牛を満喫。',
   keywords: ["極上とちぎ和牛", "2026年最新", "エピナール那須", "山楽", "グランドメルキュール", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay/",
   },
   openGraph: {
     title: "ロイヤルリゾート那須の自然と名湯",
-    description: '御用邸が置かれる日本屈指のロイヤルリゾート・栃木県那須高原！雄大な茶臼岳と豊かな森。「ホテルエピナール那須」「那須温泉 山楽」「グランドメルキュール那須高原リゾート＆スパ」を、栃木県那須町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。大型温泉大浴場、大正創業の昭和天皇ゆかり名門、とちぎ和牛を満喫。',
+    description: '御用邸が置かれる日本屈指のロイヤルリゾート・栃木県那須高原！雄大な茶臼岳と豊かな森。「ホテルエピナール那須」「那須温泉 山楽」「グランドメルキュール那須高原リゾート＆スパ」を、栃木県那須町の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。大型温泉大浴場、大正創業の昭和天皇ゆかり名門、とちぎ和牛を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoNasuHighlandStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "ロイヤルリゾート那須の自然と名湯！那須温泉の美肌露天風呂＆極上とちぎ和牛・豪華高原バイキング×ふるさと納税完全攻略ガイド【2026年最新】エピナール那須・山楽・グランドメルキュール",
-    "description": "御用邸が置かれる日本屈指のロイヤルリゾート・栃木県那須高原！雄大な茶臼岳と豊かな森。「ホテルエピナール那須」「那須温泉 山楽」「グランドメルキュール那須高原リゾート＆スパ」を、栃木県那須町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。大型温泉大浴場、大正創業の昭和天皇ゆかり名門、とちぎ和牛を満喫。",
+    "description": "御用邸が置かれる日本屈指のロイヤルリゾート・栃木県那須高原！雄大な茶臼岳と豊かな森。「ホテルエピナール那須」「那須温泉 山楽」「グランドメルキュール那須高原リゾート＆スパ」を、栃木県那須町の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。大型温泉大浴場、大正創業の昭和天皇ゆかり名門、とちぎ和牛を満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-nasu-highland-onsen-resort-stay/",
     "publisher": {
       "@type": "Organization",
@@ -258,7 +258,7 @@ export default function FurusatoNasuHighlandStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜ロイヤルリゾート那須の自然と名湯</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜ロイヤルリゾート那須の自然と名湯</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

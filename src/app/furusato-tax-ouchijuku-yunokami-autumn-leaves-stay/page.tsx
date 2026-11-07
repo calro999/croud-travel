@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '会津・大内宿の茅葺き宿場町紅葉＆塔のへつり！湯野上温泉渓谷露天宿×ふるさと納税厳選ガイド福島',
-  description: '10月中旬〜11月上旬に江戸時代の宿場町が錦秋に染まる国選定重要伝統的建造物群保存地区「会津・大内宿」。名物ねぎそばや奇岩怪石の塔のへつり紅葉散策と、大川渓谷沿いに湧く名湯「藤龍館」「ホテル大坂屋」「清水屋旅館」で源泉掛け流し渓谷露天風呂と会津牛・郷土料理を堪能。ふるさと納税で実質2,000円。',
+  description: '10月中旬〜11月上旬に江戸時代の宿場町が錦秋に染まる国選定重要伝統的建造物群保存地区「会津・大内宿」。名物ねぎそばや奇岩怪石の塔のへつり紅葉散策と、大川渓谷沿いに湧く名湯「藤龍館」「ホテル大坂屋」「清水屋旅館」で源泉掛け流し渓谷露天風呂と会津牛・郷土料理を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
   keywords: ["会津", "大内宿の茅葺き宿場町紅葉", "2026年最新秋旅", "福島", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ouchijuku-yunokami-autumn-leaves-stay/"
   },
   openGraph: {
     title: '会津・大内宿の茅葺き宿場町紅葉＆塔のへつり！湯野上温泉渓谷露天宿×ふるさと納税厳選ガイド福島',
-    description: '10月中旬〜11月上旬に江戸時代の宿場町が錦秋に染まる国選定重要伝統的建造物群保存地区「会津・大内宿」。名物ねぎそばや奇岩怪石の塔のへつり紅葉散策と、大川渓谷沿いに湧く名湯「藤龍館」「ホテル大坂屋」「清水屋旅館」で源泉掛け流し渓谷露天風呂と会津牛・郷土料理を堪能。ふるさと納税で実質2,000円。',
+    description: '10月中旬〜11月上旬に江戸時代の宿場町が錦秋に染まる国選定重要伝統的建造物群保存地区「会津・大内宿」。名物ねぎそばや奇岩怪石の塔のへつり紅葉散策と、大川渓谷沿いに湧く名湯「藤龍館」「ホテル大坂屋」「清水屋旅館」で源泉掛け流し渓谷露天風呂と会津牛・郷土料理を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ouchijuku-yunokami-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
@@ -73,7 +73,7 @@ export default function FeatureArticlePage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "会津・大内宿の茅葺き宿場町紅葉＆塔のへつり！湯野上温泉渓谷露天宿×ふるさと納税完全ガイド【2026年最新秋旅】福島",
-    "description": "10月中旬〜11月上旬に江戸時代の宿場町が錦秋に染まる国選定重要伝統的建造物群保存地区「会津・大内宿」。名物ねぎそばや奇岩怪石の塔のへつり紅葉散策と、大川渓谷沿いに湧く名湯「藤龍館」「ホテル大坂屋」「清水屋旅館」で源泉掛け流し渓谷露天風呂と会津牛・郷土料理を堪能。ふるさと納税で実質2,000円。",
+    "description": "10月中旬〜11月上旬に江戸時代の宿場町が錦秋に染まる国選定重要伝統的建造物群保存地区「会津・大内宿」。名物ねぎそばや奇岩怪石の塔のへつり紅葉散策と、大川渓谷沿いに湧く名湯「藤龍館」「ホテル大坂屋」「清水屋旅館」で源泉掛け流し渓谷露天風呂と会津牛・郷土料理を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-ouchijuku-yunokami-autumn-leaves-stay/",
     "publisher": {
       "@type": "Organization",
@@ -137,7 +137,7 @@ export default function FeatureArticlePage() {
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
                 <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（会津・大内宿の茅葺き宿場町紅葉＆塔のへつり）</li>
                 <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（会津・大内宿の茅葺き宿場町紅葉＆塔のへつり）</li>
-                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（会津・大内宿の茅葺き宿場町紅葉＆塔のへつり）</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（会津・大内宿の茅葺き宿場町紅葉＆塔のへつり）</li>
               </ul>
             </div>
           </section>
@@ -327,7 +327,7 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法｜会津・大内宿の茅葺き宿場町紅葉＆塔のへつり</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法｜会津・大内宿の茅葺き宿場町紅葉＆塔のへつり</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
               <p>【会津・大内宿の茅葺き宿場町紅葉＆塔のへつり】 
                 楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。

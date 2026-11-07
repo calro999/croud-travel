@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税厳選ガイド熊本',
-  description: '10月〜11月にカルデラ外輪山一面が黄金色に輝く「熊本・阿蘇大観峰＆ミルクロード」。早朝の幻想的な阿蘇カルデラ雲海と草千里ヶ浜の秋景色、文豪たちに愛された「阿蘇内牧温泉 大観荘」「蘇山郷」「親和苑」で自家源泉掛け流し露天風呂と阿蘇名物・肥後あか牛丼・すき焼きステーキを堪能。ふるさと納税で実質2,000円。',
+  description: '10月〜11月にカルデラ外輪山一面が黄金色に輝く「熊本・阿蘇大観峰＆ミルクロード」。早朝の幻想的な阿蘇カルデラ雲海と草千里ヶ浜の秋景色、文豪たちに愛された「阿蘇内牧温泉 大観荘」「蘇山郷」「親和苑」で自家源泉掛け流し露天風呂と阿蘇名物・肥後あか牛丼・すき焼きステーキを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
   keywords: ["阿蘇", "大観峰の黄金ススキ大草原", "秋の雲海パノラマ！阿蘇内牧温泉", "あか牛会席宿×ふるさと納税", "2026年最新秋旅", "熊本", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/"
   },
   openGraph: {
     title: '阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税厳選ガイド熊本',
-    description: '10月〜11月にカルデラ外輪山一面が黄金色に輝く「熊本・阿蘇大観峰＆ミルクロード」。早朝の幻想的な阿蘇カルデラ雲海と草千里ヶ浜の秋景色、文豪たちに愛された「阿蘇内牧温泉 大観荘」「蘇山郷」「親和苑」で自家源泉掛け流し露天風呂と阿蘇名物・肥後あか牛丼・すき焼きステーキを堪能。ふるさと納税で実質2,000円。',
+    description: '10月〜11月にカルデラ外輪山一面が黄金色に輝く「熊本・阿蘇大観峰＆ミルクロード」。早朝の幻想的な阿蘇カルデラ雲海と草千里ヶ浜の秋景色、文豪たちに愛された「阿蘇内牧温泉 大観荘」「蘇山郷」「親和苑」で自家源泉掛け流し露天風呂と阿蘇名物・肥後あか牛丼・すき焼きステーキを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
     url: 'https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
@@ -73,7 +73,7 @@ export default function FeatureArticlePage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ！阿蘇内牧温泉・あか牛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】熊本",
-    "description": "10月〜11月にカルデラ外輪山一面が黄金色に輝く「熊本・阿蘇大観峰＆ミルクロード」。早朝の幻想的な阿蘇カルデラ雲海と草千里ヶ浜の秋景色、文豪たちに愛された「阿蘇内牧温泉 大観荘」「蘇山郷」「親和苑」で自家源泉掛け流し露天風呂と阿蘇名物・肥後あか牛丼・すき焼きステーキを堪能。ふるさと納税で実質2,000円。",
+    "description": "10月〜11月にカルデラ外輪山一面が黄金色に輝く「熊本・阿蘇大観峰＆ミルクロード」。早朝の幻想的な阿蘇カルデラ雲海と草千里ヶ浜の秋景色、文豪たちに愛された「阿蘇内牧温泉 大観荘」「蘇山郷」「親和苑」で自家源泉掛け流し露天風呂と阿蘇名物・肥後あか牛丼・すき焼きステーキを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-aso-daikanbo-susuki-autumn-stay/",
     "publisher": {
       "@type": "Organization",
@@ -137,7 +137,7 @@ export default function FeatureArticlePage() {
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
                 <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ）</li>
                 <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ）</li>
-                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ）</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ）</li>
               </ul>
             </div>
           </section>
@@ -327,7 +327,7 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法｜阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法｜阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
               <p>【阿蘇・大観峰の黄金ススキ大草原＆秋の雲海パノラマ】 
                 楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。

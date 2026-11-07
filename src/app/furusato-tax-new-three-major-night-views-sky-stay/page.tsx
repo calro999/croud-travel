@@ -117,7 +117,7 @@ export default function Page() {
                 03
               </div>
               <h3 className="font-bold text-white text-lg mb-2">楽天ふるさと納税宿泊クーポンで憧れの夜景ホテルをお得にリザーブ</h3>
-              <p className="text-slate-400 text-sm leading-relaxed">寄付額に応じた即時割引クーポンを活用し、実質2,000円の自己負担で記念日旅行をお得にアップグレード。</p>
+              <p className="text-slate-400 text-sm leading-relaxed">寄付額に応じた即時割引クーポンを活用し、控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）記念日旅行をお得にアップグレード。</p>
             </div>
           </div>
         </section>

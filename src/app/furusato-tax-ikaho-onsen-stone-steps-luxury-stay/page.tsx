@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "365段の石段街と情緒あふれる湯滝",
-  description: '万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。',
+  description: '万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。',
   keywords: ["2026年最新", "福一", "岸権", "木暮", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/",
   },
   openGraph: {
     title: "365段の石段街と情緒あふれる湯滝",
-    description: '万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。',
+    description: '万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "365段の石段街と情緒あふれる湯滝！伊香保温泉の「黄金の湯」「白銀の湯」名門旅館＆上州牛会席×ふるさと納税完全攻略ガイド【2026年最新】福一・岸権・木暮",
-    "description": "万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。",
+    "description": "万葉集にも詠まれた名湯・群馬県伊香保温泉！365段の石段街と湯の花まんじゅう。「福一」「岸権旅館」「ホテル木暮」を、群馬県渋川市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。創業四百四十年最上位の格式、黄金の湯かけ流し、北関東最大級大浴場、上州牛ステーキを満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-ikaho-onsen-stone-steps-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -140,7 +140,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">03</span>
             <h3 className="font-bold text-gray-900 text-lg mb-3 leading-snug">渋川市ふるさと納税で最大30％OFF！3年間有効クーポンで週末や紅葉シーズンに予約</h3>
-            <p className="text-sm text-gray-600 leading-relaxed">都心からバスや特急でアクセスの良い伊香保もふるさと納税なら実質2,000円。寄付から3年間有効なので、気軽な週末旅行に最適です。</p>
+            <p className="text-sm text-gray-600 leading-relaxed">都心からバスや特急でアクセスの良い伊香保もふるさと納税なら控除上限の範囲内で自己負担実質2,000円（最大30%クーポン還元）。寄付から3年間有効なので、気軽な週末旅行に最適です。</p>
           </div>
         </div>
       </section>
@@ -258,7 +258,7 @@ export default function FurusatoIkahoOnsenStoneStepsStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜365段の石段街と情緒あふれる湯滝</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜365段の石段街と情緒あふれる湯滝</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

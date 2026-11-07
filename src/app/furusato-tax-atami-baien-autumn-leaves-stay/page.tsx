@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税厳選ガイド静岡',
-  description: '11月中旬〜12月上旬に約380本のカエデが真っ赤に色づく日本一遅い紅葉の名所「静岡・熱海梅園もみじまつり」。夜空を焦がす秋の熱海海上花火大会と相模湾の絶景、老舗温泉宿「旅館 立花」「古屋旅館」「三平荘」で徳川家康公ゆかりの名湯・熱海温泉と伊豆名物・金目鯛の姿煮・鮑踊り焼きを堪能。ふるさと納税で実質2,000円。',
+  description: '11月中旬〜12月上旬に約380本のカエデが真っ赤に色づく日本一遅い紅葉の名所「静岡・熱海梅園もみじまつり」。夜空を焦がす秋の熱海海上花火大会と相模湾の絶景、老舗温泉宿「旅館 立花」「古屋旅館」「三平荘」で徳川家康公ゆかりの名湯・熱海温泉と伊豆名物・金目鯛の姿煮・鮑踊り焼きを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
   keywords: ["熱海梅園の日本一遅い紅葉まつり", "2026年最新秋旅", "静岡", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-atami-baien-autumn-leaves-stay/"
   },
   openGraph: {
     title: '熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税厳選ガイド静岡',
-    description: '11月中旬〜12月上旬に約380本のカエデが真っ赤に色づく日本一遅い紅葉の名所「静岡・熱海梅園もみじまつり」。夜空を焦がす秋の熱海海上花火大会と相模湾の絶景、老舗温泉宿「旅館 立花」「古屋旅館」「三平荘」で徳川家康公ゆかりの名湯・熱海温泉と伊豆名物・金目鯛の姿煮・鮑踊り焼きを堪能。ふるさと納税で実質2,000円。',
+    description: '11月中旬〜12月上旬に約380本のカエデが真っ赤に色づく日本一遅い紅葉の名所「静岡・熱海梅園もみじまつり」。夜空を焦がす秋の熱海海上花火大会と相模湾の絶景、老舗温泉宿「旅館 立花」「古屋旅館」「三平荘」で徳川家康公ゆかりの名湯・熱海温泉と伊豆名物・金目鯛の姿煮・鮑踊り焼きを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
     url: 'https://croud-travel.pages.dev/furusato-tax-atami-baien-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
@@ -73,7 +73,7 @@ export default function FeatureArticlePage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会！伊豆金目鯛会席宿×ふるさと納税完全ガイド【2026年最新秋旅】静岡",
-    "description": "11月中旬〜12月上旬に約380本のカエデが真っ赤に色づく日本一遅い紅葉の名所「静岡・熱海梅園もみじまつり」。夜空を焦がす秋の熱海海上花火大会と相模湾の絶景、老舗温泉宿「旅館 立花」「古屋旅館」「三平荘」で徳川家康公ゆかりの名湯・熱海温泉と伊豆名物・金目鯛の姿煮・鮑踊り焼きを堪能。ふるさと納税で実質2,000円。",
+    "description": "11月中旬〜12月上旬に約380本のカエデが真っ赤に色づく日本一遅い紅葉の名所「静岡・熱海梅園もみじまつり」。夜空を焦がす秋の熱海海上花火大会と相模湾の絶景、老舗温泉宿「旅館 立花」「古屋旅館」「三平荘」で徳川家康公ゆかりの名湯・熱海温泉と伊豆名物・金目鯛の姿煮・鮑踊り焼きを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-atami-baien-autumn-leaves-stay/",
     "publisher": {
       "@type": "Organization",
@@ -137,7 +137,7 @@ export default function FeatureArticlePage() {
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
                 <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会）</li>
                 <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会）</li>
-                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会）</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会）</li>
               </ul>
             </div>
           </section>
@@ -327,7 +327,7 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法｜熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法｜熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
               <p>【熱海梅園の日本一遅い紅葉まつり＆熱海海上花火大会】 
                 楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。

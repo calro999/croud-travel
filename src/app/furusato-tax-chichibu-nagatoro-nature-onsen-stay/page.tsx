@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "名勝岩畳と長瀞ライン下り",
-  description: '都心から特急で約80分の小旅行！名勝「長瀞岩畳」と秩父三社巡り。「和銅鉱泉 ゆの宿 和どう」「秩父七湯 新木鉱泉旅館」「長瀞温泉 花のおもてなし 長生館」を、埼玉県秩父市・長瀞町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。和同開珎ゆかりの薬師の湯、創業百九十年卵水、名物長瀞流しそうめん・囲炉裏会席を満喫。',
+  description: '都心から特急で約80分の小旅行！名勝「長瀞岩畳」と秩父三社巡り。「和銅鉱泉 ゆの宿 和どう」「秩父七湯 新木鉱泉旅館」「長瀞温泉 花のおもてなし 長生館」を、埼玉県秩父市・長瀞町の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。和同開珎ゆかりの薬師の湯、創業百九十年卵水、名物長瀞流しそうめん・囲炉裏会席を満喫。',
   keywords: ["名勝岩畳と長瀞ライン下り！秩父", "長瀞の横瀬川清流望む露天風呂", "創業190年美肌鉱泉", "2026年最新", "和どう", "新木鉱泉", "長生館"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay/",
   },
   openGraph: {
     title: "名勝岩畳と長瀞ライン下り",
-    description: '都心から特急で約80分の小旅行！名勝「長瀞岩畳」と秩父三社巡り。「和銅鉱泉 ゆの宿 和どう」「秩父七湯 新木鉱泉旅館」「長瀞温泉 花のおもてなし 長生館」を、埼玉県秩父市・長瀞町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。和同開珎ゆかりの薬師の湯、創業百九十年卵水、名物長瀞流しそうめん・囲炉裏会席を満喫。',
+    description: '都心から特急で約80分の小旅行！名勝「長瀞岩畳」と秩父三社巡り。「和銅鉱泉 ゆの宿 和どう」「秩父七湯 新木鉱泉旅館」「長瀞温泉 花のおもてなし 長生館」を、埼玉県秩父市・長瀞町の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。和同開珎ゆかりの薬師の湯、創業百九十年卵水、名物長瀞流しそうめん・囲炉裏会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "名勝岩畳と長瀞ライン下り！秩父・長瀞の横瀬川清流望む露天風呂＆創業190年美肌鉱泉・郷土会席名宿×ふるさと納税完全攻略ガイド【2026年最新】和どう・新木鉱泉・長生館",
-    "description": "都心から特急で約80分の小旅行！名勝「長瀞岩畳」と秩父三社巡り。「和銅鉱泉 ゆの宿 和どう」「秩父七湯 新木鉱泉旅館」「長瀞温泉 花のおもてなし 長生館」を、埼玉県秩父市・長瀞町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。和同開珎ゆかりの薬師の湯、創業百九十年卵水、名物長瀞流しそうめん・囲炉裏会席を満喫。",
+    "description": "都心から特急で約80分の小旅行！名勝「長瀞岩畳」と秩父三社巡り。「和銅鉱泉 ゆの宿 和どう」「秩父七湯 新木鉱泉旅館」「長瀞温泉 花のおもてなし 長生館」を、埼玉県秩父市・長瀞町の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。和同開珎ゆかりの薬師の湯、創業百九十年卵水、名物長瀞流しそうめん・囲炉裏会席を満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-chichibu-nagatoro-nature-onsen-stay/",
     "publisher": {
       "@type": "Organization",
@@ -258,7 +258,7 @@ export default function FurusatoChichibuNagatoroStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜名勝岩畳と長瀞ライン下り</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜名勝岩畳と長瀞ライン下り</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

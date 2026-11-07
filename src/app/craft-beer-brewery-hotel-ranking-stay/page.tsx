@@ -293,7 +293,7 @@ export default function Page() {
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">
               <h4 className="font-bold text-teal-950">Q. クラフトビール・ブルワリー旅の予約でお得な方法はありますか？</h4>
               <p className="text-emerald-950/80 leading-relaxed">【出来立ての生ビールと名湯に酔いしれる】 
-                楽天トラベルの「5と0のつく日セール」による最大20%割引や、実質2,000円の自己負担で宿泊できる「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
+                楽天トラベルの「5と0のつく日セール」による最大20%割引や、控除上限内であれば自己負担実質2,000円で宿泊できる（寄付額の最大30%クーポン還元）「楽天ふるさと納税宿泊クーポン」の併用が最もお得でおすすめです。
               </p>
             </div>
             <div className="p-4 rounded-xl bg-teal-50/30 border border-teal-900/10 space-y-1.5">

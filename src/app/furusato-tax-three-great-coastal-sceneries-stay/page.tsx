@@ -222,7 +222,7 @@ export default function Page() {
                 <span>楽天ふるさと納税宿泊クーポンでオーシャンビュー名旅館をお得にステイ</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                名勝地の特等席に佇む人気ホテルも、寄付金額に応じた即時割引クーポンで実質2,000円負担の快適宿泊。
+                名勝地の特等席に佇む人気ホテルも、寄付金額に応じた即時割引クーポンで控除上限内なら実質2,000円自己負担（最大30%クーポン還元）の快適宿泊。
               </p>
             </div>
             
@@ -331,7 +331,7 @@ export default function Page() {
           <div className="text-center space-y-2">
             <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ｜日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉</h2>
             <p className="text-xs md:text-sm text-slate-300">【日本三大白砂青松＆海の絶景パノラマ・海岸リゾート温泉】 
-              実質2,000円の自己負担で憧れの高級宿・温泉旅館をお得に予約できます
+              控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れの高級宿・温泉旅館をお得に予約できます
             </p>
           </div>
 

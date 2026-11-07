@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "東洋一の宮古ブルーとウミガメの楽園",
-  description: '「宮古ブルー」と称される世界最高峰の透明度！沖縄屈指の楽園リゾート・宮古島。「シギラベイサイドスイート アラマンダ」「キャノピーbyヒルトン沖縄宮古島リゾート」「ホテルシギラミラージュ」を、沖縄県宮古島市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ウミガメが泳ぐラグーン、プライベートプール、宮古牛を満喫。',
+  description: '「宮古ブルー」と称される世界最高峰の透明度！沖縄屈指の楽園リゾート・宮古島。「シギラベイサイドスイート アラマンダ」「キャノピーbyヒルトン沖縄宮古島リゾート」「ホテルシギラミラージュ」を、沖縄県宮古島市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。ウミガメが泳ぐラグーン、プライベートプール、宮古牛を満喫。',
   keywords: ["2026年最新", "アラマンダ", "ヒルトン", "シギラミラージュ", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-miyakojima-allamanda-resort-stay/",
   },
   openGraph: {
     title: "東洋一の宮古ブルーとウミガメの楽園",
-    description: '「宮古ブルー」と称される世界最高峰の透明度！沖縄屈指の楽園リゾート・宮古島。「シギラベイサイドスイート アラマンダ」「キャノピーbyヒルトン沖縄宮古島リゾート」「ホテルシギラミラージュ」を、沖縄県宮古島市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ウミガメが泳ぐラグーン、プライベートプール、宮古牛を満喫。',
+    description: '「宮古ブルー」と称される世界最高峰の透明度！沖縄屈指の楽園リゾート・宮古島。「シギラベイサイドスイート アラマンダ」「キャノピーbyヒルトン沖縄宮古島リゾート」「ホテルシギラミラージュ」を、沖縄県宮古島市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。ウミガメが泳ぐラグーン、プライベートプール、宮古牛を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-miyakojima-allamanda-resort-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoMiyakojimaLuxuryStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "東洋一の宮古ブルーとウミガメの楽園！宮古島の全室スイートリゾート＆プライベートプール付き極上ヴィラ×ふるさと納税完全攻略ガイド【2026年最新】アラマンダ・ヒルトン・シギラミラージュ",
-    "description": "「宮古ブルー」と称される世界最高峰の透明度！沖縄屈指の楽園リゾート・宮古島。「シギラベイサイドスイート アラマンダ」「キャノピーbyヒルトン沖縄宮古島リゾート」「ホテルシギラミラージュ」を、沖縄県宮古島市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。ウミガメが泳ぐラグーン、プライベートプール、宮古牛を満喫。",
+    "description": "「宮古ブルー」と称される世界最高峰の透明度！沖縄屈指の楽園リゾート・宮古島。「シギラベイサイドスイート アラマンダ」「キャノピーbyヒルトン沖縄宮古島リゾート」「ホテルシギラミラージュ」を、沖縄県宮古島市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。ウミガメが泳ぐラグーン、プライベートプール、宮古牛を満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-miyakojima-allamanda-resort-stay/",
     "publisher": {
       "@type": "Organization",
@@ -258,7 +258,7 @@ export default function FurusatoMiyakojimaLuxuryStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜東洋一の宮古ブルーとウミガメの楽園</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜東洋一の宮古ブルーとウミガメの楽園</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

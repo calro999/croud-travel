@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "木漏れ日の高原と洗練の森",
-  description: '日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。',
+  description: '日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。',
   keywords: ["2026年最新", "マリオット", "プリンスイースト", "音羽ノ森", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay/",
   },
   openGraph: {
     title: "木漏れ日の高原と洗練の森",
-    description: '日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。',
+    description: '日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "木漏れ日の高原と洗練の森！軽井沢の温泉露天風呂付きラグジュアリーホテル＆本格フレンチ名宿×ふるさと納税完全攻略ガイド【2026年最新】マリオット・プリンスイースト・音羽ノ森",
-    "description": "日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。",
+    "description": "日本を代表する最高峰の高原避暑地・軽井沢！白樺と落葉松の森、旧軽井沢銀座散策。「軽井沢マリオットホテル」「軽井沢プリンスホテル イースト」「旧軽井沢 ホテル音羽ノ森」を、長野県軽井沢町の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。客室温泉露天風呂、天然温泉スパ、信州牛グリルを満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-karuizawa-luxury-resort-villa-stay/",
     "publisher": {
       "@type": "Organization",
@@ -140,7 +140,7 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">03</span>
             <h3 className="font-bold text-gray-900 text-lg mb-3 leading-snug">軽井沢町ふるさと納税で最大30％OFF！3年間有効クーポンで避暑や紅葉シーズンに予約</h3>
-            <p className="text-sm text-gray-600 leading-relaxed">ハイシーズンに宿泊料が高騰しやすい軽井沢もふるさと納税なら実質2,000円。3年間の有効期間を活かして計画的に利用できます。</p>
+            <p className="text-sm text-gray-600 leading-relaxed">ハイシーズンに宿泊料が高騰しやすい軽井沢もふるさと納税なら控除上限の範囲内で自己負担実質2,000円（最大30%クーポン還元）。3年間の有効期間を活かして計画的に利用できます。</p>
           </div>
         </div>
       </section>
@@ -258,7 +258,7 @@ export default function FurusatoKaruizawaLuxuryStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜木漏れ日の高原と洗練の森</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜木漏れ日の高原と洗練の森</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

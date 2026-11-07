@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税厳選ガイド和歌山',
-  description: '10月下旬〜11月中旬に見頃を迎える世界遺産「熊野古道・大門坂」と落差133mの名瀑「那智の滝」。石畳を彩るモミジと熊野那智大社、名湯・南紀勝浦温泉の老舗「ホテル浦島」「万清楼」「休暇村 南紀勝浦」で忘帰洞の波打ち際温泉や勝浦港直送の生マグロ会席を堪能。楽天ふるさと納税で実質2,000円。',
+  description: '10月下旬〜11月中旬に見頃を迎える世界遺産「熊野古道・大門坂」と落差133mの名瀑「那智の滝」。石畳を彩るモミジと熊野那智大社、名湯・南紀勝浦温泉の老舗「ホテル浦島」「万清楼」「休暇村 南紀勝浦」で忘帰洞の波打ち際温泉や勝浦港直送の生マグロ会席を堪能。楽天ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
   keywords: ["世界遺産", "熊野古道の大門坂紅葉", "2026年最新秋旅", "和歌山", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-katsuura-kumano-kodo-autumn-stay/"
   },
   openGraph: {
     title: '世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税厳選ガイド和歌山',
-    description: '10月下旬〜11月中旬に見頃を迎える世界遺産「熊野古道・大門坂」と落差133mの名瀑「那智の滝」。石畳を彩るモミジと熊野那智大社、名湯・南紀勝浦温泉の老舗「ホテル浦島」「万清楼」「休暇村 南紀勝浦」で忘帰洞の波打ち際温泉や勝浦港直送の生マグロ会席を堪能。楽天ふるさと納税で実質2,000円。',
+    description: '10月下旬〜11月中旬に見頃を迎える世界遺産「熊野古道・大門坂」と落差133mの名瀑「那智の滝」。石畳を彩るモミジと熊野那智大社、名湯・南紀勝浦温泉の老舗「ホテル浦島」「万清楼」「休暇村 南紀勝浦」で忘帰洞の波打ち際温泉や勝浦港直送の生マグロ会席を堪能。楽天ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
     url: 'https://croud-travel.pages.dev/furusato-tax-katsuura-kumano-kodo-autumn-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FeatureArticlePage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税完全ガイド【2026年最新秋旅】和歌山",
-    "description": "10月下旬〜11月中旬に見頃を迎える世界遺産「熊野古道・大門坂」と落差133mの名瀑「那智の滝」。石畳を彩るモミジと熊野那智大社、名湯・南紀勝浦温泉の老舗「ホテル浦島」「万清楼」「休暇村 南紀勝浦」で忘帰洞の波打ち際温泉や勝浦港直送の生マグロ会席を堪能。楽天ふるさと納税で実質2,000円。",
+    "description": "10月下旬〜11月中旬に見頃を迎える世界遺産「熊野古道・大門坂」と落差133mの名瀑「那智の滝」。石畳を彩るモミジと熊野那智大社、名湯・南紀勝浦温泉の老舗「ホテル浦島」「万清楼」「休暇村 南紀勝浦」で忘帰洞の波打ち際温泉や勝浦港直送の生マグロ会席を堪能。楽天ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-katsuura-kumano-kodo-autumn-stay/",
     "publisher": {
       "@type": "Organization",
@@ -68,7 +68,7 @@ export default function FeatureArticlePage() {
             </span>
             <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold font-serif tracking-tight leading-snug">世界遺産・熊野古道の大門坂紅葉＆那智の滝！南紀勝浦の大洞窟露天風呂宿×ふるさと納税厳選ガイド和歌山</h1>
             <p className="text-stone-300 text-sm md:text-base max-w-3xl leading-relaxed">
-              10月下旬〜11月中旬に見頃を迎える世界遺産「熊野古道・大門坂」と落差133mの名瀑「那智の滝」。石畳を彩るモミジと熊野那智大社、名湯・南紀勝浦温泉の老舗「ホテル浦島」「万清楼」「休暇村 南紀勝浦」で忘帰洞の波打ち際温泉や勝浦港直送の生マグロ会席を堪能。楽天ふるさと納税で実質2,000円。
+              10月下旬〜11月中旬に見頃を迎える世界遺産「熊野古道・大門坂」と落差133mの名瀑「那智の滝」。石畳を彩るモミジと熊野那智大社、名湯・南紀勝浦温泉の老舗「ホテル浦島」「万清楼」「休暇村 南紀勝浦」で忘帰洞の波打ち際温泉や勝浦港直送の生マグロ会席を堪能。楽天ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。
             </p>
             <div className="pt-2 flex flex-wrap items-center gap-4 text-xs md:text-sm text-amber-200/90 font-medium">
               <span className="flex items-center gap-1.5">

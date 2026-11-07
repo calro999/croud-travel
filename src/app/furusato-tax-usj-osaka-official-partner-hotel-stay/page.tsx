@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'パーク徒歩圏＆天然温泉！USJオフィシャルホテル×ふるさと納税極上旅ガイド近鉄・京阪タワー・リーベルで大阪旅行をお得に満喫',
-  description: 'ユニバーサル・スタジオ・ジャパン（USJ）の目の前に泊まる感動！パークまで徒歩1〜2分、スタジオ・パスのホテル内購入やキャラクタールーム、地上110mの絶景天然温泉など特典満載。「ホテル近鉄ユニバーサル・シティ」「ホテル京阪 ユニバーサル・タワー」「リーベルホテル大阪」を、大阪市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
+  description: 'ユニバーサル・スタジオ・ジャパン（USJ）の目の前に泊まる感動！パークまで徒歩1〜2分、スタジオ・パスのホテル内購入やキャラクタールーム、地上110mの絶景天然温泉など特典満載。「ホテル近鉄ユニバーサル・シティ」「ホテル京阪 ユニバーサル・タワー」「リーベルホテル大阪」を、大阪市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。',
   keywords: ["パーク徒歩圏", "2026年最新", "近鉄", "京阪タワー", "リーベルで大阪旅行をお得に満喫", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-usj-osaka-official-partner-hotel-stay/",
   },
   openGraph: {
     title: 'パーク徒歩圏＆天然温泉！USJオフィシャルホテル×ふるさと納税極上旅ガイド近鉄・京阪タワー・リーベルで大阪旅行をお得に満喫',
-    description: 'ユニバーサル・スタジオ・ジャパン（USJ）の目の前に泊まる感動！パークまで徒歩1〜2分、スタジオ・パスのホテル内購入やキャラクタールーム、地上110mの絶景天然温泉など特典満載。「ホテル近鉄ユニバーサル・シティ」「ホテル京阪 ユニバーサル・タワー」「リーベルホテル大阪」を、大阪市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
+    description: 'ユニバーサル・スタジオ・ジャパン（USJ）の目の前に泊まる感動！パークまで徒歩1〜2分、スタジオ・パスのホテル内購入やキャラクタールーム、地上110mの絶景天然温泉など特典満載。「ホテル近鉄ユニバーサル・シティ」「ホテル京阪 ユニバーサル・タワー」「リーベルホテル大阪」を、大阪市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-usj-osaka-official-partner-hotel-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoUSJOfficialPartnerHotelStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "パーク徒歩圏＆天然温泉！USJオフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】近鉄・京阪タワー・リーベルで大阪旅行をお得に満喫",
-    "description": "ユニバーサル・スタジオ・ジャパン（USJ）の目の前に泊まる感動！パークまで徒歩1〜2分、スタジオ・パスのホテル内購入やキャラクタールーム、地上110mの絶景天然温泉など特典満載。「ホテル近鉄ユニバーサル・シティ」「ホテル京阪 ユニバーサル・タワー」「リーベルホテル大阪」を、大阪市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。",
+    "description": "ユニバーサル・スタジオ・ジャパン（USJ）の目の前に泊まる感動！パークまで徒歩1〜2分、スタジオ・パスのホテル内購入やキャラクタールーム、地上110mの絶景天然温泉など特典満載。「ホテル近鉄ユニバーサル・シティ」「ホテル京阪 ユニバーサル・タワー」「リーベルホテル大阪」を、大阪市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-usj-osaka-official-partner-hotel-stay/",
     "publisher": {
       "@type": "Organization",
@@ -258,7 +258,7 @@ export default function FurusatoUSJOfficialPartnerHotelStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜パーク徒歩圏＆天然温泉</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜パーク徒歩圏＆天然温泉</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

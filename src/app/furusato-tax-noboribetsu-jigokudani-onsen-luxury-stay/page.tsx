@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "湯量毎分3000L・9種の源泉デパート",
-  description: '日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。',
+  description: '日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。',
   keywords: ["湯量毎分3000L", "2026年最新", "第一滝本館", "まほろば", "グランドホテル", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/",
   },
   openGraph: {
     title: "湯量毎分3000L・9種の源泉デパート",
-    description: '日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。',
+    description: '日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "湯量毎分3000L・9種の源泉デパート！登別温泉の地獄谷一望大浴場＆カニ食べ放題名門宿×ふるさと納税完全攻略ガイド【2026年最新】第一滝本館・まほろば・グランドホテル",
-    "description": "日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。",
+    "description": "日本屈指の温泉天国・北海道登別温泉！立ちのぼる白煙が圧巻の地獄谷に隣接。「第一滝本館」「登別温泉 ホテル まほろば」「登別温泉 登別グランドホテル」を、北海道登別市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。1500坪の温泉天国、日本最大級露天風呂、カニ食べ放題ビュッフェ、鬼サウナを堪能。",
     "url": "https://croud-travel.pages.dev/furusato-tax-noboribetsu-jigokudani-onsen-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -258,7 +258,7 @@ export default function FurusatoNoboribetsuJigokudaniStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜湯量毎分3000L・9種の源泉デパート</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜湯量毎分3000L・9種の源泉デパート</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

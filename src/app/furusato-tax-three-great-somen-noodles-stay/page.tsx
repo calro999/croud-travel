@@ -222,7 +222,7 @@ export default function Page() {
                 <span>楽天ふるさと納税宿泊クーポンで古都の宿やオーシャンビューリゾートをお得にステイ</span>
               </div>
               <p className="text-xs md:text-sm text-slate-600 leading-relaxed">
-                麺巡礼の旅でも、寄付金額に応じた最大30%オフの即時割引クーポンで実質2,000円負担の快適宿泊。
+                麺巡礼の旅でも、寄付金額に応じた最大30%オフの即時割引クーポンで控除上限内なら実質2,000円自己負担（最大30%クーポン還元）の快適宿泊。
               </p>
             </div>
             
@@ -331,7 +331,7 @@ export default function Page() {
           <div className="text-center space-y-2">
             <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ｜日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の</h2>
             <p className="text-xs md:text-sm text-slate-300">【日本三大そうめん＆手延べ極細麺の伝統技・名水と古都の】 
-              実質2,000円の自己負担で憧れの高級宿・温泉旅館をお得に予約できます
+              控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れの高級宿・温泉旅館をお得に予約できます
             </p>
           </div>
 

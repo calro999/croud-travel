@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税極上旅ガイドふなや・道後御湯・道後プリンス',
-  description: '日本最古の温泉・道後温泉！重要文化財「道後温泉本館」の保存修理完了で賑わう温泉街へ徒歩すぐ。「道後温泉 ふなや」「道後御湯」「道後プリンスホテル」を、愛媛県松山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業390余年の皇族御用達宿、全室客室露天風呂、8つの露天風呂とボンネットバスを堪能。',
+  description: '日本最古の温泉・道後温泉！重要文化財「道後温泉本館」の保存修理完了で賑わう温泉街へ徒歩すぐ。「道後温泉 ふなや」「道後御湯」「道後プリンスホテル」を、愛媛県松山市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。創業390余年の皇族御用達宿、全室客室露天風呂、8つの露天風呂とボンネットバスを堪能。',
   keywords: ["2026年最新", "ふなや", "道後御湯", "道後プリンス", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/",
   },
   openGraph: {
     title: '三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税極上旅ガイドふなや・道後御湯・道後プリンス',
-    description: '日本最古の温泉・道後温泉！重要文化財「道後温泉本館」の保存修理完了で賑わう温泉街へ徒歩すぐ。「道後温泉 ふなや」「道後御湯」「道後プリンスホテル」を、愛媛県松山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業390余年の皇族御用達宿、全室客室露天風呂、8つの露天風呂とボンネットバスを堪能。',
+    description: '日本最古の温泉・道後温泉！重要文化財「道後温泉本館」の保存修理完了で賑わう温泉街へ徒歩すぐ。「道後温泉 ふなや」「道後御湯」「道後プリンスホテル」を、愛媛県松山市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。創業390余年の皇族御用達宿、全室客室露天風呂、8つの露天風呂とボンネットバスを堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "三千年の歴史を誇る日本最古の名湯！道後温泉本館徒歩圏＆名門旅館×ふるさと納税完全攻略ガイド【2026年最新】ふなや・道後御湯・道後プリンス",
-    "description": "日本最古の温泉・道後温泉！重要文化財「道後温泉本館」の保存修理完了で賑わう温泉街へ徒歩すぐ。「道後温泉 ふなや」「道後御湯」「道後プリンスホテル」を、愛媛県松山市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。創業390余年の皇族御用達宿、全室客室露天風呂、8つの露天風呂とボンネットバスを堪能。",
+    "description": "日本最古の温泉・道後温泉！重要文化財「道後温泉本館」の保存修理完了で賑わう温泉街へ徒歩すぐ。「道後温泉 ふなや」「道後御湯」「道後プリンスホテル」を、愛媛県松山市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。創業390余年の皇族御用達宿、全室客室露天風呂、8つの露天風呂とボンネットバスを堪能。",
     "url": "https://croud-travel.pages.dev/furusato-tax-dogo-onsen-honkan-walk-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -258,7 +258,7 @@ export default function FurusatoDogoOnsenHonkanStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜三千年の歴史を誇る日本最古の名湯</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜三千年の歴史を誇る日本最古の名湯</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

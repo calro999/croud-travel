@@ -612,7 +612,7 @@ export default function WinterFeaturePage() {
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
           <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月の兵庫・西播磨</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
-            寄附翌日から使える楽天トラベルクーポンで、今回の宿泊予約が実質2,000円の自己負担で楽しめます。年末の控除枠活用にも最適です。
+            寄附翌日から使える楽天トラベルクーポンで、今回の宿泊予約が控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）楽しめます。年末の控除枠活用にも最適です。
           </p>
           <div className="pt-2">
             <a

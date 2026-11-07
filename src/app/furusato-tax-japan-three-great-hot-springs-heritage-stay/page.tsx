@@ -78,7 +78,7 @@ export default function Page() {
         <section className="bg-white rounded-2xl p-6 sm:p-8 shadow-sm border border-slate-200/80">
           <h2 className="text-xl sm:text-2xl font-bold text-slate-900 mb-4 border-l-4 border-indigo-600 pl-4">はじめに｜日本三名泉＆天下の名湯・格式ある老舗温泉旅館×ふるさ</h2>
           <p className="text-slate-700 leading-relaxed text-base sm:text-lg">
-            日本各地に数千とある温泉地の中で、古より「日本三名泉」として揺るぎない名声を誇る三つのいで湯――神代の昔から湧き太閤秀吉が愛した兵庫の「有馬温泉」、日本一の自然湧出量を誇り万病を治すと言われる群馬の「草津温泉」、そして飛騨川のせせらぎとともに美肌の湯として名高い岐阜の「下呂温泉」。それぞれ泉質も風情も全く異なる三つの天下の名湯には、数奇屋造りの名建築や創業数百年の老舗旅館が佇み、極上の源泉かけ流し風呂とともに最高峰の会席料理でおもてなしをしてくれます。楽天ふるさと納税の宿泊クーポンを活用し、実質2,000円の自己負担で憧れの日本三名泉プレミアムステイをお楽しみください。
+            日本各地に数千とある温泉地の中で、古より「日本三名泉」として揺るぎない名声を誇る三つのいで湯――神代の昔から湧き太閤秀吉が愛した兵庫の「有馬温泉」、日本一の自然湧出量を誇り万病を治すと言われる群馬の「草津温泉」、そして飛騨川のせせらぎとともに美肌の湯として名高い岐阜の「下呂温泉」。それぞれ泉質も風情も全く異なる三つの天下の名湯には、数奇屋造りの名建築や創業数百年の老舗旅館が佇み、極上の源泉かけ流し風呂とともに最高峰の会席料理でおもてなしをしてくれます。楽天ふるさと納税の宿泊クーポンを活用し、控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れの日本三名泉プレミアムステイをお楽しみください。
           </p>
 
           <div className="mt-8 bg-gradient-to-r from-amber-50 to-orange-50 border border-amber-200 rounded-xl p-5 sm:p-6">
@@ -743,7 +743,7 @@ export default function Page() {
           </div>
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ｜日本三名泉＆天下の名湯・格式ある老舗温泉旅館×ふるさ</h2>
           <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">【日本三名泉＆天下の名湯・格式ある老舗温泉旅館×ふるさ】 
-            返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。実質2,000円の自己負担でワンランク上の滞在をお楽しみください。
+            返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）ワンランク上の滞在をお楽しみください。
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 max-w-md mx-auto">
             <a

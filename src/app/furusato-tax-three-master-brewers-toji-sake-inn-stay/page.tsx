@@ -739,7 +739,7 @@ export default function Page() {
           </div>
           <h2 className="text-2xl sm:text-3xl lg:text-4xl font-extrabold mb-4 leading-tight">ふるさと納税で賢くお得に、憧れの極上宿へ｜日本三大杜氏の郷＆極上純米大吟醸・仕込み水温泉宿×ふ</h2>
           <p className="text-slate-300 text-sm sm:text-base max-w-2xl mx-auto mb-8 leading-relaxed">【日本三大杜氏の郷＆極上純米大吟醸・仕込み水温泉宿×ふ】 
-            返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。実質2,000円の自己負担でワンランク上の滞在をお楽しみください。
+            返礼品の宿泊クーポンは翌年以降の旅行にも活用でき、ポイント還元もフル適用。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）ワンランク上の滞在をお楽しみください。
           </p>
           <div className="flex flex-col sm:flex-row justify-center items-center gap-4 max-w-md mx-auto">
             <a

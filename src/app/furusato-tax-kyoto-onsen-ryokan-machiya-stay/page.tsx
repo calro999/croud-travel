@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税極上旅ガイド渡月亭・翠嵐・花伝抄',
-  description: '世界遺産・天龍寺や渡月橋、嵯峨野の竹林に抱かれた京都随一の名勝・嵐山温泉！「京都 嵐山温泉 渡月亭」「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」を、京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。伝統の京会席料理、保津川を望む天然温泉露天風呂、全館畳敷きの雅な和モダンステイを堪能。',
+  description: '世界遺産・天龍寺や渡月橋、嵯峨野の竹林に抱かれた京都随一の名勝・嵐山温泉！「京都 嵐山温泉 渡月亭」「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」を、京都市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。伝統の京会席料理、保津川を望む天然温泉露天風呂、全館畳敷きの雅な和モダンステイを堪能。',
   keywords: ["渡月橋と竹林の小径を巡る！京都", "嵐山温泉の名門旅館", "2026年最新", "渡月亭", "翠嵐", "花伝抄", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kyoto-onsen-ryokan-machiya-stay/",
   },
   openGraph: {
     title: '渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税極上旅ガイド渡月亭・翠嵐・花伝抄',
-    description: '世界遺産・天龍寺や渡月橋、嵯峨野の竹林に抱かれた京都随一の名勝・嵐山温泉！「京都 嵐山温泉 渡月亭」「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」を、京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。伝統の京会席料理、保津川を望む天然温泉露天風呂、全館畳敷きの雅な和モダンステイを堪能。',
+    description: '世界遺産・天龍寺や渡月橋、嵯峨野の竹林に抱かれた京都随一の名勝・嵐山温泉！「京都 嵐山温泉 渡月亭」「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」を、京都市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。伝統の京会席料理、保津川を望む天然温泉露天風呂、全館畳敷きの雅な和モダンステイを堪能。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kyoto-onsen-ryokan-machiya-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "渡月橋と竹林の小径を巡る！京都・嵐山温泉の名門旅館＆客室露天×ふるさと納税完全攻略ガイド【2026年最新】渡月亭・翠嵐・花伝抄",
-    "description": "世界遺産・天龍寺や渡月橋、嵯峨野の竹林に抱かれた京都随一の名勝・嵐山温泉！「京都 嵐山温泉 渡月亭」「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」を、京都市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。伝統の京会席料理、保津川を望む天然温泉露天風呂、全館畳敷きの雅な和モダンステイを堪能。",
+    "description": "世界遺産・天龍寺や渡月橋、嵯峨野の竹林に抱かれた京都随一の名勝・嵐山温泉！「京都 嵐山温泉 渡月亭」「翠嵐 ラグジュアリーコレクションホテル 京都」「京都 嵐山温泉 花伝抄」を、京都市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。伝統の京会席料理、保津川を望む天然温泉露天風呂、全館畳敷きの雅な和モダンステイを堪能。",
     "url": "https://croud-travel.pages.dev/furusato-tax-kyoto-onsen-ryokan-machiya-stay/",
     "publisher": {
       "@type": "Organization",
@@ -258,7 +258,7 @@ export default function FurusatoKyotoOnsenRyokanStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜渡月橋と竹林の小径を巡る</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜渡月橋と竹林の小径を巡る</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

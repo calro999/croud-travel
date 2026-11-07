@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉！松葉ガニ・しまね和牛宿×ふるさと納税厳選ガイド島根',
-  description: '10月中旬〜11月下旬に国宝松江城の濠を彩る紅葉のトンネル「松江城 堀川めぐり」。11月からは情緒あふれる「こたつ舟」が運航し、日本最古の美肌温泉「玉造温泉 湯陣 千代の湯」「ホテル玉泉」「RYOKAN OQOQ」で化粧水のような極上神の湯と11月解禁の日本海松葉ガニ・しまね和牛会席を堪能。ふるさと納税で実質2,000円。',
+  description: '10月中旬〜11月下旬に国宝松江城の濠を彩る紅葉のトンネル「松江城 堀川めぐり」。11月からは情緒あふれる「こたつ舟」が運航し、日本最古の美肌温泉「玉造温泉 湯陣 千代の湯」「ホテル玉泉」「RYOKAN OQOQ」で化粧水のような極上神の湯と11月解禁の日本海松葉ガニ・しまね和牛会席を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
   keywords: ["松江城堀川めぐり紅葉こたつ舟", "出雲神話の玉造温泉！松葉ガニ", "しまね和牛宿×ふるさと納税", "2026年最新秋旅", "島根", "温泉宿", "宿泊予約"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-matsue-tamatsukuri-autumn-leaves-stay/"
   },
   openGraph: {
     title: '松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉！松葉ガニ・しまね和牛宿×ふるさと納税厳選ガイド島根',
-    description: '10月中旬〜11月下旬に国宝松江城の濠を彩る紅葉のトンネル「松江城 堀川めぐり」。11月からは情緒あふれる「こたつ舟」が運航し、日本最古の美肌温泉「玉造温泉 湯陣 千代の湯」「ホテル玉泉」「RYOKAN OQOQ」で化粧水のような極上神の湯と11月解禁の日本海松葉ガニ・しまね和牛会席を堪能。ふるさと納税で実質2,000円。',
+    description: '10月中旬〜11月下旬に国宝松江城の濠を彩る紅葉のトンネル「松江城 堀川めぐり」。11月からは情緒あふれる「こたつ舟」が運航し、日本最古の美肌温泉「玉造温泉 湯陣 千代の湯」「ホテル玉泉」「RYOKAN OQOQ」で化粧水のような極上神の湯と11月解禁の日本海松葉ガニ・しまね和牛会席を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
     url: 'https://croud-travel.pages.dev/furusato-tax-matsue-tamatsukuri-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
@@ -73,7 +73,7 @@ export default function FeatureArticlePage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉！松葉ガニ・しまね和牛宿×ふるさと納税完全ガイド【2026年最新秋旅】島根",
-    "description": "10月中旬〜11月下旬に国宝松江城の濠を彩る紅葉のトンネル「松江城 堀川めぐり」。11月からは情緒あふれる「こたつ舟」が運航し、日本最古の美肌温泉「玉造温泉 湯陣 千代の湯」「ホテル玉泉」「RYOKAN OQOQ」で化粧水のような極上神の湯と11月解禁の日本海松葉ガニ・しまね和牛会席を堪能。ふるさと納税で実質2,000円。",
+    "description": "10月中旬〜11月下旬に国宝松江城の濠を彩る紅葉のトンネル「松江城 堀川めぐり」。11月からは情緒あふれる「こたつ舟」が運航し、日本最古の美肌温泉「玉造温泉 湯陣 千代の湯」「ホテル玉泉」「RYOKAN OQOQ」で化粧水のような極上神の湯と11月解禁の日本海松葉ガニ・しまね和牛会席を堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-matsue-tamatsukuri-autumn-leaves-stay/",
     "publisher": {
       "@type": "Organization",
@@ -137,7 +137,7 @@ export default function FeatureArticlePage() {
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
                 <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉）</li>
                 <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉）</li>
-                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉）</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉）</li>
               </ul>
             </div>
           </section>
@@ -327,7 +327,7 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法｜松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法｜松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
               <p>【松江城堀川めぐり紅葉こたつ舟＆出雲神話の玉造温泉】 
                 楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。

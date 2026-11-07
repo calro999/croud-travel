@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター',
-  description: '熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
+  description: '熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。',
   keywords: ["2026年最新", "後楽園", "ニューアカオ", "パールスター", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay/",
   },
   openGraph: {
     title: '客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税極上旅ガイド後楽園・ニューアカオ・パールスター',
-    description: '熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
+    description: '熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "客室から大迫力の花火を特等席鑑賞！熱海オーシャンビュー温泉ホテル×ふるさと納税完全攻略ガイド【2026年最新】後楽園・ニューアカオ・パールスター",
-    "description": "熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。",
+    "description": "熱海名物・年間十数回開催される熱海海上花火大会！お部屋のバルコニーやインフィニティ温泉露天風呂から、夜空と海を焦がす大迫力の花火を鑑賞。「熱海後楽園ホテル」「ホテルニューアカオ」「熱海パールスターホテル」を、静岡県熱海市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-atami-ocean-view-fireworks-hotel-stay/",
     "publisher": {
       "@type": "Organization",
@@ -258,7 +258,7 @@ export default function FurusatoAtamiOceanViewFireworksStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜客室から大迫力の花火を特等席鑑賞</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜客室から大迫力の花火を特等席鑑賞</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

@@ -198,7 +198,7 @@ export default function Page() {
               ふるさと納税×日本三大名塔木造建築美 3つのメリット
             </h2>
             <p className="text-xs md:text-sm text-slate-500">【日本三大名塔＆国宝五重塔の木造美と悠久の古都歴史宿×】 
-              実質2,000円の自己負担で全国の名所・名宿をお得に楽しむポイント
+              控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）全国の名所・名宿をお得に楽しむポイント
             </p>
           </div>
 
@@ -357,7 +357,7 @@ export default function Page() {
           <div className="text-center space-y-2">
             <h2 className="text-xl md:text-2xl font-bold">楽天ふるさと納税×楽天トラベル 簡単3ステップ｜日本三大名塔＆国宝五重塔の木造美と悠久の古都歴史宿×</h2>
             <p className="text-xs md:text-sm text-slate-300">【日本三大名塔＆国宝五重塔の木造美と悠久の古都歴史宿×】 
-              実質2,000円の自己負担で憧れの高級宿・温泉旅館をお得に予約できます
+              控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れの高級宿・温泉旅館をお得に予約できます
             </p>
           </div>
 

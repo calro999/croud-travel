@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉！飛騨牛づくし宿×ふるさと納税厳選ガイド岐阜',
-  description: '10月下旬〜11月中旬に合掌造り民家とモミジが幻想的に照らされる「下呂温泉合掌村 紅葉ライトアップ」。日本三名泉に数えられるpH9.2のトロトロ美肌温泉「菊半旅館」「旅館ますや」「小川屋」で名物100帖空間の畳風呂や飛騨川を望む露天風呂、最高峰A5ランク飛騨牛のすき焼き・炙り握りを堪能。ふるさと納税で実質2,000円。',
+  description: '10月下旬〜11月中旬に合掌造り民家とモミジが幻想的に照らされる「下呂温泉合掌村 紅葉ライトアップ」。日本三名泉に数えられるpH9.2のトロトロ美肌温泉「菊半旅館」「旅館ますや」「小川屋」で名物100帖空間の畳風呂や飛騨川を望む露天風呂、最高峰A5ランク飛騨牛のすき焼き・炙り握りを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
   keywords: ["2026年最新秋旅", "岐阜", "温泉宿", "宿泊予約", "楽天トラベル", "国内旅行", "観光ガイド"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-gero-gassho-autumn-leaves-stay/"
   },
   openGraph: {
     title: '下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉！飛騨牛づくし宿×ふるさと納税厳選ガイド岐阜',
-    description: '10月下旬〜11月中旬に合掌造り民家とモミジが幻想的に照らされる「下呂温泉合掌村 紅葉ライトアップ」。日本三名泉に数えられるpH9.2のトロトロ美肌温泉「菊半旅館」「旅館ますや」「小川屋」で名物100帖空間の畳風呂や飛騨川を望む露天風呂、最高峰A5ランク飛騨牛のすき焼き・炙り握りを堪能。ふるさと納税で実質2,000円。',
+    description: '10月下旬〜11月中旬に合掌造り民家とモミジが幻想的に照らされる「下呂温泉合掌村 紅葉ライトアップ」。日本三名泉に数えられるpH9.2のトロトロ美肌温泉「菊半旅館」「旅館ますや」「小川屋」で名物100帖空間の畳風呂や飛騨川を望む露天風呂、最高峰A5ランク飛騨牛のすき焼き・炙り握りを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
     url: 'https://croud-travel.pages.dev/furusato-tax-gero-gassho-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
@@ -73,7 +73,7 @@ export default function FeatureArticlePage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉！飛騨牛づくし宿×ふるさと納税完全ガイド【2026年最新秋旅】岐阜",
-    "description": "10月下旬〜11月中旬に合掌造り民家とモミジが幻想的に照らされる「下呂温泉合掌村 紅葉ライトアップ」。日本三名泉に数えられるpH9.2のトロトロ美肌温泉「菊半旅館」「旅館ますや」「小川屋」で名物100帖空間の畳風呂や飛騨川を望む露天風呂、最高峰A5ランク飛騨牛のすき焼き・炙り握りを堪能。ふるさと納税で実質2,000円。",
+    "description": "10月下旬〜11月中旬に合掌造り民家とモミジが幻想的に照らされる「下呂温泉合掌村 紅葉ライトアップ」。日本三名泉に数えられるpH9.2のトロトロ美肌温泉「菊半旅館」「旅館ますや」「小川屋」で名物100帖空間の畳風呂や飛騨川を望む露天風呂、最高峰A5ランク飛騨牛のすき焼き・炙り握りを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-gero-gassho-autumn-leaves-stay/",
     "publisher": {
       "@type": "Organization",
@@ -137,7 +137,7 @@ export default function FeatureArticlePage() {
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
                 <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉）</li>
                 <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉）</li>
-                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉）</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉）</li>
               </ul>
             </div>
           </section>
@@ -327,7 +327,7 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法｜下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法｜下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
               <p>【下呂温泉合掌村のもみじライトアップ＆美肌の日本三名泉】 
                 楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。

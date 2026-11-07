@@ -613,7 +613,7 @@ export default function LuxuryWinterFeaturePage() {
         <section className="bg-gradient-to-r from-amber-500 to-orange-500 text-slate-950 rounded-2xl p-6 md:p-8 space-y-3 text-center">
           <h2 className="text-xl md:text-2xl font-black">楽天トラベル ふるさと納税で最大30%お得に予約！｜2026-2027年11-12月初冬の兵庫・有馬温泉</h2>
           <p className="text-xs md:text-sm max-w-xl mx-auto font-medium">
-            高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。実質2,000円の自己負担で憧れのスイートルームに宿泊できます。
+            高価格帯の高級宿だからこそ、楽天トラベルふるさと納税クーポンの割引効果は絶大。控除上限内であれば自己負担実質2,000円で（寄付額の最大30%クーポン還元）憧れのスイートルームに宿泊できます。
           </p>
           <div className="pt-2">
             <a

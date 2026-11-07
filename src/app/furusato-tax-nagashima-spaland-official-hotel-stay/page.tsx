@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "遊園地・なばなの里・湯あみの島直結",
-  description: '日本最大級のアミューズメントリゾート直結！開園10分前入場アーリーエントリー、大温泉「湯あみの島」無料、なばなの里入場無料など特典満載。「ホテル花水木」「ホテルナガシマ」「ガーデンホテルオリーブ」を、三重県桑名市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
+  description: '日本最大級のアミューズメントリゾート直結！開園10分前入場アーリーエントリー、大温泉「湯あみの島」無料、なばなの里入場無料など特典満載。「ホテル花水木」「ホテルナガシマ」「ガーデンホテルオリーブ」を、三重県桑名市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。',
   keywords: ["遊園地", "なばなの里", "2026年最新", "花水木", "ホテルナガシマ", "オリーブ", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-nagashima-spaland-official-hotel-stay/",
   },
   openGraph: {
     title: "遊園地・なばなの里・湯あみの島直結",
-    description: '日本最大級のアミューズメントリゾート直結！開園10分前入場アーリーエントリー、大温泉「湯あみの島」無料、なばなの里入場無料など特典満載。「ホテル花水木」「ホテルナガシマ」「ガーデンホテルオリーブ」を、三重県桑名市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。',
+    description: '日本最大級のアミューズメントリゾート直結！開園10分前入場アーリーエントリー、大温泉「湯あみの島」無料、なばなの里入場無料など特典満載。「ホテル花水木」「ホテルナガシマ」「ガーデンホテルオリーブ」を、三重県桑名市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。',
     url: 'https://croud-travel.pages.dev/furusato-tax-nagashima-spaland-official-hotel-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoNagashimaSpalandOfficialHotelStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "遊園地・なばなの里・湯あみの島直結！ナガシマスパーランド公式オフィシャルホテル×ふるさと納税完全攻略ガイド【2026年最新】花水木・ホテルナガシマ・オリーブ",
-    "description": "日本最大級のアミューズメントリゾート直結！開園10分前入場アーリーエントリー、大温泉「湯あみの島」無料、なばなの里入場無料など特典満載。「ホテル花水木」「ホテルナガシマ」「ガーデンホテルオリーブ」を、三重県桑名市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。",
+    "description": "日本最大級のアミューズメントリゾート直結！開園10分前入場アーリーエントリー、大温泉「湯あみの島」無料、なばなの里入場無料など特典満載。「ホテル花水木」「ホテルナガシマ」「ガーデンホテルオリーブ」を、三重県桑名市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。",
     "url": "https://croud-travel.pages.dev/furusato-tax-nagashima-spaland-official-hotel-stay/",
     "publisher": {
       "@type": "Organization",
@@ -258,7 +258,7 @@ export default function FurusatoNagashimaSpalandOfficialHotelStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜遊園地・なばなの里・湯あみの島直結</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜遊園地・なばなの里・湯あみの島直結</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

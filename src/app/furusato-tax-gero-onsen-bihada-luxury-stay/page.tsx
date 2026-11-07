@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "日本三名泉・天下の名湯",
-  description: '有馬・草津と並ぶ日本三名泉・岐阜県下呂温泉！美容液のような滑らかなpH9.2アルカリ性単純温泉。「下呂温泉 水明館」「下呂温泉 望川館」「下呂温泉 湯之島館」を、岐阜県下呂市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三大大浴場、千百坪日本庭園、昭和初期木造建築美、最高峰飛騨牛会席を満喫。',
+  description: '有馬・草津と並ぶ日本三名泉・岐阜県下呂温泉！美容液のような滑らかなpH9.2アルカリ性単純温泉。「下呂温泉 水明館」「下呂温泉 望川館」「下呂温泉 湯之島館」を、岐阜県下呂市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。三大大浴場、千百坪日本庭園、昭和初期木造建築美、最高峰飛騨牛会席を満喫。',
   keywords: ["日本三名泉", "国登録有形文化財", "2026年最新", "水明館", "望川館", "湯之島館", "温泉宿"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-luxury-stay/",
   },
   openGraph: {
     title: "日本三名泉・天下の名湯",
-    description: '有馬・草津と並ぶ日本三名泉・岐阜県下呂温泉！美容液のような滑らかなpH9.2アルカリ性単純温泉。「下呂温泉 水明館」「下呂温泉 望川館」「下呂温泉 湯之島館」を、岐阜県下呂市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三大大浴場、千百坪日本庭園、昭和初期木造建築美、最高峰飛騨牛会席を満喫。',
+    description: '有馬・草津と並ぶ日本三名泉・岐阜県下呂温泉！美容液のような滑らかなpH9.2アルカリ性単純温泉。「下呂温泉 水明館」「下呂温泉 望川館」「下呂温泉 湯之島館」を、岐阜県下呂市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。三大大浴場、千百坪日本庭園、昭和初期木造建築美、最高峰飛騨牛会席を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-luxury-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "日本三名泉・天下の名湯！下呂温泉の美肌の湯めぐり＆国登録有形文化財・極上飛騨牛会席×ふるさと納税完全攻略ガイド【2026年最新】水明館・望川館・湯之島館",
-    "description": "有馬・草津と並ぶ日本三名泉・岐阜県下呂温泉！美容液のような滑らかなpH9.2アルカリ性単純温泉。「下呂温泉 水明館」「下呂温泉 望川館」「下呂温泉 湯之島館」を、岐阜県下呂市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。三大大浴場、千百坪日本庭園、昭和初期木造建築美、最高峰飛騨牛会席を満喫。",
+    "description": "有馬・草津と並ぶ日本三名泉・岐阜県下呂温泉！美容液のような滑らかなpH9.2アルカリ性単純温泉。「下呂温泉 水明館」「下呂温泉 望川館」「下呂温泉 湯之島館」を、岐阜県下呂市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。三大大浴場、千百坪日本庭園、昭和初期木造建築美、最高峰飛騨牛会席を満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-gero-onsen-bihada-luxury-stay/",
     "publisher": {
       "@type": "Organization",
@@ -258,7 +258,7 @@ export default function FurusatoGeroOnsenBihadaStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜日本三名泉・天下の名湯</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜日本三名泉・天下の名湯</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>

@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: '軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税厳選ガイド長野',
-  description: '10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税で実質2,000円。',
+  description: '10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
   keywords: ["軽井沢", "雲場池の鏡面スワンレイク紅葉", "2026年最新秋旅", "長野", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay/"
   },
   openGraph: {
     title: '軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税厳選ガイド長野',
-    description: '10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税で実質2,000円。',
+    description: '10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。',
     url: 'https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay/',
     siteName: '旅宿クラウド',
     locale: 'ja_JP',
@@ -73,7 +73,7 @@ export default function FeatureArticlePage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策！高原リゾート温泉×ふるさと納税完全ガイド【2026年最新秋旅】長野",
-    "description": "10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税で実質2,000円。",
+    "description": "10月中旬〜11月上旬に水面が燃えるような赤と黄に染まる「信州・軽井沢 雲場池（スワンレイク）」。旧軽井沢銀座のレトロ散策やハルニレテラス、秋風心地よい高原温泉「ホテルグリーンプラザ軽井沢」「ゆとりろ軽井沢ホテル」「旧軽井沢 ホテル音羽ノ森」で信州サーモンや信州プレミアム牛・信州新そばフレンチを堪能。ふるさと納税（控除上限内なら自己負担実質2,000円で最大30%クーポン還元）。",
     "url": "https://croud-travel.pages.dev/furusato-tax-karuizawa-kumobaike-autumn-leaves-stay/",
     "publisher": {
       "@type": "Organization",
@@ -137,7 +137,7 @@ export default function FeatureArticlePage() {
               <ul className="text-xs md:text-sm text-amber-900 space-y-2 list-disc list-inside">
                 <li><strong>見頃の紅葉パノラマ：</strong>標高や日当たりで刻一刻と変化するグラデーションを鑑賞（軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策）</li>
                 <li><strong>極上の温泉と湯巡り：</strong>朝夕の冷え込む秋風の中で入る露天風呂は格別の贅沢（軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策）</li>
-                <li><strong>実質2,000円ステイ：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策）</li>
+                <li><strong>控除上限内なら自己負担実質2,000円（最大30%クーポン還元）：</strong>楽天ふるさと納税トラベルクーポンで賢く予約（軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策）</li>
               </ul>
             </div>
           </section>
@@ -327,7 +327,7 @@ export default function FeatureArticlePage() {
 
           {/* ふるさと納税活用法 */}
           <section className="bg-gradient-to-r from-amber-500 to-orange-600 text-white rounded-2xl p-6 md:p-8 shadow-md">
-            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で実質2,000円宿泊する方法｜軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策</h2>
+            <h2 className="text-xl md:text-2xl font-bold mb-4 flex items-center gap-2"><span>🎁</span> 楽天ふるさと納税で控除上限内で実質2,000円自己負担・ふるさと納税クーポンで宿泊する方法｜軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策</h2>
             <div className="space-y-4 text-xs md:text-sm text-amber-50 leading-relaxed">
               <p>【軽井沢・雲場池の鏡面スワンレイク紅葉＆旧軽銀座散策】 
                 楽天ふるさと納税の「トラベルクーポン（宿泊補助券）」を利用すると、寄付金額に応じた割引クーポンが即時または後日発行され、楽天トラベルでの宿泊予約時に直接利用できます。

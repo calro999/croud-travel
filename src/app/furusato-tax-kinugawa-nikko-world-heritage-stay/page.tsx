@@ -4,14 +4,14 @@ import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: "世界遺産日光東照宮の歴史と中禅寺湖の絶景",
-  description: '世界遺産「日光の社寺」と奥日光の大自然！日光東照宮、中禅寺湖、華厳の滝。「日光温泉 日光千姫物語」「日光金谷ホテル」「奥日光 ホテル四季彩」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。日本最古クラシックホテル、乳白色の源泉かけ流し露天風呂、日光湯波・とちぎ和牛を満喫。',
+  description: '世界遺産「日光の社寺」と奥日光の大自然！日光東照宮、中禅寺湖、華厳の滝。「日光温泉 日光千姫物語」「日光金谷ホテル」「奥日光 ホテル四季彩」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。日本最古クラシックホテル、乳白色の源泉かけ流し露天風呂、日光湯波・とちぎ和牛を満喫。',
   keywords: ["2026年最新", "千姫物語", "日光金谷ホテル", "ホテル四季彩", "温泉宿", "宿泊予約", "楽天トラベル"],
   alternates: {
     canonical: "https://croud-travel.pages.dev/furusato-tax-kinugawa-nikko-world-heritage-stay/",
   },
   openGraph: {
     title: "世界遺産日光東照宮の歴史と中禅寺湖の絶景",
-    description: '世界遺産「日光の社寺」と奥日光の大自然！日光東照宮、中禅寺湖、華厳の滝。「日光温泉 日光千姫物語」「日光金谷ホテル」「奥日光 ホテル四季彩」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。日本最古クラシックホテル、乳白色の源泉かけ流し露天風呂、日光湯波・とちぎ和牛を満喫。',
+    description: '世界遺産「日光の社寺」と奥日光の大自然！日光東照宮、中禅寺湖、華厳の滝。「日光温泉 日光千姫物語」「日光金谷ホテル」「奥日光 ホテル四季彩」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。日本最古クラシックホテル、乳白色の源泉かけ流し露天風呂、日光湯波・とちぎ和牛を満喫。',
     url: 'https://croud-travel.pages.dev/furusato-tax-kinugawa-nikko-world-heritage-stay/',
     siteName: '旅行とホテル・ふるさと納税の総合ポータル',
     locale: 'ja_JP',
@@ -25,7 +25,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
     "@context": "https://schema.org",
     "@type": "Article",
     "headline": "世界遺産日光東照宮の歴史と中禅寺湖の絶景！奥日光の乳白色硫黄泉＆日本最古クラシックホテル×ふるさと納税完全攻略ガイド【2026年最新】千姫物語・日光金谷ホテル・ホテル四季彩",
-    "description": "世界遺産「日光の社寺」と奥日光の大自然！日光東照宮、中禅寺湖、華厳の滝。「日光温泉 日光千姫物語」「日光金谷ホテル」「奥日光 ホテル四季彩」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで実質2,000円負担で予約する完全ガイド。日本最古クラシックホテル、乳白色の源泉かけ流し露天風呂、日光湯波・とちぎ和牛を満喫。",
+    "description": "世界遺産「日光の社寺」と奥日光の大自然！日光東照宮、中禅寺湖、華厳の滝。「日光温泉 日光千姫物語」「日光金谷ホテル」「奥日光 ホテル四季彩」を、栃木県日光市の楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円負担・宿泊クーポンで予約する完全ガイド。日本最古クラシックホテル、乳白色の源泉かけ流し露天風呂、日光湯波・とちぎ和牛を満喫。",
     "url": "https://croud-travel.pages.dev/furusato-tax-kinugawa-nikko-world-heritage-stay/",
     "publisher": {
       "@type": "Organization",
@@ -140,7 +140,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
           <div className="bg-white p-6 rounded-xl border border-gray-200 shadow-sm hover:shadow-md transition-shadow">
             <span className="text-3xl font-black text-amber-600 block mb-2">03</span>
             <h3 className="font-bold text-gray-900 text-lg mb-3 leading-snug">日光市ふるさと納税で最大30％OFF！3年間有効クーポンで紅葉や初夏のベストシーズンに予約</h3>
-            <p className="text-sm text-gray-600 leading-relaxed">ハイシーズンに予約が集中する日光・中禅寺湖のホテルもふるさと納税なら実質2,000円。寄付から3年間有効なので安心して計画できます。</p>
+            <p className="text-sm text-gray-600 leading-relaxed">ハイシーズンに予約が集中する日光・中禅寺湖のホテルもふるさと納税なら控除上限の範囲内で自己負担実質2,000円（最大30%クーポン還元）。寄付から3年間有効なので安心して計画できます。</p>
           </div>
         </div>
       </section>
@@ -258,7 +258,7 @@ export default function FurusatoNikkoWorldHeritageStayPage() {
 
       {/* ふるさと納税手順 */}
       <section id="furusato-step" className="bg-gradient-to-br from-amber-50 to-orange-50 p-6 md:p-8 rounded-2xl border border-amber-200 mb-16 shadow-sm">
-        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで実質2,000円予約する4ステップ｜世界遺産日光東照宮の歴史と中禅寺湖の絶景</h2>
+        <h2 className="text-xl md:text-3xl font-extrabold text-amber-950 mb-6 flex items-center gap-2"><span>💡</span> 楽天ふるさと納税トラベルクーポンで控除上限内で実質2,000円自己負担・宿泊クーポンで予約する4ステップ｜世界遺産日光東照宮の歴史と中禅寺湖の絶景</h2>
         <div className="space-y-4">
           <div className="bg-white p-4 md:p-5 rounded-xl border border-amber-100 flex gap-4 items-start shadow-xs">
             <div className="bg-amber-600 text-white font-bold w-8 h-8 rounded-full flex items-center justify-center shrink-0">1</div>
