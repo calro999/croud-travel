@@ -63,16 +63,17 @@ export default function FloatingMobileCTA({
           </div>
         </div>
 
-        {/* 右側：ダブルCTAボタン（ふるさと納税クーポン＋予約プラン確認） */}
+        {/* 右側：ダブルCTAボタン（ふるさと納税最大30%クーポン＋予約プラン確認） */}
         <div className="flex items-center gap-1.5 flex-shrink-0">
           <a
             href={FURUSATO_AFFILIATE_URL}
             target="_blank"
             rel="sponsored noopener noreferrer"
-            className="px-2.5 py-2 bg-gradient-to-r from-amber-500 to-amber-600 active:scale-95 text-stone-950 font-black text-[10px] rounded-xl shadow-md transition border border-amber-300 text-center leading-tight flex flex-col items-center justify-center"
+            className="px-2.5 py-2 bg-gradient-to-r from-amber-400 to-amber-500 active:scale-95 text-stone-950 font-black text-[10px] rounded-xl shadow-md transition border border-amber-300 text-center leading-tight flex flex-col items-center justify-center"
           >
-            <span className="text-[8px] text-stone-900 leading-none">実質2,000円</span>
-            <span className="leading-none mt-0.5">クーポン</span>
+            <span className="text-[8px] text-amber-950 font-bold leading-none">ふるさと納税</span>
+            <span className="leading-none mt-0.5 font-black">最大30%引</span>
+          </a>
           </a>
 
           <a

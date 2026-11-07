@@ -42,9 +42,9 @@ const CAMPAIGNS: CampaignItem[] = [
   {
     id: "rakuten-furusato-travel",
     title: "楽天トラベル ふるさと納税クーポン",
-    badge: "実質2,000円で憧れ宿に宿泊！",
-    discountInfo: "寄付額の最大30%相当のクーポン進呈",
-    description: "実質2,000円の自己負担で、憧れの高級温泉旅館やリゾートホテルに宿泊できる大人気制度！寄付後すぐに予約で使えるデジタルクーポンが発券されます。",
+    badge: "寄付額の最大30%相当還元！",
+    discountInfo: "寄付額の最大30%相当のクーポン進呈（控除上限内なら実質2,000円負担）",
+    description: "年間の控除上限額の範囲内であれば自己負担実質2,000円で、憧れの高級温泉旅館やリゾートホテルに宿泊できる大人気制度！寄付後すぐに予約で使えるデジタルクーポンが発券されます。",
     targetDays: "通年開催中（控除上限額の確認はお早めに）",
     highlights: ["あとから予約にクーポンを適用することも可能", "有効期限が最長3年間と長くて安心", "ポイント還元とダブルでお得"],
     affiliateUrl: "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F",

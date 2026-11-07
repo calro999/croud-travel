@@ -212,9 +212,9 @@ export default function Home() {
           </Link>
 
           <Link href="/furusato/" className="group bg-white p-5 rounded-2xl border-2 border-teal-500/30 hover:border-teal-500 shadow-sm hover:shadow-md transition space-y-2">
-            <span className="text-[9px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full inline-block">実質2,000円で憧れ宿泊</span>
+            <span className="text-[9px] font-extrabold text-teal-800 bg-teal-100 px-2.5 py-0.5 rounded-full inline-block">寄付額の最大30%還元</span>
             <h3 className="text-sm font-bold text-emerald-950 group-hover:text-teal-800 transition">楽天トラベル ふるさと納税クーポン 完全攻略</h3>
-            <p className="text-xs text-emerald-950/70 line-clamp-2">寄付額の最大30%還元！月別・季節別・目的別のおすすめ宿や利用手順を網羅解説。</p>
+            <p className="text-xs text-emerald-950/70 line-clamp-2">控除上限内なら実質2,000円負担！月別・季節別・目的別のおすすめ宿や利用手順を網羅解説。</p>
           </Link>
 
           <Link href="/winter-travel-special/" className="group bg-white p-5 rounded-2xl border border-sky-500/20 shadow-sm hover:shadow-md transition space-y-2">

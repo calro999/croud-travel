@@ -6,23 +6,24 @@ const baseUrl = process.env.NEXT_PUBLIC_BASE_URL || "https://croud-travel.pages.
 const AFFILIATE_FURUSATO_URL = "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F";
 
 export const metadata: Metadata = {
-  title: "【実質2,000円】楽天トラベルふるさと納税宿泊クーポン完全攻略｜月別・目的別・季節別おすすめ宿まとめ",
-  description: "楽天トラベルのふるさと納税宿泊クーポンを徹底解説！実質2,000円負担で泊まれる憧れの高級旅館・露天風呂付き客室・リゾートホテルを厳選。1月〜12月の月別おすすめ、露天風呂・記念日・家族旅行・グルメなど目的別、雪見温泉や避暑リゾートなど季節別に完全網羅。あとから予約への適用方法や上限額目安も分かりやすくご紹介。",
+  title: "【最大30%還元】楽天トラベルふるさと納税宿泊クーポン完全攻略｜控除上限額内で実質2,000円負担＆月別・目的別おすすめ宿まとめ",
+  description: "楽天トラベルのふるさと納税宿泊クーポンを分かりやすく徹底解説！年間の控除上限額内であれば自己負担実質2,000円で寄付額の最大30%相当の宿泊クーポンを獲得可能。1月〜12月の月別おすすめ、露天風呂・記念日・家族旅行・グルメなど目的別、雪見温泉や避暑リゾートなど季節別に完全網羅。あとから予約への適用方法や上限額の目安も分かりやすくご紹介。",
   keywords: [
     "楽天トラベル ふるさと納税",
     "ふるさと納税 宿泊クーポン",
-    "ふるさと納税 旅行",
+    "ふるさと納税 最大30%割引",
+    "ふるさと納税 旅行 クーポン",
     "ふるさと納税 高級旅館",
     "ふるさと納税 温泉宿",
-    "実質2000円 旅行",
+    "実質2000円負担 ふるさと納税",
     "ふるさと納税 月別 おすすめ",
     "ふるさと納税 家族旅行",
     "ふるさと納税 露天風呂付き客室"
   ],
   alternates: { canonical: `${baseUrl}/furusato/` },
   openGraph: {
-    title: "【実質2,000円】楽天トラベルふるさと納税宿泊クーポン完全攻略｜月別・目的別・季節別おすすめ宿",
-    description: "実質2,000円の自己負担で高級温泉旅館やリゾートホテルに泊まれる！楽天トラベルふるさと納税クーポンの賢い使い方、月別・季節別・目的別の厳選おすすめ宿を徹底解説。",
+    title: "【最大30%還元】楽天トラベルふるさと納税宿泊クーポン完全攻略｜控除上限内で実質2,000円負担",
+    description: "寄付金額の最大30%相当のクーポン進呈！控除上限額の範囲内なら自己負担実質2,000円のみ。楽天トラベルふるさと納税クーポンの賢い使い方、月別・季節別・目的別の厳選おすすめ宿を徹底解説。",
     url: `${baseUrl}/furusato/`,
     siteName: "旅宿クラウド",
     type: "article",
@@ -229,7 +230,7 @@ export default function FurusatoPage() {
         
         <div className="relative space-y-4 max-w-3xl">
           <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-amber-400 text-teal-950 text-xs font-black tracking-wider uppercase shadow-md">
-            <span>🎁</span> <span>実質自己負担2,000円で泊まる極意</span>
+            <span>🎁</span> <span>寄付額の最大30%が宿泊割引に！控除上限内で自己負担実質2,000円</span>
           </div>
 
           <h1 className="text-2xl sm:text-4xl md:text-5xl font-black font-journal-serif tracking-tight leading-tight">
@@ -240,7 +241,7 @@ export default function FurusatoPage() {
           </h1>
 
           <p className="text-emerald-100/90 text-sm md:text-base leading-relaxed font-medium">
-            寄付金額の最大30%が宿泊割引クーポンとして即座に還元！有効期限は最長3年間、あとから予約への適用もOK。
+            寄付金額の最大30%相当が楽天トラベル宿泊割引クーポンとして即座に還元！年間の控除上限額内であれば、自己負担わずか2,000円で数万〜数十万円分の旅行クーポンを活用できます。有効期限は最長3年間、予約後のあとから適用もOK。
             憧れの高級旅館・露天風呂付き客室・ご当地美食ステイを、月別・目的別・季節別の切り口で徹底ナビゲートします。
           </p>
 
@@ -271,9 +272,9 @@ export default function FurusatoPage() {
           <div className="w-12 h-12 rounded-xl bg-amber-50 text-amber-700 flex items-center justify-center text-2xl font-black">
             💰
           </div>
-          <h3 className="text-base font-bold text-emerald-950">実質2,000円で高級宿に泊まれる</h3>
+          <h3 className="text-base font-bold text-emerald-950">控除上限内なら自己負担実質2,000円</h3>
           <p className="text-xs text-emerald-950/70 leading-relaxed">
-            控除上限額の範囲内であれば、寄付総額から自己負担2,000円を除いた全額が税金控除。寄付額の最大30%相当のクーポンがもらえるため実質負担を最小限に抑えて憧れの宿に宿泊できます。
+            年間の控除上限額の範囲内であれば、寄付総額から自己負担分2,000円を除いた全額が所得税還付・住民税控除の対象に。寄付額の最大30%相当のクーポンがもらえるため、賢く税金を活用して憧れの宿に宿泊できます。
           </p>
         </div>
 
@@ -532,7 +533,7 @@ export default function FurusatoPage() {
           楽天トラベル ふるさと納税クーポンを今すぐチェック
         </h3>
         <p className="text-amber-100 text-xs md:text-sm max-w-xl mx-auto leading-relaxed">
-          実質2,000円で憧れの高級旅館やリゾートホテルへ。寄付上限額シミュレーターで今年の枠を確認して、お得な宿泊クーポンをゲットしましょう！
+          控除上限額内なら自己負担実質2,000円！寄付額の最大30%相当のクーポンを獲得して憧れの温泉宿やリゾートホテルへ。シミュレーターで今年の枠を確認してみましょう。
         </p>
         <div className="pt-3">
           <a
@@ -551,7 +552,7 @@ export default function FurusatoPage() {
       <FloatingMobileCTA
         affiliateUrl={AFFILIATE_FURUSATO_URL}
         hotelName="楽天トラベル ふるさと納税宿泊クーポン"
-        price="実質2,000円自己負担"
+        price="寄付額の最大30%相当還元"
       />
     </div>
   );

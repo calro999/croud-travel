@@ -101,7 +101,7 @@ export default function SpecialCouponBanner({ variant = "prominent", className =
             rel="sponsored noopener noreferrer"
             className="w-full sm:w-auto shrink-0 px-4 py-3 bg-white border border-amber-400 hover:bg-amber-50 text-amber-900 font-black text-xs md:text-sm rounded-xl shadow-sm transition-all text-center"
           >
-            実質2,000円！ふるさと納税
+            ふるさと納税 最大30%引
           </a>
           <a
             href={RAKUTEN_50_AFFILIATE_URL}
