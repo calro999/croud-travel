@@ -319,6 +319,7 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [岩手・美食と地酒を味わう大人旅！花巻温泉郷と紫波の銘酒を巡る絶品グルメ＆厳選宿ガイド](https://croud-travel.pages.dev/posts/67442/): 大沢温泉　山水閣（岩手県）
 - [【10月-11月の群馬温泉】伊香保の河鹿橋もみじ＆草津の湯畑ライトアップ！秋の風情と名湯を味わうおすすめ人気旅館5選（2026年）](https://croud-travel.pages.dev/posts/autumn-gunma-kusatsu-ikaho-momiji-roten-guide/): 群馬 伊香保河鹿橋紅葉＆草津温泉名湯宿5選（群馬県）
 - [【10月-11月の箱根温泉】仙石原の一面黄金すすき草原と芦ノ湖の紅葉！客室露天風呂＆極上ディナーで過ごす秋の名宿5選（2026最新）](https://croud-travel.pages.dev/posts/autumn-kanagawa-hakone-sengokuhara-susuki-momiji-guide/): 箱根 仙石原すすき＆芦ノ湖紅葉リゾート宿5選（神奈川県）
 - [【2026年11月】秋月温泉 料亭旅館 清流庵・月岡温泉 白玉の湯 華鳳 ほか｜楽天トラベル高評価の名宿・温泉・口コミ徹底比較](https://croud-travel.pages.dev/posts/autumn-november-akizuki-castle-tsukioka-kaminoyama-yufuin-onsen-guide/): 秋月温泉 料亭旅館 清流庵・月岡温泉 白玉の湯 華鳳 ほか（新潟県）
@@ -378,4 +379,3 @@
 - [冬休みの東京ディズニーリゾート子連れ攻略！無料シャトルバス直結＆洗い場付きお風呂で快適な人気提携ホテル5選](https://croud-travel.pages.dev/posts/winter-family-chiba-tokyobay-disney-partner-guide/): 千葉 舞浜・新浦安 ディズニー提携＆子連れファミリー人気ホテル5選（千葉県）
 - [【冬休み子連れ旅・群馬北軽井沢草津】おもちゃ王国＆キッズスノーパーク直結！名湯草津の湯畑散策とファミリーリゾートホテル5選（2026-2027冬）](https://croud-travel.pages.dev/posts/winter-family-gunma-karuizawa-kusatsu-toy-kingdom-guide/): 群馬 北軽井沢・草津 おもちゃ王国＆キッズ雪遊び名宿5選（群馬県）
 - [【冬休み子連れ北海道】世界屈指のパウダースノーと室内波のプール＆温泉！キロロ・ルスツ・トマムの冬休み極上ファミリーリゾート5選（2026-2027）](https://croud-travel.pages.dev/posts/winter-family-hokkaido-kiroro-rusutsu-snow-guide/): 北海道 キロロ・ルスツ・ニセコ 子連れパウダースノー＆室内アクティビティ名宿5選（北海道）
-- [冬休みの妙高ロッテアライリゾート子連れ旅！世界屈指の積雪とアジア最長ジップライン・星空温泉プールと極上ビュッフェ名宿5選](https://croud-travel.pages.dev/posts/winter-family-niigata-myoko-lotte-arai-resort-guide/): 新潟 妙高・ロッテアライ 子連れパウダースノー＆アクティビティ名宿5選（新潟県）

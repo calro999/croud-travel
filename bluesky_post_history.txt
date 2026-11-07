@@ -255,3 +255,4 @@ showcase_hyogo
 hayashiya-honkan-aizu-onsen-guide
 showcase_shizuoka
 aizu-higashiyama-onsen-ouchijuku-snow-tsurugajo-winter-guide
+showcase_nagano
