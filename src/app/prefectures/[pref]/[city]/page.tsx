@@ -349,9 +349,10 @@ export default async function CityDetailPage({ params }: { params: Promise<{ pre
                   href={post.affiliate_url}
                   target="_blank"
                   rel="sponsored noopener noreferrer"
-                  className="block w-full text-center py-2 text-[11px] font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
+                  className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 hover:from-red-500 hover:to-amber-500 rounded-xl shadow-md transition duration-200 border border-white/20 flex items-center justify-center gap-1"
                 >
-                  ✈️ 楽天トラベルでプランを見る
+                  <span>空室・最安値プランを見る</span>
+                  <span className="text-[11px]">≫</span>
                 </a>
                 <Link
                   href={`/posts/${post.id}/`}

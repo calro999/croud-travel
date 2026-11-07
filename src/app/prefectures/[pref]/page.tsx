@@ -833,14 +833,15 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
                           href={post.affiliate_url}
                           target="_blank"
                           rel="sponsored noopener noreferrer"
-                          className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-amber-600 to-amber-700 hover:from-amber-500 hover:to-amber-600 rounded-xl shadow transition"
+                          className="block w-full text-center py-2.5 text-xs font-black text-white bg-gradient-to-r from-red-600 via-rose-600 to-amber-600 hover:from-red-500 hover:to-amber-500 rounded-xl shadow-md transition duration-200 border border-white/20 flex items-center justify-center gap-1"
                         >
-                          ✈️ 楽天トラベルで宿泊プラン・空室を見る
+                          <span>空室・最安値プランを見る</span>
+                          <span className="text-[11px]">≫</span>
                         </a>
                         {!post.isDirectRakuten && (
                           <Link
                             href={`/posts/${post.id}/`}
-                            className="block w-full text-center py-2 text-[11px] font-bold text-teal-900 bg-teal-50 hover:bg-teal-100 rounded-xl transition border border-teal-800/10"
+                            className="block w-full text-center py-2 text-[11px] font-bold text-teal-900 bg-teal-50 hover:bg-teal-100 rounded-xl transition border border-teal-800/20"
                           >
                             🧭 宿泊ルポ記事を読む
                           </Link>
