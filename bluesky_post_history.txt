@@ -263,3 +263,4 @@ showcase_nara
 autumn-november-dogo-onsen-matsuyama-guide
 showcase_aomori
 spiritual-sacred-forest-retreat-hotels-guide
+showcase_kanagawa
