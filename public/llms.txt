@@ -319,6 +319,7 @@
 - [OKINAWA 観光名所・名物グルメ・人気温泉ホテル完全ガイド](https://croud-travel.pages.dev/prefectures/okinawa/)
 
 ## 最新厳選宿・観光ルポ記事
+- [兵庫の絶景と大自然に浸る旅｜海辺のラグジュアリーステイと冬の美食体験](https://croud-travel.pages.dev/posts/104705/): ホテル　ラ・スイート神戸ハーバーランド（兵庫県）
 - [豊平川のほとりに佇むプレミアホテル－ＴＳＵＢＡＫＩ－札幌の滞在ルポ](https://croud-travel.pages.dev/posts/1432/): プレミアホテル－ＴＳＵＢＡＫＩ－札幌（北海道）
 - [【横浜】クリスマスマーケット in 横浜赤レンガ倉庫2026＆ヨコハマミライト完全攻略！本場ドイツのヒュッテ・巨大ツリーとみなとみらい100万ドルの冬夜景、バルコニー付き海見え客室＆豪華ディナーを満喫する厳選名ホテル5選](https://croud-travel.pages.dev/posts/winter-kanagawa-yokohama-redbrick-christmas-market-minatomirai-hotels-guide/): 横浜ベイホテル東急・インターコンチネンタル横浜Pier 8・ホテルニューグランド ほか（undefined）
 - [【別府】べっぷクリスマスファンタジア2026＆鉄輪温泉湯けむり完全攻略！冬の夜空と海を焦がす1万発の音楽花火、別府湾一望の絶景露天風呂＆地獄蒸し・豊後牛・関アジ関サバを満喫する厳選宿5選](https://croud-travel.pages.dev/posts/winter-oita-beppu-christmas-fantasia-fireworks-onsen-hotels-guide/): 別府温泉 杉乃井ホテル・AMANE RESORT SEIKAI・山荘 神和苑 ほか（undefined）
@@ -378,4 +379,3 @@
 - [【2026年11月】三井ガーデンホテル神宮外苑の杜プレミア・渓谷別庭 もちの木 ほか｜楽天トラベル高評価の名宿・温泉・口コミ徹底比較](https://croud-travel.pages.dev/posts/autumn-november-jingu-gaien-icho-yorokeikoku-yabakei-unzen-onsen-guide/): 三井ガーデンホテル神宮外苑の杜プレミア・渓谷別庭 もちの木 ほか（大分県）
 - [【2026年11月23日】長野えびす講煙火大会・伊香保河鹿橋ライトアップ・鳥取三朝温泉のラジウム湯＆松葉ガニ｜楽天名宿4選](https://croud-travel.pages.dev/posts/autumn-november-nagano-ebisukou-fireworks-ikaho-kajikabashi-misasa-crab-guide/): ホテルメトロポリタン長野・伊香保温泉 福一 ほか（鳥取県）
 - [【10月-11月の伊豆・大仁温泉】富士山を望む高台露天と狩野川の秋景！大仁ホテル＆修善寺近郊の湯浴み名旅館5選（2026年秋）](https://croud-travel.pages.dev/posts/autumn-shizuoka-izu-ohito-shuzenji-onsen-guide/): 伊豆 大仁温泉 富士山眺望＆修善寺近郊名湯宿5選（静岡県）
-- [【10月-11月の蔵王温泉】神秘のエメラルド御釜と黄金色の紅葉ライン！強酸性硫黄泉の美肌湯＆山形牛を味わう名旅館5選（2026秋）](https://croud-travel.pages.dev/posts/autumn-yamagata-zao-roten-okama-momiji-guide/): 山形 蔵王温泉 御釜紅葉＆強酸性硫黄泉名宿5選（山形県）
