@@ -3,7 +3,7 @@
 > 都道府県ごとに分割した記事要約です。各記事の全文は Markdown で取得できます（https://croud-travel.pages.dev/ai/{記事ID}.md）。
 
 ## 都道府県別ファイル
-- [北海道（147件）](https://croud-travel.pages.dev/llms/01.txt)
+- [北海道（148件）](https://croud-travel.pages.dev/llms/01.txt)
 - [青森県（60件）](https://croud-travel.pages.dev/llms/02.txt)
 - [岩手県（61件）](https://croud-travel.pages.dev/llms/03.txt)
 - [宮城県（54件）](https://croud-travel.pages.dev/llms/04.txt)
