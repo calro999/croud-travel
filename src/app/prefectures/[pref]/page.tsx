@@ -1249,7 +1249,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
       </section>
       {/* モバイル追従CTA（47都道府県ページでもスマホ予約導線を完全固定） */}
       <FloatingMobileCTA
-        affiliateUrl={top3Hotels[0]?.affiliate_url || "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"}
+        affiliateUrl={allPrefPosts[0]?.affiliate_url || "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F"}
         hotelName={`${prefInfo.name}の人気名宿・宿泊プラン`}
         isSpecialFeature={true}
       />
