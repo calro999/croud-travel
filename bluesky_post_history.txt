@@ -265,3 +265,4 @@ showcase_aomori
 spiritual-sacred-forest-retreat-hotels-guide
 showcase_kanagawa
 winter-yamagata-zao-snow-monster-ropeway-onsen-hotels-guide
+showcase_mie
