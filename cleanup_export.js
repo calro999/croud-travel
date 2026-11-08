@@ -87,6 +87,30 @@ if (fs.existsSync(publicHeaders)) {
   console.log('Successfully synced public/_headers to out/_headers');
 }
 
+// サイトマップおよびrobots.txt、検証ファイルを確実に out/ に同期
+const criticalFiles = [
+  'robots.txt',
+  'sitemap.xml',
+  'sitemap-all.xml',
+  'sitemap-main.xml',
+  'sitemap-features.xml',
+  'sitemap-prefectures.xml',
+  'sitemap-spots.xml',
+  'sitemap-posts.xml',
+  'feed.xml',
+  'llms.txt',
+  'llms-full.txt'
+];
+
+criticalFiles.forEach(file => {
+  const src = path.join(__dirname, 'public', file);
+  const dst = path.join(OUT_DIR, file);
+  if (fs.existsSync(src)) {
+    fs.copyFileSync(src, dst);
+  }
+});
+console.log('Successfully synced all critical sitemaps, robots.txt, and feeds to out/');
+
 const afterCount = countFiles(OUT_DIR);
 console.log(`Files in out/ after cleanup: ${afterCount}`);
 console.log(`Removed ${beforeCount - afterCount} unnecessary RSC/payload files.`);

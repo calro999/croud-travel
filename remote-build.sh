@@ -16,6 +16,13 @@ REMOTE_DIR="${REMOTE_DIR:-~/build-workspace/$PROJECT_NAME}"
 BUILD_COMMAND="${BUILD_COMMAND:-${1:-npm run build-local}}"
 BUILD_OUTPUT_DIR="${BUILD_OUTPUT_DIR:-${2:-}}"
 
+# CI / Cloudflare Pages / 非Mac環境ガード: リモートビルドをスキップして即時ローカルビルド
+if [ -n "${CF_PAGES:-}" ] || [ -n "${CI:-}" ] || [ "$(uname -s)" != "Darwin" ]; then
+  echo "==> [CI/Cloudflare Pages環境検知] 標準ローカルビルドを実行します..."
+  eval "${BUILD_COMMAND}"
+  exit 0
+fi
+
 # 出力先ディレクトリの自動判別（Next.jsならoutまたは.next、Vite等ならdist）
 if [ -z "$BUILD_OUTPUT_DIR" ]; then
   if [ -d "out" ] || grep -q '"next build"' package.json 2>/dev/null; then
