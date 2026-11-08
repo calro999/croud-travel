@@ -133,9 +133,12 @@ function main() {
       date: p.date
     }));
     fs.writeFileSync(path.join(PUBLIC_DATA_DIR, 'posts-list.json'), JSON.stringify(listItems), 'utf8');
-    const tsCode = `export interface PostSummary { id: string; title: string; hotel_name?: string; description?: string; image?: string; affiliate_url?: string; prefecture?: string; area?: string; categories?: string[]; price?: string | number; rating?: string | number; date?: string; }\n\nexport const POSTS_LIST_DATA: PostSummary[] = ${JSON.stringify(listItems)};\n`;
-    fs.writeFileSync(path.join(__dirname, 'src', 'data', 'postsListData.ts'), tsCode, 'utf8');
-    console.log(`Wrote slim list: ${listItems.length} items to posts-list.json and postsListData.ts`);
+    // メモリ保護のため巨大変数TSファイル(postsListData.ts)は生成せず、posts-list.jsonを直接参照
+    const oldTsPath = path.join(__dirname, 'src', 'data', 'postsListData.ts');
+    if (fs.existsSync(oldTsPath)) {
+      try { fs.unlinkSync(oldTsPath); } catch (_) {}
+    }
+    console.log(`Wrote slim list: ${listItems.length} items to public/data/posts-list.json`);
   }
 
   // --- 1. public/sitemap.xml (Sitemap Index) ＆ カテゴリー別分割サイトマップの自動生成 ---

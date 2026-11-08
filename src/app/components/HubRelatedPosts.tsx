@@ -1,6 +1,37 @@
+import fs from 'fs';
+import path from 'path';
 import Link from 'next/link';
 import { PREFECTURES_DATA } from '@/data/prefecturesData';
-import { POSTS_LIST_DATA, PostSummary } from '@/data/postsListData';
+
+export interface PostSummary {
+  id: string;
+  title: string;
+  hotel_name?: string;
+  description?: string;
+  image?: string;
+  affiliate_url?: string;
+  prefecture?: string;
+  area?: string;
+  categories?: string[];
+  price?: string | number;
+  rating?: string | number;
+  date?: string;
+}
+
+let cachedPostsList: PostSummary[] | null = null;
+function getPostsListData(): PostSummary[] {
+  if (cachedPostsList) return cachedPostsList;
+  try {
+    const p = path.join(process.cwd(), 'public', 'data', 'posts-list.json');
+    if (fs.existsSync(p)) {
+      cachedPostsList = JSON.parse(fs.readFileSync(p, 'utf8'));
+      return cachedPostsList || [];
+    }
+  } catch (e) {
+    console.error('Failed to load posts-list.json for HubRelatedPosts:', e);
+  }
+  return [];
+}
 
 interface HubRelatedPostsProps {
   currentSlug: string;
@@ -8,7 +39,7 @@ interface HubRelatedPostsProps {
 }
 
 export default function HubRelatedPosts({ currentSlug, prefecture }: HubRelatedPostsProps) {
-  const allPosts: PostSummary[] = POSTS_LIST_DATA;
+  const allPosts: PostSummary[] = getPostsListData();
   if (!allPosts || allPosts.length === 0) return null;
 
   // 都道府県の特定（propsまたはslugから推測）
