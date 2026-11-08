@@ -252,8 +252,52 @@ function main() {
   xmlPosts += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-posts.xml'), xmlPosts, 'utf8');
 
+  // E2. sitemap-all.xml (Google Search Console 最適化 単一総合サイトマップ：全URLを一撃で認識)
+  let xmlAll = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
+  // Main pages
+  staticPages.forEach(p => {
+    xmlAll += `  <url>\n    <loc>${p.url}</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>${p.changefreq}</changefreq>\n    <priority>${p.priority}</priority>\n  </url>\n`;
+  });
+  // Feature pages
+  featurePageSlugs.forEach(slug => {
+    let prio = '0.8';
+    if (/winter-|autumn-|november-|december-|january-|furusato-tax-/.test(slug)) {
+      prio = '0.9';
+    }
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>${prio}</priority>\n  </url>\n`;
+  });
+  // Prefectures & sub hubs
+  PREFECTURE_SLUGS.forEach(slug => {
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.9</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/cafes/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/souvenirs/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/sakes/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
+  });
+  citySubHubs.forEach(cPath => {
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/prefectures/${cPath}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.85</priority>\n  </url>\n`;
+  });
+  // Spots
+  spotSlugs.forEach(slug => {
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/spots/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>\n`;
+  });
+  // Posts
+  posts.forEach(post => {
+    const postDate = post.date ? new Date(post.date).toISOString().split('T')[0] : todayStr;
+    const idAndTitle = `${post.id || ''} ${post.title || ''}`;
+    let prio = '0.8';
+    if (/silver-?week|シルバーウィーク/.test(idAndTitle)) {
+      prio = '0.5';
+    } else if (/winter-|november-|december-|カニ|蟹|雪見|イルミネーション|クリスマス|年末年始|初詣|初日の出|ふるさと納税/.test(idAndTitle)) {
+      prio = '0.9';
+    }
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/posts/${post.id}/</loc>\n    <lastmod>${postDate}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>${prio}</priority>\n  </url>\n`;
+  });
+  xmlAll += `</urlset>\n`;
+  fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-all.xml'), xmlAll, 'utf8');
+
   // F. sitemap.xml (Google Search Console 標準 Sitemap Index)
   const sitemapIndexFiles = [
+    'sitemap-all.xml',
     'sitemap-main.xml',
     'sitemap-features.xml',
     'sitemap-prefectures.xml',
@@ -320,6 +364,7 @@ User-agent: Meta-ExternalAgent
 Allow: /
 
 Sitemap: ${BASE_URL}/sitemap.xml
+Sitemap: ${BASE_URL}/sitemap-all.xml
 Sitemap: ${BASE_URL}/sitemap-main.xml
 Sitemap: ${BASE_URL}/sitemap-features.xml
 Sitemap: ${BASE_URL}/sitemap-prefectures.xml
