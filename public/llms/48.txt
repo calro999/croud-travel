@@ -1,4 +1,4 @@
-# 全国・複数県の宿泊・観光記事（338件）
+# 全国・複数県の宿泊・観光記事（339件）
 
 ## 【楽天ふるさと納税×高級宿2026-2027】実質2000円で泊まる憧れの最高峰旅館・客室露天風呂リゾートランキング12選！年末控除枠を最大活用する賢い旅行術
 - 記事: https://croud-travel.pages.dev/posts/furusato-tax-luxury-ryokan-ranking-japan-hotels-guide/
@@ -9,6 +9,16 @@
 - 評価: 4.8
 
 2026年年末の控除上限枠駆け込み必見！箱根（強羅花扇・翠松園）、日光（ふふ日光）、熱海（ふふ熱海）、由布院（ゆふいん花由）、有馬温泉（兵衛向陽閣）など、楽天ふるさと納税宿泊クーポンで実質2,000円で泊まれる超高評価（★4.55〜5.0）名宿12選を徹底比較！
+
+## 【2026-2027年最新】日本全国温泉地ランキングTOP12＆おすすめ名旅館徹底ガイド｜一生に一度は泊まりたい名湯・露天風呂・美肌の宿
+- 記事: https://croud-travel.pages.dev/posts/japan-onsen-ranking-best-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/japan-onsen-ranking-best-hotels-guide.md
+- 宿泊施設名: 草津温泉　ホテル一井
+- エリア: 全国人気名湯温泉郷
+- 参考価格: ¥¥17,600〜〜
+- 評価: 4.65
+
+草津・箱根・有馬・由布院・別府・城崎・道後・登別・下呂・黒川・銀山・加賀。日本を代表する人気温泉地TOP12と厳選名旅館を徹底比較！泉質・効能・絶景露天風呂・季節の美味・宿泊予約テクニックまで完全網羅した決定版ガイド。
 
 ## 【年末年始・初詣＆初日の出温泉旅行2026-2027】開運厄除！伊勢神宮・出雲大社・富士山・厳島神社近くのおすすめ名旅館ランキング12選
 - 記事: https://croud-travel.pages.dev/posts/newyear-hatsumode-sunrise-ryokan-ranking-japan-hotels-guide/
