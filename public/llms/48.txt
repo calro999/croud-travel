@@ -1,4 +1,14 @@
-# 全国・複数県の宿泊・観光記事（336件）
+# 全国・複数県の宿泊・観光記事（337件）
+
+## 【楽天ふるさと納税×高級宿2026-2027】実質2000円で泊まる憧れの最高峰旅館・客室露天風呂リゾートランキング12選！年末控除枠を最大活用する賢い旅行術
+- 記事: https://croud-travel.pages.dev/posts/furusato-tax-luxury-ryokan-ranking-japan-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/furusato-tax-luxury-ryokan-ranking-japan-hotels-guide.md
+- 宿泊施設名: 強羅花扇・箱根 翠松園・ふふ 日光・ふふ 熱海・ゆふいん花由 ほか
+- エリア: 箱根・日光・熱海・伊豆・由布院・別府・黒川・有馬・白浜・加賀・道後
+- 参考価格: ¥¥11,880〜〜
+- 評価: 4.8
+
+2026年年末の控除上限枠駆け込み必見！箱根（強羅花扇・翠松園）、日光（ふふ日光）、熱海（ふふ熱海）、由布院（ゆふいん花由）、有馬温泉（兵衛向陽閣）など、楽天ふるさと納税宿泊クーポンで実質2,000円で泊まれる超高評価（★4.55〜5.0）名宿12選を徹底比較！
 
 ## 【日本海カニ旅行2026-2027】松葉ガニ・越前がに・間人ガニ解禁！本場カニフルコース＆絶景雪見露天風呂が自慢のおすすめ名旅館ランキング12選
 - 記事: https://croud-travel.pages.dev/posts/winter-crab-onsen-hotels-ranking-matuba-echizen-guide/
