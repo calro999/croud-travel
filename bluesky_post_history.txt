@@ -271,3 +271,4 @@ showcase_nagasaki
 winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide
 showcase_gunma
 winter-ishikawa-kanazawa-kenrokuen-yukitsuri-kanogani-hotels-guide
+showcase_ibaraki
