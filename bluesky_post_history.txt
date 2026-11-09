@@ -269,3 +269,4 @@ showcase_mie
 nyuto-onsen-kyo-snow-secret-bath-kiritanpo-akita-guide
 showcase_nagasaki
 winter-hokkaido-hakodate-christmas-fantasy-goryokaku-hotels-guide
+showcase_gunma
