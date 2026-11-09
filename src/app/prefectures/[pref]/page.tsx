@@ -1335,7 +1335,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
             </div>
           </section>
         );
-      })()}}
+      })()}
 
       {/* 他都道府県への簡単アクセス */}
       <section className="p-8 rounded-3xl bg-teal-50/50 border border-teal-900/10 text-center space-y-4">
