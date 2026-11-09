@@ -273,3 +273,4 @@ showcase_gunma
 winter-ishikawa-kanazawa-kenrokuen-yukitsuri-kanogani-hotels-guide
 showcase_ibaraki
 tottori-onsen-ranking-hotels-guide
+showcase_tottori
