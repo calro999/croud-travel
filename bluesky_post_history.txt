@@ -275,3 +275,4 @@ showcase_ibaraki
 tottori-onsen-ranking-hotels-guide
 showcase_tottori
 kusatsu-onsen-yubatake-winter-lightup-snow-bath-guide
+showcase_saitama
