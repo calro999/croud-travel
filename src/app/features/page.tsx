@@ -197,6 +197,26 @@ export default async function FeaturesPage() {
                 <span>→</span>
               </div>
             </Link>
+            <Link
+              href="/posts/japan-infinity-sky-onsen-hotels-ranking-best-guide/"
+              className="group relative overflow-hidden rounded-3xl bg-slate-800/80 border border-cyan-500/30 p-5 hover:border-cyan-400 transition-all duration-300 hover:shadow-2xl hover:shadow-cyan-500/20 flex flex-col justify-between"
+            >
+              <div className="space-y-2">
+                <span className="inline-block px-3 py-1 rounded-full bg-cyan-500/20 text-cyan-300 text-xs font-bold tracking-wider">
+                  🌅 絶景インフィニティ温泉
+                </span>
+                <h3 className="text-lg font-bold text-white group-hover:text-cyan-300 transition-colors line-clamp-2">
+                  【2026-2027年最新】全国絶景インフィニティ温泉＆天空露天風呂TOP12｜海・富士山・夜景
+                </h3>
+                <p className="text-xs text-slate-300 line-clamp-2">
+                  熱海・河口湖・別府・洞爺湖など！海や空と一体化する奇跡の浮遊感と絶景パノラマ露天風呂名宿ガイド。
+                </p>
+              </div>
+              <div className="mt-4 flex items-center justify-between text-xs font-semibold text-cyan-400 group-hover:translate-x-1 transition-transform">
+                <span>ランキングと空室を見る</span>
+                <span>→</span>
+              </div>
+            </Link>
 
           <Link
             href="/posts/newyear-hatsumode-sunrise-ryokan-ranking-japan-hotels-guide/"

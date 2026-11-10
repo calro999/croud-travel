@@ -169,6 +169,15 @@ export default function RelatedPosts({
             </p>
           </Link>
           <Link
+            href="/posts/japan-infinity-sky-onsen-hotels-ranking-best-guide/"
+            className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-cyan-400/30 hover:border-cyan-400 transition block group space-y-1"
+          >
+            <span className="text-[10px] text-cyan-300 font-bold block">🌅 絶景インフィニティ温泉TOP12</span>
+            <p className="text-xs font-bold text-white group-hover:text-cyan-200 transition line-clamp-2">
+              熱海・河口湖・別府・洞爺湖！海と空に浮かぶ奇跡の天空露天（14,000文字）
+            </p>
+          </Link>
+          <Link
             href="/posts/newyear-hatsumode-sunrise-ryokan-ranking-japan-hotels-guide/"
             className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-rose-400/30 hover:border-rose-400 transition block group space-y-1"
           >

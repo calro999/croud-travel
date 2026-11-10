@@ -111,6 +111,10 @@ export default function PrefecturesIndexPage() {
             <span className="text-[10px] text-teal-300 font-bold block">♨️ 客室露天＆貸切風呂</span>
             <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">【全国客室露天風呂・貸切風呂付き温泉宿TOP12】名湯を独占する最高峰宿</h4>
           </Link>
+          <Link href="/posts/japan-infinity-sky-onsen-hotels-ranking-best-guide/" className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition block group space-y-1.5">
+            <span className="text-[10px] text-cyan-300 font-bold block">🌅 絶景インフィニティ温泉</span>
+            <h4 className="text-xs font-bold text-white group-hover:text-cyan-200 transition">【全国絶景インフィニティ温泉＆天空露天風呂TOP12】海・空と一体化する名宿</h4>
+          </Link>
 
           <Link href="/posts/newyear-hatsumode-sunrise-ryokan-ranking-japan-hotels-guide/" className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition block group space-y-1.5">
             <span className="text-[10px] text-rose-300 font-extrabold px-2 py-0.5 rounded bg-rose-950/60 inline-block">⛩️ 初詣＆初日の出</span>

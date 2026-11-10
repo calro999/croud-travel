@@ -1,4 +1,14 @@
-# 全国・複数県の宿泊・観光記事（342件）
+# 全国・複数県の宿泊・観光記事（343件）
+
+## 【2026-2027年最新】全国絶景インフィニティ温泉＆天空露天風呂ランキングTOP12｜海・富士山・雲海・夜景を一望する奇跡の宿決定版
+- 記事: https://croud-travel.pages.dev/posts/japan-infinity-sky-onsen-hotels-ranking-best-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/japan-infinity-sky-onsen-hotels-ranking-best-guide.md
+- 宿泊施設名: 全国絶景インフィニティ温泉＆天空露天風呂12選
+- エリア: 全国
+- 参考価格: ¥18,000〜〜
+- 評価: 4.7
+
+まるで空や海に浮かんでいるかのような圧倒的開放感！日本全国の絶景インフィニティ温泉・展望天空露天風呂から、宿泊者の口コミ評価が極めて高い12宿を厳選ランキング。熱海、河口湖、箱根、別府、洞爺湖、赤穂など、一生に一度は見たい絶景と楽天トラベル公式最安値プラン完全ガイド。
 
 ## 【2026-2027年最新】全国の客室露天風呂・貸切風呂付き温泉宿ランキングTOP12｜極上のプライベート湯浴み・カップル＆家族旅行決定版
 - 記事: https://croud-travel.pages.dev/posts/japan-private-open-air-bath-onsen-hotels-ranking-guide/

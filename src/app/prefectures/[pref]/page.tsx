@@ -1175,6 +1175,7 @@ export default async function PrefectureDetailPage({ params }: { params: Promise
           p.id === 'all-inclusive-onsen-resort-ranking-japan-hotels-guide' ||
           p.id === 'sauna-resort-hotels-ranking-japan-guide' ||
           p.id === 'japan-private-open-air-bath-onsen-hotels-ranking-guide' ||
+          p.id === 'japan-infinity-sky-onsen-hotels-ranking-best-guide' ||
           p.id === 'newyear-hatsumode-sunrise-ryokan-ranking-japan-hotels-guide' ||
           p.id === 'furusato-tax-luxury-ryokan-ranking-japan-hotels-guide' ||
           p.id === 'winter-snow-onsen-roten-ranking-japan-hotels-guide' ||
