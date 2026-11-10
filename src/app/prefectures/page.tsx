@@ -107,6 +107,10 @@ export default function PrefecturesIndexPage() {
             </h3>
             <p className="text-[10px] text-stone-400 line-clamp-1">天然伏流水水風呂・絶景外気浴・サウナ飯（サ飯）まで深掘り</p>
           </Link>
+          <Link href="/posts/japan-private-open-air-bath-onsen-hotels-ranking-guide/" className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition block group space-y-1.5">
+            <span className="text-[10px] text-teal-300 font-bold block">♨️ 客室露天＆貸切風呂</span>
+            <h4 className="text-xs font-bold text-white group-hover:text-teal-200 transition">【全国客室露天風呂・貸切風呂付き温泉宿TOP12】名湯を独占する最高峰宿</h4>
+          </Link>
 
           <Link href="/posts/newyear-hatsumode-sunrise-ryokan-ranking-japan-hotels-guide/" className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-white/10 transition block group space-y-1.5">
             <span className="text-[10px] text-rose-300 font-extrabold px-2 py-0.5 rounded bg-rose-950/60 inline-block">⛩️ 初詣＆初日の出</span>

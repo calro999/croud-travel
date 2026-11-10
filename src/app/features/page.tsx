@@ -177,6 +177,26 @@ export default async function FeaturesPage() {
             </h3>
             <p className="text-[10px] text-stone-400 line-clamp-1">天然伏流水水風呂・絶景外気浴・サウナ飯（サ飯）まで徹底取材</p>
           </Link>
+            <Link
+              href="/posts/japan-private-open-air-bath-onsen-hotels-ranking-guide/"
+              className="group relative overflow-hidden rounded-3xl bg-slate-800/80 border border-teal-500/30 p-5 hover:border-teal-400 transition-all duration-300 hover:shadow-2xl hover:shadow-teal-500/20 flex flex-col justify-between"
+            >
+              <div className="space-y-2">
+                <span className="inline-block px-3 py-1 rounded-full bg-teal-500/20 text-teal-300 text-xs font-bold tracking-wider">
+                  ♨️ 客室露天・貸切風呂
+                </span>
+                <h3 className="text-lg font-bold text-white group-hover:text-teal-300 transition-colors line-clamp-2">
+                  【2026-2027年最新】全国客室露天風呂・貸切風呂付き温泉宿TOP12｜プライベート極上湯浴み
+                </h3>
+                <p className="text-xs text-slate-300 line-clamp-2">
+                  箱根・草津・有馬・由布院など！誰の目も気にせず名湯を独占できる露天風呂付き客室＆無料貸切風呂の名宿ガイド。
+                </p>
+              </div>
+              <div className="mt-4 flex items-center justify-between text-xs font-semibold text-teal-400 group-hover:translate-x-1 transition-transform">
+                <span>ランキングと空室を見る</span>
+                <span>→</span>
+              </div>
+            </Link>
 
           <Link
             href="/posts/newyear-hatsumode-sunrise-ryokan-ranking-japan-hotels-guide/"

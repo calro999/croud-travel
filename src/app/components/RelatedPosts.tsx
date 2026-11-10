@@ -160,6 +160,15 @@ export default function RelatedPosts({
             </p>
           </Link>
           <Link
+            href="/posts/japan-private-open-air-bath-onsen-hotels-ranking-guide/"
+            className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-teal-400/30 hover:border-teal-400 transition block group space-y-1"
+          >
+            <span className="text-[10px] text-teal-300 font-bold block">♨️ 客室露天＆貸切風呂TOP12</span>
+            <p className="text-xs font-bold text-white group-hover:text-teal-200 transition line-clamp-2">
+              箱根・草津・有馬・由布院！誰の目も気にせず名湯独占（14,000文字）
+            </p>
+          </Link>
+          <Link
             href="/posts/newyear-hatsumode-sunrise-ryokan-ranking-japan-hotels-guide/"
             className="p-3 rounded-2xl bg-white/10 hover:bg-white/20 border border-rose-400/30 hover:border-rose-400 transition block group space-y-1"
           >
