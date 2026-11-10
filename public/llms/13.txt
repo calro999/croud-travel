@@ -1,4 +1,20 @@
-# 東京都の宿泊・観光記事（49件）
+# 東京都の宿泊・観光記事（51件）
+
+## 【お台場】お台場レインボー花火2026＆レインボーブリッジスペシャルライトアップ完全攻略！冬の夜空を焦がす1100発の海上花火と100万ドルの湾岸パノラマ夜景、全室バルコニー海見え＆特等席ホテル5選
+- 記事: https://croud-travel.pages.dev/posts/winter-tokyo-odaiba-rainbow-fireworks-bayview-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-tokyo-odaiba-rainbow-fireworks-bayview-hotels-guide.md
+- 宿泊施設名: undefined
+- エリア: お台場・有明・豊洲・湾岸
+
+2026年12月の毎週土曜日に開催される「お台場レインボー花火」とレインボーブリッジの冬夜景を徹底解説。お台場海浜公園「自由の女神」沖から澄み渡る冬の夜空へ打ち上がる約1,100発のダイナミックな音楽連動花火、虹色に輝くレインボーブリッジの期間限定スペシャルライトアップ、都内最大級約20mの生木台場メモリアルツリーの絶景鑑賞ルートを網羅。ヒルトン東京お台場やグランドニッコー東京 台場、ラビスタ東京ベイなど、客室のプライベートバルコニーや最上階天然温泉から花火と湾岸夜景を独占できる厳選特等席ホテル5選をご紹介。
+
+## 【六本木】六本木ヒルズけやき坂イルミネーション2026＆東京ミッドタウン完全攻略！80万球の白銀スノー＆ブルーと東京タワー冬夜景、クリスマスディナーと憧れの超高層ラグジュアリーホテル5選
+- 記事: https://croud-travel.pages.dev/posts/winter-tokyo-roppongi-hills-keyakizaka-illumination-luxury-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-tokyo-roppongi-hills-keyakizaka-illumination-luxury-hotels-guide.md
+- 宿泊施設名: undefined
+- エリア: 六本木・赤坂・虎ノ門
+
+2026年11月上旬〜12月25日開催の「六本木ヒルズけやき坂イルミネーション」と東京ミッドタウンの冬夜景を徹底解説。約400mのけやき坂通りを約80万球のLEDが白銀に染め上げる「SNOW & BLUE」と東京タワーの奇跡のコラボレーション、大屋根プラザの本場ドイツ・クリスマスマーケット、毛利庭園の水面ライトアップ鑑賞ルートを網羅。グランドハイアット東京やザ・リッツ・カールトン東京、オークラ東京など、客室から東京タワー夜景を独占し、至高のクリスマスディナーを堪能できる厳選ラグジュアリーホテル5選をご紹介。
 
 ## 【丸の内】丸の内イルミネーション2026＆東京駅丸の内駅舎ライトアップ完全攻略！シャンパンゴールドに輝く1.2kmの仲通り・皇居前の冬夜景、最高峰フレンチディナーと憧れのラグジュアリーホテル5選
 - 記事: https://croud-travel.pages.dev/posts/winter-tokyo-marunouchi-illumination-tokyo-station-luxury-hotels-guide/
