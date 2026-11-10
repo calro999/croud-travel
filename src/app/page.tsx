@@ -6,6 +6,7 @@ import { PREFECTURES_DATA } from "@/data/prefecturesData";
 import PostListClient from "./components/PostListClient";
 import TransitNavigationSection from "./components/TransitNavigationSection";
 import AllFeaturesAccordion from "./components/AllFeaturesAccordion";
+import NicheExperienceSection from "./components/NicheExperienceSection";
 
 interface Post {
   id: string;
@@ -358,7 +359,10 @@ export default function Home() {
         </div>
       </section>
 
-{/* 🚅 新幹線 vs 高速バス 安く行く方法＆1泊2日モデルコース特設ナビゲーション */}
+      {/* 🎯 大手が載せない！ニッチなこだわり・体験で選ぶ厳選テーマ宿 */}
+      <NicheExperienceSection />
+
+      {/* 🚅 新幹線 vs 高速バス 安く行く方法＆1泊2日モデルコース特設ナビゲーション */}
       <TransitNavigationSection />
 
       {/* 注目：お得キャンペーンピックアップセクション */}

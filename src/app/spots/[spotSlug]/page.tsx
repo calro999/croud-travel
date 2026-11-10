@@ -408,7 +408,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
             badge: "周辺宿泊施設ガイド",
             answerSnippet: `「${topHotel.hotel_name}」をはじめ、${spot.name}からスムーズにアクセスできる厳選ホテル・旅館が充実。滞在スタイルに合わせた客室・露天風呂プランが人気です。`,
             linkText: `【${topHotel.hotel_name}】宿泊ルポ記事を見る`,
-            href: `/posts/${topHotel.id}`
+            href: `/posts/${topHotel.id}/`
           });
         }
 
@@ -418,7 +418,7 @@ export default async function SpotDetailPage({ params }: { params: Promise<{ spo
             badge: "市町村観光ガイド",
             answerSnippet: `${spot.cityName}の必見スポット（${cityData.highlights.slice(0, 3).join('・')}）や、${cityData.gourmet.slice(0, 2).join('・')}など地元で愛される名物料理を網羅。`,
             linkText: `【${spot.cityName}】観光＆名物料理ガイドを見る`,
-            href: `/prefectures/${spot.prefSlug}/${spot.citySlug}`
+            href: `/prefectures/${spot.prefSlug}/${spot.citySlug}/`
           });
         }
 

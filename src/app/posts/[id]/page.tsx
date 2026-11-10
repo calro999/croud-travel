@@ -10,6 +10,9 @@ import BookmarkButton from "@/app/components/BookmarkButton";
 import FloatingMobileCTA from "@/app/components/FloatingMobileCTA";
 import ShareButtons from "@/app/components/ShareButtons";
 import ArticleTableOfContents from "@/app/components/ArticleTableOfContents";
+import HotelBlogReviewSection from "@/app/components/HotelBlogReviewSection";
+import AreaTopicClusterCard from "@/app/components/AreaTopicClusterCard";
+import QuickConclusionBox from "@/app/components/QuickConclusionBox";
 import { PREFECTURES_DATA } from "@/data/prefecturesData";
 import { SPOTS_DATA } from "@/data/spotsData";
 import { CITIES_DATA } from "@/data/citiesData";
@@ -45,6 +48,7 @@ interface Post {
   hot_spring_info?: string;
   nearby_gourmet?: string[];
   meal_availability?: string;
+  editor_tip?: string;
   is_special_feature?: boolean;
   featured_hotels?: FeaturedHotelItem[];
   content?: string;
@@ -63,6 +67,67 @@ function loadSeo(): { noindex: string[]; canonical: Record<string, string> } {
   return { noindex: [], canonical: {} };
 }
 const seo = loadSeo();
+
+// 各記事固有のタイトルを100%尊重し、検索結果で途切れる不要な冗長部のみを自然にクレンジングする関数（同一テンプレート使い回し完全排除）
+function buildOptimizedPageTitle(post: Post): string {
+  const rawTitle = (post.title || "").trim();
+  // 1. サイト名サフィックスの除去
+  let t = rawTitle.replace(/\s*[｜|]\s*日本全国・旅宿クラウド.*$/, "");
+  // 2. 定型的な長大尾部の除去（例：｜楽天トラベル高評価宿の温泉・客室・料金比較）
+  t = t.replace(/｜楽天トラベル高評価宿.*$/, "");
+  // 3. 宿名に含まれる＜都道府県名＞の除去
+  t = t.replace(/＜.*?＞/g, "");
+  // 4. （2026秋〜初冬...）などの長大特集タグの除去
+  t = t.replace(/（２０２[0-9].*?）|（202[0-9].*?）/g, "");
+  // 5. 特集記事で「〇〇など高評価宿を厳選比較」の冗長な末尾を整理
+  t = t.replace(/など(?:高評価|人気|楽天トラベル).*?比較/, "比較");
+
+  // 6. 余計なスペース・パイプの整理
+  t = t.replace(/\s+/g, " ").trim();
+  t = t.replace(/[｜|]$/, "").trim();
+
+  // 7. 検索結果一覧（32〜38文字）で美しく収まるよう自然な区切りで調整
+  if (t.length > 38) {
+    if (t.includes("｜")) {
+      const parts = t.split("｜");
+      if (parts[0].length >= 15) {
+        t = parts[0].trim();
+      }
+    } else if (t.includes("：")) {
+      const parts = t.split("：");
+      if (parts[0].length >= 15) {
+        t = parts[0].trim();
+      }
+    }
+    if (t.length > 38) {
+      t = t.slice(0, 37) + "…";
+    }
+  }
+
+  return t || post.hotel_name || "宿泊ガイド";
+}
+
+// 各記事固有の概要文（description/summary）を活かし、各記事独立したメタディスクリプションを生成
+function buildOptimizedDescription(post: Post, pageTitle: string): string {
+  // 記事固有のdescriptionが存在する場合はそれを最優先で使用
+  if (post.description && post.description.length >= 40) {
+    let desc = post.description.replace(/＜.*?＞/g, "").replace(/\s+/g, " ").trim();
+    if (desc.length > 135) {
+      desc = desc.slice(0, 132) + "...";
+    }
+    return desc;
+  }
+
+  const cleanHotel = (post.hotel_name || "").replace(/＜.*?＞/g, "").replace(/（.*?）/g, "").trim();
+  const pref = (post.prefecture || "").trim();
+  const area = (post.area || "").trim();
+
+  if (cleanHotel) {
+    return `${pref}（${area}）の「${cleanHotel}」の客室・温泉・食事・口コミ評判や予約ポイントを詳しく解説した宿泊ガイド。楽天トラベルの最新プラン・最安値情報も掲載中。`;
+  }
+
+  return `【${pref}・${area}】${pageTitle}。楽天トラベル公式連携の最新おすすめ宿泊プラン・観光情報まとめ。`;
+}
 
 export async function generateStaticParams() {
   const postsDir = path.join(process.cwd(), "src", "data", "posts");
@@ -100,36 +165,8 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   try {
     const fileContent = fs.readFileSync(postPath, "utf-8");
     const post: Post = JSON.parse(fileContent);
-    const bodyText = post.review || post.content || "";
-    const rawTitle = (post.title || "").replace(/\s*[｜|]\s*日本全国・旅宿クラウド.*$/, "").trim();
-    const hotel = (post.hotel_name || "").replace(/＜.*?＞/g, "").replace(/（.*?）/g, "").trim();
-    const pref = (post.prefecture || "").trim();
-    const isSpecial = Boolean(
-      post.is_special_feature ||
-      hotel.includes("ほか") ||
-      hotel.includes("厳選") ||
-      hotel.includes("選") ||
-      rawTitle.includes("選】") ||
-      rawTitle.includes("おすすめ宿") ||
-      rawTitle.includes("ランキング") ||
-      rawTitle.includes("まとめ")
-    );
-
-    // 記事本来の個性的で上質なタイトルを100%活かし、機械的な一括テンプレート化を完全排除
-    let pageTitle = rawTitle;
-    if (!pageTitle.startsWith("【") && !isSpecial) {
-      pageTitle = `【宿泊記】${rawTitle}`;
-    }
-
-    // 記事ごとに完全に独立・オリジナルなディスクリプション（機械的テンプレートの使い回しを完全排除）
-    let descriptionText = post.description || "";
-    if (!descriptionText) {
-      if (bodyText) {
-        descriptionText = bodyText.replace(/<[^>]*>/g, "").replace(/\s+/g, " ").slice(0, 130) + "...";
-      } else {
-        descriptionText = `${pref}の名宿「${hotel || rawTitle}」の客室・温泉・食事・アクセスを徹底解説した宿泊ガイド。`;
-      }
-    }
+    const pageTitle = buildOptimizedPageTitle(post);
+    const descriptionText = buildOptimizedDescription(post, pageTitle);
     // 読者が知りたいお得情報（楽天トラベル連携）を自然な1文のみ末尾に添える
     if (!descriptionText.includes("楽天トラベル") && descriptionText.length < 130) {
       descriptionText += " 楽天トラベルの最新プラン・最安値もご確認いただけます。";
@@ -227,6 +264,8 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
   }
 
   const allPosts = loadAllPosts();
+  const pageTitle = buildOptimizedPageTitle(post);
+  const pageDescription = buildOptimizedDescription(post, pageTitle);
   const isoDate = post.date ? `${post.date.split(" ")[0]}T09:00:00+09:00` : "2026-10-18T09:00:00+09:00";
   const absoluteImageUrl = post.image
     ? (post.image.startsWith("http") ? post.image : `${baseUrl}${post.image.startsWith("/") ? "" : "/"}${post.image}`)
@@ -236,8 +275,8 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
   const jsonLdArticle = {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": post.title,
-    "description": post.description || post.title,
+    "headline": pageTitle,
+    "description": pageDescription,
     "image": absoluteImageUrl ? [absoluteImageUrl] : [],
     "datePublished": isoDate,
     "dateModified": isoDate,
@@ -440,7 +479,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
             <div className="flex flex-wrap items-center gap-2.5 text-[10px] font-extrabold text-teal-900/50 uppercase tracking-widest">
               <span>{post.date}</span>
               <span>•</span>
-              <span className="text-amber-600 font-bold">{post.area} // {post.prefecture}</span>
+              <span className="text-amber-600 font-bold">{`${post.area} // ${post.prefecture}`}</span>
               {post.rating && (
                 <>
                   <span>•</span>
@@ -458,7 +497,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               />
             )}
           </div>
-          <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug text-emerald-950">{post.title}</h1>
+          <h1 className="text-2xl md:text-4xl font-black font-journal-serif leading-snug text-emerald-950">{pageTitle}</h1>
           <div className="flex flex-wrap gap-1.5">
             {post.categories?.map((cat) => (
               <span key={cat} className="bg-teal-50 text-teal-800 border border-teal-800/10 text-[9px] font-bold px-3 py-1 rounded-full">
@@ -500,6 +539,20 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           )}
         </div>
 
+        {/* ⚡ 3秒でわかる結論・目的別早見ボックス（ファーストビューでの即時解決・離脱防止） */}
+        <QuickConclusionBox
+          isSpecialFeature={post.is_special_feature}
+          featuredHotels={post.featured_hotels}
+          hotelName={post.hotel_name}
+          prefecture={post.prefecture}
+          area={post.area}
+          rating={post.rating}
+          price={post.price}
+          editorTip={post.editor_tip}
+          recommendedFor={post.recommended_for}
+          affiliateUrl={post.affiliate_url}
+        />
+
         {/* 公式企画：5と0のつく日＆ふるさと納税 特大キャンペーンバナー（アイキャッチ直下の特等席） */}
         <SpecialCouponBanner />
 
@@ -514,13 +567,22 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
             return isPrefMatch && s.hotelKeywords.some(kw => textToSearch.includes(kw.toLowerCase()));
           });
           return (
-            <ArticleTableOfContents
-              hasGallery={Boolean(post.other_images && post.other_images.length > 0)}
-              hasFaq={true}
-              hasSpots={!post.is_special_feature && hasMatchedSpots}
-              isSpecialFeature={post.is_special_feature}
-              wordCount={articleBody.length}
-            />
+            <>
+              <ArticleTableOfContents
+                hasGallery={Boolean(post.other_images && post.other_images.length > 0)}
+                hasFaq={true}
+                hasSpots={!post.is_special_feature && hasMatchedSpots}
+                isSpecialFeature={post.is_special_feature}
+                wordCount={articleBody.length}
+              />
+              {/* 🗺️ エリア別トピッククラスター・回遊カード */}
+              <AreaTopicClusterCard
+                currentPostId={post.id}
+                prefecture={post.prefecture}
+                area={post.area}
+                allPosts={allPosts}
+              />
+            </>
           );
         })()}
 
@@ -681,6 +743,27 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
               </div>
             )}
           </>
+        )}
+
+        {/* 個別宿記事向け：各宿固有の設備・特徴・チェックポイント（定型テンプレート完全排除） */}
+        {!post.is_special_feature && (
+          <HotelBlogReviewSection
+            hotelName={post.hotel_name}
+            prefecture={post.prefecture}
+            area={post.area}
+            rating={post.rating}
+            reviewCount={post.review_count}
+            parkingInfo={post.parking_info}
+            familyFriendly={post.family_friendly}
+            hotSpringInfo={post.hot_spring_info}
+            mealAvailability={post.meal_availability}
+            editorTip={post.editor_tip}
+            nearbyGourmet={post.nearby_gourmet}
+            nearbyTouristSpots={post.nearby_tourist_spots}
+            recommendedFor={post.recommended_for}
+            price={post.price}
+            affiliateUrl={post.affiliate_url}
+          />
         )}
 
         {/* 旅ライターによる極上ルポ */}
