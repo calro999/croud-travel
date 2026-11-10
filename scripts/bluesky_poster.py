@@ -158,9 +158,20 @@ def select_best_hotel_post(history_set):
         return None
 
     all_files = [f for f in os.listdir(POSTS_DIR) if f.endswith(".json")]
+    # 7大メガキラー記事スラッグ（最優先プール）
+    MEGA_KILLER_IDS = [
+        "japan-onsen-ranking-best-hotels-guide",
+        "all-inclusive-onsen-resort-ranking-japan-hotels-guide",
+        "sauna-resort-hotels-ranking-japan-guide",
+        "newyear-hatsumode-sunrise-ryokan-ranking-japan-hotels-guide",
+        "furusato-tax-luxury-ryokan-ranking-japan-hotels-guide",
+        "winter-snow-onsen-roten-ranking-japan-hotels-guide",
+        "winter-crab-onsen-hotels-ranking-matuba-echizen-guide"
+    ]
+
     winter_keywords = [
         "冬", "雪", "露天", "温泉", "カニ", "蟹", "イルミネーション",
-        "クリスマス", "年末年始", "ふるさと納税", "winter", "autumn", "紅葉", "湯けむり"
+        "クリスマス", "年末年始", "初詣", "初日の出", "ふるさと納税", "サウナ", "オールインクルーシブ", "winter", "autumn", "紅葉", "湯けむり"
     ]
 
     scored_candidates = []
@@ -181,6 +192,8 @@ def select_best_hotel_post(history_set):
                 desc = data.get("description", "")
 
                 score = 0
+                if post_id in MEGA_KILLER_IDS:
+                    score += 60  # 7大キラー記事を最優先でローテーション
                 if is_special:
                     score += 15
                 if rating >= 4.5:

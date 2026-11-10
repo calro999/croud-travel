@@ -343,7 +343,23 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     ]
   };
 
-  const faqList = post.is_special_feature
+  // 本文HTMLから実在するFAQ（Q1〜Q5など）を高度に正規表現抽出
+  const extractedFaqs: { q: string; a: string }[] = [];
+  if (post.review) {
+    const faqRegex = /<h3>(Q\d*[\.:：\s][^<]+)<\/h3>\s*<p>([\s\S]*?)<\/p>/g;
+    let match;
+    while ((match = faqRegex.exec(post.review)) !== null) {
+      const q = match[1].replace(/<[^>]+>/g, '').trim();
+      const a = match[2].replace(/<[^>]+>/g, '').trim();
+      if (q && a) {
+        extractedFaqs.push({ q, a });
+      }
+    }
+  }
+
+  const faqList = extractedFaqs.length > 0
+    ? extractedFaqs
+    : post.is_special_feature
     ? [
         {
           q: `${post.prefecture}（${post.area}）で特に口コミ評価が高いおすすめ温泉宿・ホテルはどこですか？`,
