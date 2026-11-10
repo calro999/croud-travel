@@ -281,3 +281,4 @@ showcase_yamagata
 winter-snow-gunma-kusatsu-hotel-sakurai-guide
 showcase_saga
 sauna-resort-hotels-ranking-japan-guide
+showcase_yamaguchi
