@@ -287,3 +287,4 @@ showcase_chiba
 ise-jingu-newyear-hatsumode-toba-onsen-ise-ebi-guide
 showcase_toyama
 akita-onsen-ranking-hotels-guide
+showcase_kumamoto
