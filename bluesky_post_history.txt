@@ -283,3 +283,4 @@ showcase_saga
 sauna-resort-hotels-ranking-japan-guide
 showcase_yamaguchi
 winter-shizuoka-hamanako-kanzanji-illumination-oyster-unagi-hotels-guide
+showcase_chiba
