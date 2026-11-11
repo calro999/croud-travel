@@ -166,7 +166,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
     const fileContent = fs.readFileSync(postPath, "utf-8");
     const post: Post = JSON.parse(fileContent);
     const pageTitle = buildOptimizedPageTitle(post);
-    const descriptionText = buildOptimizedDescription(post, pageTitle);
+    let descriptionText = buildOptimizedDescription(post, pageTitle);
     // 読者が知りたいお得情報（楽天トラベル連携）を自然な1文のみ末尾に添える
     if (!descriptionText.includes("楽天トラベル") && descriptionText.length < 130) {
       descriptionText += " 楽天トラベルの最新プラン・最安値もご確認いただけます。";
@@ -378,7 +378,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
     "itemListElement": [
       { "@type": "ListItem", "position": 1, "name": "ホーム", "item": `${baseUrl}/` },
       { "@type": "ListItem", "position": 2, "name": `${post.prefecture}の観光・宿泊情報`, "item": prefUrl },
-      { "@type": "ListItem", "position": 3, "name": post.hotel_name, "item": `${baseUrl}/posts/${post.id}/` }
+      { "@type": "ListItem", "position": 3, "name": post.hotel_name || post.title, "item": `${baseUrl}/posts/${post.id}/` }
     ]
   };
 

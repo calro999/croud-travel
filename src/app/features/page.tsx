@@ -140,6 +140,45 @@ export default async function FeaturesPage() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3.5 pt-1">
           <Link
+            href="/posts/winter-tokyo-omotesando-illumination-jingu-christmas-luxury-hotels-guide/"
+            className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-amber-400/30 hover:border-amber-400 transition block group space-y-1.5 shadow-sm"
+          >
+            <span className="text-[10px] font-extrabold text-amber-300 bg-amber-950/80 px-2 py-0.5 rounded inline-block">
+              ✨ 表参道＆神宮外苑クリスマス
+            </span>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-amber-200 transition line-clamp-2">
+              【表参道・神宮外苑】表参道フェンディイルミネーション2026＆東京クリスマスマーケット完全攻略！
+            </h3>
+            <p className="text-[10px] text-stone-400 line-clamp-1">シャンパンゴールド90万球・高さ14mピラミッド・青山渋谷名ホテル5選</p>
+          </Link>
+
+          <Link
+            href="/posts/winter-kanagawa-sagamiko-illumillion-kanto-three-great-lightup-hotels-guide/"
+            className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-emerald-400/30 hover:border-emerald-400 transition block group space-y-1.5 shadow-sm"
+          >
+            <span className="text-[10px] font-extrabold text-emerald-300 bg-emerald-950/80 px-2 py-0.5 rounded inline-block">
+              🌲 さがみ湖イルミリオン600万球
+            </span>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-emerald-200 transition line-clamp-2">
+              【さがみ湖イルミリオン2026-2027】関東三大イルミネーション600万球の絶景と相模湖・高尾山温泉！
+            </h3>
+            <p className="text-[10px] text-stone-400 line-clamp-1">虹のリフト・光の観覧車・PICAさがみ湖焚き火テラス＆名宿5選</p>
+          </Link>
+
+          <Link
+            href="/posts/winter-tokyo-dome-city-illumination-spa-laqua-hotels-guide/"
+            className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-blue-400/30 hover:border-blue-400 transition block group space-y-1.5 shadow-sm"
+          >
+            <span className="text-[10px] font-extrabold text-blue-300 bg-blue-950/80 px-2 py-0.5 rounded inline-block">
+              🎡 東京ドームシティ＆ラクーア天然温泉
+            </span>
+            <h3 className="text-xs md:text-sm font-bold text-white group-hover:text-blue-200 transition line-clamp-2">
+              【東京ドームシティ】ウィンターイルミネーション2026-2027＆都心天然温泉「スパ ラクーア」完全攻略！
+            </h3>
+            <p className="text-[10px] text-stone-400 line-clamp-1">高さ15mツリー・光の回廊・琥珀色温泉＆東京ドームホテルなど名宿5選</p>
+          </Link>
+
+          <Link
             href="/posts/japan-onsen-ranking-best-hotels-guide/"
             className="p-4 rounded-2xl bg-white/10 hover:bg-white/20 border border-amber-400/30 hover:border-amber-400 transition block group space-y-1.5 shadow-sm"
           >

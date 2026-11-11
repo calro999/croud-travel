@@ -210,6 +210,60 @@ export default function Home() {
 
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 pt-1">
           <Link
+            href="/posts/winter-tokyo-omotesando-illumination-jingu-christmas-luxury-hotels-guide/"
+            className="p-5 rounded-2xl bg-white/10 hover:bg-white/20 border border-amber-400/30 hover:border-amber-400 transition block group space-y-2 shadow-sm hover:shadow-lg"
+          >
+            <div className="flex items-center justify-between">
+              <span className="text-[10px] font-extrabold text-amber-300 bg-amber-950/80 px-2.5 py-0.5 rounded-md border border-amber-500/30">
+                ✨ 表参道＆神宮外苑クリスマス
+              </span>
+              <span className="text-[10px] text-stone-400">8,900文字超</span>
+            </div>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-amber-200 transition line-clamp-2 leading-snug">
+              【表参道・神宮外苑】表参道フェンディイルミネーション2026＆東京クリスマスマーケット完全攻略！
+            </h3>
+            <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
+              ケヤキ並木90万球シャンパンゴールド、高さ14mドイツクリスマスピラミッド、三井ガーデンホテル神宮外苑など厳選5宿。
+            </p>
+          </Link>
+
+          <Link
+            href="/posts/winter-kanagawa-sagamiko-illumillion-kanto-three-great-lightup-hotels-guide/"
+            className="p-5 rounded-2xl bg-white/10 hover:bg-white/20 border border-emerald-400/30 hover:border-emerald-400 transition block group space-y-2 shadow-sm hover:shadow-lg"
+          >
+            <div className="flex items-center justify-between">
+              <span className="text-[10px] font-extrabold text-emerald-300 bg-emerald-950/80 px-2.5 py-0.5 rounded-md border border-emerald-500/30">
+                🌲 さがみ湖イルミリオン600万球
+              </span>
+              <span className="text-[10px] text-stone-400">7,900文字超</span>
+            </div>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-emerald-200 transition line-clamp-2 leading-snug">
+              【さがみ湖イルミリオン2026-2027】関東三大イルミネーション600万球の絶景と相模湖・高尾山温泉！
+            </h3>
+            <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
+              山肌を覆う光の絨毯、全長250m虹のリフト、PICAさがみ湖焚き火コテージやタカオネなど冬の極上宿徹底比較。
+            </p>
+          </Link>
+
+          <Link
+            href="/posts/winter-tokyo-dome-city-illumination-spa-laqua-hotels-guide/"
+            className="p-5 rounded-2xl bg-white/10 hover:bg-white/20 border border-blue-400/30 hover:border-blue-400 transition block group space-y-2 shadow-sm hover:shadow-lg"
+          >
+            <div className="flex items-center justify-between">
+              <span className="text-[10px] font-extrabold text-blue-300 bg-blue-950/80 px-2.5 py-0.5 rounded-md border border-blue-500/30">
+                🎡 東京ドームシティ＆ラクーア天然温泉
+              </span>
+              <span className="text-[10px] text-stone-400">8,000文字超</span>
+            </div>
+            <h3 className="text-sm md:text-base font-bold text-white group-hover:text-blue-200 transition line-clamp-2 leading-snug">
+              【東京ドームシティ】ウィンターイルミネーション2026-2027＆都心天然温泉「スパ ラクーア」完全攻略！
+            </h3>
+            <p className="text-xs text-stone-300 line-clamp-2 leading-relaxed">
+              高さ15mツリー＆光の回廊、地下1,700m天然温泉露天風呂とサウナ、東京ドームホテルなどパノラマ夜景名宿5選。
+            </p>
+          </Link>
+
+          <Link
             href="/posts/japan-onsen-ranking-best-hotels-guide/"
             className="p-5 rounded-2xl bg-white/10 hover:bg-white/20 border border-amber-400/30 hover:border-amber-400 transition block group space-y-2 shadow-sm hover:shadow-lg"
           >

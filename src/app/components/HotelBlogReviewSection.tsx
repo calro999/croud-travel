@@ -35,7 +35,7 @@ export default function HotelBlogReviewSection({
   price,
   affiliateUrl,
 }: HotelBlogReviewProps) {
-  const cleanHotel = hotelName.replace(/＜.*?＞/g, "").replace(/（.*?）/g, "").trim();
+  const cleanHotel = (hotelName || "").replace(/＜.*?＞/g, "").replace(/（.*?）/g, "").trim();
   const numRating = Number(rating);
 
   // 固有データが存在するか確認

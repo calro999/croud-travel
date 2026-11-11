@@ -1,4 +1,20 @@
-# 東京都の宿泊・観光記事（51件）
+# 東京都の宿泊・観光記事（53件）
+
+## 【東京ドームシティ】ウィンターイルミネーション2026-2027＆都心天然温泉「スパ ラクーア」完全攻略！極上サウナと東京夜景を満喫する名門ホテル5選
+- 記事: https://croud-travel.pages.dev/posts/winter-tokyo-dome-city-illumination-spa-laqua-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-tokyo-dome-city-illumination-spa-laqua-hotels-guide.md
+- 宿泊施設名: undefined
+- エリア: 水道橋・後楽園・文京・飯田橋
+
+2026年11月〜2027年2月開催の東京ドームシティ ウィンターイルミネーションと、地下1,700mから湧く名湯「Spa LaQua（スパ ラクーア）」を徹底解説。クリスタルアベニューに輝く高さ15mの巨大メインツリー、ラクーアエリアの光のトンネル、観覧車ビッグ・オーの冬限定ライティングを網羅。さらに地下天然温泉の露天風呂や本場フィンランドサウナ、東京ドームホテルや庭のホテル 東京など、文京・水道橋・飯田橋エリアで美食とパノラマ夜景を堪能できる厳選ホテル5選をご紹介します。
+
+## 【表参道・神宮外苑】表参道フェンディイルミネーション2026＆東京クリスマスマーケット完全攻略！シャンパンゴールドのケヤキ並木と青山・渋谷の極上ホテル5選
+- 記事: https://croud-travel.pages.dev/posts/winter-tokyo-omotesando-illumination-jingu-christmas-luxury-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/winter-tokyo-omotesando-illumination-jingu-christmas-luxury-hotels-guide.md
+- 宿泊施設名: undefined
+- エリア: 表参道・原宿・青山・渋谷
+
+2026年12月に開催される表参道イルミネーション（表参道 フェンディ イルミネーション）と明治神宮外苑「東京クリスマスマーケット2026」の現地鑑賞ガイド。神宮橋交差点から青山通りまでのケヤキ並木約150本が約90万球の温かなシャンパンゴールドに染まる並木道散策、高さ14mのドイツ直輸入クリスマスピラミッド、限定マグカップ付きグリューワインの楽しみ方を網羅。さらに三井ガーデンホテル神宮外苑の杜プレミアやセルリアンタワー東急ホテルなど、外苑前・表参道・渋谷エリアで冬夜景と美食を堪能できる厳選ホテル5選を徹底解説します。
 
 ## 【お台場】お台場レインボー花火2026＆レインボーブリッジスペシャルライトアップ完全攻略！冬の夜空を焦がす1100発の海上花火と100万ドルの湾岸パノラマ夜景、全室バルコニー海見え＆特等席ホテル5選
 - 記事: https://croud-travel.pages.dev/posts/winter-tokyo-odaiba-rainbow-fireworks-bayview-hotels-guide/

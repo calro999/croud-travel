@@ -32,7 +32,7 @@ export default function QuickConclusionBox({
   recommendedFor,
   affiliateUrl,
 }: QuickConclusionBoxProps) {
-  const cleanHotel = hotelName.replace(/＜.*?＞/g, "").replace(/（.*?）/g, "").trim();
+  const cleanHotel = (hotelName || "").replace(/＜.*?＞/g, "").replace(/（.*?）/g, "").trim();
 
   // 特集記事向け：掲載宿から結論ベストを抽出
   if (isSpecialFeature && featuredHotels && featuredHotels.length >= 2) {
