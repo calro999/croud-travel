@@ -291,3 +291,4 @@ showcase_kumamoto
 winter-youth-beppu-hotspring-hells-tour-guide
 showcase_ehime
 winter-snow-onsen-roten-ranking-japan-hotels-guide
+showcase_tokyo
