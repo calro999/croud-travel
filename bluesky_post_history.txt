@@ -293,3 +293,4 @@ showcase_ehime
 winter-snow-onsen-roten-ranking-japan-hotels-guide
 showcase_tokyo
 huistenbosch-winter-illumination-unzen-onsen-nagasaki-guide
+showcase_tokushima
