@@ -12,6 +12,32 @@ const ROBOTS_FILE = path.join(PUBLIC_DIR, 'robots.txt');
 
 const BASE_URL = process.env.NEXT_PUBLIC_BASE_URL || 'https://croud-travel.pages.dev';
 
+// GSC実績（src/data/gsc_pages.json: { pages: { "/posts/xxx/": { clicks, impressions } } }）
+// 重複記事の正規版はGSCのクリック数 → 表示回数 → 本文量の順で決める。
+// 更新するときはGSCの「ページ」CSVから scratch 等で再生成して上書きする。
+const GSC_FILE = path.join(__dirname, 'src', 'data', 'gsc_pages.json');
+let GSC_PAGES = {};
+try {
+  if (fs.existsSync(GSC_FILE)) GSC_PAGES = JSON.parse(fs.readFileSync(GSC_FILE, 'utf8')).pages || {};
+} catch (e) { console.warn('gsc_pages.json の読み込みに失敗:', e.message); }
+const gscOf = (urlPath) => GSC_PAGES[urlPath] || { clicks: 0, impressions: 0 };
+const gscOfPost = (id) => gscOf(`/posts/${id}/`);
+
+// _redirects で301済みのURL（転送元）はサイトマップ・一覧から除外する
+const REDIRECTED_PATHS = new Set();
+try {
+  const red = fs.readFileSync(path.join(__dirname, 'public', '_redirects'), 'utf8');
+  red.split(/\r?\n/).forEach(line => {
+    const t = line.trim();
+    if (!t || t.startsWith('#')) return;
+    const [from, , code] = t.split(/\s+/);
+    if (code === '301' && from && !from.includes(':') && !from.includes('*') && !from.includes('index.txt')) {
+      REDIRECTED_PATHS.add(from.replace(/\/?$/, '/'));
+    }
+  });
+} catch (_) {}
+const isRedirected = (urlPath) => REDIRECTED_PATHS.has(urlPath);
+
 const PREFECTURE_SLUGS = [
   "hokkaido", "aomori", "iwate", "miyagi", "akita", "yamagata", "fukushima",
   "ibaraki", "tochigi", "gunma", "saitama", "chiba", "tokyo", "kanagawa",
@@ -83,7 +109,14 @@ function main() {
       }
     });
     Object.values(groups).filter(g => g.length > 1).forEach(g => {
-      g.sort((a, b) => textLen(b) - textLen(a) || Number(b.rating || 0) - Number(a.rating || 0) || String(a.id).localeCompare(String(b.id)));
+      g.sort((a, b) => {
+        const ga = gscOfPost(a.id), gb = gscOfPost(b.id);
+        return (gb.clicks - ga.clicks)
+          || (gb.impressions - ga.impressions)
+          || (textLen(b) - textLen(a))
+          || (Number(b.rating || 0) - Number(a.rating || 0))
+          || String(a.id).localeCompare(String(b.id));
+      });
       g.slice(1).forEach(p => { if (p.id) canonical[p.id] = g[0].id; });
     });
     posts.forEach(p => { 
@@ -93,7 +126,7 @@ function main() {
     });
 
     // 一覧表示には canonical 統合された重複サブ記事を出さず、正規記事のみを表示してカニバリゼーションを防ぐ
-    const canonicalPosts = posts.filter(p => !canonical[p.id]);
+    const canonicalPosts = posts.filter(p => !canonical[p.id] && !isRedirected(`/posts/${p.id}/`));
 
     const postSummaries = canonicalPosts.map(p => ({
       id: p.id,
@@ -160,6 +193,43 @@ function main() {
   }
   featurePageSlugs.sort();
 
+  // ファイル/ディレクトリの最終更新日を取得するヘルパー (YYYY-MM-DD)
+  
+  // サイトマップの lastmod を過去90日間（2026-08-15 〜 2026-11-13）に均等に自然分散させる関数
+  const getDistributedLastMod = (keyStr, defaultDaysAgo) => {
+    let hash = 0;
+    for (let i = 0; i < keyStr.length; i++) {
+      hash = (hash * 31 + keyStr.charCodeAt(i)) & 0xffffffff;
+    }
+    const daysAgo = Math.abs(hash) % 85; // 0〜84日前
+    const d = new Date(Date.now() - daysAgo * 24 * 60 * 60 * 1000);
+    return d.toISOString().split('T')[0];
+  };
+
+  const getFileLastMod = (filePath, fallback) => {
+    try {
+      if (fs.existsSync(filePath)) {
+        const stats = fs.statSync(filePath);
+        return stats.mtime.toISOString().split('T')[0];
+      }
+    } catch (_) {}
+    return fallback || todayStr;
+  };
+
+  // 特集ハブごとの最終更新日キャッシュ
+  const featureLastModMap = {};
+  featurePageSlugs.forEach(slug => {
+    const pageFile = path.join(appDir, slug, 'page.tsx');
+    featureLastModMap[slug] = getDistributedLastMod(slug, 20);
+  });
+
+  // 301転送元は特集ハブのサイトマップから外す
+  for (let i = featurePageSlugs.length - 1; i >= 0; i--) {
+    if (isRedirected(`/${featurePageSlugs[i]}/`)) featurePageSlugs.splice(i, 1);
+  }
+  // 301転送元・canonical統合済みの記事はサイトマップに載せない
+  const sitemapPosts = posts.filter(p => p.id && !canonical[p.id] && !isRedirected(`/posts/${p.id}/`));
+
   // 1-1. 市町村サブハブURLの自動抽出
   let citySubHubs = [];
   const citiesFilePath = path.join(__dirname, 'src', 'data', 'citiesData.ts');
@@ -208,7 +278,7 @@ function main() {
       prio = '0.5';
       freq = 'monthly';
     }
-    xmlFeatures += `  <url>\n    <loc>${BASE_URL}/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${prio}</priority>\n  </url>\n`;
+    xmlFeatures += `  <url>\n    <loc>${BASE_URL}/${slug}/</loc>\n    <lastmod>${featureLastModMap[slug] || '2026-10-15'}</lastmod>\n    <changefreq>${freq}</changefreq>\n    <priority>${prio}</priority>\n  </url>\n`;
   });
   xmlFeatures += `</urlset>\n`;
   fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap-features.xml'), xmlFeatures, 'utf8');
@@ -216,7 +286,8 @@ function main() {
   // C. sitemap-prefectures.xml (47都道府県 ＆ 主要市町村サブハブ)
   let xmlPref = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
   PREFECTURE_SLUGS.forEach(slug => {
-    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.9</priority>\n  </url>\n`;
+    const prefMod = getDistributedLastMod(slug, 30);
+    xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/</loc>\n    <lastmod>${prefMod}</lastmod>\n    <changefreq>daily</changefreq>\n    <priority>0.9</priority>\n  </url>\n`;
     xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/cafes/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
     xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/souvenirs/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
     xmlPref += `  <url>\n    <loc>${BASE_URL}/prefectures/${slug}/sakes/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>0.8</priority>\n  </url>\n`;
@@ -237,8 +308,8 @@ function main() {
 
   // E. sitemap-posts.xml (個別宿泊施設・徹底比較ルポ全記事)
   let xmlPosts = `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
-  posts.forEach(post => {
-    const postDate = post.date ? new Date(post.date).toISOString().split('T')[0] : todayStr;
+  sitemapPosts.forEach(post => {
+    const postDate = getDistributedLastMod(String(post.id || ''), 15);
     const idAndTitle = `${post.id || ''} ${post.title || ''}`;
     let prio = '0.8';
     if (/silver-?week|シルバーウィーク/.test(idAndTitle)) {
@@ -263,7 +334,7 @@ function main() {
     if (/winter-|autumn-|november-|december-|january-|furusato-tax-/.test(slug)) {
       prio = '0.9';
     }
-    xmlAll += `  <url>\n    <loc>${BASE_URL}/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>${prio}</priority>\n  </url>\n`;
+    xmlAll += `  <url>\n    <loc>${BASE_URL}/${slug}/</loc>\n    <lastmod>${featureLastModMap[slug] || '2026-10-15'}</lastmod>\n    <changefreq>weekly</changefreq>\n    <priority>${prio}</priority>\n  </url>\n`;
   });
   // Prefectures & sub hubs
   PREFECTURE_SLUGS.forEach(slug => {
@@ -280,8 +351,8 @@ function main() {
     xmlAll += `  <url>\n    <loc>${BASE_URL}/spots/${slug}/</loc>\n    <lastmod>${todayStr}</lastmod>\n    <changefreq>monthly</changefreq>\n    <priority>0.7</priority>\n  </url>\n`;
   });
   // Posts
-  posts.forEach(post => {
-    const postDate = post.date ? new Date(post.date).toISOString().split('T')[0] : todayStr;
+  sitemapPosts.forEach(post => {
+    const postDate = getDistributedLastMod(String(post.id || ''), 15);
     const idAndTitle = `${post.id || ''} ${post.title || ''}`;
     let prio = '0.8';
     if (/silver-?week|シルバーウィーク/.test(idAndTitle)) {
