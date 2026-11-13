@@ -1,0 +1,1202 @@
+[
+  {
+    "id": "tokyo-dome",
+    "name": "東京ドーム",
+    "prefecture": "東京都",
+    "area": "水道橋・後楽園・飯田橋",
+    "description": "JR総武線・都営三田線「水道橋駅」や丸ノ内線「後楽園駅」。終演後の混雑時は駅改札規制がかかるため、徒歩で帰れる水道橋・飯田橋エリアのホテル確保が鉄則。",
+    "budgetQueries": [
+      "アパホテル 水道橋駅前",
+      "東急ステイ水道橋",
+      "後楽ガーデンホテル",
+      "カプセルホテル 水道橋"
+    ],
+    "luxuryQueries": [
+      "東京ドームホテル",
+      "ホテルメトロポリタン エドモント",
+      "庭のホテル 東京",
+      "ホテルモントレ半蔵門"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 195932,
+        "hotelName": "アパホテル〈水道橋駅前〉",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D195932",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D195932%26f_flg%3DPLAN",
+        "reviewAverage": 4.35,
+        "reviewCount": 595,
+        "hotelMinCharge": 7290,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/195932/195932.jpg",
+        "address1": "東京都",
+        "address2": "千代田区神田三崎町2-22-14",
+        "access": "ＪＲ中央・総武線「水道橋駅」（西口）より徒歩1分。都営三田線「水道橋駅」（A2出口）より徒歩5分。",
+        "special": "JR中央・総武線「水道橋駅」（西口）徒歩1分。都営三田線「水道橋駅」（A2出口）徒歩5分。"
+      },
+      {
+        "hotelNo": 67160,
+        "hotelName": "東急ステイ水道橋",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D67160",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D67160%26f_flg%3DPLAN",
+        "reviewAverage": 4.32,
+        "reviewCount": 2137,
+        "hotelMinCharge": 7298,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/67160/67160.jpg",
+        "address1": "東京都",
+        "address2": "千代田区神田三崎町1-1-12",
+        "access": "ＪＲ線　水道橋駅より徒歩3分／都営三田線　水道橋駅より徒歩４分",
+        "special": "水道橋駅より徒歩3分＆東京ドームは徒歩7分と抜群のロケーション　～洗濯乾燥機＆電子レンジは全室完備～"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 391,
+        "hotelName": "ホテルメトロポリタン　エドモント",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D391",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D391%26f_flg%3DPLAN",
+        "reviewAverage": 4.54,
+        "reviewCount": 5365,
+        "hotelMinCharge": 7600,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/391/391.jpg",
+        "address1": "東京都",
+        "address2": "千代田区飯田橋3-10-8",
+        "access": "【飯田橋駅】JR総武線（東口）、地下鉄東西線、有楽町線、南北線、大江戸線【水道橋駅】JR総武線（西口）徒歩５分",
+        "special": "飯田橋・水道橋から徒歩5分、便利なアクセスが自慢です！東京ドームと日本武道館も徒歩圏内♪"
+      },
+      {
+        "hotelNo": 78211,
+        "hotelName": "庭のホテル　東京",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D78211",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D78211%26f_flg%3DPLAN",
+        "reviewAverage": 4.55,
+        "reviewCount": 2309,
+        "hotelMinCharge": 18420,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/78211/78211.jpg",
+        "address1": "東京都",
+        "address2": "千代田区神田三崎町1-1-16",
+        "access": "ＪＲ水道橋駅東口より徒歩4分／都営三田線水道橋駅A１出口より徒歩５分／半蔵門線・都営新宿線神保町駅A５出口より徒歩８分",
+        "special": "【2022年3月全室リニューアル】全室禁煙のモダンな和のホテル。JR水道橋駅東口より徒歩4分。"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "kyocera-dome",
+    "name": "京セラドーム大阪",
+    "prefecture": "大阪府",
+    "area": "大正・弁天町・心斎橋",
+    "description": "JR環状線「大正駅」や地下鉄「ドーム前千代崎駅」。終演後の大正駅は大混雑するため、大正駅前のホテルか、地下鉄直通の心斎橋・弁天町エリアを狙うのが鉄則。",
+    "budgetQueries": [
+      "ホテルソビアル 大阪 ドーム前",
+      "HOSTEL 桜川",
+      "東横イン 大阪弁天町",
+      "スマイルホテル大阪四ツ橋"
+    ],
+    "luxuryQueries": [
+      "アートホテル大阪ベイタワー",
+      "ホテル日航大阪",
+      "ホテルモントレ グラスミア大阪",
+      "スイスホテル南海大阪"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 160772,
+        "hotelName": "ＰＩＣＮＩＣ　ＨＯＳＴＥＬ　ＯＳＡＫＡ　（ピクニックホステル大阪）",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D160772",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D160772%26f_flg%3DPLAN",
+        "reviewAverage": null,
+        "reviewCount": 3,
+        "hotelMinCharge": null,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160772/160772.jpg",
+        "address1": "大阪府",
+        "address2": "大阪市浪速区幸町2-8-3",
+        "access": "阪神　桜川駅より徒歩約１分",
+        "special": "２０１６年１２月新築オープンしたカワイイホステルです。難波駅隣の桜川駅から徒歩１分の好立地。"
+      },
+      {
+        "hotelNo": 187090,
+        "hotelName": "東横ＩＮＮ大阪弁天町",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D187090",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D187090%26f_flg%3DPLAN",
+        "reviewAverage": 4.22,
+        "reviewCount": 238,
+        "hotelMinCharge": 5408,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/187090/187090.jpg",
+        "address1": "大阪府",
+        "address2": "大阪市港区市岡元町2-5-20",
+        "access": "JR大阪環状線弁天町駅中央南口・大阪メトロ中央線弁天町駅出入口6から徒歩8分",
+        "special": "弁天町駅から徒歩8分で朝食・小学生以下添い寝無料のホテル！ユニバーサルシティ駅まで電車で20分"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 76887,
+        "hotelName": "ホテルモントレ　グラスミア大阪",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D76887",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D76887%26f_flg%3DPLAN",
+        "reviewAverage": 4.45,
+        "reviewCount": 3816,
+        "hotelMinCharge": 9216,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76887/76887.jpg",
+        "address1": "大阪府",
+        "address2": "大阪市浪速区湊町1-2-3",
+        "access": "ＪＲ難波駅・四ツ橋線なんば駅北改札口30番出口直結。隣接するOCATより、伊丹・関西両空港へのリムジンバスが発着。",
+        "special": "JR「難波」駅直結の高層ホテル。バスタオルは今治タオルを導入！"
+      },
+      {
+        "hotelNo": 1181,
+        "hotelName": "スイスホテル南海大阪",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1181",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1181%26f_flg%3DPLAN",
+        "reviewAverage": 4.41,
+        "reviewCount": 2146,
+        "hotelMinCharge": 14450,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1181/1181.jpg",
+        "address1": "大阪府",
+        "address2": "大阪市中央区難波5-1-60",
+        "access": "南海なんば駅直結 地下鉄なんば駅からすぐ、関西空港から空港特急で約40分、 JR新大阪駅からは約15分",
+        "special": "大阪「ミナミ」に位置する36階建ホテル。なんば駅直結・地下鉄1本で梅田・新大阪へもアクセス抜群!"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "k-arena",
+    "name": "Kアリーナ横浜・ぴあアリーナMM",
+    "prefecture": "神奈川県",
+    "area": "横浜・みなとみらい・桜木町",
+    "description": "2万人収容の音楽専用アリーナ。終演後は横浜駅東口への歩道橋が大渋滞（規制退場と合わせて1時間以上）するため、みなとみらい側・桜木町側へ歩くのが大正解。",
+    "budgetQueries": [
+      "横浜平和プラザホテル",
+      "桜木町 ワシントンホテル",
+      "相鉄フレッサイン 横浜桜木町",
+      "ホテルリブマックス横浜桜木町"
+    ],
+    "luxuryQueries": [
+      "三井ガーデンホテル横浜みなとみらいプレミア",
+      "横浜ベイホテル東急",
+      "ウェスティンホテル横浜",
+      "横浜ロイヤルパークホテル"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 11195,
+        "hotelName": "横浜平和プラザホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D11195",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D11195%26f_flg%3DPLAN",
+        "reviewAverage": 4.03,
+        "reviewCount": 4444,
+        "hotelMinCharge": 3839,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11195/11195.jpg",
+        "address1": "神奈川県",
+        "address2": "横浜市中区太田町5-65",
+        "access": "JR桜木町駅／関内駅各徒歩５分。みなとみらい線馬車道駅より徒歩１分。中華街、赤レンガ倉庫他人気スポットへ抜群のアクセス",
+        "special": "みなとみらい、中華街、他抜群のアクセス！パシフィコも至近！全室Ｗi-Fi完備♪ インボイス制度対応！"
+      },
+      {
+        "hotelNo": 5242,
+        "hotelName": "横浜桜木町ワシントンホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D5242",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D5242%26f_flg%3DPLAN",
+        "reviewAverage": 4.2,
+        "reviewCount": 9376,
+        "hotelMinCharge": 5650,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5242/5242.jpg",
+        "address1": "神奈川県",
+        "address2": "横浜市中区桜木町1-101-1",
+        "access": "ＪＲ線・市営地下鉄　桜木町駅前！みなとみらい線馬車道駅から徒歩３分。パシフィコ横浜、横浜赤レンガ倉庫へも徒歩圏",
+        "special": "桜木町駅前でビジネス・観光に抜群の立地！夜景ビュー客室からはみなとみらいが大パノラマでご覧頂けます！"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 184792,
+        "hotelName": "三井ガーデンホテル横浜みなとみらいプレミア",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D184792",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D184792%26f_flg%3DPLAN",
+        "reviewAverage": 4.7,
+        "reviewCount": 985,
+        "hotelMinCharge": 7888,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/184792/184792.jpg",
+        "address1": "神奈川県",
+        "address2": "横浜市西区みなとみらい3-3-3",
+        "access": "みなとみらい線「みなとみらい」駅 5番出口より徒歩約5分、JR根岸線「桜木町」駅より徒歩約10分",
+        "special": "2023年5月16日(火)　新規オープン。"
+      },
+      {
+        "hotelNo": 2003,
+        "hotelName": "横浜ベイホテル東急",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D2003",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D2003%26f_flg%3DPLAN",
+        "reviewAverage": 4.64,
+        "reviewCount": 10904,
+        "hotelMinCharge": 9146,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2003/2003.jpg",
+        "address1": "神奈川県",
+        "address2": "横浜市西区みなとみらい2-3-7",
+        "access": "みなとみらい線みなとみらい駅徒歩約１分／ＪＲ・市営地下鉄線桜木町駅徒歩１０分",
+        "special": "横浜港を一望できるアーバンリゾートで最上のくつろぎを"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "saitama-arena",
+    "name": "さいたまスーパーアリーナ（たまアリ）",
+    "prefecture": "埼玉県",
+    "area": "さいたま新都心・大宮",
+    "description": "さいたま新都心駅すぐ。アリーナ・スタジアムモードともに3万人以上が集まるため、新都心駅前ホテルか、1駅隣の巨大ターミナル大宮駅前を抑えた人が勝ち組。",
+    "budgetQueries": [
+      "アパホテル さいたま新都心駅西",
+      "カプセルイン大宮",
+      "マロウドイン大宮",
+      "スーパーホテルPremierさいたま・大宮駅東口"
+    ],
+    "luxuryQueries": [
+      "ホテルメトロポリタン さいたま新都心",
+      "パレスホテル大宮",
+      "カンデオホテルズ大宮",
+      "ロイヤルパインズホテル浦和"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 198830,
+        "hotelName": "アパホテル〈さいたま新都心駅西〉（２０２６年６月ＯＰＥＮ）",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D198830",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D198830%26f_flg%3DPLAN",
+        "reviewAverage": 4.41,
+        "reviewCount": 512,
+        "hotelMinCharge": 4680,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198830/198830.jpg",
+        "address1": "埼玉県",
+        "address2": "さいたま市中央区新都心5-1",
+        "access": "JR京浜東北線・上野東京ライン・宇都宮線・高崎線「さいたま新都心駅」（西口）徒歩5分",
+        "special": "GMOアリーナさいたま（旧さいたまスーパーアリーナ）目の前の新築ホテル！大浴殿完備！広々朝食会場！"
+      },
+      {
+        "hotelNo": 1814,
+        "hotelName": "マロウドイン大宮",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1814",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1814%26f_flg%3DPLAN",
+        "reviewAverage": 3.79,
+        "reviewCount": 3886,
+        "hotelMinCharge": 5250,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1814/1814.jpg",
+        "address1": "埼玉県",
+        "address2": "さいたま市大宮区桜木町2-173",
+        "access": "大宮駅西口から徒歩5分　都心方面からお車の方は、首都高 新都心西出口から約10分",
+        "special": "ＪＲ大宮駅西口より徒歩5分　全客室に「ＷｉＦｉ6」、「加湿機能付き空気清浄機」を完備！　"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 161189,
+        "hotelName": "ホテルメトロポリタンさいたま新都心",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D161189",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D161189%26f_flg%3DPLAN",
+        "reviewAverage": 4.66,
+        "reviewCount": 1515,
+        "hotelMinCharge": 6950,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/161189/161189.jpg",
+        "address1": "埼玉県",
+        "address2": "さいたま市中央区新都心11-1　JRさいたま新都心ビル　5～10Ｆ",
+        "access": "ＪＲさいたま新都心駅から徒歩にて約１分!  隣駅JR大宮駅より１駅電車で2分！",
+        "special": "さいたま新都心駅徒歩1分。さいたまスーパーアリーナ最寄ホテル。～ステイをもっと素敵に、スマートに。～"
+      },
+      {
+        "hotelNo": 13564,
+        "hotelName": "パレスホテル大宮",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D13564",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D13564%26f_flg%3DPLAN",
+        "reviewAverage": 4.23,
+        "reviewCount": 3134,
+        "hotelMinCharge": 5900,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/13564/13564.jpg",
+        "address1": "埼玉県",
+        "address2": "さいたま市大宮区桜木町1-7-5",
+        "access": "JR大宮駅西口より歩行者専用デッキにて直結で徒歩３分（フロントは1階）　大宮ソニックシティ隣接　",
+        "special": "全室今治タオルを採用。大宮駅西口徒歩3分の好立地で朝までのんびり◇ミネラルウォーター1本サービス"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "nagoya-dome",
+    "name": "バンテリンドーム ナゴヤ",
+    "prefecture": "愛知県",
+    "area": "大曽根・栄・名古屋駅",
+    "description": "地下鉄「ナゴヤドーム前矢田駅」やJR「大曽根駅」。地下鉄改札は大混雑するため、大曽根駅南口の徒歩ホテルか、JR・名城線で直通の栄・千種エリアが便利。",
+    "budgetQueries": [
+      "シティホテルドーム",
+      "R&Bホテル 名古屋栄東",
+      "ホテルメルパルク名古屋",
+      "アパホテル 名古屋栄"
+    ],
+    "luxuryQueries": [
+      "名古屋観光ホテル",
+      "名古屋東急ホテル",
+      "TIAD オートグラフ コレクション",
+      "ヒルトン名古屋"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 18171,
+        "hotelName": "ワシントンＲ＆Ｂホテル名古屋栄東",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18171",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D18171%26f_flg%3DPLAN",
+        "reviewAverage": 4.09,
+        "reviewCount": 2989,
+        "hotelMinCharge": 4500,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18171/18171.jpg",
+        "address1": "愛知県",
+        "address2": "名古屋市中区栄4-3-5",
+        "access": "地下鉄栄駅12番出口を出て徒歩約3分の好立地！！",
+        "special": "全室スマートテレビ設置！"
+      },
+      {
+        "hotelNo": 10897,
+        "hotelName": "ホテル　メルパルク名古屋",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D10897",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D10897%26f_flg%3DPLAN",
+        "reviewAverage": 4.1,
+        "reviewCount": 3993,
+        "hotelMinCharge": 6800,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/10897/10897.jpg",
+        "address1": "愛知県",
+        "address2": "名古屋市東区葵3-16-16",
+        "access": "千種駅から徒歩1分！JR名古屋駅より3駅10分、地下鉄東山線で栄駅より2駅4分、JR金山駅より2駅5分",
+        "special": "JR・地下鉄千種駅よりすぐ。観光・ビジネスの拠点として最適です。美味しいご朝食もご用意しております。"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 846,
+        "hotelName": "名古屋東急ホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D846",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D846%26f_flg%3DPLAN",
+        "reviewAverage": 4.39,
+        "reviewCount": 5973,
+        "hotelMinCharge": 9190,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/846/846.jpg",
+        "address1": "愛知県",
+        "address2": "名古屋市中区栄4-6-8",
+        "access": "地下鉄東山線「栄駅」12番出口より徒歩８分",
+        "special": "栄駅より徒歩8分！地下駐車場も完備！ファミリーのお客様にもうれしい4名1室のご利用も♪"
+      },
+      {
+        "hotelNo": 1410,
+        "hotelName": "ヒルトン名古屋",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1410",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1410%26f_flg%3DPLAN",
+        "reviewAverage": 4.42,
+        "reviewCount": 1944,
+        "hotelMinCharge": 10706,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1410/1410.jpg",
+        "address1": "愛知県",
+        "address2": "名古屋市中区栄1-3-3",
+        "access": "伏見駅から3分。名古屋駅から車で約5分。名古屋都心に位置するインターナショナルホテル。",
+        "special": "伏見駅から3分！高層階の客室からは名古屋の夜景が一望！ファミリーに最適な和室も完備。"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "fukuoka-dome",
+    "name": "みずほPayPayドーム福岡",
+    "prefecture": "福岡県",
+    "area": "百道浜・唐人町・天神",
+    "description": "地下鉄「唐人町駅」。駅からの徒歩（約15分）道は大名行列状態になるため、ドーム直結のヒルトンか、唐人町駅前、またはバス直通の天神エリアが2大正解。",
+    "budgetQueries": [
+      "THE NINE STATES HOTEL 唐人町",
+      "平和台ホテル5",
+      "アパホテル 福岡天神西",
+      "ホテルオリエンタルエクスプレス福岡天神"
+    ],
+    "luxuryQueries": [
+      "ヒルトン福岡シーホーク",
+      "ホテルモントレ福岡",
+      "ソラリア西鉄ホテル福岡",
+      "グランドハイアット福岡"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 199460,
+        "hotelName": "ＴＨＥ　ＮＩＮＥ　ＳＴＡＴＥＳ　ＨＯＴＥＬ　ＴＯＪＩＮＭＡＣＨＩ（ナインステイツホテル唐人町）",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D199460",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D199460%26f_flg%3DPLAN",
+        "reviewAverage": null,
+        "reviewCount": 4,
+        "hotelMinCharge": 2472,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/199460/199460.jpg",
+        "address1": "福岡県",
+        "address2": "福岡市中央区地行1-16-12",
+        "access": "福岡市営地下鉄　唐人町駅より徒歩2分",
+        "special": "ライブも野球も！熱狂の余韻にすぐに浸れる福岡の拠点"
+      },
+      {
+        "hotelNo": 179248,
+        "hotelName": "アパホテル〈福岡天神西〉",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D179248",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D179248%26f_flg%3DPLAN",
+        "reviewAverage": 4.12,
+        "reviewCount": 594,
+        "hotelMinCharge": 6300,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179248/179248.jpg",
+        "address1": "福岡県",
+        "address2": "福岡市中央区大名1-9-39",
+        "access": "地下鉄空港線「赤坂駅」（4番出口）から徒歩4分、西鉄「西鉄福岡駅」北口より徒歩9分",
+        "special": "天神、大名エリアまで徒歩圏内！PayPayドームへもアクセス良好！福岡を楽しむためのホテルです！"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 1137,
+        "hotelName": "ヒルトン福岡シーホーク",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1137",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1137%26f_flg%3DPLAN",
+        "reviewAverage": 4.13,
+        "reviewCount": 4906,
+        "hotelMinCharge": 12683,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1137/1137.jpg",
+        "address1": "福岡県",
+        "address2": "福岡市中央区地行浜2-2-3",
+        "access": "【バス】天神からW１番で１５分／博多駅から３０６番で３０分→ヒルトン福岡前下車 。",
+        "special": "みずほPayPayドーム福岡隣接！1052室全てがオーシャンビュー♪"
+      },
+      {
+        "hotelNo": 178192,
+        "hotelName": "ホテルモントレ福岡",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D178192",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D178192%26f_flg%3DPLAN",
+        "reviewAverage": 4.43,
+        "reviewCount": 668,
+        "hotelMinCharge": 8320,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178192/178192.jpg",
+        "address1": "福岡県",
+        "address2": "福岡市中央区渡辺通3-4-13",
+        "access": "福岡市営地下鉄七隈線　博多駅から渡辺通まで約5分　渡辺通駅下車　2番出口　徒歩2分。",
+        "special": "国際色豊かな文化という織物の色合い、風合い、肌触りをホテルモントレ福岡で感じてください。"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "ariake-arena",
+    "name": "有明アリーナ・東京ガーデンシアター",
+    "prefecture": "東京都",
+    "area": "有明・豊洲・お台場",
+    "description": "ゆりかもめ「有明テニスの森駅」やりんかい線「国際展示場駅」。臨海エリアは終演後のゆりかもめが超満員になるため、徒歩圏の有明・豊洲ホテルに直行するのがベスト。",
+    "budgetQueries": [
+      "ホテルリブマックス豊洲駅前",
+      "ヴィラフォンテーヌ グランド 東京有明",
+      "相鉄グランドフレッサ 東京ベイ有明",
+      "東京ベイ有明ワシントンホテル"
+    ],
+    "luxuryQueries": [
+      "グランドニッコー東京 台場",
+      "ヒルトン東京お台場",
+      "ホテル櫂会",
+      "ラビスタ東京ベイ"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 165002,
+        "hotelName": "ホテルリブマックス豊洲駅前",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D165002",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D165002%26f_flg%3DPLAN",
+        "reviewAverage": 3.55,
+        "reviewCount": 346,
+        "hotelMinCharge": 8925,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165002/165002.jpg",
+        "address1": "東京都",
+        "address2": "江東区豊洲5-5-34",
+        "access": "東京メトロ有楽町線／ゆりかもめ　豊洲駅より徒歩にて約２分",
+        "special": "豊洲駅から徒歩２分【期間限定！デリバリーアプリmenu総額2,400円分クーポンを初回限定で配布中】"
+      },
+      {
+        "hotelNo": 178230,
+        "hotelName": "住友不動産ホテル　ヴィラフォンテーヌグランド東京有明",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D178230",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D178230%26f_flg%3DPLAN",
+        "reviewAverage": 4.38,
+        "reviewCount": 1701,
+        "hotelMinCharge": 6930,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178230/178230.jpg",
+        "address1": "東京都",
+        "address2": "江東区有明2-1-5",
+        "access": "りんかい線『国際展示場』駅より徒歩約6分／ゆりかもめ『有明』駅より徒歩約4分／『有明テニスの森』駅より徒歩約5分。",
+        "special": "落ち着いた雰囲気の都市型ホテル。温浴施設と200店舗超のショップ&amp;レストラン併設"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 1917,
+        "hotelName": "グランドニッコー東京　台場",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1917",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1917%26f_flg%3DPLAN",
+        "reviewAverage": 4.59,
+        "reviewCount": 9873,
+        "hotelMinCharge": 15045,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1917/1917.jpg",
+        "address1": "東京都",
+        "address2": "港区台場2-6-1",
+        "access": "ゆりかもめで新橋より15分「台場駅」直結／羽田空港からリムジンバス約20分／品川駅からお台場レインボーバス約20分",
+        "special": "東京湾ベイエリアに位置するランドマークホテル。エグゼクティブフロアやプレミアフロアがおすすめ！"
+      },
+      {
+        "hotelNo": 8492,
+        "hotelName": "ヒルトン東京お台場",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8492",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8492%26f_flg%3DPLAN",
+        "reviewAverage": 4.36,
+        "reviewCount": 4795,
+        "hotelMinCharge": 19912,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8492/8492.jpg",
+        "address1": "東京都",
+        "address2": "港区台場1-9-1",
+        "access": "「台場駅」直結／羽田空港からリムジンバス約20分／品川駅からお台場レインボーバス約20分／ディズニーシャトルバス運行中",
+        "special": "絶景を望むバルコニーｘ記念日★"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "yokohama-arena",
+    "name": "横浜アリーナ（横アリ）",
+    "prefecture": "神奈川県",
+    "area": "新横浜",
+    "description": "東海道新幹線・JR横浜線・相鉄東急直通線「新横浜駅」から徒歩5分。遠征組にとって新幹線駅直結の最高立地。終演後ダッシュなしで新横浜駅前の宿にチェックイン可能。",
+    "budgetQueries": [
+      "新横浜フジビューホテル",
+      "コートホテル新横浜",
+      "スーパーホテル新横浜",
+      "R&Bホテル新横浜駅前"
+    ],
+    "luxuryQueries": [
+      "新横浜プリンスホテル",
+      "ホテルアソシア新横浜",
+      "ダイワロイネットホテル新横浜",
+      "新横浜グレイスホテル"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 1429,
+        "hotelName": "新横浜フジビューホテル　スパ＆レジデンス",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1429",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1429%26f_flg%3DPLAN",
+        "reviewAverage": 3.84,
+        "reviewCount": 3956,
+        "hotelMinCharge": 4500,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1429/1429.jpg",
+        "address1": "神奈川県",
+        "address2": "横浜市港北区新横浜2-3-1",
+        "access": "新横浜駅北口より250m徒歩3分。駅前歩行者デッキよりホテルが見えます　東海道新幹線　横浜線　東急相鉄線　横浜地下鉄線",
+        "special": "ナトリウム塩化物泉天然温泉　サウナと岩盤浴　フィットネス　ランドリーキッチン完備コンドミニアム　　"
+      },
+      {
+        "hotelNo": 56136,
+        "hotelName": "高濃度炭酸泉　ハナミズキの湯　スーパーホテル新横浜",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D56136",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D56136%26f_flg%3DPLAN",
+        "reviewAverage": 4.21,
+        "reviewCount": 8038,
+        "hotelMinCharge": 4460,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56136/56136.jpg",
+        "address1": "神奈川県",
+        "address2": "横浜市港北区新横浜2-6-20",
+        "access": "【陸の玄関口新横浜】横浜アリーナ・日産スタジアム徒歩圏内☆東京・品川・渋谷乗り換え無し☆勿論横浜観光のアクセスも良好☆",
+        "special": "希少な【高濃度炭酸泉】を使用した広々大浴場付♪効能が多く免疫力ＵＰにも期待♪渋谷からのアクセスも便利"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 19191,
+        "hotelName": "新横浜プリンスホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D19191",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D19191%26f_flg%3DPLAN",
+        "reviewAverage": 4.16,
+        "reviewCount": 12028,
+        "hotelMinCharge": 10183,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/19191/19191.jpg",
+        "address1": "神奈川県",
+        "address2": "横浜市港北区新横浜3-4",
+        "access": "【新横浜駅より徒歩2分】東海道新幹線、JR線、横浜市営地下鉄線、相鉄・東急新横浜線の利用に便利／羽田空港から直行バス運行",
+        "special": "JR新横浜駅徒歩2分！横浜アリーナ徒歩1分！品川駅最短約11分！都内からのアクセスも大変便利"
+      },
+      {
+        "hotelNo": 70195,
+        "hotelName": "ダイワロイネットホテル新横浜",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D70195",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D70195%26f_flg%3DPLAN",
+        "reviewAverage": 4.32,
+        "reviewCount": 3324,
+        "hotelMinCharge": 5400,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70195/70195.jpg",
+        "address1": "神奈川県",
+        "address2": "横浜市港北区新横浜3-17-1",
+        "access": "「新横浜駅」JR北口出口～徒歩約4分、地下7番出口～徒歩約3分。東海道新幹線、横浜線、ブルーライン、相鉄線、東急線乗入れ",
+        "special": "「新横浜駅」徒歩約4分。横浜の多目的アリーナまで徒歩約3分。中華街やみなとみらいへも好アクセス。"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "osakajo-hall",
+    "name": "大阪城ホール（城ホ）",
+    "prefecture": "大阪府",
+    "area": "大阪城公園・OBP・京橋",
+    "description": "JR大阪城公園駅・地下鉄大阪ビジネスパーク（OBP）駅・京橋駅。OBPビル街と直結しており、歩いて京橋駅やOBP内のシティホテルにチェックインできる抜群の利便性。",
+    "budgetQueries": [
+      "ホテル京阪 京橋 グランデ",
+      "アパホテル 大阪天満",
+      "東横イン 大阪京橋桜ノ宮",
+      "ホテルリブマックス大阪ドーム前"
+    ],
+    "luxuryQueries": [
+      "ホテルニューオータニ大阪",
+      "帝国ホテル 大阪",
+      "ホテルモントレ ラ・スール大阪",
+      "ウェスティンホテル大阪"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 115,
+        "hotelName": "ホテル京阪　京橋グランデ",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D115",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D115%26f_flg%3DPLAN",
+        "reviewAverage": 4.33,
+        "reviewCount": 5080,
+        "hotelMinCharge": 4334,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/115/115.jpg",
+        "address1": "大阪府",
+        "address2": "大阪市都島区東野田町2-1-38",
+        "access": "京阪「京橋」駅上、ＪＲ・Osaka Metro「京橋」駅も目の前！大阪城ホールや京セラドームへのアクセスも便利♪",
+        "special": "京阪「京橋」駅直結。ＪＲ・Osaka Metro「京橋」駅からもすぐ。京都観光にも便利な好立地。"
+      },
+      {
+        "hotelNo": 2117,
+        "hotelName": "アパホテル〈大阪天満〉",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D2117",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D2117%26f_flg%3DPLAN",
+        "reviewAverage": 4.14,
+        "reviewCount": 8699,
+        "hotelMinCharge": 4230,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/2117/2117.jpg",
+        "address1": "大阪府",
+        "address2": "大阪市北区同心2-16-15",
+        "access": "JR環状線「天満駅」徒歩約6分／JR環状線「桜ノ宮駅」西口徒歩7分／堺筋線「扇町駅」1番出口徒歩8分",
+        "special": "【大浴殿・露天風呂・サウナ完備】JR環状線天満駅より徒歩6分の好立地。"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 28654,
+        "hotelName": "帝国ホテル大阪",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D28654",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D28654%26f_flg%3DPLAN",
+        "reviewAverage": 4.67,
+        "reviewCount": 1348,
+        "hotelMinCharge": 16900,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28654/28654.jpg",
+        "address1": "大阪府",
+        "address2": "大阪市北区天満橋1-8-50",
+        "access": "■ＪＲ大阪駅桜橋口より無料シャトルバスあり■ＪＲ環状線「桜ノ宮駅」西出口より徒歩約５分",
+        "special": "豊かな自然に囲まれた格式高い空間と一世紀以上続く伝統のおもてなし。JR大阪駅よりシャトルバス有り。"
+      },
+      {
+        "hotelNo": 38808,
+        "hotelName": "ホテルモントレ　ラ・スール大阪",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D38808",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D38808%26f_flg%3DPLAN",
+        "reviewAverage": 4.28,
+        "reviewCount": 6496,
+        "hotelMinCharge": 4675,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/38808/38808.jpg",
+        "address1": "大阪府",
+        "address2": "大阪市中央区城見2-2-22",
+        "access": "ＪＲ/京阪 京橋駅西口よりホテルまで屋根付き連絡通路で徒歩5分・大阪メトロ「長堀鶴見緑地線」大阪ビジネスパーク駅徒歩5分",
+        "special": "JR大阪まで３駅☆ユニバーサルシティまで２０分☆大阪城ホール徒歩７分。宿泊者は天然温泉無料！"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "nippon-budokan",
+    "name": "日本武道館",
+    "prefecture": "東京都",
+    "area": "九段下・神保町・飯田橋",
+    "description": "東京メトロ東西線・半蔵門線・都営新宿線「九段下駅」徒歩5分。靖国通り・神保町エリアまで歩けば古書店街と名物カレーの名店多数。終演後も徒歩で帰還できます。",
+    "budgetQueries": [
+      "サクラホテル神保町",
+      "京王プレッソイン九段下",
+      "アパホテル 飯田橋駅前",
+      "アパホテル 神田神保町駅東"
+    ],
+    "luxuryQueries": [
+      "ホテルグランドアーク半蔵門",
+      "ホテルメトロポリタン エドモント",
+      "庭のホテル 東京",
+      "ホテルニューオータニ"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 160,
+        "hotelName": "サクラホテル神保町",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D160",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D160%26f_flg%3DPLAN",
+        "reviewAverage": 3.61,
+        "reviewCount": 290,
+        "hotelMinCharge": 3595,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160/160.jpg",
+        "address1": "東京都",
+        "address2": "千代田区神田神保町2-21-4",
+        "access": "神保町駅A1出口より左方向へ。専大前交差点を左折し、ファミリーマートを過ぎたら再び左折。",
+        "special": "日本武道館や東京ドームも徒歩圏内、スポーツ観戦やコンサート鑑賞の際にもぜひご利用ください。"
+      },
+      {
+        "hotelNo": 158791,
+        "hotelName": "アパホテル〈飯田橋駅前〉",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D158791",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D158791%26f_flg%3DPLAN",
+        "reviewAverage": 4.26,
+        "reviewCount": 931,
+        "hotelMinCharge": 6840,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158791/158791.jpg",
+        "address1": "東京都",
+        "address2": "千代田区飯田橋3-4-6",
+        "access": "東京メトロ：飯田橋駅A5出口から徒歩約１分(目の前)",
+        "special": "新宿・秋葉原・日本橋へ電車で乗換なし！東京ドーム・日本武道館徒歩圏内！"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 11039,
+        "hotelName": "ホテルグランドアーク半蔵門",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D11039",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D11039%26f_flg%3DPLAN",
+        "reviewAverage": 4.5,
+        "reviewCount": 1525,
+        "hotelMinCharge": 11700,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/11039/11039.jpg",
+        "address1": "東京都",
+        "address2": "千代田区隼町1-1",
+        "access": "地下鉄半蔵門線半蔵門駅より6番出口より徒歩 約3分",
+        "special": "皇居の水と緑の優しい風景に包まれたホテル"
+      },
+      {
+        "hotelNo": 391,
+        "hotelName": "ホテルメトロポリタン　エドモント",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D391",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D391%26f_flg%3DPLAN",
+        "reviewAverage": 4.54,
+        "reviewCount": 5365,
+        "hotelMinCharge": 7600,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/391/391.jpg",
+        "address1": "東京都",
+        "address2": "千代田区飯田橋3-10-8",
+        "access": "【飯田橋駅】JR総武線（東口）、地下鉄東西線、有楽町線、南北線、大江戸線【水道橋駅】JR総武線（西口）徒歩５分",
+        "special": "飯田橋・水道橋から徒歩5分、便利なアクセスが自慢です！東京ドームと日本武道館も徒歩圏内♪"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "belluna-dome",
+    "name": "ベルーナドーム（西武ドーム）",
+    "prefecture": "埼玉県",
+    "area": "所沢・西武球場前・池袋",
+    "description": "西武狭山線「西武球場前駅」すぐ。山間部にあるため終演後の単線電車は大混雑。直通の所沢駅前ホテルか、特急ラビューで1本の池袋駅前を事前に押さえるのが鉄則。",
+    "budgetQueries": [
+      "所沢パークホテル",
+      "ザ・ベッドアンドスパ所沢",
+      "ホテルリブマックス東村山駅前",
+      "スマイルホテル川越"
+    ],
+    "luxuryQueries": [
+      "中国割烹旅館 掬水亭",
+      "ホテルメトロポリタン 池袋",
+      "サンシャインシティプリンスホテル",
+      "川越プリンスホテル"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 8297,
+        "hotelName": "所沢パークホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D8297",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D8297%26f_flg%3DPLAN",
+        "reviewAverage": 4.37,
+        "reviewCount": 1582,
+        "hotelMinCharge": 6775,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/8297/8297.jpg",
+        "address1": "埼玉県",
+        "address2": "所沢市東住吉3-5",
+        "access": "【電車】→西武池袋線・西武新宿線「所沢」駅南口より徒歩3分　【お車】→関越自動車道、所沢ICより20分",
+        "special": "シングル16平米以上、所沢市随一の広い客室は全室加湿器付き空気清浄機完備！駐車場＆Wi-Fi無料♪"
+      },
+      {
+        "hotelNo": 37398,
+        "hotelName": "ビジネスホテル　マーキュリー",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D37398",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D37398%26f_flg%3DPLAN",
+        "reviewAverage": 3.78,
+        "reviewCount": 421,
+        "hotelMinCharge": 4100,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/37398/37398.jpg",
+        "address1": "東京都",
+        "address2": "東村山市栄町2-7-5",
+        "access": "西武新宿線　久米川駅南口徒歩約2分",
+        "special": "西武新宿線　久米川駅南口徒歩約2分、繁華街にも程近いビジネスホテルです。"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 388,
+        "hotelName": "ホテルメトロポリタン",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D388",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D388%26f_flg%3DPLAN",
+        "reviewAverage": 4.46,
+        "reviewCount": 4395,
+        "hotelMinCharge": 14100,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/388/388.jpg",
+        "address1": "東京都",
+        "address2": "豊島区西池袋1-6-１　",
+        "access": "池袋駅西口より徒歩３分、東京駅より地下鉄で17分、羽田空港へのリムジンバス（有料）がホテル正面玄関にて発着します。",
+        "special": "～やすらぎと華やぎが出会う場所～JR東日本グループのホテルとして、皆さまお越しをお待ちしております。"
+      },
+      {
+        "hotelNo": 18392,
+        "hotelName": "サンシャインシティプリンスホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D18392",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D18392%26f_flg%3DPLAN",
+        "reviewAverage": 4.14,
+        "reviewCount": 5722,
+        "hotelMinCharge": 10380,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/18392/18392.jpg",
+        "address1": "東京都",
+        "address2": "豊島区東池袋3-1-5",
+        "access": "地下鉄有楽町線東池袋駅６・７番口徒歩３分／ＪＲ池袋駅東口徒歩８分／首都高 東池袋IC直結",
+        "special": "池袋のランドマーク、サンシャインシティ内に位置するホテル。お部屋から望む東京の夜景が自慢です。"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "miyagi-sekisui",
+    "name": "宮城・セキスイハイムスーパーアリーナ（グランディ・21）",
+    "prefecture": "宮城県",
+    "area": "仙台駅・利府",
+    "description": "東北最大のメガアリーナ。JR利府駅からのシャトルバスが大渋滞するため、仙台駅周辺のホテルを拠点にし、公式シャトルバスで仙台駅前直行・直帰が最大の安全策。",
+    "budgetQueries": [
+      "カプセルホテルとぽす 仙台駅西口",
+      "アパホテル 仙台駅五橋",
+      "コンフォートホテル仙台西口",
+      "相鉄フレッサイン仙台"
+    ],
+    "luxuryQueries": [
+      "ウェスティンホテル仙台",
+      "ホテルメトロポリタン仙台",
+      "仙台ロイヤルパークホテル",
+      "ホテルモントレ仙台"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 70226,
+        "hotelName": "アパホテル〈仙台駅五橋〉",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D70226",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D70226%26f_flg%3DPLAN",
+        "reviewAverage": 4.28,
+        "reviewCount": 8757,
+        "hotelMinCharge": 4050,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/70226/70226.jpg",
+        "address1": "宮城県",
+        "address2": "仙台市若林区五橋3-1-1",
+        "access": "◆JR「仙台駅」西口（正面側）から徒歩約8分　◆地下鉄南北線「五橋駅」北3番出入口から徒歩約2分",
+        "special": "2025年8月全室リニューアル！宿泊者無料の大浴殿、朝食も牛タンなどご当地メニュー充実！コンビニ併設"
+      },
+      {
+        "hotelNo": 183974,
+        "hotelName": "相鉄フレッサイン　仙台",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D183974",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D183974%26f_flg%3DPLAN",
+        "reviewAverage": 4.19,
+        "reviewCount": 783,
+        "hotelMinCharge": 4185,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183974/183974.jpg",
+        "address1": "宮城県",
+        "address2": "仙台市青葉区中央4-4-5",
+        "access": "仙台市営地下鉄「仙台駅」西1出口より徒歩４分",
+        "special": "2022年夏開業・ＪＲ「仙台駅」から徒歩７分、仙台駅前に集積するビジネスエリアに徒歩圏内。"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 107740,
+        "hotelName": "ウェスティンホテル仙台",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D107740",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D107740%26f_flg%3DPLAN",
+        "reviewAverage": 4.5,
+        "reviewCount": 1579,
+        "hotelMinCharge": 17710,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/107740/107740.jpg",
+        "address1": "宮城県",
+        "address2": "仙台市青葉区一番町1-9-1",
+        "access": "ＪＲ仙台駅より徒歩9分",
+        "special": "世界水準のホスピタリティでお客様をお迎えいたします。"
+      },
+      {
+        "hotelNo": 389,
+        "hotelName": "ホテルメトロポリタン仙台",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D389",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D389%26f_flg%3DPLAN",
+        "reviewAverage": 4.45,
+        "reviewCount": 4272,
+        "hotelMinCharge": 6500,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/389/389.jpg",
+        "address1": "宮城県",
+        "address2": "仙台市青葉区中央1-1-1",
+        "access": "ＪＲ仙台駅西口より徒歩１分",
+        "special": "仙台駅西口徒歩1分！再び訪れたくなる上質なおもてなしを。"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "aichi-sky-expo",
+    "name": "Aichi Sky Expo（愛知県国際展示場）",
+    "prefecture": "愛知県",
+    "area": "中部国際空港（セントレア）・常滑",
+    "description": "中部国際空港（セントレア）島内に直結する巨大アリーナ展示場。名鉄「中部国際空港駅」から徒歩5分。島内ホテルなら終演後5分でベッドにダイブできる神立地。",
+    "budgetQueries": [
+      "東横イン 中部国際空港1",
+      "コンフォートホテル中部国際空港",
+      "スプリングサニーホテル名古屋常滑駅前",
+      "ホテルルートイン常滑駅前"
+    ],
+    "luxuryQueries": [
+      "フォーポイントバイシェラトン名古屋 中部国際空港",
+      "セントレアホテル",
+      "TUBE Yd 常滑",
+      "名古屋マリオットアソシアホテル"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 61408,
+        "hotelName": "東横ＩＮＮ中部国際空港１",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D61408",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D61408%26f_flg%3DPLAN",
+        "reviewAverage": 4.13,
+        "reviewCount": 3156,
+        "hotelMinCharge": 4883,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/61408/61408.jpg",
+        "address1": "愛知県",
+        "address2": "常滑市セントレア4-2-5",
+        "access": "名鉄中部国際空港駅より徒歩約7分、中部国際空港から徒歩約9分・無料送迎バスも運行中",
+        "special": "常滑市条例により2025年1月6日から１人１泊当り200円の宿泊税を別途いただきます。"
+      },
+      {
+        "hotelNo": 30982,
+        "hotelName": "コンフォートホテル中部国際空港",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D30982",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D30982%26f_flg%3DPLAN",
+        "reviewAverage": 4.23,
+        "reviewCount": 4429,
+        "hotelMinCharge": 5050,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/30982/30982.jpg",
+        "address1": "愛知県",
+        "address2": "常滑市セントレア4-2-3",
+        "access": "屋内通路で空港まで直結◆名鉄「中部国際空港」駅より徒歩約3分◆「セントレア東」ICより車で直進約2分",
+        "special": "日替わりスムージーが人気★無料朝食サービスがイチオシのコスパ最強ホテル◆駐車場無料◆小学生添い寝無料"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 168424,
+        "hotelName": "フォーポイントバイシェラトン名古屋　中部国際空港（マリオットグループ）",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D168424",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D168424%26f_flg%3DPLAN",
+        "reviewAverage": 4.49,
+        "reviewCount": 419,
+        "hotelMinCharge": 8470,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168424/168424.jpg",
+        "address1": "愛知県",
+        "address2": "常滑市セントレア4-10-5",
+        "access": "セントレア中部国際空港より徒歩約６分",
+        "special": "中部国際空港から徒歩６分！クラシックとモダンが融合した革新的なデザインの客室でお寛ぎ下さい。"
+      },
+      {
+        "hotelNo": 80618,
+        "hotelName": "中部国際空港セントレアホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D80618",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D80618%26f_flg%3DPLAN",
+        "reviewAverage": 4.46,
+        "reviewCount": 2194,
+        "hotelMinCharge": 6480,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/80618/80618.jpg",
+        "address1": "愛知県",
+        "address2": "常滑市セントレア1-1",
+        "access": "中部国際空港駅より徒歩にて１分",
+        "special": "中部国際空港駅の改札口から１００ｍ、空港チェックインロビーまで１３０ｍと抜群のロケーション"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "marine-messe-fukuoka",
+    "name": "マリンメッセ福岡（A館・B館）",
+    "prefecture": "福岡県",
+    "area": "博多・天神・ウォーターフロント",
+    "description": "博多港ウォーターフロント。終演後は博多駅・天神駅行きの臨時バスに長蛇の列ができるため、中洲川端・呉服町へ徒歩（約15分〜20分）で抜けるか、呉服町周辺宿が賢い選択。",
+    "budgetQueries": [
+      "冷泉閣ホテル 川端",
+      "ホテルリブマックス博多中洲",
+      "ベッセルイン博多中洲",
+      "東横イン 博多口駅前"
+    ],
+    "luxuryQueries": [
+      "ホテルオークラ福岡",
+      "グランドハイアット福岡",
+      "都ホテル 博多",
+      "THE BLOSSOM HAKATA Premier"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 1454,
+        "hotelName": "冷泉閣ホテル川端",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D1454",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D1454%26f_flg%3DPLAN",
+        "reviewAverage": 3.79,
+        "reviewCount": 2486,
+        "hotelMinCharge": 4330,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1454/1454.jpg",
+        "address1": "福岡県",
+        "address2": "福岡市博多区上川端町8-21",
+        "access": "市営地下鉄空港線『中洲川端駅』⑤番出口より徒歩3分/市営地下鉄七隈線『櫛田神社前駅』③番出口より徒歩5分",
+        "special": "九州一の繁華街中洲やキャナルシティ博多、博多座など、博多を代表するスポットが全て徒歩圏内の好立地"
+      },
+      {
+        "hotelNo": 179384,
+        "hotelName": "ホテルリブマックス博多中洲",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D179384",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D179384%26f_flg%3DPLAN",
+        "reviewAverage": 3.59,
+        "reviewCount": 303,
+        "hotelMinCharge": 5703,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/179384/179384.jpg",
+        "address1": "福岡県",
+        "address2": "福岡市博多区中洲5-4-21",
+        "access": "地下鉄空港線・箱崎線　中州川端駅より徒歩にて約2分／地下鉄空港線　天神駅より徒歩にて約８分",
+        "special": "　　"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 572,
+        "hotelName": "グランドハイアット福岡",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D572",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D572%26f_flg%3DPLAN",
+        "reviewAverage": 4.46,
+        "reviewCount": 968,
+        "hotelMinCharge": 28336,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/572/572.jpg",
+        "address1": "福岡県",
+        "address2": "福岡市博多区住吉1-2-82　",
+        "access": "博多駅から徒歩約10分、天神駅から徒歩約15分。福岡市地下鉄　七隈線「櫛田神社前駅」西改札口を出て2番出口より徒歩3分",
+        "special": "複合施設「キャナルシティ博多」にあるインターナショナルホテル"
+      },
+      {
+        "hotelNo": 172310,
+        "hotelName": "都ホテル博多",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D172310",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D172310%26f_flg%3DPLAN",
+        "reviewAverage": 4.62,
+        "reviewCount": 1224,
+        "hotelMinCharge": 18400,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/172310/172310.jpg",
+        "address1": "福岡県",
+        "address2": "福岡市博多区博多駅東2-1-1",
+        "access": "博多駅直結！徒歩約１分。＜東７番出口＞福岡空港から地下鉄で約７分、車で約15分。一歩足を踏み入れたらもうそこはリゾート！",
+        "special": "さあ、都心のリゾートへ！ここは、いつでも夏休み。"
+      }
+    ],
+    "totalHotels": 4
+  },
+  {
+    "id": "sapporo-dome",
+    "name": "大和ハウス プレミストドーム（札幌ドーム）",
+    "prefecture": "北海道",
+    "area": "福住・すすきの・札幌駅",
+    "description": "地下鉄東豊線「福住駅」徒歩10分。終演後の福住駅は入場規制で雪や雨の中待たされるため、東豊線直通の豊水すすきの駅や大通駅・さっぽろ駅周辺のホテルが拠点に最適。",
+    "budgetQueries": [
+      "カプセル・イン札幌",
+      "ホテルアベスト札幌",
+      "スマイルホテルプレミアム札幌すすきの",
+      "ネストホテル札幌駅前"
+    ],
+    "luxuryQueries": [
+      "JRタワーホテル日航札幌",
+      "札幌グランドホテル",
+      "プレミアホテル 中島公園 札幌",
+      "京王プラザホテル札幌"
+    ],
+    "budgetHotels": [
+      {
+        "hotelNo": 182842,
+        "hotelName": "ホテルアベスト札幌",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D182842",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D182842%26f_flg%3DPLAN",
+        "reviewAverage": 4.1,
+        "reviewCount": 1450,
+        "hotelMinCharge": 3610,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/182842/182842.jpg",
+        "address1": "北海道",
+        "address2": "札幌市中央区南2条西6丁目1-1",
+        "access": "地下鉄南北線「大通駅」狸小路４丁目出口より徒歩３分／JR札幌駅から地下道利用で徒歩約20分",
+        "special": "10種類以上の具材を組み合わせて作れる海鮮丼と40種類以上の和洋食が食べ放題のホテル自慢の朝食"
+      },
+      {
+        "hotelNo": 165708,
+        "hotelName": "スマイルホテルプレミアム札幌すすきの",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D165708",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D165708%26f_flg%3DPLAN",
+        "reviewAverage": 4.25,
+        "reviewCount": 745,
+        "hotelMinCharge": 3800,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165708/165708.jpg",
+        "address1": "北海道",
+        "address2": "札幌市中央区南四条西1-13-1",
+        "access": "地下鉄東豊線　豊水すすきの駅１番出口より徒歩にて約１分",
+        "special": "全室に加湿空気清浄機を完備し、木目調のお部屋でゆっくりお過ごし頂けます。"
+      }
+    ],
+    "luxuryHotels": [
+      {
+        "hotelNo": 76941,
+        "hotelName": "ＪＲタワーホテル日航札幌",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D76941",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D76941%26f_flg%3DPLAN",
+        "reviewAverage": 4.7,
+        "reviewCount": 1488,
+        "hotelMinCharge": 14400,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76941/76941.jpg",
+        "address1": "北海道",
+        "address2": "札幌市中央区北5条西2-5",
+        "access": "札幌駅直結",
+        "special": "札幌駅と結ばれた便利さとリゾートのくつろぎ　美しい眺望に抱かれて、やすらぎと感動の時を"
+      },
+      {
+        "hotelNo": 762,
+        "hotelName": "札幌グランドホテル",
+        "hotelInformationUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2FJBe8h%2F%3Ff_no%3D762",
+        "planListUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fimg.travel.rakuten.co.jp%2Fimage%2Ftr%2Fapi%2Fkw%2F3VTwt%2F%3Ff_no%3D762%26f_flg%3DPLAN",
+        "reviewAverage": 4.45,
+        "reviewCount": 6870,
+        "hotelMinCharge": 5100,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/762/762.jpg",
+        "address1": "北海道",
+        "address2": "札幌市中央区北1条西4丁目",
+        "access": "★地下歩行空間8番出口横にてホテル直結★JR札幌駅南口より徒歩10分、地下鉄大通駅より徒歩5分",
+        "special": "2025年7月、本館客室がリニューアル！札幌駅地下歩行空間直結♪"
+      }
+    ],
+    "totalHotels": 4
+  }
+]
