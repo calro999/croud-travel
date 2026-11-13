@@ -5,7 +5,7 @@ import { Metadata } from "next";
 import { PREFECTURES_DATA } from "@/data/prefecturesData";
 import PostListClient from "./components/PostListClient";
 import TransitNavigationSection from "./components/TransitNavigationSection";
-import AllFeaturesAccordion from "./components/AllFeaturesAccordion";
+import FeaturedThemesNav from "./components/FeaturedThemesNav";
 import NicheExperienceSection from "./components/NicheExperienceSection";
 
 interface Post {
@@ -531,7 +531,7 @@ export default function Home() {
       </div>
 
       {/* 📚 全国の特集・特設テーマ記事（洗練されたカード型ナビゲーション） */}
-      <AllFeaturesAccordion />
+      <FeaturedThemesNav />
 
       {/* 🧭 公式旅行ガイド＆お役立ち特集 */}
       <section className="bg-gradient-to-br from-slate-900 via-emerald-950 to-teal-950 text-white rounded-3xl p-6 md:p-10 space-y-6 shadow-xl border border-white/10">
