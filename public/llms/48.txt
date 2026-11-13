@@ -1,4 +1,14 @@
-# 全国・複数県の宿泊・観光記事（343件）
+# 全国・複数県の宿泊・観光記事（344件）
+
+## 【全国ドーム・アリーナ】推し活遠征ホテル完全攻略！終演後も楽々帰れる名宿ガイド
+- 記事: https://croud-travel.pages.dev/posts/national-arena-dome-oshikatsu-live-hotels-guide/
+- 全文Markdown: https://croud-travel.pages.dev/ai/national-arena-dome-oshikatsu-live-hotels-guide.md
+- 宿泊施設名: 全国ドーム・アリーナ推し活ホテル厳選
+- エリア: 全国主要都市
+- 参考価格: ¥5000〜
+- 評価: 4.5
+
+東京・京セラ・PayPay・バンテリンドーム、Kアリーナ、たまアリ周辺！終演後の激混み電車を回避できる徒歩圏＆駅近ホテル。遠征の荷物対策やスタンド・天井席を攻略する双眼鏡の選び方まで徹底解説。
 
 ## 【2026-2027年最新】全国絶景インフィニティ温泉＆天空露天風呂ランキングTOP12｜海・富士山・雲海・夜景を一望する奇跡の宿決定版
 - 記事: https://croud-travel.pages.dev/posts/japan-infinity-sky-onsen-hotels-ranking-best-guide/
