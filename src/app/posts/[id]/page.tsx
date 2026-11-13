@@ -86,24 +86,7 @@ function buildOptimizedPageTitle(post: Post): string {
   t = t.replace(/\s+/g, " ").trim();
   t = t.replace(/[｜|]$/, "").trim();
 
-  // 7. 検索結果一覧（32〜38文字）で美しく収まるよう自然な区切りで調整
-  if (t.length > 38) {
-    if (t.includes("｜")) {
-      const parts = t.split("｜");
-      if (parts[0].length >= 15) {
-        t = parts[0].trim();
-      }
-    } else if (t.includes("：")) {
-      const parts = t.split("：");
-      if (parts[0].length >= 15) {
-        t = parts[0].trim();
-      }
-    }
-    if (t.length > 38) {
-      t = t.slice(0, 37) + "…";
-    }
-  }
-
+  // 7. タイトル末尾の余計な記号を整理（h1用には省略せずに全文を保持）
   return t || post.hotel_name || "宿泊ガイド";
 }
 
@@ -539,6 +522,13 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
           )}
         </div>
 
+        {/* SNSシェアボタン（アイキャッチ画像直下） */}
+        <ShareButtons
+          title={pageTitle}
+          url={`${baseUrl}/posts/${post.id}/`}
+          hotelName={post.is_special_feature ? undefined : post.hotel_name}
+        />
+
         {/* ⚡ 3秒でわかる結論・目的別早見ボックス（ファーストビューでの即時解決・離脱防止） */}
         <QuickConclusionBox
           isSpecialFeature={post.is_special_feature}
@@ -566,6 +556,21 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
             const isPrefMatch = s.prefName === safePrefForToc || s.prefName.replace(/(県|府|東京都)$/, "") === cleanPrefForToc;
             return isPrefMatch && s.hotelKeywords.some(kw => textToSearch.includes(kw.toLowerCase()));
           });
+
+          // 本文からsection id="xxx" と h3 を自動抽出してカスタム目次を生成
+          const extractedSections: { id: string; label: string }[] = [];
+          if (articleBody) {
+            const secRegex = /<section\s+id="([^"]+)"[^>]*>[\s\S]*?<h3[^>]*>([\s\S]*?)<\/h3>/gi;
+            let m;
+            while ((m = secRegex.exec(articleBody)) !== null) {
+              const secId = m[1].trim();
+              const secLabel = m[2].replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+              if (secId && secLabel) {
+                extractedSections.push({ id: secId, label: secLabel });
+              }
+            }
+          }
+
           return (
             <>
               <ArticleTableOfContents
@@ -574,6 +579,7 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
                 hasSpots={!post.is_special_feature && hasMatchedSpots}
                 isSpecialFeature={post.is_special_feature}
                 wordCount={articleBody.length}
+                customSections={extractedSections.length > 0 ? extractedSections : undefined}
               />
               {/* 🗺️ エリア別トピッククラスター・回遊カード */}
               <AreaTopicClusterCard
@@ -892,6 +898,15 @@ export default async function PostPage({ params }: { params: Promise<{ id: strin
             </div>
           );
         })()}
+
+        {/* 記事末尾のSNSシェアボタン */}
+        <div className="pt-6 border-t border-emerald-950/10">
+          <ShareButtons
+            title={pageTitle}
+            url={`${baseUrl}/posts/${post.id}/`}
+            hotelName={post.is_special_feature ? undefined : post.hotel_name}
+          />
+        </div>
 
         {/* 関連記事 (内部リンク強化コンポーネント) */}
         <RelatedPosts

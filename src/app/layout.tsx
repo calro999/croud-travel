@@ -4,6 +4,7 @@ import Link from "next/link";
 import TravelBanner from "./components/TravelBanner";
 import SpecialCouponBanner from "./components/SpecialCouponBanner";
 import DynamicSidebar from "./components/DynamicSidebar";
+import SiteHeader from "./components/SiteHeader";
 import { REGIONS_MAP, PREFECTURES_DATA } from "@/data/prefecturesData";
 import BookmarksModal from "./components/BookmarksModal";
 import "./globals.css";
@@ -114,51 +115,7 @@ export default function RootLayout({
         </div>
 
         {/* プレミアム和モダン風ヘッダー */}
-        <header className="border-b border-emerald-950/10 glass-header sticky top-0 z-50 py-4 px-6 shadow-sm">
-          <div className="max-w-6xl mx-auto flex flex-col sm:flex-row items-center justify-between gap-4">
-            <Link href="/" className="flex items-center gap-2.5 group">
-              <span className="text-2xl font-black tracking-tight font-journal-serif bg-gradient-to-r from-teal-800 via-emerald-900 to-amber-700 bg-clip-text text-transparent group-hover:opacity-90 transition">
-                旅宿クラウド
-              </span>
-              <span className="text-[9px] font-extrabold tracking-widest text-teal-800 border border-teal-800/20 px-2.5 py-0.5 rounded-full bg-teal-50">
-                TRAVEL MAGAZINE
-              </span>
-            </Link>
-            <nav className="flex items-center flex-wrap justify-center gap-4 md:gap-6 text-xs font-bold text-teal-900/80">
-              <Link href="/" className="hover:text-amber-700 transition">ホーム</Link>
-              <span className="text-emerald-950/20">/</span>
-              <Link href="/prefectures/" className="hover:text-amber-700 transition flex items-center gap-1">
-                <span>🗾 47都道府県の見所</span>
-              </Link>
-              <span className="text-emerald-950/20">/</span>
-              <Link href="/winter-travel-special/" className="text-sky-800 hover:text-sky-600 transition flex items-center gap-1 font-black">
-                <span>❄️ 冬温泉＆カニ特集</span>
-              </Link>
-              <span className="text-emerald-950/20">/</span>
-              <Link href="/furusato/" className="text-amber-800 hover:text-amber-600 transition flex items-center gap-1 font-black bg-amber-100/80 px-2 py-0.5 rounded-full border border-amber-300">
-                <span>🎁 ふるさと納税</span>
-              </Link>
-              <span className="text-emerald-950/20">/</span>
-              <Link href="/ranking/" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1 font-black">
-                <span>🏆 総合ランキング</span>
-              </Link>
-              <span className="text-emerald-950/20">/</span>
-              <Link href="/features/" className="text-teal-800 hover:text-teal-600 transition flex items-center gap-1 font-black">
-                <span>✨ 特集・まとめ</span>
-              </Link>
-              <span className="text-emerald-950/20">/</span>
-              <Link href="/campaigns/" className="text-amber-700 hover:text-amber-600 transition flex items-center gap-1 font-black">
-                <span>🎁 お得キャンペーン</span>
-              </Link>
-              <span className="text-emerald-950/20">/</span>
-              <BookmarksModal />
-              <span className="text-emerald-950/20">/</span>
-              <a href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2F" target="_blank" rel="sponsored noopener noreferrer" className="hover:text-teal-700 transition flex items-center gap-1 text-teal-900/60">
-                楽天トラベル公式 ✈️
-              </a>
-            </nav>
-          </div>
-        </header>
+        <SiteHeader />
 
         {/* メインコンテンツ */}
         <div className="flex-grow w-full relative flex justify-center items-start">
