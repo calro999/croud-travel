@@ -303,3 +303,4 @@ showcase_niigata
 saga-onsen-ranking-hotels-guide
 showcase_fukushima
 otaru-snow-story-canal-illumination-asarigawa-onsen-guide
+showcase_wakayama
