@@ -304,3 +304,4 @@ saga-onsen-ranking-hotels-guide
 showcase_fukushima
 otaru-snow-story-canal-illumination-asarigawa-onsen-guide
 showcase_wakayama
+january-aomori-hirosaki-10selection
