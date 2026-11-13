@@ -299,3 +299,4 @@ showcase_shimane
 japan-onsen-ranking-best-hotels-guide
 showcase_aichi
 kenrokuen-yukitsuri-kanazawa-koubakogani-kaga-onsen-guide
+showcase_niigata
