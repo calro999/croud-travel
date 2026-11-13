@@ -365,7 +365,7 @@ export default function Page() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F187553%2F187553.html"
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold px-6 py-3 rounded-xl shadow-md hover:shadow-lg transition-all text-sm shrink-0"
                   >
                     <span>空室確認・宿泊プランを見る</span>
@@ -431,7 +431,7 @@ export default function Page() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F74545%2F74545.html"
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold px-6 py-3 rounded-xl shadow-md hover:shadow-lg transition-all text-sm shrink-0"
                   >
                     <span>空室確認・宿泊プランを見る</span>
@@ -497,7 +497,7 @@ export default function Page() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F139989%2F139989.html"
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold px-6 py-3 rounded-xl shadow-md hover:shadow-lg transition-all text-sm shrink-0"
                   >
                     <span>空室確認・宿泊プランを見る</span>
@@ -563,7 +563,7 @@ export default function Page() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F76401%2F76401.html"
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold px-6 py-3 rounded-xl shadow-md hover:shadow-lg transition-all text-sm shrink-0"
                   >
                     <span>空室確認・宿泊プランを見る</span>
@@ -629,7 +629,7 @@ export default function Page() {
                   <a
                     href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2FHOTEL%2F75371%2F75371.html"
                     target="_blank"
-                    rel="noopener noreferrer nofollow"
+                    rel="sponsored noopener noreferrer"
                     className="inline-flex items-center justify-center gap-2 bg-gradient-to-r from-red-600 to-rose-600 hover:from-red-700 hover:to-rose-700 text-white font-bold px-6 py-3 rounded-xl shadow-md hover:shadow-lg transition-all text-sm shrink-0"
                   >
                     <span>空室確認・宿泊プランを見る</span>
@@ -657,7 +657,7 @@ export default function Page() {
               <a
                 href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fspecial%2Ffurusato%2F"
                 target="_blank"
-                rel="noopener noreferrer nofollow"
+                rel="sponsored noopener noreferrer"
                 className="inline-flex items-center gap-2 bg-amber-600 hover:bg-amber-700 text-white font-bold px-6 py-2.5 rounded-xl shadow-sm text-sm transition-colors"
               >
                 <span>楽天トラベル×ふるさと納税 対象宿一覧・クーポン取得はこちら</span>

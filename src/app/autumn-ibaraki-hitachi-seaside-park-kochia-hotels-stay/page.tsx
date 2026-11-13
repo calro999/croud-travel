@@ -300,7 +300,7 @@ export default function FeaturePage() {
                     <a 
                       href={hotel.affiliateUrl || "https://travel.rakuten.co.jp/"} 
                       target="_blank" 
-                      rel="noopener noreferrer nofollow" 
+                      rel="sponsored noopener noreferrer" 
                       className="w-full sm:w-auto inline-flex items-center justify-center gap-2 px-6 py-3 rounded-xl bg-orange-600 hover:bg-orange-700 text-white font-bold text-sm shadow-sm hover:shadow transition-all duration-200"
                     >
                       <span>宿泊プラン・空室を見る</span>

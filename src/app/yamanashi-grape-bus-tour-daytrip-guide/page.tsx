@@ -157,7 +157,7 @@ export default function YamanashiGrapeBusTourPage() {
             <a
               href="#rakuten-bus-official"
               className="px-5 py-2.5 bg-white/10 hover:bg-white/20 text-purple-100 font-bold text-xs md:text-sm rounded-xl border border-white/20 transition inline-flex items-center gap-2"
-            >
+             rel="sponsored noopener noreferrer">
               <span>🚌 楽天トラベル 山梨バスツアー</span>
               <span>→</span>
             </a>

@@ -216,7 +216,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
                   <a
                     href="https://event.travel.rakuten.co.jp/furusato/"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="sm:w-auto bg-stone-100 hover:bg-stone-200 text-stone-800 font-bold py-3.5 px-6 rounded-2xl border border-stone-300 text-center transition text-sm flex items-center justify-center gap-1.5"
                   >
                     <span>🎫 自治体クーポン獲得</span>
@@ -285,7 +285,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
                   <a
                     href="https://event.travel.rakuten.co.jp/furusato/"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="sm:w-auto bg-stone-100 hover:bg-stone-200 text-stone-800 font-bold py-3.5 px-6 rounded-2xl border border-stone-300 text-center transition text-sm flex items-center justify-center gap-1.5"
                   >
                     <span>🎫 自治体クーポン獲得</span>
@@ -354,7 +354,7 @@ export default function FurusatoShuzenjiAtamiLateAutumnLeavesStayPage() {
                   <a
                     href="https://event.travel.rakuten.co.jp/furusato/"
                     target="_blank"
-                    rel="noopener noreferrer"
+                    rel="sponsored noopener noreferrer"
                     className="sm:w-auto bg-stone-100 hover:bg-stone-200 text-stone-800 font-bold py-3.5 px-6 rounded-2xl border border-stone-300 text-center transition text-sm flex items-center justify-center gap-1.5"
                   >
                     <span>🎫 自治体クーポン獲得</span>
