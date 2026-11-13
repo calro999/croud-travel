@@ -414,7 +414,9 @@ export default function IkahoAutumnLeavesGuidePage() {
               </p>
             </div>
             <a
-              href="https://travel.rakuten.co.jp/bus/" target="_blank" rel="sponsored noopener noreferrer" rel="sponsored noopener noreferrer"
+              href="https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Ftravel.rakuten.co.jp%2Fbus%2F"
+              target="_blank"
+              rel="sponsored noopener noreferrer"
               className="shrink-0 bg-stone-900 hover:bg-stone-800 text-orange-300 font-bold px-5 py-3 rounded-xl text-xs sm:text-sm shadow transition"
             >
               秋のバスツアーを検索 🚌

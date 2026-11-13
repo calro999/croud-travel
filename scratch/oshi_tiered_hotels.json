@@ -1,0 +1,159 @@
+{
+  "tokyo_dome": {
+    "venueName": "東京ドーム",
+    "budget": [],
+    "luxury": []
+  },
+  "kyocera_dome": {
+    "venueName": "京セラドーム大阪",
+    "budget": [],
+    "luxury": [
+      {
+        "hotelNo": 29246,
+        "hotelName": "ホテルザグランデ心斎橋なんば",
+        "hotelMinCharge": 7100,
+        "reviewAverage": 4.39,
+        "reviewCount": 1975,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/29246/29246.jpg",
+        "access": "大阪メトロ御堂筋線心斎橋駅6番出口より徒歩約5分。「なんば」「長堀橋」「日本橋」からも徒歩圏内",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D29246"
+      },
+      {
+        "hotelNo": 166151,
+        "hotelName": "ホテルオリエンタルエクスプレス大阪心斎橋",
+        "hotelMinCharge": 4500,
+        "reviewAverage": 4,
+        "reviewCount": 27,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166151/166151.jpg",
+        "access": "心斎橋駅より徒歩にて約4分",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D166151"
+      }
+    ]
+  },
+  "k_arena_yokohama": {
+    "venueName": "Kアリーナ横浜・ぴあアリーナMM",
+    "budget": [
+      {
+        "hotelNo": 108206,
+        "hotelName": "ＨＯＴＥＬメイン",
+        "hotelMinCharge": 6750,
+        "reviewAverage": 3.78,
+        "reviewCount": 480,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108206/108206.jpg",
+        "access": "大宮駅より徒歩にて２分",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D108206"
+      }
+    ],
+    "luxury": [
+      {
+        "hotelNo": 1428,
+        "hotelName": "ホテルプラム（ＨＯＴＥＬ　ＰＬＵＭＭ）横浜",
+        "hotelMinCharge": 3900,
+        "reviewAverage": 4.41,
+        "reviewCount": 3988,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1428/1428.jpg",
+        "access": "【ＪＲ・私鉄／横浜駅】西口出口より徒歩7分。  【横浜市営地下鉄／横浜駅】９番出口より徒歩５分。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D1428"
+      },
+      {
+        "hotelNo": 53714,
+        "hotelName": "ホテルＪＡＬシティ関内　横浜",
+        "hotelMinCharge": 4280,
+        "reviewAverage": 4.13,
+        "reviewCount": 3675,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/53714/53714.jpg",
+        "access": "■みなとみらい線日本大通り駅【３番出口】から徒歩２分・ＪＲ関内駅【南口】から徒歩１０分",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D53714"
+      }
+    ]
+  },
+  "saitama_arena": {
+    "venueName": "さいたまスーパーアリーナ",
+    "budget": [
+      {
+        "hotelNo": 108206,
+        "hotelName": "ＨＯＴＥＬメイン",
+        "hotelMinCharge": 6750,
+        "reviewAverage": 3.78,
+        "reviewCount": 480,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/108206/108206.jpg",
+        "access": "大宮駅より徒歩にて２分",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D108206"
+      },
+      {
+        "hotelNo": 1288,
+        "hotelName": "イーホテルワラビ",
+        "hotelMinCharge": 5500,
+        "reviewAverage": 4.18,
+        "reviewCount": 2539,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1288/1288.jpg",
+        "access": "JR京浜東北線「蕨駅」西口より徒歩２分／ビジネス利用やさいたまスーパーアリーナ、観光の拠点としてもおすすめです。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D1288"
+      }
+    ],
+    "luxury": [
+      {
+        "hotelNo": 161189,
+        "hotelName": "ホテルメトロポリタンさいたま新都心",
+        "hotelMinCharge": 6950,
+        "reviewAverage": 4.66,
+        "reviewCount": 1515,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/161189/161189.jpg",
+        "access": "ＪＲさいたま新都心駅から徒歩にて約１分!  隣駅JR大宮駅より１駅電車で2分！",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D161189"
+      },
+      {
+        "hotelNo": 198830,
+        "hotelName": "アパホテル〈さいたま新都心駅西〉（２０２６年６月ＯＰＥＮ）",
+        "hotelMinCharge": 4680,
+        "reviewAverage": 4.41,
+        "reviewCount": 512,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/198830/198830.jpg",
+        "access": "JR京浜東北線・上野東京ライン・宇都宮��・高崎線「さいたま新都心駅」（西口）徒歩5分",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D198830"
+      }
+    ]
+  },
+  "nagoya_dome": {
+    "venueName": "バンテリンドーム ナゴヤ",
+    "budget": [],
+    "luxury": []
+  },
+  "fukuoka_dome": {
+    "venueName": "みずほPayPayドーム福岡",
+    "budget": [
+      {
+        "hotelNo": 183791,
+        "hotelName": "上田プラザホテル天神",
+        "hotelMinCharge": 3450,
+        "reviewAverage": 3.74,
+        "reviewCount": 260,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183791/183791.jpg",
+        "access": "上田駅より徒歩1分",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D183791"
+      },
+      {
+        "hotelNo": 68139,
+        "hotelName": "水上温泉郷　ゆびそ温泉　ホテル湯の陣（伊東園ホテルズ）",
+        "hotelMinCharge": 6248,
+        "reviewAverage": 3.94,
+        "reviewCount": 1135,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/68139/68139.jpg",
+        "access": "ＪＲ　湯桧曽駅から徒歩15分",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D68139"
+      }
+    ],
+    "luxury": [
+      {
+        "hotelNo": 1137,
+        "hotelName": "ヒルトン福岡シーホーク",
+        "hotelMinCharge": 12683,
+        "reviewAverage": 4.13,
+        "reviewCount": 4906,
+        "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1137/1137.jpg",
+        "access": "【バス】天神からW１番で１５分／博多駅から３０６番で���０分→ヒルトン福岡前下車 。",
+        "affiliateUrl": "https://hb.afl.rakuten.co.jp/hgc/54d2a438.4bc4abc2.54d2a439.aa1be583/?pc=https%3A%2F%2Fhb.afl.rakuten.co.jp%2Fhgc%2F54d2a438.4bc4abc2.54d2a439.aa1be583%2F%3Fpc%3Dhttps%253A%252F%252Fimg.travel.rakuten.co.jp%252Fimage%252Ftr%252Fapi%252Fkw%252FJBe8h%252F%253Ff_no%253D1137"
+      }
+    ]
+  }
+}
